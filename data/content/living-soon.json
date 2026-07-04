@@ -1,1 +1,313 @@
-[]
+[
+  {
+    "href": "/life/living-soon/about-omaezaki/",
+    "lead": "御前崎市は、2004年に旧浜岡町と旧御前崎町が合併して誕生したまちです。遠洋漁業とメロン栽培が盛んな沿岸都市であると同時に、浜岡原子力発電所が立地し、御前崎港・御前崎灯台を擁するという、地図や統計だけでは分からない独特の暮らしの手触りがあります。",
+    "note": "本庁舎は旧浜岡町エリア（池新田）に、御前崎支所は旧御前崎町エリアにあり、手続きによってはどちらの窓口が担当か事前確認が必要です。",
+    "real_cards": [
+      {"icon": "🏛️", "title": "2004年に2つの町が合併", "body": "旧浜岡町と旧御前崎町が2004年に合併して現在の御前崎市になりました。本庁舎（池新田）に加えて御前崎支所があり、旧御前崎町エリアの一部手続きは支所での確認が必要です。"},
+      {"icon": "⚡", "title": "浜岡原子力発電所が立地", "body": "中部電力の浜岡原子力発電所が市内にあり、原子力災害に備えた広域避難計画が策定されています。原子力立地地域ならではの防災情報は、他の遠州地域よりも重点的に確認しておきたいポイントです。"},
+      {"icon": "⚓", "title": "御前崎港・御前崎灯台と遠洋漁業", "body": "遠州灘と駿河湾を分ける岬に立つ御前崎灯台、そして自動車や木材を扱う御前崎港があります。マグロ・カツオなどの遠洋漁業のまちとしても知られています。"},
+      {"icon": "🍈", "title": "メロン栽培をはじめとする園芸農業", "body": "温暖な気候を活かしたメロン栽培が盛んで、北部では茶の栽培も行われています。海と農業、両方の産業を身近に感じられる暮らしが特徴です。"}
+    ],
+    "action_grid": [
+      {"label": "御前崎市公式サイトを見る", "href": "https://www.city.omaezaki.shizuoka.jp/"},
+      {"label": "移住・定住の情報を見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/ijyuuteijyuu/index.html"},
+      {"label": "移住・定住支援策を見る", "href": "/life/living-soon/want-to-live/"},
+      {"label": "災害リスクを見る", "href": "/life/living-soon/disaster-risk/"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/bus-license-return/",
+    "lead": "運転免許を返納したあと、車がないと生活できないのではという不安は大きいものです。御前崎市には75歳以上や免許返納者などが使える福祉タクシー助成券があり、令和7年10月から始まったAIオンデマンド交通「OM mobi.」も移動手段の選択肢になります。",
+    "note": "御前崎市独自の「返納一時金」のような制度は、2026年7月時点の公式ページでは明確に確認できませんでした。特典は静岡県警察の運転免許自主返納者等サポート事業と、福祉課の福祉タクシー助成券が中心です。最新の対象条件は各窓口で確認してください。",
+    "real_cards": [
+      {"icon": "🪪", "title": "返納の手続きは警察署で", "body": "運転免許の自主返納そのものは、警察署の窓口で行います。返納すると運転経歴証明書の交付を受けられ、本人確認書類として使い続けられます。"},
+      {"icon": "🏪", "title": "県のサポート制度で割引特典", "body": "静岡県警察の「運転免許自主返納者等サポート事業」に登録した協力店舗で、運転経歴証明書またはマイナンバーカード（運転経歴証明書交付済シール付き）を提示すると割引などのサービスが受けられます。"},
+      {"icon": "🚕", "title": "福祉タクシー助成券が使える可能性", "body": "御前崎市の福祉タクシー助成券は、運転免許証を持っていないことが条件のひとつです。75歳以上や要介護認定者などと同様に、免許返納後は対象となる可能性があります。1枚500円相当で、申請時期により4～20枚が支給されます。窓口は福祉課（0537-85-1121）です。"},
+      {"icon": "🚐", "title": "AIオンデマンド交通「OM mobi.」も選択肢", "body": "令和7年10月から実証運行を開始したAIオンデマンド交通「OM mobi.」は、電話やアプリで予約すると乗合で目的地近くまで送迎してもらえるサービスです。現在は池新田・佐倉・比木・御前崎・白羽の5地区が対象で、令和8年度中に市内全域への拡大が予定されています。"}
+    ],
+    "qa": [
+      {"question": "免許を返納すると御前崎市から補助金がもらえますか", "answer": "2026年7月時点で確認できる範囲では、御前崎市独自の返納一時金のような補助制度は見当たりませんでした。特典は主に静岡県警察の「<a href=\"https://www.pref.shizuoka.jp/police/anzen/henno.html\" target=\"_blank\" rel=\"noopener\">運転免許自主返納者等サポート事業</a>」による協力店舗の割引と、御前崎市の福祉タクシー助成券が中心です。最新情報は御前崎市役所福祉課（0537-85-1121）にもあわせてご確認ください。"},
+      {"question": "福祉タクシー助成券は免許を返納すれば使えますか", "answer": "<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/fukushijigyo/taxi.html\" target=\"_blank\" rel=\"noopener\">福祉タクシー助成券</a>は、運転免許証を持っていないことが支給条件のひとつになっています。75歳以上や要介護・要支援認定、各種手帳所持者と同様の枠組みで、免許返納後も対象となる可能性があります。申請は福祉課（西館1階）、御前崎・白羽地区は御前崎支所でも可能です。"},
+      {"question": "返納後の移動手段はどうすればいいですか", "answer": "令和7年10月から始まったAIオンデマンド交通「<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">OM mobi.</a>」が、電話（0570-02-3503）やアプリの予約で乗合利用できます。詳しくは<a href=\"/life/living-soon/transportation/\">移動手段のページ</a>もあわせてご覧ください。"},
+      {"question": "運転経歴証明書はどこで発行してもらえますか", "answer": "運転免許を自主返納した際に、警察署の窓口で運転経歴証明書の交付を申請できます。手続きの詳細は最寄りの警察署にお問い合わせください。"},
+      {"question": "サポート店はどこで確認できますか", "answer": "静岡県警察のホームページに、運転経歴証明書の提示で特典を受けられる協力店舗の一覧（PDF）が掲載されています。御前崎市内の対象店舗も含まれている可能性があるため、最新の一覧を確認してください。"},
+      {"question": "家族が離れて暮らす親の免許返納を考えています", "answer": "まずは本人が最寄りの警察署で相談することになります。返納後の生活の足として、福祉タクシー助成券やAIオンデマンド交通「OM mobi.」が使えるエリアかどうかを事前に確認しておくと安心です。"}
+    ],
+    "tabs": [
+      {"id": "type-considering", "label": "返納を検討中", "heading": "まず窓口で相談する", "bullets": ["最寄りの警察署で自主返納の手続きを相談する", "返納後の移動手段（OM mobi.・福祉タクシー助成券）を先に確認する", "家族と返納のタイミングを話し合う"], "actions": [
+        {"label": "OM mobi.を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"},
+        {"label": "御前崎市役所に電話する", "href": "tel:0537-85-1111", "source": "0537-85-1111"}
+      ]},
+      {"id": "type-returned", "label": "返納済み", "heading": "特典と移動手段を活用する", "bullets": ["運転経歴証明書を発行してもらう", "県警サポート事業の協力店舗を確認する", "福祉タクシー助成券の対象か福祉課に確認する"], "actions": [
+        {"label": "県警サポート事業を見る", "href": "https://www.pref.shizuoka.jp/police/anzen/henno.html", "source": "静岡県警察"},
+        {"label": "福祉課に電話する", "href": "tel:0537-85-1121", "source": "0537-85-1121"}
+      ]},
+      {"id": "type-family", "label": "家族が心配", "heading": "離れて暮らす親の足を確保する", "bullets": ["親が住むエリアでOM mobi.が使えるか確認する", "返納の相談は警察署が基本", "移動手段全体を一度整理しておく"], "actions": [
+        {"label": "移動手段を確認する", "href": "/life/living-soon/transportation/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-notarget", "label": "対象地域外", "heading": "他の移動手段も確認する", "bullets": ["OM mobi.は令和8年度中に市内全域へ拡大予定", "しずてつジャストラインの乗合バス路線を確認する", "住むエリアを検討中なら移動手段を先に確認する"], "actions": [
+        {"label": "移動手段のページを見る", "href": "/life/living-soon/transportation/", "source": "御前崎ライフハック"},
+        {"label": "企画政策課に電話する", "href": "tel:0537-85-1161", "source": "0537-85-1161"}
+      ]}
+    ],
+    "steps": {
+      "today": ["最寄りの警察署での自主返納の手続きを確認する", "自分が住む・住む予定のエリアでOM mobi.が使えるか確認する"],
+      "this_week": ["福祉タクシー助成券の対象か福祉課（0537-85-1121）に確認する", "県警サポート事業の協力店舗を調べる"],
+      "outside": ["運転経歴証明書の交付は警察署の窓口で行う", "詳しい特典内容は静岡県警察ホームページで随時確認する"]
+    },
+    "action_grid": [
+      {"label": "OM mobi.を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"},
+      {"label": "運転免許自主返納者等サポート事業を見る", "href": "https://www.pref.shizuoka.jp/police/anzen/henno.html"},
+      {"label": "移動手段のページを見る", "href": "/life/living-soon/transportation/"},
+      {"label": "福祉課に電話する", "href": "tel:0537-85-1121"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/disaster-risk/",
+    "lead": "住む場所を決める前に、その土地が津波・洪水・土砂災害・地震にどれくらい強いのかを知っておきたいものです。御前崎市は沿岸部に位置し浜岡原子力発電所も立地しているため、防災マップに加えて原子力災害の広域避難計画もあわせて確認しておくことが重要です。",
+    "note": "防災マップは2013年の「静岡県第4次地震被害想定」をもとに作成され、2021年・2023年に内容が更新されています。津波災害警戒区域は2023年3月に設定されました。原子力災害の広域避難計画は住む地区によって避難先が異なるため、個別に確認してください。",
+    "real_cards": [
+      {"icon": "📕", "title": "防災マップは地図編と説明編がある", "body": "広域避難所予定施設やレベル2（最大級）の津波浸水深図などを掲載した防災マップが、地図編・説明編のPDFで公開されています。震度分布や液状化危険度、津波災害警戒区域は外部の地図システムで確認できます。"},
+      {"icon": "🌊", "title": "沿岸部は津波リスクの確認が特に重要", "body": "御前崎市は遠州灘・駿河湾に面した沿岸都市のため、レベル2津波の最大浸水深図や津波災害警戒区域を、候補地ごとに確認しておくことが欠かせません。"},
+      {"icon": "⚡", "title": "浜岡原発の広域避難計画も要確認", "body": "浜岡原子力発電所の原子力災害に備え、御前崎市原子力災害広域避難計画が策定されています。地区によって主な避難先（浜松市方面など）が異なるため、住む予定の地区の避難計画を確認しておきたいところです。"},
+      {"icon": "📮", "title": "詳細は危機管理課で確認", "body": "防災マップや原子力災害避難計画について詳しく知りたい場合は、危機管理課（0537-85-1119）に問い合わせるのが確実です。"}
+    ],
+    "qa": [
+      {"question": "住みたい場所の津波・洪水リスクはどこで見られますか", "answer": "<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/index.html\" target=\"_blank\" rel=\"noopener\">防災・ハザードマップ</a>のページから、防災マップ（地図編・説明編）や洪水浸水想定区域、外部の地図システムを確認できます。地区ごとの詳細はマップ本体で確認してください。"},
+      {"question": "浜岡原発の避難計画はどこで確認できますか", "answer": "<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/koikihinankeikaku.html\" target=\"_blank\" rel=\"noopener\">御前崎市原子力災害広域避難計画</a>のページで確認できます。地区によって主な避難先が異なるため、住む予定の地区の計画を確認しておくと安心です。"},
+      {"question": "土砂災害警戒区域はどこで確認できますか", "answer": "防災マップおよび外部の地図システム（umikazeMapなど）で土砂災害に関する情報が確認できます。候補地がある場合は事前に確認しておくと安心です。詳しくは危機管理課にお問い合わせください。"},
+      {"question": "ハザードマップは転入時にもらえますか", "answer": "配布方法の詳細は公式ページに明記されていないため、転入手続きの際に市民課や危機管理課で確認するのが確実です。"},
+      {"question": "引っ越し先を決めるのに何を優先すべきですか", "answer": "災害リスクだけでなく、<a href=\"/life/living-soon/school-districts/\">通学区</a>や<a href=\"/life/living-soon/transportation/\">移動手段</a>もあわせて確認すると、暮らし全体をイメージしやすくなります。"},
+      {"question": "問い合わせ先はどこですか", "answer": "防災マップ・原子力災害避難計画とも危機管理課（0537-85-1119）が窓口です。最新の想定区域などは公式ページであわせて確認してください。"}
+    ],
+    "tabs": [
+      {"id": "type-choosing", "label": "住む場所検討中", "heading": "候補地のリスクを先に見る", "bullets": ["防災マップで候補地区の津波・洪水浸水リスクを確認する", "原子力災害の避難計画（避難先）を確認する", "災害リスクと通学区・移動手段を比較する"], "actions": [
+        {"label": "防災・ハザードマップを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/index.html", "source": "御前崎市公式"},
+        {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-coast", "label": "沿岸部が気になる", "heading": "津波浸水想定を確認する", "bullets": ["レベル2津波の最大浸水深図を確認する", "津波災害警戒区域（2023年3月設定）を確認する", "不明点は危機管理課に問い合わせる"], "actions": [
+        {"label": "防災マップを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/bosaimap.html", "source": "御前崎市公式"}
+      ]},
+      {"id": "type-nuclear", "label": "原発立地が気になる", "heading": "広域避難計画を確認する", "bullets": ["住む予定の地区の主な避難先を確認する", "屋内退避・避難の判断基準を理解しておく", "家族で避難のタイミングを話し合っておく"], "actions": [
+        {"label": "原子力災害広域避難計画を見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/koikihinankeikaku.html", "source": "御前崎市公式"}
+      ]},
+      {"id": "type-family3", "label": "子育て世帯", "heading": "学校周辺のリスクも確認", "bullets": ["通学路や学校周辺のハザードを確認する", "災害時の学校の対応を確認しておく", "家族の避難場所・連絡方法を決めておく"], "actions": [
+        {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/", "source": "御前崎ライフハック"}
+      ]}
+    ],
+    "steps": {
+      "today": ["候補地の防災マップに目を通す", "沿岸部の場合は津波浸水想定区域を確認する"],
+      "this_week": ["原子力災害広域避難計画で住む予定地区の避難先を確認する", "転入時に危機管理課でハザード情報を確認する"],
+      "outside": ["家族で避難場所・連絡手段を話し合っておく", "詳細な想定区域は公式ページで随時最新版を確認する"]
+    },
+    "action_grid": [
+      {"label": "防災・ハザードマップを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/index.html"},
+      {"label": "原子力災害広域避難計画を見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/koikihinankeikaku.html"},
+      {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/"},
+      {"label": "危機管理課に電話する", "href": "tel:0537-85-1119"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/",
+    "lead": "御前崎市への移住・引っ越しを考えるとき、何から手をつければいいか分からず不安になるものです。このページでは、住む前に確認しておきたい情報を一覧でまとめています。",
+    "note": "移住・引っ越し前の相談窓口は企画政策課です。まずは気になる項目から一つずつ確認していきましょう。",
+    "real_cards": [
+      {"icon": "🏡", "title": "住む前に知りたいことは幅広い", "body": "移住支援制度から、災害リスク、学区、移動手段、引っ越し手続きまで、確認すべきことは多岐にわたります。一度にすべてを調べようとせず、優先順位をつけて進めるのがおすすめです。"},
+      {"icon": "🧭", "title": "気になる項目から見てOK", "body": "子どもがいるなら学区、車がないなら移動手段など、自分の状況に合わせて必要なページから確認すれば十分です。すべてを順番に読む必要はありません。"},
+      {"icon": "📞", "title": "困ったら窓口に相談", "body": "制度の詳細や条件は変わることがあるため、迷ったときは企画政策課などの担当窓口に直接問い合わせると確実です。"},
+      {"icon": "📝", "title": "引っ越しが決まったら手続き準備", "body": "引っ越し日が決まったら、転入・転出届に必要な持ち物を先に確認しておくと、当日の手続きがスムーズです。"}
+    ],
+    "action_grid": [
+      {"label": "御前崎市で暮らす前に確認する", "href": "/life/living-soon/about-omaezaki/"},
+      {"label": "引っ越しが決まったらを見る", "href": "/life/living-soon/moving-decided/"},
+      {"label": "災害リスクを見る", "href": "/life/living-soon/disaster-risk/"},
+      {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/"},
+      {"label": "移動手段を見る", "href": "/life/living-soon/transportation/"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/moving-decided/",
+    "lead": "引っ越しが決まったら、転入・転出・転居届の手続きを先に確認しておくと、当日慌てずに済みます。御前崎市の担当窓口と、マイナポータルを使ったオンライン転出届の方法をまとめました。",
+    "note": "転入・転出・転居の届出窓口は市民課（戸籍・住民記録係）です。転入届は住み始めてから14日以内に手続きする必要があり、他の手続きとあわせて30分以上かかる場合があるため時間に余裕を持って来庁してください。",
+    "real_cards": [
+      {"icon": "📦", "title": "手続きは3種類ある", "body": "御前崎市に引っ越す「転入届」、御前崎市から出る「転出届」、市内で住所を変える「転居届」の3種類があります。自分がどれに当てはまるかをまず確認しましょう。"},
+      {"icon": "🪪", "title": "本人確認書類と転出証明書が基本の持ち物", "body": "前住所地で発行された転出証明書、マイナンバーカードや住基カード（所持している場合）、本人確認書類が基本の持ち物です。外国人住民の場合は在留カード等も必要です。"},
+      {"icon": "📱", "title": "マイナポータルで転出届もできる", "body": "マイナンバーカードを所有していれば、マイナポータルからオンラインで転出届を提出できます。窓口へ行く前に済ませておくと当日の手続きが早くなります。"},
+      {"icon": "☎️", "title": "不明点は市民課に確認", "body": "持ち物や手続きの詳細に迷ったら、市民課（戸籍・住民記録係）に電話で確認するのが確実です。転出届は転出予定日の30日前から提出できます。"}
+    ],
+    "qa": [
+      {"question": "転入届と転居届は何が違いますか", "answer": "御前崎市の外から引っ越してくる場合は「転入届」、すでに御前崎市内に住んでいて市内で住所を変える場合は「転居届」です。御前崎市から出る場合は「転出届」になります。"},
+      {"question": "必要な持ち物は何ですか", "answer": "前住所地の転出証明書、マイナンバーカードや住基カード（所持している場合）、本人確認書類が基本です。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html\" target=\"_blank\" rel=\"noopener\">転入届のページ</a>で確認してください。"},
+      {"question": "窓口はどこですか", "answer": "市民課（戸籍・住民記録係）が窓口です。電話番号は0537-85-1117、業務時間は平日午前8時15分から午後5時までです。"},
+      {"question": "転入の届出はいつまでにすればいいですか", "answer": "住み始めてから14日以内に手続きする必要があります。他の手続きとあわせて30分以上かかる場合があるため、時間に余裕を持って来庁してください。"},
+      {"question": "オンラインで手続きできますか", "answer": "マイナンバーカードを持っている場合、マイナポータルから転出届をオンラインで提出できます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html\" target=\"_blank\" rel=\"noopener\">転出届のページ</a>をご覧ください。"},
+      {"question": "引っ越し前に他に確認すべきことはありますか", "answer": "住むエリアの<a href=\"/life/living-soon/disaster-risk/\">災害リスク</a>や、子どもがいる場合は<a href=\"/life/living-soon/school-districts/\">通学区</a>もあわせて確認しておくと安心です。"}
+    ],
+    "tabs": [
+      {"id": "type-movein", "label": "御前崎市に転入", "heading": "転入届の準備をする", "bullets": ["転出証明書など必要な持ち物を確認する", "住み始めてから14日以内に手続きする", "同時に防災マップの確認もしておく"], "actions": [
+        {"label": "転入届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html", "source": "御前崎市公式"},
+        {"label": "災害リスクを見る", "href": "/life/living-soon/disaster-risk/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-moveout", "label": "御前崎市から転出", "heading": "転出届の準備をする", "bullets": ["転出届に必要な持ち物を確認する", "転出は予定日の30日前から受付可能", "マイナポータルでのオンライン提出も検討する"], "actions": [
+        {"label": "転出届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html", "source": "御前崎市公式"}
+      ]},
+      {"id": "type-withinq", "label": "市内で引っ越し", "heading": "転居届の準備をする", "bullets": ["転居届に必要な持ち物を確認する", "学区が変わる場合は通学区を確認する", "新住所での近隣施設・交通手段を確認する"], "actions": [
+        {"label": "転居届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html", "source": "御前崎市公式"},
+        {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-unsure2", "label": "何が必要か不明", "heading": "窓口で確認する", "bullets": ["市民課に電話で必要書類を確認する", "必要書類は事前に揃えてから窓口へ行く", "本庁と御前崎支所どちらの窓口か確認する"], "actions": [
+        {"label": "市民課に電話する", "href": "tel:0537-85-1117", "source": "0537-85-1117"}
+      ]}
+    ],
+    "steps": {
+      "today": ["自分が転入・転出・転居のどれに該当するか確認する", "前住所地の転出証明書など必要な持ち物を確認する"],
+      "this_week": ["必要書類を揃えて市民課の窓口で手続きする", "住むエリアの災害リスク・通学区もあわせて確認する"],
+      "outside": ["転出元・転出先双方での手続きが必要な場合は日程を調整する", "マイナンバーカードの住所変更手続きもあわせて確認する"]
+    },
+    "action_grid": [
+      {"label": "転入届のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html"},
+      {"label": "転出届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html"},
+      {"label": "災害リスクを確認する", "href": "/life/living-soon/disaster-risk/"},
+      {"label": "市民課に電話する", "href": "tel:0537-85-1117"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/school-districts/",
+    "lead": "子どもがいる家庭が引っ越し先を決めるとき、どの小中学校に通うことになるのかは重要な判断材料です。御前崎市の通学区域一覧で、地区ごとの学区を確認できます。",
+    "note": "御前崎中学校は牧之原市との組合立学校（御前崎市牧之原市学校組合立御前崎中学校）で、牧之原市の一部地区も通学区に含まれます。特別支援学級の詳細や区域外就学の可否は学校教育課に個別確認してください。",
+    "real_cards": [
+      {"icon": "🏫", "title": "小学校5校・中学校2校が対象", "body": "第一小学校・浜岡東小学校・浜岡北小学校・御前崎小学校・白羽小学校の5小学校と、浜岡中学校・御前崎中学校の2中学校について、通学区域が規定されています。"},
+      {"icon": "📍", "title": "地区名で学区が決まる", "body": "第一小学校は池新田・門屋・塩原新田・相須、浜岡東小学校は佐倉・宮内・比木、浜岡北小学校は上朝比奈・下朝比奈・新野、御前崎小学校は御前崎、白羽小学校は白羽の大部分（一部地番は例外あり）が対象です。住所が決まったら一覧表で該当する学区を確認できます。"},
+      {"icon": "🤝", "title": "御前崎中学校は牧之原市との組合立", "body": "御前崎中学校は「御前崎市牧之原市学校組合立御前崎中学校」として、御前崎市の御前崎・白羽地区に加え、牧之原市の一部地区も通学区に含まれます。市境に近いエリアで検討している場合は特に確認しておきたいポイントです。"},
+      {"icon": "🧑‍🏫", "title": "特別支援学級の設置校もある", "body": "知的障害・自閉症情緒障害・肢体不自由・弱視などの特別支援学級や、ことば・発達の通級指導教室が設置されている学校があります。詳しい配置は学校教育課への確認が確実です。"}
+    ],
+    "qa": [
+      {"question": "住所からどの学校に通うか調べられますか", "answer": "はい。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html\" target=\"_blank\" rel=\"noopener\">御前崎市通学区域一覧</a>で、地区ごとの通学区域が確認できます。候補の住所から該当する学区を探してみてください。"},
+      {"question": "御前崎中学校が牧之原市との組合立学校というのはどういうことですか", "answer": "御前崎中学校は「御前崎市牧之原市学校組合立御前崎中学校」として、御前崎市と牧之原市が共同で運営する組合立の学校です。御前崎・白羽地区に加え、牧之原市の一部地区も通学区に含まれます。市境付近への引っ越しを検討している場合は、通学区域一覧または学校教育課で確認してください。"},
+      {"question": "特別支援学級のことも確認したいのですが", "answer": "知的障害・自閉症情緒障害・肢体不自由・弱視などの特別支援学級が設置されている学校があります。詳しい相談は学校教育課へお問い合わせください。"},
+      {"question": "問い合わせ先はどこですか", "answer": "学校教育課が窓口です。電話番号は0537-29-8734です。"},
+      {"question": "通学区と災害リスクはどちらを優先すべきですか", "answer": "どちらも重要な判断材料です。<a href=\"/life/living-soon/disaster-risk/\">災害リスクのページ</a>とあわせて確認し、総合的に住む場所を検討することをおすすめします。"},
+      {"question": "転校の手続きも必要ですか", "answer": "市内で住所が変わり学区も変わる場合は、転校の手続きが必要になることがあります。詳しくは学校教育課、または<a href=\"/life/living-soon/moving-decided/\">引っ越しが決まったらのページ</a>もあわせてご確認ください。"}
+    ],
+    "tabs": [
+      {"id": "type-checking", "label": "住所を検討中", "heading": "候補地の学区を調べる", "bullets": ["通学区域一覧で候補住所の地区名を探す", "対応する小学校・中学校名を確認する", "組合立学校の対象地区かどうか確認する"], "actions": [
+        {"label": "通学区域一覧を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html", "source": "御前崎市公式"}
+      ]},
+      {"id": "type-border", "label": "市境エリアが気になる", "heading": "組合立学校の対象か確認する", "bullets": ["牧之原市との組合立学校（御前崎中学校）の対象地区か確認する", "学校教育課に直接問い合わせる", "通学距離・方法もあわせて確認する"], "actions": [
+        {"label": "学校教育課に電話する", "href": "tel:0537-29-8734", "source": "0537-29-8734"}
+      ]},
+      {"id": "type-special", "label": "特別支援教育を検討", "heading": "特別支援学級の情報を確認する", "bullets": ["特別支援学級の設置校を確認する", "学校教育課に個別相談する", "通学区域とあわせて支援体制も確認する"], "actions": [
+        {"label": "通学区域一覧を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html", "source": "御前崎市公式"},
+        {"label": "学校教育課に電話する", "href": "tel:0537-29-8734", "source": "0537-29-8734"}
+      ]},
+      {"id": "type-overall", "label": "暮らし全体を検討中", "heading": "学区以外の条件もあわせて見る", "bullets": ["災害リスクや移動手段も一緒に確認する", "移住・定住支援策のページも参考にする", "支援制度の対象かどうかもチェックする"], "actions": [
+        {"label": "災害リスクを見る", "href": "/life/living-soon/disaster-risk/", "source": "御前崎ライフハック"},
+        {"label": "移住・定住支援策を見る", "href": "/life/living-soon/want-to-live/", "source": "御前崎ライフハック"}
+      ]}
+    ],
+    "steps": {
+      "today": ["通学区域一覧で候補住所の学区を確認する", "組合立学校（御前崎中学校）の対象地区かどうか確認する"],
+      "this_week": ["不明点があれば学校教育課に問い合わせる", "災害リスクや移動手段もあわせて確認する"],
+      "outside": ["特別支援教育が必要な場合は学校側とも早めに相談する", "転校が必要な場合は現在の学校にも相談しておく"]
+    },
+    "action_grid": [
+      {"label": "通学区域一覧を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html"},
+      {"label": "災害リスクを見る", "href": "/life/living-soon/disaster-risk/"},
+      {"label": "移住・定住支援策を見る", "href": "/life/living-soon/want-to-live/"},
+      {"label": "学校教育課に電話する", "href": "tel:0537-29-8734"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/transportation/",
+    "lead": "住むエリアを決める前に、車がなくても移動できるかどうかを確認しておくと安心です。御前崎市には、しずてつジャストラインの乗合バス、市の自主運行バス、そして令和7年10月から始まったAIオンデマンド交通「OM mobi.」があります。",
+    "note": "御前崎市内線（自主運行バス）は現在、AIオンデマンド交通の実証運行のため運休中です。OM mobi.は現在池新田・佐倉・比木・御前崎・白羽の5地区が対象で、令和8年度中に新野・朝比奈・高松を含む市内全域への拡大が予定されています。",
+    "real_cards": [
+      {"icon": "🚌", "title": "しずてつジャストラインが乗合バス2路線を運行", "body": "菊川浜岡線（浜岡営業所～JR菊川駅、2系統）と掛川大東浜岡線（浜岡営業所～JR掛川駅・中東遠総合医療センター、3系統）が運行しています。運賃・時刻表は静鉄バスコールセンター（054-252-0505）または外部サイトで確認できます。"},
+      {"icon": "🚐", "title": "自主運行バスは相良・浜岡・御前崎方面", "body": "市の自主運行バスは、相良本通（牧之原市）～御前崎海洋センターの相良御前崎線と、相良本通～御前崎市立総合病院の相良浜岡線の2路線です。御前崎市内線はAIオンデマンド交通の実証運行のため現在運休しています。"},
+      {"icon": "🤖", "title": "AIオンデマンド交通「OM mobi.」が新たな移動手段", "body": "令和7年10月開始のOM mobi.は、電話（0570-02-3503）やアプリで予約すると、AIが最適ルートを組んで乗合で送迎してくれるサービスです。運賃は距離により200～500円、福祉割引（50％）や早割もあります。運行時間は平日午前6時～午後8時、土日祝は午前7時～午後8時です。"},
+      {"icon": "🏥", "title": "通院・買い物にも使いやすい設計", "body": "乗合バス・自主運行バスは市立総合病院や医療センターへのアクセスを重視した路線設計になっており、OM mobi.も対象地区内であれば通院・買い物などの近距離移動に使いやすい仕組みです。"}
+    ],
+    "qa": [
+      {"question": "車がなくても暮らせますか", "answer": "住むエリアによって使える交通手段は異なります。しずてつジャストラインの乗合バス路線や、AIオンデマンド交通「<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">OM mobi.</a>」の対象地区に近いかを候補地ごとに確認するのがおすすめです。"},
+      {"question": "OM mobi.はどのエリアで使えますか", "answer": "現在は池新田・佐倉・比木・御前崎・白羽の5地区が対象です。令和8年度中に新野・朝比奈・高松を含む市内全域への拡大が予定されています。予約は電話（0570-02-3503、午前8時～午後5時）またはアプリで、利用7日前～1時間前まで受け付けています。"},
+      {"question": "運賃はいくらですか", "answer": "OM mobi.は距離により200～500円で、予約時に決定します。福祉割引（50％）や早割（10～20％）もあります。乗合バス・自主運行バスは距離による運賃計算（しずてつジャストライン方式）です。"},
+      {"question": "運転免許を返納しても大丈夫ですか", "answer": "OM mobi.の福祉割引や、御前崎市の福祉タクシー助成券が移動手段として活用しやすくなっています。詳しくは<a href=\"/life/living-soon/bus-license-return/\">免許返納後の移動手段のページ</a>で確認してください。"},
+      {"question": "詳しい路線図や時刻表はどこで見られますか", "answer": "自主運行バスの路線図・運賃時刻表は御前崎市公式サイトでPDFとして公開されています。乗合バスの時刻表はしずてつジャストラインの外部サイトで確認できます。"},
+      {"question": "問い合わせ先はどこですか", "answer": "自主運行バス・OM mobi.については企画政策課（0537-85-1161）が窓口です。乗合バスの運賃・時刻表は静鉄バスコールセンター（054-252-0505）にお問い合わせください。"}
+    ],
+    "tabs": [
+      {"id": "type-nocar", "label": "車を持たない予定", "heading": "公共交通の充実度を確認する", "bullets": ["候補地がOM mobi.の対象地区か確認する", "しずてつジャストラインの乗合バス路線に近いか確認する", "通勤・通学の経路をシミュレーションしておく"], "actions": [
+        {"label": "OM mobi.を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"}
+      ]},
+      {"id": "type-elderly", "label": "高齢者の移動手段", "heading": "福祉割引・福祉タクシー助成券を検討", "bullets": ["OM mobi.の福祉割引（50％）を確認する", "福祉タクシー助成券の対象か福祉課に確認する", "免許返納を検討している場合は支援制度もあわせて見る"], "actions": [
+        {"label": "免許返納後の交通を見る", "href": "/life/living-soon/bus-license-return/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-commute", "label": "通勤・通学重視", "heading": "乗合バス・自主運行バスの路線を確認する", "bullets": ["しずてつジャストラインの菊川浜岡線・掛川大東浜岡線を確認する", "自主運行バスの相良御前崎線・相良浜岡線を確認する", "候補地の通学区もあわせて確認する"], "actions": [
+        {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-general2", "label": "全体像を把握したい", "heading": "市全体の交通手段を確認する", "bullets": ["乗合バス・自主運行バス・OM mobi.の役割を理解する", "OM mobi.は市内全域への拡大予定も踏まえて検討する", "候補地の交通事情を総合的に判断する"], "actions": [
+        {"label": "OM mobi.を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"},
+        {"label": "御前崎市で暮らす前に確認する", "href": "/life/living-soon/about-omaezaki/", "source": "御前崎ライフハック"}
+      ]}
+    ],
+    "steps": {
+      "today": ["候補地周辺のOM mobi.対象地区・乗合バス路線を確認する", "自主運行バスの運行区間を確認する"],
+      "this_week": ["通勤・通学の経路を実際にシミュレーションしてみる", "免許返納を考えている場合は制度もあわせて確認する"],
+      "outside": ["OM mobi.を使う場合は事前予約の方法（電話・アプリ）を確認する", "詳しい時刻表・路線図は公式サイトのPDFで確認する"]
+    },
+    "action_grid": [
+      {"label": "OM mobi.を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"},
+      {"label": "免許返納後の交通を見る", "href": "/life/living-soon/bus-license-return/"},
+      {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/"},
+      {"label": "企画政策課に電話する", "href": "tel:0537-85-1161"}
+    ]
+  },
+  {
+    "href": "/life/living-soon/want-to-live/",
+    "lead": "広い家に住みたい、安定した仕事に就きたい、子どもをのびのび育てたい。そんな理想の暮らしを御前崎市で実現できるか、移住・就業支援事業補助金や定住促進住宅取得補助金などの制度から確認してみましょう。",
+    "note": "移住・就業支援事業補助金は東京圏からの移住・就業が条件で、申請期限が定められています。金額や加算の条件は年度によって見直されることがあるため、該当しそうな方は早めに企画政策課で最新条件を確認してください。",
+    "real_cards": [
+      {"icon": "💰", "title": "移住・就業支援事業補助金がある", "body": "移住前の10年間で通算5年以上、東京23区内または東京圏に在住し東京23区へ通勤していた方などが、御前崎市に移住して就業・起業などの条件を満たすと補助金を受けられます。単身60万円、2人以上の世帯は100万円が基本額で、18歳未満の帯同者がいる場合は加算があります（上限300万円）。"},
+      {"icon": "🏠", "title": "定住促進住宅取得補助金で住宅取得を後押し", "body": "市内に新たに住宅を取得した方を対象に、取得価格の10分の1（上限30万円）を基本額として、市内業者加算・子ども加算・転入者加算などが上乗せされる補助制度です。市外からの転入者は特に加算が手厚くなっています。"},
+      {"icon": "💐", "title": "結婚新生活支援補助金もある", "body": "新婚世帯の住宅取得・賃貸費用や引っ越し費用を補助する制度です。移住とあわせて結婚を機に住まいを構える方は対象になるか確認しておくとよいでしょう。"},
+      {"icon": "🧒", "title": "子育て環境は学区とセットで考える", "body": "のびのび育てられる環境を考えるなら、通学区域一覧で通う予定の学校を確認し、周辺の暮らしやすさもあわせてイメージしておくとよいでしょう。"}
+    ],
+    "qa": [
+      {"question": "移住・就業支援事業補助金はどんな制度ですか", "answer": "東京圏からの移住者が就業・起業などの条件を満たした場合に補助金を受けられる制度です。単身60万円、2人以上の世帯は100万円が基本額で、18歳未満の帯同者がいる場合は加算があります（上限300万円）。加算額の詳細は年度により変わることがあるため、<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html\" target=\"_blank\" rel=\"noopener\">移住・就業支援事業補助金のページ</a>で必ず最新条件を確認してください。"},
+      {"question": "自分が対象になるか分かりません", "answer": "居住歴・通勤歴・就業形態など細かい条件があります。想像で判断せず、<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html\" target=\"_blank\" rel=\"noopener\">補助金のページ</a>または企画政策課（0537-85-1161）への問い合わせで確認してください。"},
+      {"question": "申請期限はいつまでですか", "answer": "2026年7月時点の公式ページでは令和8年1月29日（木曜日）とされています。ただし予算に余裕がなくなれば期限前に受付終了する可能性があるため、早めの確認・申請をおすすめします。"},
+      {"question": "住宅取得の補助はありますか", "answer": "定住促進住宅取得補助金があります。市内に新たに住宅を取得した方が対象で、取得価格の10分の1以内・上限30万円を基本額に、市内業者加算・子ども加算・転入者加算などが上乗せされます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/shinseisho/machi_kankyo/ijuteiju/index.html\" target=\"_blank\" rel=\"noopener\">移住・定住促進のページ</a>で確認してください。"},
+      {"question": "子育てのしやすさはどう確認すればいいですか", "answer": "通学区域一覧で通う予定の学校を確認し、周辺の交通環境や災害リスクもあわせて見ておくと、暮らし全体のイメージがつかみやすくなります。"},
+      {"question": "相談窓口はどこですか", "answer": "移住・就業支援事業補助金や定住促進住宅取得補助金についての相談は企画政策課（0537-85-1161）が窓口です。"}
+    ],
+    "tabs": [
+      {"id": "type-income", "label": "支援金が気になる", "heading": "移住・就業支援事業補助金の対象か確認する", "bullets": ["居住歴・通勤歴の条件を確認する", "就業・起業の条件を確認する", "申請期限を早めに確認しておく"], "actions": [
+        {"label": "移住・就業支援事業補助金を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html", "source": "御前崎市公式"},
+        {"label": "企画政策課に電話する", "href": "tel:0537-85-1161", "source": "0537-85-1161"}
+      ]},
+      {"id": "type-house", "label": "広い家を探したい", "heading": "住宅取得補助とエリアをあわせて考える", "bullets": ["定住促進住宅取得補助金の対象か確認する", "郊外エリアの移動手段・災害リスクを確認する", "通勤・通学の負担も考慮する"], "actions": [
+        {"label": "移住・定住促進のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/shinseisho/machi_kankyo/ijuteiju/index.html", "source": "御前崎市公式"},
+        {"label": "移動手段を見る", "href": "/life/living-soon/transportation/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-kids", "label": "子育てを重視", "heading": "学区と暮らしやすさを確認する", "bullets": ["通学区域一覧で学校を確認する", "支援金の子ども加算の対象か確認する", "周辺の交通・災害リスクもあわせて見る"], "actions": [
+        {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/", "source": "御前崎ライフハック"}
+      ]},
+      {"id": "type-job", "label": "仕事の安定を重視", "heading": "就業支援の条件を確認する", "bullets": ["支援金の対象となる就業形態を確認する", "起業支援の対象になるか確認する", "移住相談窓口で個別に相談する"], "actions": [
+        {"label": "移住・就業支援事業補助金を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html", "source": "御前崎市公式"},
+        {"label": "御前崎市で暮らす前に確認する", "href": "/life/living-soon/about-omaezaki/", "source": "御前崎ライフハック"}
+      ]}
+    ],
+    "steps": {
+      "today": ["移住・就業支援事業補助金の対象条件に目を通す", "理想の暮らしに近いエリアをいくつか挙げてみる"],
+      "this_week": ["候補エリアの災害リスク・通学区・移動手段を確認する", "支援金について不明点を企画政策課に問い合わせる"],
+      "outside": ["仕事探しはハローワークや転職エージェントもあわせて活用する", "住まい探しは不動産会社にも早めに相談する"]
+    },
+    "action_grid": [
+      {"label": "移住・就業支援事業補助金を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html"},
+      {"label": "移住・定住促進のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/shinseisho/machi_kankyo/ijuteiju/index.html"},
+      {"label": "通学区一覧を見る", "href": "/life/living-soon/school-districts/"},
+      {"label": "企画政策課に電話する", "href": "tel:0537-85-1161"}
+    ]
+  }
+]
