@@ -1,0 +1,16 @@
+# Cloudflare Workers (Static Assets) 設定
+# このリポジトリは静的HTMLのみ。Worker コードは持たず、assets を配信する。
+# GitHub 連携の Workers Builds が `npx wrangler deploy` でこの設定を読みデプロイする。
+name = "enshu-lifehack-omaezaki"
+compatibility_date = "2025-06-01"
+
+# カスタムドメイン（Cloudflare管理ゾーン enshu-lifehack.com 配下）
+# deploy 時に DNS レコードと SSL を自動作成する。
+routes = [
+  { pattern = "omaezaki.enshu-lifehack.com", custom_domain = true }
+]
+
+[assets]
+directory = "."
+# 404 は 404.html を返す。ディレクトリ(/life/housing/)は index.html を自動配信。
+not_found_handling = "404-page"

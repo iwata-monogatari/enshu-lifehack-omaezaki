@@ -1,0 +1,67 @@
+# 公式リンク死活チェック（週次・提案）
+#
+# ※ 現在は無効です。有効化するにはこのファイル名を link-check.yml に変更して
+#    push してください（拡張子 .disabled のままでは GitHub Actions は実行しません）。
+#
+# 毎週月曜 9:00 JST (= 月曜 0:00 UTC) に scripts/check_official_links.py を実行し、
+# リンク切れ(4xx/5xx/接続不可)が1件以上あるときだけ Issue を起票します。
+# 既に同種のオープンIssueがある場合はコメント追記のみ行い、重複起票しません。
+
+name: link-check
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"   # 月曜 0:00 UTC = 月曜 9:00 JST
+  workflow_dispatch: {}    # 手動実行も可
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: リンクチェック実行
+        id: check
+        continue-on-error: true
+        run: |
+          python3 scripts/check_official_links.py
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: レポートをアーティファクト保存
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: reports/link-check-*.md
+          if-no-files-found: ignore
+
+      - name: エラー時のみIssue起票
+        if: steps.check.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const files = fs.readdirSync('reports').filter(f => f.startsWith('link-check-')).sort();
+            const report = files.length ? fs.readFileSync(`reports/${files[files.length - 1]}`, 'utf8') : 'レポート生成失敗';
+            const title = '公式リンク切れ検知（週次チェック）';
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'link-check',
+            });
+            const body = `週次リンクチェックでエラーを検知しました。\n\n${report}`;
+            if (issues.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: issues[0].number, body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title, body, labels: ['link-check'],
+              });
+            }

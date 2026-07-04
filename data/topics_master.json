@@ -1,0 +1,4924 @@
+[
+ {
+  "href": "/life/education/after-school-club/",
+  "icon": "🎒",
+  "title_iwata": "放課後の預け先は、対象と申請時期を先に確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "放課後児童クラブ",
+   "学童",
+   "学童保育",
+   "放課後クラブ"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
+    "label": "子育てに関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+    "label": "小学校・中学校・高校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
+    "label": "学校・園情報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/index.html",
+    "label": "子育て・教育"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/educational-consulting/",
+  "icon": "🎒",
+  "title_iwata": "教育相談は、困りごとを一文で整理してから相談する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "教育相談",
+   "スクールカウンセラー",
+   "不登校相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/index.html",
+    "label": "相談・手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/index.html",
+    "label": "子育てに関する悩み・相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/index.html",
+    "label": "教育委員会"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+    "label": "小学校・中学校・高校"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/elementary-middle-school/",
+  "icon": "🎒",
+  "title_iwata": "小学校・中学校の情報は、学校一覧・通学区・手続きを分けて見る",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "小学校",
+   "中学校",
+   "小中学校"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+    "label": "小学校・中学校・高校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/shougakkou/index.html",
+    "label": "小学校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/cfuugakkou/index.html",
+    "label": "中学校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
+    "label": "学校・園情報"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/",
+  "icon": "🎒",
+  "title_iwata": "🎒 学ぶ・育つ",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "教育",
+   "学校",
+   "学区"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/school-attendance-support/",
+  "icon": "🎒",
+  "title_iwata": "就学の不安は、健診・相談・手続きを分けて確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "就学",
+   "就学時健診",
+   "就学相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014989/index.html",
+    "label": "教育委員会の手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014989/1007280.html",
+    "label": "就学時健康診断"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/index.html",
+    "label": "相談・手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/index.html",
+    "label": "子育てに関する悩み・相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/school-district-transfer/",
+  "icon": "🎒",
+  "title_iwata": "転校は、住所・通学区・学校手続きをまとめて確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "転校",
+   "転入学"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/1001831/index.html",
+    "label": "小・中学校の転校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/index.html",
+    "label": "通学区（小学校・中学校）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/index.html",
+    "label": "相談・手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014989/1014999.html",
+    "label": "体験入学願い・保護者変更届"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/school-expense-support/",
+  "icon": "🎒",
+  "title_iwata": "学校費用の不安は、制度名と相談先を先に確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "就学援助",
+   "学校費用",
+   "給食費補助"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014989/index.html",
+    "label": "教育委員会の手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/index.html",
+    "label": "相談・手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/index.html",
+    "label": "子育てに関する悩み・相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/index.html",
+    "label": "教育委員会"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/school-meals/",
+  "icon": "🎒",
+  "title_iwata": "学校給食は、献立・費用・アレルギーを分けて確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "給食",
+   "学校給食",
+   "アレルギー給食"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kyuushoku/index.html",
+    "label": "給食"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+    "label": "小学校・中学校・高校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
+    "label": "学校・園情報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/index.html",
+    "label": "子育て・教育"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/school-zones/",
+  "icon": "🎒",
+  "title_iwata": "通学区は、住所と学校情報をセットで確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "通学区",
+   "校区",
+   "学区"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/index.html",
+    "label": "通学区（小学校・中学校）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+    "label": "小学校・中学校・高校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
+    "label": "学校・園情報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/index.html",
+    "label": "相談・手続き"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/education/study-facilities/",
+  "icon": "🎒",
+  "title_iwata": "学習場所は、開館日・席・利用ルールを先に確認する",
+  "category": "学ぶ・育つ",
+  "synonyms": [
+   "学習室",
+   "自習室",
+   "勉強場所"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.lib-iwata-shizuoka.jp/",
+    "label": "磐田市立図書館"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
+    "label": "図書館・文化関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014990/index.html",
+    "label": "教育施設ガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/index.html",
+    "label": "教育委員会"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/disaster-certificates-procedures/",
+  "icon": "⚠️",
+  "title_iwata": "災害にあった後、何から動くか。り災証明書と支援の手続きを順番に整理する。",
+  "category": "もしもの時",
+  "synonyms": [
+   "り災証明",
+   "罹災証明",
+   "災害証明"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/1011699.html",
+    "label": "「り災証明書」「被災証明書」の申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hisaishashien/index.html",
+    "label": "被災者支援（災害見舞金）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/kojinshiminzei/1011908.html",
+    "label": "災害による市県民税の軽減（雑損控除・災害減免）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/kokuminkenkouhokenzei/1006944.html",
+    "label": "国民健康保険税の軽減・減免"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/dl-list/index.html",
+    "label": "申請書ダウンロード"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/disaster-mail-line/",
+  "icon": "⚠️",
+  "title_iwata": "災害の知らせを取りこぼさないよう、平常時にメール・LINE・アプリで備える。",
+  "category": "もしもの時",
+  "synonyms": [
+   "防災メール",
+   "防災LINE",
+   "防災アプリ"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/1011310.html",
+    "label": "いわたホッとメール（防災メール）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/socialmedia/1011768/index.html",
+    "label": "磐田市LINE公式アカウント"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/socialmedia/1011768/1011774.html",
+    "label": "LINEのセグメント配信（受信設定）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/1012903.html",
+    "label": "防災アプリ（NewsDigest）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/1011487.html",
+    "label": "防災行政無線（同報無線）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/1001210.html",
+    "label": "防災リンク集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/earthquake/",
+  "icon": "⚠️",
+  "title_iwata": "地震・津波の備えを、今日できることから一つずつ。",
+  "category": "もしもの時",
+  "synonyms": [
+   "地震",
+   "津波",
+   "地震対策"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/index.html",
+    "label": "地震・津波への備え（総合）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/saigaimanual/1001176.html",
+    "label": "磐田市防災ファイル（備蓄・対策）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1006561.html",
+    "label": "家庭内家具固定推進事業"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/taishin/index.html",
+    "label": "住宅・建築物の耐震補助制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1005410.html",
+    "label": "感震ブレーカー設置費補助制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1001144.html",
+    "label": "静岡県第4次地震被害想定（磐田市被害概要）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1001135.html",
+    "label": "お住まいの地域の海抜等の確認"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1001136/index.html",
+    "label": "磐田市内の津波避難施設一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1001141.html",
+    "label": "サイレンによる津波警報・注意報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/kokuminhogo/1006130.html",
+    "label": "Jアラート・緊急情報の伝達"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/emergency-medical/",
+  "icon": "⚠️",
+  "title_iwata": "急な病気やけがで迷ったとき、救急車を呼ぶか今すぐ判断する。",
+  "category": "もしもの時",
+  "synonyms": [
+   "救急相談",
+   "急病",
+   "救急車呼ぶか"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/1001214.html",
+    "label": "救急診療（急患センター・#7119・#8000）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/bosaikinkyu/shobo/1064942.html",
+    "label": "救急安心電話相談窓口（#7119）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kodomokyoiku/kodomokosodate/kodomokyukyu/index.html",
+    "label": "静岡こども救急電話相談（#8000）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/kyukyu/index.html",
+    "label": "救急（静岡県の救急医療・相談窓口）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/evacuation-centers/",
+  "icon": "⚠️",
+  "title_iwata": "いざというとき、どこへ避難するかを今のうちに決めておく。",
+  "category": "もしもの時",
+  "synonyms": [
+   "避難所",
+   "避難場所"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1009748.html",
+    "label": "指定緊急避難場所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hinanjo/index.html",
+    "label": "指定避難所一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/saigaimanual/1014827.html",
+    "label": "福祉避難所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/chiiki_shakai_fukushi/saigaiji_youshiensha/1001988.html",
+    "label": "災害時における要配慮者支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1005987.html",
+    "label": "磐田市ハザードマップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/evacuation-hazard-map/",
+  "icon": "⚠️",
+  "title_iwata": "「いつ・どこへ逃げるか」を、迷う前に決めておく。",
+  "category": "もしもの時",
+  "synonyms": [
+   "避難",
+   "いつどこへ逃げる"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/1008966/1008967.html",
+    "label": "避難行動を考える（マイ・タイムライン）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1006953.html",
+    "label": "警戒レベルによる避難情報の発信"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/saigaimanual/1001196.html",
+    "label": "避難情報の判断・伝達マニュアル"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/saigaimanual/1001176.html",
+    "label": "磐田市防災ファイル（わが家の防災メモ）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/index.html",
+    "label": "大雨への備え"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/fire-ambulance/",
+  "icon": "⚠️",
+  "title_iwata": "火事のとき、急病のとき。まず119番。落ち着いて伝える。",
+  "category": "もしもの時",
+  "synonyms": [
+   "119番",
+   "消防",
+   "救急車"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/119tsuuhou/1001220.html",
+    "label": "119番通報のしかた"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/119tsuuhou/1001223.html",
+    "label": "救急車の適正利用"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/119tsuuhou/1001222.html",
+    "label": "救急車の利用に当たって"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/1013969/kaji_sonae/index.html",
+    "label": "火事への備え"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/1013969/kaji_sonae/1001166.html",
+    "label": "住宅用火災警報器"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shoubou_honbu/",
+    "label": "磐田市消防本部"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/bousai_anzen/shoubou/1003150.html",
+    "label": "磐田市消防本部（施設案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/hazard-maps/",
+  "icon": "⚠️",
+  "title_iwata": "自宅と避難先の災害リスクを、ハザードマップで今すぐ確かめる。",
+  "category": "もしもの時",
+  "synonyms": [
+   "ハザードマップ",
+   "浸水想定",
+   "土砂災害"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1005987.html",
+    "label": "磐田市ハザードマップ（総合）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1008397.html",
+    "label": "洪水ハザードマップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/tochi_douro_kasen/1002192.html",
+    "label": "土砂災害警戒区域・特別警戒区域マップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/index.html",
+    "label": "地震・津波への備え"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/1008966/1008973.html",
+    "label": "災害リスクを知る"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hinanjo/index.html",
+    "label": "指定避難所一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1009748.html",
+    "label": "指定緊急避難場所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/",
+  "icon": "⚠️",
+  "title_iwata": "⚠️ もしもの時",
+  "category": "もしもの時",
+  "synonyms": [
+   "防災",
+   "災害",
+   "緊急"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/pet-disaster-prevention/",
+  "icon": "⚠️",
+  "title_iwata": "ペットと一緒に逃げる。そのための備えを、災害が来る前に整える。",
+  "category": "もしもの時",
+  "synonyms": [
+   "ペット防災",
+   "ペット避難"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1010091.html",
+    "label": "ペット防災"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001518.html",
+    "label": "犬・猫の飼い方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hinanjo/index.html",
+    "label": "指定避難所一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1009748.html",
+    "label": "指定緊急避難場所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1003146/1025167.html",
+    "label": "ペットの地震対策"
+   },
+   {
+    "url": "https://www.env.go.jp/nature/dobutsu/aigo/1_law/disaster.html",
+    "label": "ペットの災害対策"
+   },
+   {
+    "url": "https://www.env.go.jp/nature/dobutsu/aigo/2_data/pamph/h3002.html",
+    "label": "人とペットの災害対策ガイドライン"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/road-river-info/",
+  "icon": "⚠️",
+  "title_iwata": "大雨・台風のとき、道路の通行止めと川の水位を今すぐ確かめる。",
+  "category": "もしもの時",
+  "synonyms": [
+   "通行止め",
+   "川の水位",
+   "道路情報"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.bosai.city.iwata.shizuoka.jp/kasen/",
+    "label": "磐田市河川情報（水位）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1014943.html",
+    "label": "浸水センサ表示システム"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/1001149.html",
+    "label": "福田漁港 津波監視カメラ映像"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/1001210.html",
+    "label": "防災リンク集（水位・雨量）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   },
+   {
+    "url": "https://sipos.pref.shizuoka.jp/",
+    "label": "サイポスレーダー（土木総合防災情報）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/machizukuri/kasensabo/1049418/1042332.html",
+    "label": "サイポスレーダーの紹介・使い方"
+   },
+   {
+    "url": "https://www.river.go.jp/kawabou/ipTopGaikyo.do",
+    "label": "川の防災情報（水位・雨量）"
+   },
+   {
+    "url": "https://www.cbr.mlit.go.jp/shizukoku/road/kouji.html",
+    "label": "道路情報（工事・通行規制）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/emergency/storm-heavy-rain/",
+  "icon": "⚠️",
+  "title_iwata": "台風・大雨が近づいたら、警戒レベルで「いつ逃げるか」を先に決めておく。",
+  "category": "もしもの時",
+  "synonyms": [
+   "台風",
+   "大雨",
+   "警戒レベル"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/saigaimanual/1001196.html",
+    "label": "避難情報の判断・伝達マニュアル"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/index.html",
+    "label": "大雨への備え"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/1001210.html",
+    "label": "防災リンク集（河川水位・気象）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1008397.html",
+    "label": "洪水ハザードマップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/tochi_douro_kasen/1002192.html",
+    "label": "土砂災害警戒区域・特別警戒区域マップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1001150/index.html",
+    "label": "道路冠水想定マップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1009748.html",
+    "label": "指定緊急避難場所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hinanjo/index.html",
+    "label": "指定避難所一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/after-death-procedures/",
+  "icon": "🕊️",
+  "title_iwata": "死亡後の手続きは、急ぐ届出と後日の手続きを分ける",
+  "category": "人生の終わり",
+  "synonyms": [
+   "死亡後の手続き",
+   "死後手続き"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/1014568/1014580.html",
+    "label": "おくやみ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001324.html",
+    "label": "死亡届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/1009197.html",
+    "label": "おくやみガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/1010004.html",
+    "label": "相続人代表者届"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/bereavement/",
+  "icon": "🕊️",
+  "title_iwata": "家族が亡くなったら、急ぐ届出と後日の手続きを分けて確認する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "家族が亡くなった",
+   "死亡届"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001324.html",
+    "label": "死亡届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1009895.html",
+    "label": "聖苑（火葬場）の予約"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/index.html",
+    "label": "戸籍・住民票の届出"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/bereavement-procedures/",
+  "icon": "🕊️",
+  "title_iwata": "おくやみ手続きは、一覧で見てから家族で分担する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "おくやみ",
+   "おくやみ手続き",
+   "おくやみコーナー"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/1009197.html",
+    "label": "おくやみガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/1014568/1014580.html",
+    "label": "おくやみ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001324.html",
+    "label": "死亡届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/kurashi/bochi/index.html",
+    "label": "墓地・火葬場"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/grave-memorial/",
+  "icon": "🕊️",
+  "title_iwata": "お墓・供養は、墓地の場所と必要な届出を分けて確認する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "お墓",
+   "墓地",
+   "供養"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/bochi/index.html",
+    "label": "墓地"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/bochi/1001525.html",
+    "label": "市営墓地"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/bochi/1006392.html",
+    "label": "磐田市合葬墓"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/house-became-vacant/",
+  "icon": "🕊️",
+  "title_iwata": "相続後の空き家は、管理・売却・解体の方向性を早めに分ける",
+  "category": "人生の終わり",
+  "synonyms": [
+   "相続空き家",
+   "実家空き家"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1012477/index.html",
+    "label": "空き家に関する相談会等"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1001515.html",
+    "label": "危険空き家解体費用の助成"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/",
+  "icon": "🕊️",
+  "title_iwata": "🕊️ 人生の終わり",
+  "category": "人生の終わり",
+  "synonyms": [
+   "おくやみ",
+   "死亡",
+   "相続"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/inheritance/",
+  "icon": "🕊️",
+  "title_iwata": "相続は、市の手続きと家族で決めることを分けて進める",
+  "category": "人生の終わり",
+  "synonyms": [
+   "相続",
+   "相続手続き",
+   "相続税"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001324.html",
+    "label": "死亡届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/1010004.html",
+    "label": "相続人代表者届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/inherited-house/",
+  "icon": "🕊️",
+  "title_iwata": "親の家は、名義・管理・片付け・今後の使い方を一つずつ決める",
+  "category": "人生の終わり",
+  "synonyms": [
+   "親の家",
+   "実家",
+   "空き家"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/1010004.html",
+    "label": "相続人代表者届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+    "label": "粗大ごみの戸別収集"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/inherited-vacant-house/",
+  "icon": "🕊️",
+  "title_iwata": "相続した家は、使う・貸す・売る・解体するを家族で整理する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "相続した空き家",
+   "実家片付け"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1009122/index.html",
+    "label": "空き家バンク"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1010719.html",
+    "label": "家屋または土地を譲渡した場合の優遇税制"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/pension-inheritance/",
+  "icon": "🕊️",
+  "title_iwata": "年金の手続きは、年金の種類と未支給分を分けて確認する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "年金相続",
+   "未支給年金"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminnenkin/index.html",
+    "label": "国民年金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/index.html",
+    "label": "国保・後期高齢者医療・年金"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/end-of-life/property-tax-inheritance/",
+  "icon": "🕊️",
+  "title_iwata": "固定資産税の相続は、代表者届と納税通知の行き先を先に確認する",
+  "category": "人生の終わり",
+  "synonyms": [
+   "固定資産税相続",
+   "代表者届"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/1010004.html",
+    "label": "相続人代表者（変更）届出書 兼 現所有者（変更）申告書"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/index.html",
+    "label": "固定資産税・都市計画税"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/child-allowance/",
+  "icon": "👶",
+  "title_iwata": "児童手当を、申請忘れも期限切れもなく確実に受け取る。",
+  "category": "家族が増える",
+  "synonyms": [
+   "児童手当"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1001779.html",
+    "label": "児童手当"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/index.html",
+    "label": "子育てに関する手当・助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1009319/1009322.html",
+    "label": "よくある質問（児童手当の申請者）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002383.html",
+    "label": "こども未来課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/child-allowance-medical/",
+  "icon": "👶",
+  "title_iwata": "出生や転入のあと、児童手当とこども医療費を申請漏れなく確認する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "こども医療費",
+   "子ども医療費助成"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1001779.html",
+    "label": "児童手当"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/iryouhi_josei/1001766.html",
+    "label": "こども医療費"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/iryouhi_josei/index.html",
+    "label": "子育てに関する医療費助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/index.html",
+    "label": "子育てに関する手当・助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
+    "label": "子育てに関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kodomo_kenshin_yobousesshu/index.html",
+    "label": "子どもの健診・教室"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/child-vaccination/",
+  "icon": "👶",
+  "title_iwata": "子どもの予防接種は、予診票と母子健康手帳をそろえて予約する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "予防接種",
+   "予診票"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/index.html",
+    "label": "子どもの予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1010274.html",
+    "label": "定期予防接種の種類とスケジュール"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1010277.html",
+    "label": "磐田市個別接種協力医療機関"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1011948.html",
+    "label": "予診票（再発行）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1010279.html",
+    "label": "他市町での接種をご希望の場合"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1012674.html",
+    "label": "転出・転入された方へ"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/childbirth/",
+  "icon": "👶",
+  "title_iwata": "赤ちゃんが生まれたら、出生届からまとめて手続きを進める。",
+  "category": "家族が増える",
+  "synonyms": [
+   "出産",
+   "出生届"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001323.html",
+    "label": "出生届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1001779.html",
+    "label": "児童手当"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/iryouhi_josei/1001766.html",
+    "label": "こども医療費"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/1014094/1014119.html",
+    "label": "出産育児一時金（国内出産）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1011895.html",
+    "label": "出産・子育て応援給付金（iぽーと）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/1010274.html",
+    "label": "定期予防接種の種類とスケジュール"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/index.html",
+    "label": "子育てに関する手当・助成（一覧）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/developmental-support/",
+  "icon": "👶",
+  "title_iwata": "子どもの発達が気になったら、相談先と通所支援の入口を先に分ける。",
+  "category": "家族が増える",
+  "synonyms": [
+   "発達相談",
+   "発達障害",
+   "療育"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/1005168.html",
+    "label": "発達支援センター「はあと」"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/ikuji_soudan/1001616.html",
+    "label": "発達支援センター はあと"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/hattatsu_shien/index.html",
+    "label": "こどもの発達サポートガイド「ぽっかぽか」"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1006502/index.html",
+    "label": "障がい児に関する通所サービス・助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1006502/1006510.html",
+    "label": "障害児通所支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/ikuji_soudan/1001617.html",
+    "label": "こども相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/",
+  "icon": "👶",
+  "title_iwata": "👶 家族が増える",
+  "category": "家族が増える",
+  "synonyms": [
+   "子育て",
+   "出産",
+   "妊娠"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/infant-health-check/",
+  "icon": "👶",
+  "title_iwata": "乳幼児健診の案内を見落とさず、月齢ごとに確認する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "乳幼児健診",
+   "健診"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kodomo_kenshin_yobousesshu/index.html",
+    "label": "子どもの健診・予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kodomo_kenshin_yobousesshu/1012036.html",
+    "label": "乳幼児行事予定表"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kodomo_kenshin_yobousesshu/1011924.html",
+    "label": "幼児健診の予約方法"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/index.html",
+    "label": "子どもの予防接種"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/marriage/",
+  "icon": "👶",
+  "title_iwata": "婚姻届を出す日と、結婚後に変わる手続きを先に整理する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "結婚",
+   "婚姻届"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001321.html",
+    "label": "婚姻届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1014370.html",
+    "label": "戸籍届出時における戸籍謄本の添付について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001329.html",
+    "label": "住民異動届時の本人確認"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/1010694/1010696.html",
+    "label": "結婚新生活支援事業補助金"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/nursery-childcare/",
+  "icon": "👶",
+  "title_iwata": "保育園と一時預かりを、必要なタイミングから確認する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "一時預かり",
+   "保育"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/index.html",
+    "label": "保育園・幼稚園・こども園"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/1004392.html",
+    "label": "園児募集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/1011082.html",
+    "label": "一時的な子どもの預け先"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/nursery-school/",
+  "icon": "👶",
+  "title_iwata": "幼稚園・保育園・こども園を、子どもに合う入口から選ぶ。",
+  "category": "家族が増える",
+  "synonyms": [
+   "保育園",
+   "幼稚園",
+   "こども園",
+   "保活"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/index.html",
+    "label": "保育園・幼稚園・こども園"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/1004392.html",
+    "label": "園児募集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/1007407.html",
+    "label": "幼児教育・保育無償化"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/parenting-support/",
+  "icon": "👶",
+  "title_iwata": "子育てで迷ったら、相談先と使える支援を先に分ける。",
+  "category": "家族が増える",
+  "synonyms": [
+   "子育て相談",
+   "子育て支援"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
+    "label": "子育てに関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/1013183.html",
+    "label": "こども若者家庭センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/1001748.html",
+    "label": "いわた子育てアプリ"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/pregnancy/",
+  "icon": "👶",
+  "title_iwata": "妊娠がわかったら、まず妊娠届を出して母子手帳を受け取る。",
+  "category": "家族が増える",
+  "synonyms": [
+   "妊娠届",
+   "母子手帳"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1001738.html",
+    "label": "妊娠の届出・母子健康手帳の交付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1004468.html",
+    "label": "妊婦の健康診査"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1012137.html",
+    "label": "初回の産科受診料の助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1011895.html",
+    "label": "出産・子育て応援給付金（iぽーと）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/1008504.html",
+    "label": "産後ケア"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/ninshin_shussan_shien/index.html",
+    "label": "妊娠・出産に関する支援（一覧）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/family-grow/single-parent-support/",
+  "icon": "👶",
+  "title_iwata": "ひとり親家庭の手当・医療費・養育費を、最初に見る順番で整理する。",
+  "category": "家族が増える",
+  "synonyms": [
+   "ひとり親",
+   "母子家庭",
+   "父子家庭"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/hitorioya_shien/index.html",
+    "label": "ひとり親家庭などへの支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/hitorioya_shien/1001780.html",
+    "label": "児童扶養手当"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/hitorioya_shien/1001767.html",
+    "label": "ひとり親家庭等医療費"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/hitorioya_shien/1012223.html",
+    "label": "ひとり親家庭養育費確保支援助成金"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/adult-vaccination/",
+  "icon": "🏥",
+  "title_iwata": "おとなの予防接種は、対象年齢と接種時期を先に確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "大人の予防接種",
+   "高齢者予防接種"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012990/index.html",
+    "label": "おとなの予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/kenshin_yobousesshu_soudan/index.html",
+    "label": "おとなの健康診断"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/cancer-specific-checkups/",
+  "icon": "🏥",
+  "title_iwata": "がん検診と支援制度は、対象と時期を分けて確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "がん検診"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/kenshin_yobousesshu_soudan/index.html",
+    "label": "おとなの健康診断"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1007569.html",
+    "label": "がん患者医療用補整具購入費助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/dental-care/",
+  "icon": "🏥",
+  "title_iwata": "歯科・口の健康は、健診と相談先を分けて確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "歯科検診",
+   "口腔ケア"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/kenshin_yobousesshu_soudan/index.html",
+    "label": "おとなの健康診断"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/index.html",
+    "label": "健康・福祉・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/disability-services/",
+  "icon": "🏥",
+  "title_iwata": "障がい福祉サービスは、支援内容と相談先を先に分ける",
+  "category": "健康・医療",
+  "synonyms": [
+   "障害福祉サービス",
+   "障がい福祉"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/index.html",
+    "label": "障がい者に関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/soudan/index.html",
+    "label": "障がい者に関する悩み・相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/hojo_josei_yuushi/index.html",
+    "label": "補助金・助成・融資制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1006502/index.html",
+    "label": "障がい児に関する通所サービス・助成"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/disability-welfare/",
+  "icon": "🏥",
+  "title_iwata": "障がい者福祉は、支援・相談・助成を分けて確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "障害者福祉",
+   "障がい者手帳"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/index.html",
+    "label": "障がい者福祉"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/index.html",
+    "label": "障がい者に関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/soudan/index.html",
+    "label": "障がい者に関する悩み・相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shuugyoushien/index.html",
+    "label": "障がい者の自立支援"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/find-hospitals/",
+  "icon": "🏥",
+  "title_iwata": "医療機関を探すときは、診療時間と相談先を分けて確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "病院探し",
+   "医療機関"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/1001214.html",
+    "label": "救急診療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012384.html",
+    "label": "上手な医療のかかり方"
+   },
+   {
+    "url": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+    "label": "医療情報ネット"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/health-checkups/",
+  "icon": "🏥",
+  "title_iwata": "健康診断とがん検診は、受診券と対象条件を先に確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "健康診断",
+   "特定健診"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/kenshin_yobousesshu_soudan/index.html",
+    "label": "健診・予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1001874.html",
+    "label": "特定健康診査"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/health-promotion/",
+  "icon": "🏥",
+  "title_iwata": "健康づくりは、生活習慣と相談内容を先に整理する",
+  "category": "健康・医療",
+  "synonyms": [
+   "健康づくり"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/karada_zukuri/index.html",
+    "label": "からだづくり"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1010674/index.html",
+    "label": "まちの保健室NEO"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/holiday-night-emergency-care/",
+  "icon": "🏥",
+  "title_iwata": "休日夜間の急患は、まず救急診療所の電話番号を確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "休日夜間診療",
+   "急患診療所"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/1001214.html",
+    "label": "救急診療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012384.html",
+    "label": "上手な医療のかかり方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/",
+  "icon": "🏥",
+  "title_iwata": "🏥 健康・医療",
+  "category": "健康・医療",
+  "synonyms": [
+   "健康",
+   "医療",
+   "病院"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/mental-health-consulting/",
+  "icon": "🏥",
+  "title_iwata": "こころの相談は、相談窓口と予約方法を先に確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "こころの相談",
+   "メンタルヘルス"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012998/index.html",
+    "label": "健康に関する相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/index.html",
+    "label": "健康・福祉・医療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/night-holiday-medical/",
+  "icon": "🏥",
+  "title_iwata": "夜間・休日の急患は、まず救急診療所の電話番号を確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "夜間診療",
+   "休日診療"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/kyuukyuu/1001214.html",
+    "label": "救急診療"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012384.html",
+    "label": "上手な医療のかかり方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/index.html",
+    "label": "健康・医療"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/health-medical/vaccinations/",
+  "icon": "🏥",
+  "title_iwata": "予防接種は、対象年齢と接種時期を先に確認する",
+  "category": "健康・医療",
+  "synonyms": [
+   "予防接種"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/1009094/index.html",
+    "label": "子どもの予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/1012990/index.html",
+    "label": "おとなの予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kodomo_kenshin_yobousesshu/index.html",
+    "label": "子どもの健診・予防接種"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/otona_kenkou_kenshinsoudan/kenshin_yobousesshu_soudan/index.html",
+    "label": "おとなの健診・予防接種・相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/build-house/",
+  "icon": "🏠",
+  "title_iwata": "家を建てる前に、土地・許可・補助金を先に確認する。",
+  "category": "家・住まい",
+  "synonyms": [
+   "家を建てる",
+   "注文住宅"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001511.html",
+    "label": "市街化調整区域での住宅建築"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001513.html",
+    "label": "既存住宅取得等事業費補助金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/taishin/index.html",
+    "label": "耐震"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/buy-house/",
+  "icon": "🏠",
+  "title_iwata": "家を買う前に、補助金・税金・物件状態を分けて確認する。",
+  "category": "家・住まい",
+  "synonyms": [
+   "家を買う",
+   "マイホーム購入"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001513.html",
+    "label": "既存住宅取得等事業費補助金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001503/index.html",
+    "label": "住まいの確保にお困りの方へ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/taishin/index.html",
+    "label": "耐震"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/clean-parents-house/",
+  "icon": "🏠",
+  "title_iwata": "親の家の片付けは、ごみ・相続・空き家を分けて進める。",
+  "category": "家・住まい",
+  "synonyms": [
+   "実家片付け",
+   "遺品整理"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/index.html",
+    "label": "ごみの持ち込み・リユース"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/index.html",
+    "label": "家庭ごみ分別ガイドブック・収集カレンダー"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
+    "label": "ごみ・資源循環"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/earthquake-demolition/",
+  "icon": "🏠",
+  "title_iwata": "耐震や解体は、制度確認と現地判断を分けて進める。",
+  "category": "家・住まい",
+  "synonyms": [
+   "耐震",
+   "解体"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/taishin/index.html",
+    "label": "耐震"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1013312.html",
+    "label": "災害発生時の住宅の応急修理"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001503/index.html",
+    "label": "住まいの確保にお困りの方へ"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/",
+  "icon": "🏠",
+  "title_iwata": "🏠 家・住まい",
+  "category": "家・住まい",
+  "synonyms": [
+   "住宅",
+   "家",
+   "不動産"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/municipal-housing/",
+  "icon": "🏠",
+  "title_iwata": "市営住宅は、募集条件・収入・必要書類を先に確認する。",
+  "category": "家・住まい",
+  "synonyms": [
+   "市営住宅",
+   "公営住宅"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001503/index.html",
+    "label": "住まいの確保にお困りの方へ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/index.html",
+    "label": "生活にお困りの方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/index.html",
+    "label": "悩み・相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/property-tax/",
+  "icon": "🏠",
+  "title_iwata": "土地・家屋の税金は、課税内容と手続きを分けて確認する",
+  "category": "家・住まい",
+  "synonyms": [
+   "固定資産税"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/index.html",
+    "label": "固定資産税・都市計画税"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "納税通知書等の送付先変更"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/public-housing-consultation/",
+  "icon": "🏠",
+  "title_iwata": "住まいに困ったら、状況と緊急度を先に分ける",
+  "category": "家・住まい",
+  "synonyms": [
+   "住まい相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001503/index.html",
+    "label": "住まいの確保にお困りの方へ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅カテゴリ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/index.html",
+    "label": "生活福祉"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/index.html",
+    "label": "悩み相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/rent-house/",
+  "icon": "🏠",
+  "title_iwata": "賃貸探しは、条件・費用・手続きの順に整理する",
+  "category": "家・住まい",
+  "synonyms": [
+   "賃貸",
+   "アパート探し"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/1001503/index.html",
+    "label": "住まいの確保にお困りの方へ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅カテゴリ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/sell-house/",
+  "icon": "🏠",
+  "title_iwata": "家を売る前に、税金・権利・現地状態をそろえる",
+  "category": "家・住まい",
+  "synonyms": [
+   "不動産売却",
+   "家を売る",
+   "土地売却",
+   "空き家売却"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/index.html",
+    "label": "固定資産税・都市計画税"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家カテゴリ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅カテゴリ"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/housing/vacant-house/",
+  "icon": "🏠",
+  "title_iwata": "空き家は、管理・税金・今後の使い道を同時に整理する",
+  "category": "家・住まい",
+  "synonyms": [
+   "空き家",
+   "空家対策"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家カテゴリ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/index.html",
+    "label": "固定資産税・都市計画税"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/juutaku/index.html",
+    "label": "住宅カテゴリ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/about-omaezaki/",
+  "icon": "🏡",
+  "title_iwata": "磐田で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "御前崎市の暮らし"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014830.html",
+    "label": "移住・定住支援情報一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014847.html",
+    "label": "移住相談窓口"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014745.html",
+    "label": "子育て・教育"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式ウェブサイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/bus-license-return/",
+  "icon": "🏡",
+  "title_iwata": "運転免許を返したあとも、磐田で困らずに動ける道を先に整える。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "免許返納"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
+    "label": "交通（バス・タクシー）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/1001580.html",
+    "label": "デマンド型乗合タクシー「お助け号」"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001891.html",
+    "label": "高齢者等在宅福祉サービス"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/police/shinse/menkyo/hennou/index.html",
+    "label": "運転免許証等の返納・抹消"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/police/anzen/henno.html",
+    "label": "運転免許自主返納者等サポート事業"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/disaster-risk/",
+  "icon": "🏡",
+  "title_iwata": "引っ越す前に、候補地が洪水・津波・土砂・地震に強い場所か確かめる。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "災害リスク",
+   "ハザード"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1005987.html",
+    "label": "磐田市ハザードマップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1008397.html",
+    "label": "洪水ハザードマップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/tochi_douro_kasen/1002192.html",
+    "label": "土砂災害警戒区域・特別警戒区域マップ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/jishin_tsunami_sonae/index.html",
+    "label": "地震・津波への備え"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/hinanjo/index.html",
+    "label": "指定避難所一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/ooame_sonae/1009748.html",
+    "label": "指定緊急避難場所"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/bousai_anzen/bousai/index.html",
+    "label": "防災（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/",
+  "icon": "🏡",
+  "title_iwata": "🏡 これから暮らす",
+  "category": "これから暮らす",
+  "synonyms": [
+   "移住",
+   "引っ越し前"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/moving-decided/",
+  "icon": "🏡",
+  "title_iwata": "引っ越しが決まったら、何をいつまでにやるかを順番に整理する。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "引っ越し準備"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/index.html",
+    "label": "戸籍・住民票の届出"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html",
+    "label": "転入届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+    "label": "転出届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001319.html",
+    "label": "転居届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1013168.html",
+    "label": "住民異動届の事前申請"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/school-districts/",
+  "icon": "🏡",
+  "title_iwata": "引っ越し先で、子どもがどの小中学校に通うのかを先に確かめる。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "学区",
+   "校区"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/index.html",
+    "label": "通学区（小学校・中学校）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/1004411.html",
+    "label": "小学校通学区"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/1004412.html",
+    "label": "中学校通学区"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/1004413/index.html",
+    "label": "学区外（区域外）就学"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/tsugaku/1004416/index.html",
+    "label": "磐田市立小中学校通学区域規則"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/transportation/",
+  "icon": "🏡",
+  "title_iwata": "住む地区を決める前に、磐田での移動手段を先に確かめる。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "移動手段",
+   "公共交通"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
+    "label": "交通（全体）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1001578.html",
+    "label": "民間路線バス（遠州鉄道）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1016044/index.html",
+    "label": "自主運行バス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/1001580.html",
+    "label": "デマンド型乗合タクシー お助け号"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/index.html",
+    "label": "自動車・タクシー"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/keikaku/kurashi_tetsuzuki/1012136.html",
+    "label": "磐田市地域公共交通計画"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/living-soon/want-to-live/",
+  "icon": "🏡",
+  "title_iwata": "広い家で、安定した仕事があって、子どもをのびのび育てられる暮らしを磐田で考える。",
+  "category": "これから暮らす",
+  "synonyms": [
+   "移住",
+   "定住"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/1007069.html",
+    "label": "移住・就業支援金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/1002264.html",
+    "label": "Uターン促進 奨学金返済支援補助金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/koyoutaisaku_shien/1002262.html",
+    "label": "UIJターン就職・地元定着促進事業"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014830.html",
+    "label": "移住・定住支援情報一覧"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/bulk-garbage-cleaning/",
+  "icon": "📦",
+  "title_iwata": "転出前の片付けは、粗大ごみ・持ち込み・処理不可品を分ける",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "粗大ごみ",
+   "転出前片付け"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+    "label": "粗大ごみの戸別収集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1013066.html",
+    "label": "粗大ごみ戸別収集のLINE申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/index.html",
+    "label": "ごみの持ち込み・リユース"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/dog-ownership-change/",
+  "icon": "📦",
+  "title_iwata": "犬の登録変更は、転出先自治体での手続きも見越して確認する",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "犬登録変更"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1004277.html",
+    "label": "犬の登録事項変更届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001519.html",
+    "label": "飼い犬の登録と狂犬病予防注射"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/index.html",
+    "label": "ペット"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/",
+  "icon": "📦",
+  "title_iwata": "📦 新しい場所へ",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "転出",
+   "引っ越し"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/move-out-notice/",
+  "icon": "📦",
+  "title_iwata": "転出届は、引っ越し先と届出方法を確認してから進める",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "転出届"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+    "label": "転出届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1013168.html",
+    "label": "住民票の異動届の事前申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1001300.html",
+    "label": "窓口業務案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/moving-away/",
+  "icon": "📦",
+  "title_iwata": "磐田市から引っ越すときは、転出届と暮らしの停止手続きを一緒に確認する",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "転出",
+   "引っ越し"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+    "label": "転出届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
+    "label": "上下水道に関する届け出"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+    "label": "粗大ごみの戸別収集"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/school-nursery-procedures/",
+  "icon": "📦",
+  "title_iwata": "子どもの転出は、学校と園の手続きを別々に確認する",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "転出時の学校手続き",
+   "転園"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/soudan_tetsuzuki/1001831/index.html",
+    "label": "小・中学校の転校"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/index.html",
+    "label": "保育園・幼稚園・こども園"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/hoikuen_youchien_kodomoen/1009266/index.html",
+    "label": "公立保育園・幼稚園・こども園一覧"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/moving-out/stop-water/",
+  "icon": "📦",
+  "title_iwata": "水道の中止は、使用をやめる日と精算方法を先に決める",
+  "category": "新しい場所へ",
+  "synonyms": [
+   "水道中止",
+   "水道停止"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
+    "label": "上下水道に関する届け出"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1014283.html",
+    "label": "上下水道料金センターインターネット受付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/1006477/index.html",
+    "label": "上下水道料金など"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/adult-guardianship/",
+  "icon": "👵",
+  "title_iwata": "親の判断能力が落ちても、財産と契約を守れるように備える。",
+  "category": "親のこと",
+  "synonyms": [
+   "成年後見",
+   "後見制度"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/1008593/index.html",
+    "label": "成年後見制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/1011026.html",
+    "label": "成年後見支援センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター"
+   },
+   {
+    "url": "https://www.courts.go.jp/saiban/koukenp/index.html",
+    "label": "成年後見制度の手続き案内"
+   },
+   {
+    "url": "https://www.courts.go.jp/shizuoka/about/syozai/hamamatsu/index.html",
+    "label": "静岡家庭裁判所 浜松支部の所在地"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/care-certification-support-center/",
+  "icon": "👵",
+  "title_iwata": "親の介護認定を、申請から結果通知まで迷わず進める。",
+  "category": "親のこと",
+  "synonyms": [
+   "介護認定申請"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001935.html",
+    "label": "介護サービスを利用するには（要介護認定）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001945.html",
+    "label": "介護保険被保険者証の交付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/socialmedia/1011768/1015831.html",
+    "label": "LINEで介護認定進捗状況の確認"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/hojo_josei_yuushi/1006252.html",
+    "label": "要介護認定を受けている方等の障害者控除認定"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002380.html",
+    "label": "高齢者支援課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/care-started/",
+  "icon": "👵",
+  "title_iwata": "親の介護が急に始まって、何からすればいいか分からないとき。",
+  "category": "親のこと",
+  "synonyms": [
+   "介護開始"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター（一覧・連絡先）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001935.html",
+    "label": "介護サービスを利用するには（要介護認定）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001936.html",
+    "label": "ケアプランの作成からサービスの利用まで"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/index.html",
+    "label": "介護保険（トップ）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kenkou_fukushi/kaigohoken/index.html",
+    "label": "介護保険のよくある質問"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/check-parents/",
+  "icon": "👵",
+  "title_iwata": "離れて暮らす親が心配。何かあったらと不安なとき、最初の相談先を整理する。",
+  "category": "親のこと",
+  "synonyms": [
+   "親の見守り",
+   "親の心配"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/kenkou_soudan/1001624.html",
+    "label": "高齢者相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001891.html",
+    "label": "高齢者等在宅福祉サービス（緊急通報システム）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001979.html",
+    "label": "高齢者等見守りネットワーク事業"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/index.html",
+    "label": "高齢者に関する支援（一覧）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/community-support-center/",
+  "icon": "👵",
+  "title_iwata": "どこに相談すればいいか分からない介護の悩みを、まず一つの窓口に。",
+  "category": "親のこと",
+  "synonyms": [
+   "地域包括支援センター"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター（7か所の担当圏域・電話）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/index.html",
+    "label": "高齢者に関する支援"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/dementia-consultation/",
+  "icon": "👵",
+  "title_iwata": "親が認知症かもしれない。抱え込まず、まず相談から始める。",
+  "category": "親のこと",
+  "synonyms": [
+   "認知症相談",
+   "もの忘れ"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/index.html",
+    "label": "認知症（相談・支援の総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/1006708.html",
+    "label": "いわた認知症ハンドブック（ケアパス）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kenkou_fukushi/koureisha_fukushi/1001079.html",
+    "label": "家族が認知症になったとき、どこに相談したらよいか"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター（地区別の相談先）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/1013622.html",
+    "label": "認知症カフェ・フォーラム"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/1008384.html",
+    "label": "見守りオレンジシール（事前登録事業）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001979.html",
+    "label": "高齢者等見守りネットワーク事業"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/elderly-transportation/",
+  "icon": "👵",
+  "title_iwata": "通院や買い物に行きづらくなった親の「足」を、無理なく確保する。",
+  "category": "親のこと",
+  "synonyms": [
+   "高齢者の移動",
+   "通院送迎"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001891.html",
+    "label": "高齢者等在宅福祉サービス（タクシー助成）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1016044/index.html",
+    "label": "デマンド型乗合タクシー「お助け号」"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/index.html",
+    "label": "自動車・タクシー（市内交通）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1001578.html",
+    "label": "自主運行バス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
+    "label": "交通（バス・タクシー）案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/find-nursing-home/",
+  "icon": "👵",
+  "title_iwata": "親の介護施設を、種類の違いから落ち着いて選ぶ。",
+  "category": "親のこと",
+  "synonyms": [
+   "介護施設",
+   "老人ホーム"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1005190/index.html",
+    "label": "お年寄りのための施設（種類一覧）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1005190/1001893.html",
+    "label": "市内の特別養護老人ホーム"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1005190/1005191.html",
+    "label": "市内の介護老人保健施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1005190/1005196.html",
+    "label": "市内のサービス付き高齢者向け住宅"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1005190/1005194.html",
+    "label": "市内のグループホーム"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001934.html",
+    "label": "介護保険事業者一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/index.html",
+    "label": "介護保険（制度・費用）"
+   },
+   {
+    "url": "https://www.kaigokensaku.mhlw.go.jp/22/",
+    "label": "介護サービス情報公表システム（静岡県）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/",
+  "icon": "👵",
+  "title_iwata": "👵 親のこと",
+  "category": "親のこと",
+  "synonyms": [
+   "介護",
+   "親の介護"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/parents-care/long-term-care-insurance/",
+  "icon": "👵",
+  "title_iwata": "親の介護が始まったら、要介護認定の申請から順番に動く。",
+  "category": "親のこと",
+  "synonyms": [
+   "要介護認定",
+   "介護保険"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/index.html",
+    "label": "介護保険（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001935.html",
+    "label": "要介護認定について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001936.html",
+    "label": "ケアプラン作成からサービス利用まで"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001937.html",
+    "label": "介護保険サービスの種類"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohokenseido/1001925.html",
+    "label": "介護保険料"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001941.html",
+    "label": "利用者負担の軽減（負担限度額認定）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001942.html",
+    "label": "高額介護サービス費"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/cultural-facilities/",
+  "icon": "🌳",
+  "title_iwata": "文化施設は、開館日・予約・アクセスを先に確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "文化施設",
+   "カルチャー",
+   "スポカル"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/bunka/index.html",
+    "label": "文化"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
+    "label": "図書館・文化関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+    "label": "施設ガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/kankou/index.html",
+    "label": "観光"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/facilities-library-parks/",
+  "icon": "🌳",
+  "title_iwata": "公共施設は、施設ガイドから目的別に探す",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "公共施設一覧"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+    "label": "施設ガイド"
+   },
+   {
+    "url": "https://www.lib-iwata-shizuoka.jp/",
+    "label": "磐田市立図書館"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/koen_shisetsu/index.html",
+    "label": "公園・自然関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/find-parks/",
+  "icon": "🌳",
+  "title_iwata": "公園は、目的・年齢・アクセスで選ぶ",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "公園"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/1008275/index.html",
+    "label": "公園"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/koen_shisetsu/index.html",
+    "label": "公園・自然関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/",
+  "icon": "🌳",
+  "title_iwata": "🌳 遊ぶ・使う・出かける",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "レジャー",
+   "おでかけ",
+   "施設"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/kids-playgrounds/",
+  "icon": "🌳",
+  "title_iwata": "子どもの遊び場は、年齢・天気・帰りやすさで選ぶ",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "子どもの遊び場"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/1008275/index.html",
+    "label": "公園"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/koen_shisetsu/index.html",
+    "label": "公園・自然関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
+    "label": "子育てに関する支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/parking-access/",
+  "icon": "🌳",
+  "title_iwata": "出発前に、駐車場・地図・公共交通を確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "駐車場"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+    "label": "施設ガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/1008275/index.html",
+    "label": "公園"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/rent-public-facilities/",
+  "icon": "🌳",
+  "title_iwata": "公共施設を借りる前に、予約方法と利用条件を確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "公共施設予約",
+   "施設を借りる"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+    "label": "施設ガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/sporte_midokoro/index.html",
+    "label": "スポーツ・みどころ関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
+    "label": "図書館・文化関連施設"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/sports-facilities/",
+  "icon": "🌳",
+  "title_iwata": "スポーツ施設は、予約・料金・持ち物を先に確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "スポーツ施設",
+   "体育館",
+   "スポカル"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/sporte_midokoro/index.html",
+    "label": "スポーツ・みどころ関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/event/sports/index.html",
+    "label": "スポーツイベント"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sports_midokoro/sports_machizukuri/index.html",
+    "label": "スポーツのまちづくり"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/swimming-pools/",
+  "icon": "🌳",
+  "title_iwata": "プールは、営業日・料金・持ち物を先に確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "プール"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/sporte_midokoro/index.html",
+    "label": "スポーツ・みどころ関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/event/sports/index.html",
+    "label": "スポーツイベント"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/play-out/visit-library/",
+  "icon": "🌳",
+  "title_iwata": "図書館へ行く前に、開館日・利用カード・場所を確認する",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "図書館"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.lib-iwata-shizuoka.jp/",
+    "label": "磐田市立図書館"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
+    "label": "図書館・文化関連施設"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+    "label": "施設ガイド"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+    "label": "地図から探す"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/bulky-garbage-dropoff/",
+  "icon": "🧭",
+  "title_iwata": "布団・家具・大きなごみを、自分で持ち込むか、取りに来てもらうか決める。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "粗大ごみ",
+   "粗大ごみ持ち込み"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/index.html",
+    "label": "ごみの持ち込み・リユース一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001438.html",
+    "label": "可燃ごみの持ち込み"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001440.html",
+    "label": "金物・小型電化製品・有害ごみ・埋立ごみの持ち込み"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+    "label": "粗大ごみの戸別収集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/kurashi/gomi_recycle/1003153.html",
+    "label": "施設ガイド 磐田市クリーンセンター"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/certificates/",
+  "icon": "🧭",
+  "title_iwata": "提出先に出す証明書を、種類を間違えず最短で受け取る。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "住民票",
+   "戸籍",
+   "印鑑証明",
+   "証明書"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/index.html",
+    "label": "戸籍・住民票・印鑑登録"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/juuminhyou/1001309.html",
+    "label": "住民票（写しの請求）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/koseki/1001302.html",
+    "label": "戸籍謄本・抄本"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/koseki/1001303.html",
+    "label": "戸籍の附票"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/inkantouroku/1001307.html",
+    "label": "印鑑登録証明書"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/1001381.html",
+    "label": "市民税および納税に関する証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/1006310.html",
+    "label": "証明書コンビニ交付サービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1001298.html",
+    "label": "郵便請求制度"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/city-hall-branches/",
+  "icon": "🧭",
+  "title_iwata": "近くの窓口に行ってから「ここでは扱っていません」を防ぐ。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "支所",
+   "出張所",
+   "窓口"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/choushaannai/index.html",
+    "label": "市役所・庁舎案内"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002357.html",
+    "label": "支所の業務・連絡先"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1001300.html",
+    "label": "窓口業務案内（受付時間・休日窓口）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1008405.html",
+    "label": "リアルタイム窓口混雑情報"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/dog-registration/",
+  "icon": "🧭",
+  "title_iwata": "犬の登録・鑑札の手続きを、出直しなしで一度に済ませる。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "犬の登録",
+   "鑑札"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001519.html",
+    "label": "飼い犬の登録と狂犬病予防注射"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1004277.html",
+    "label": "犬の登録事項変更届・死亡届（電子申請）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001518.html",
+    "label": "犬・猫の飼い方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/index.html",
+    "label": "ペット（手続き一覧）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002396.html",
+    "label": "環境課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/dog-registration-rabies/",
+  "icon": "🧭",
+  "title_iwata": "毎年の狂犬病予防注射を、忘れずに受けて注射済票までそろえる。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "狂犬病予防注射"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001519.html",
+    "label": "飼い犬の登録と狂犬病予防注射"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1004277.html",
+    "label": "注射猶予・死亡届・変更届の電子申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1010091.html",
+    "label": "ペット防災"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001518.html",
+    "label": "犬・猫の飼い方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/index.html",
+    "label": "ペットの手続き一覧"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/garbage-sorting-calendar/",
+  "icon": "🧭",
+  "title_iwata": "引っ越し先で、ごみを間違えずに出せるようにする。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "ごみの日",
+   "ごみカレンダー",
+   "分別"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
+    "label": "ごみ・リサイクル"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/index.html",
+    "label": "家庭ごみ分別ガイドブック・収集カレンダー"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1010512.html",
+    "label": "令和8年度 家庭ごみ収集カレンダー（地区別）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001444.html",
+    "label": "ごみ分別検索（しっぺいのゴミチェッカー）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
+    "label": "ごみの出し方・戸別収集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kurashi_tetsuzuki/gomi_recycle/1000949.html",
+    "label": "カレンダー・ガイドブックの入手方法（よくある質問）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/how-to-garbage/",
+  "icon": "🧭",
+  "title_iwata": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "ごみの出し方"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
+    "label": "ごみ・資源循環（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
+    "label": "ごみの出し方・戸別収集"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001445.html",
+    "label": "家庭ごみ分別ガイドブック"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1016364.html",
+    "label": "ごみ分別サイト（しっぺいのゴミチェッカー）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014940/1001450.html",
+    "label": "ごみ集積所の設置・変更"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+    "label": "粗大ごみの戸別収集"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/",
+  "icon": "🧭",
+  "title_iwata": "🧭 暮らし始めた",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "転入",
+   "引っ越し後"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/moved-in/",
+  "icon": "🧭",
+  "title_iwata": "引っ越してきた後の手続きを、抜けなく順番どおりに片づける。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "転入後の手続き",
+   "引っ越し後"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html",
+    "label": "転入届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/1014568/1014569.html",
+    "label": "引越し手続き一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
+    "label": "マイナンバー関連手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+    "label": "上下水道の手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
+    "label": "ごみの出し方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001519.html",
+    "label": "飼い犬の登録・狂犬病予防注射"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/moving-address-change/",
+  "icon": "🧭",
+  "title_iwata": "引っ越しの住所変更を、転出証明書から順番どおりに片づける。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "転入届",
+   "住所変更"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html",
+    "label": "転入届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001319.html",
+    "label": "転居届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+    "label": "転出届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/1014568/1014569.html",
+    "label": "引越し手続き一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
+    "label": "マイナンバー関連手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+    "label": "上下水道の手続き"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/mynumber/",
+  "icon": "🧭",
+  "title_iwata": "マイナンバーカードを、申請から受け取りまで迷わず進める。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "マイナンバーカード",
+   "マイナンバー"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
+    "label": "マイナンバー制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1001346.html",
+    "label": "マイナンバーカード・通知カード"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1001347.html",
+    "label": "申請方法（市役所で受け取る場合）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1007576.html",
+    "label": "申請方法（郵送・郵便局で受け取る場合）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1009711.html",
+    "label": "マイナンバーカードの受け取り"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1013007.html",
+    "label": "電子証明書の更新"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/pets-lost-animals/",
+  "icon": "🧭",
+  "title_iwata": "犬や猫がいなくなった。最初の電話を、いますぐ正しい先へ。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "迷い犬",
+   "迷い猫",
+   "ペット紛失"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/index.html",
+    "label": "ペット（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001518.html",
+    "label": "犬・猫の飼い方（迷子の連絡先）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001519.html",
+    "label": "飼い犬の登録・狂犬病予防注射・死亡届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001521.html",
+    "label": "飼い主のいない猫の不妊去勢手術費補助"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1066835/index.html",
+    "label": "迷い犬情報一覧"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1003130/1043808.html",
+    "label": "静岡県動物愛護センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kurashi_tetsuzuki/juutaku_pet_seikatsu/index.html",
+    "label": "よくある質問（住宅・ペット）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/public-transit/",
+  "icon": "🧭",
+  "title_iwata": "車に頼らない日の移動を、バス・お助け号・電車で乗りこなす。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "バス",
+   "お助け号",
+   "電車"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
+    "label": "交通（全体）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1001578.html",
+    "label": "民間路線バス（遠州鉄道）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1016044/index.html",
+    "label": "自主運行バス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/1001580.html",
+    "label": "デマンド型乗合タクシー お助け号"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/index.html",
+    "label": "自動車・タクシー"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/keikaku/kurashi_tetsuzuki/1012136.html",
+    "label": "磐田市地域公共交通計画"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/resident-registration/",
+  "icon": "🧭",
+  "title_iwata": "会社や学校に出す住民票を、急ぎでも確実に手に入れる。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "住民票"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/juuminhyou/index.html",
+    "label": "住民票の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/juuminhyou/1001309.html",
+    "label": "住民票（写しの請求）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/1006310.html",
+    "label": "証明書コンビニ交付サービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1001298.html",
+    "label": "郵便請求制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/inkantouroku/1001307.html",
+    "label": "印鑑登録証明書"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/koseki/1001303.html",
+    "label": "戸籍の附票"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/water-sewer/",
+  "icon": "🧭",
+  "title_iwata": "毎月の水道・下水道、仕組みと払い方を一度で見渡す。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "水道料金",
+   "下水道"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+    "label": "上下水道のご案内"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001536.html",
+    "label": "水道料金・下水道使用料など"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001532.html",
+    "label": "料金などのお支払い方法"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001548.html",
+    "label": "漏水に係る料金の減免制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/gedsuidou/index.html",
+    "label": "下水道（整備・接続）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/gedsuidou/1001574.html",
+    "label": "合併処理浄化槽設置"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/gedsuidou/1001566.html",
+    "label": "浄化槽の維持管理について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
+    "label": "上下水道に関する届け出"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/start-living/water-start-stop-fees/",
+  "icon": "🧭",
+  "title_iwata": "引っ越し日に水が出ない、を防ぐ。水道の届け出を3日前までに。",
+  "category": "暮らし始めた",
+  "synonyms": [
+   "水道開始",
+   "水道停止"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
+    "label": "上下水道に関する届け出"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004278.html",
+    "label": "水道使用開始届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004279.html",
+    "label": "水道使用中止届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1014285.html",
+    "label": "水道使用中止同時使用開始届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1014283.html",
+    "label": "上下水道料金センターインターネット受付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004280.html",
+    "label": "水道料金の請求先等変更届"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001536.html",
+    "label": "水道料金・下水道使用料など"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001532.html",
+    "label": "料金などのお支払い方法"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+    "label": "上下水道（総合案内）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/animal-pet-consultation/",
+  "icon": "🧩",
+  "title_iwata": "動物・ペットの困りごと。誰に相談すればよいかを整理する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "ペット相談",
+   "動物相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/",
+    "label": "ペット・動物（相談窓口）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001521.html",
+    "label": "飼い主のいない猫不妊及び去勢手術費補助金制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/pet/1001518.html",
+    "label": "犬・猫の飼い方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/faq/kurashi_tetsuzuki/juutaku_pet_seikatsu/index.html",
+    "label": "住宅・ペット・生活のよくある質問"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/index.html",
+    "label": "動物愛護（引き取り・飼養相談・多頭飼育）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1081733/index.html",
+    "label": "譲渡動物情報"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/cannot-pay-tax/",
+  "icon": "🧩",
+  "title_iwata": "税金・保険料が払えない。放置せず、差押えの前に相談する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "税金払えない",
+   "滞納相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/1001378.html",
+    "label": "市税の猶予制度（徴収猶予・換価の猶予）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/1007996.html",
+    "label": "市税の滞納と延滞金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/1001375.html",
+    "label": "市税の納付方法・納期限"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付（一覧）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/index.html",
+    "label": "国民健康保険・年金（保険料の確認）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002372.html",
+    "label": "収納課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/care-consultation/",
+  "icon": "🧩",
+  "title_iwata": "介護で困ったとき、まずどこに相談すればいいかが分かる。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "介護相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/1001892.html",
+    "label": "地域包括支援センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/shien/index.html",
+    "label": "高齢者の支援・相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/index.html",
+    "label": "介護保険"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohoken_service/1001935.html",
+    "label": "介護保険のサービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/kaigohoken/kaigohokenseido/1001925.html",
+    "label": "介護保険制度のしくみ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/koureisha_fukushi/ninchishou/index.html",
+    "label": "認知症の相談・支援"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/child-consultation/",
+  "icon": "🧩",
+  "title_iwata": "子どものことで不安なとき、ひとりで抱えず、まず相談先を確認する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "子どもの相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/1013183.html",
+    "label": "こども若者家庭センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/1005799.html",
+    "label": "児童虐待の相談・通告"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/ikuji_soudan/1001617.html",
+    "label": "こども相談（育児・子育て）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_soudan/kyoiku_sodan/index.html",
+    "label": "教育に関する相談"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/kenkofukushi/fukushicenter/seibukenkofukushi/1004146/1004149/1033793.html",
+    "label": "静岡県西部児童相談所（磐田市管轄）"
+   },
+   {
+    "url": "https://www.cfa.go.jp/policies/jidougyakutai/gyakutai-taiou-dial",
+    "label": "児童相談所虐待対応ダイヤル189"
+   },
+   {
+    "url": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1306988.htm",
+    "label": "24時間子供SOSダイヤル"
+   },
+   {
+    "url": "https://www.cfa.go.jp/policies/young-carer/soudan-madoguchi",
+    "label": "ヤングケアラーの相談窓口"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/consumer-fraud/",
+  "icon": "🧩",
+  "title_iwata": "だまされたかも、契約してしまった。そのときは、早めに相談する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "消費者トラブル",
+   "詐欺被害"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/shouhi_soudan/index.html",
+    "label": "消費生活相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/shouhi_soudan/1001642.html",
+    "label": "消費生活センター（最新の注意喚起）"
+   },
+   {
+    "url": "https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/",
+    "label": "消費者ホットライン188の案内"
+   },
+   {
+    "url": "https://www.kokusen.go.jp/map/",
+    "label": "全国の消費生活センター等"
+   },
+   {
+    "url": "https://www.kokusen.go.jp/map/weekend_madoguchi.html",
+    "label": "土日祝に利用できる相談窓口"
+   },
+   {
+    "url": "https://www.kokusen.go.jp/soudan_now/data/coolingoff.html",
+    "label": "クーリング・オフ"
+   },
+   {
+    "url": "https://www.npa.go.jp/bureau/safetylife/sos47/",
+    "label": "特殊詐欺対策（ストップ、オレオレ詐欺）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/disability-consultation/",
+  "icon": "🧩",
+  "title_iwata": "障害のこと、まず誰に相談すればいいかを整理する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "障害相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/soudan/1006662.html",
+    "label": "障害者相談支援センター"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/index.html",
+    "label": "障がい者福祉（入口）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/1001910.html",
+    "label": "障がい者のしおり"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/1001903.html",
+    "label": "身体に障がいがある方へのサービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/1001904.html",
+    "label": "精神に障がいがある方へのサービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shien/1001905.html",
+    "label": "知的障がいがある方へのサービス"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/shougaisha_fukushi/shuugyoushien/index.html",
+    "label": "障がい者の自立支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/kenkou_soudan/1001622.html",
+    "label": "精神保健福祉総合相談（予約制）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/certificates/",
+  "icon": "🧩",
+  "title_iwata": "農地の証明は、用途と対象地を先に確認する",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地証明"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地関係手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/change-use/",
+  "icon": "🧩",
+  "title_iwata": "農地を別の用途に使いたいとき、まず「何を確認するか」から整理する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地転用",
+   "地目変更"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地法等に関する手続き（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002272.html",
+    "label": "農振除外・農用地区域の確認"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002275.html",
+    "label": "農地の転用"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/conversion/",
+  "icon": "🧩",
+  "title_iwata": "農地を宅地や駐車場に使うとき、許可か届出かを先に見極める。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地転用",
+   "農地法4条5条"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002275.html",
+    "label": "農地の転用（4条・5条）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地法等に関する手続き（入口）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005505.html",
+    "label": "農地の売買・貸借（農地法3条）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002272.html",
+    "label": "農振除外（農用地区域からの除外）"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/",
+  "icon": "🧩",
+  "title_iwata": "相続した田んぼ・畑をどうすればいいか分からないとき、最初の整理から始める。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地相続",
+   "田んぼ畑相続",
+   "農地をどうする"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地法等に関する手続き（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005505.html",
+    "label": "農地の売買・貸借"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002275.html",
+    "label": "農地の転用"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005506.html",
+    "label": "農地の相続"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002272.html",
+    "label": "農振除外（農用地区域からの除外）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002289.html",
+    "label": "農政関係証明等"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010427/nouchiginkou/index.html",
+    "label": "農地中間管理事業（農地銀行）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010425/index.html",
+    "label": "磐田市農業委員会"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/inheritance/",
+  "icon": "🧩",
+  "title_iwata": "相続した田んぼ・畑を、まず届出から整理する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地相続"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005506.html",
+    "label": "農地の相続（届出）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地法等に関する手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005505.html",
+    "label": "農地の売買・貸借"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002289.html",
+    "label": "農政関係証明等"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010425/1002270.html",
+    "label": "磐田市農業委員会の案内"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji05_00590.html",
+    "label": "相続登記の申請義務化"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji05_00457.html",
+    "label": "相続土地国庫帰属制度の概要"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/noshin-exclusion/",
+  "icon": "🧩",
+  "title_iwata": "農振・農用地区域は、土地の場所と目的を先に確認する",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農振除外",
+   "農用地区域"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1002272.html",
+    "label": "農振除外"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農地関係手続き"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/farmland/sell-or-rent/",
+  "icon": "🧩",
+  "title_iwata": "使っていない農地を売りたい・貸したいとき、まず手続きの順番を整理する。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "農地売買",
+   "農地貸したい"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005505.html",
+    "label": "農地の売買・貸借（農地法3条許可）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010425/index.html",
+    "label": "磐田市農業委員会"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/index.html",
+    "label": "農業に関する手続き（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010426/1005506.html",
+    "label": "農地の相続"
+   },
+   {
+    "url": "https://www.shizuoka-nk.or.jp/t-kanri/",
+    "label": "農地中間管理事業（農地バンク）"
+   },
+   {
+    "url": "https://www.pref.shizuoka.jp/sangyoshigoto/nogyo/1053721/1054086/1027171.html",
+    "label": "農地バンク事業"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/foreign-resident-consultation/",
+  "icon": "🧩",
+  "title_iwata": "外国人住民の手続きは、住民登録と相談先を分けて確認する",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "外国人相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gaikoku_juumin/index.html",
+    "label": "外国人住民の方"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/1016688/index.html",
+    "label": "外国人住民の手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/index.html",
+    "label": "戸籍・住民票・印鑑登録・パスポート"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/",
+  "icon": "🧩",
+  "title_iwata": "🧩 困った・相談したい",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "相談",
+   "トラブル"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/legal-general-consultation/",
+  "icon": "🧩",
+  "title_iwata": "誰に相談すればいいか分からない悩みを、正しい窓口へつなぐ。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "法律相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/index.html",
+    "label": "行政・法律相談（一覧）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/1001630.html",
+    "label": "弁護士法律相談（予約制）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/1001631.html",
+    "label": "相続・登記相談（予約制）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/1001632.html",
+    "label": "遺言・約束相談（予約制）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/1001633.html",
+    "label": "行政相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/gyousei_soudan/1001634.html",
+    "label": "人権身の上相談"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/shouhi_soudan/1001642.html",
+    "label": "消費生活センター（多重債務含む）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/nayami_soudan/kurashi_soudan/1001635.html",
+    "label": "市役所以外で行っている法的相談"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/living-costs-trouble/",
+  "icon": "🧩",
+  "title_iwata": "生活費が足りない。そのつらさ、ひとりで抱えなくて大丈夫です。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "生活費相談",
+   "生活困窮"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/1012080/index.html",
+    "label": "生活困窮者自立支援制度（自立相談支援・住居確保給付金）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/1008961.html",
+    "label": "生活保護"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/1008960.html",
+    "label": "生活の援助（くらしの相談）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kenkou_fukushi/seikatsu_fukushi/index.html",
+    "label": "生活にお困りの方への支援一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1013294.html",
+    "label": "福祉相談課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/road-repair-mirror/",
+  "icon": "🧩",
+  "title_iwata": "道路の穴・カーブミラー・街路灯の不具合は、どこへ通報すればいいかをはっきりさせる。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "道路の穴",
+   "カーブミラー",
+   "街路灯"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/tochi_douro_kasen/1002177.html",
+    "label": "道路110番（通報の窓口）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/kouhou_kouchou/socialmedia/1011768/1011875.html",
+    "label": "LINEによる道路通報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/tochi_douro_kasen/1002182.html",
+    "label": "道路や河川の維持・補修"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002391.html",
+    "label": "道路河川課のご案内"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/troubles-consult/vacant-house-consultation/",
+  "icon": "🧩",
+  "title_iwata": "親の家・実家をどうするか迷ったとき、最初の整理から始める。",
+  "category": "困った・相談したい",
+  "synonyms": [
+   "空き家相談",
+   "実家相談"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/index.html",
+    "label": "空き家対策（総合案内）"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1012477/index.html",
+    "label": "空き家相談会等"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1009122/index.html",
+    "label": "空き家バンク"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1001515.html",
+    "label": "危険空き家の解体費用助成"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1010719.html",
+    "label": "空き家の優遇税制"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/juutaku_pet_seikatsu/1010112/1015282.html",
+    "label": "既存住宅取得のリフォーム補助"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/koteishisan_toshikeikakuzei/index.html",
+    "label": "固定資産税・都市計画税"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/city-tax-payment/",
+  "icon": "💴",
+  "title_iwata": "市税の納付方法は、納付方法と口座振替を分けて確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "市税納付"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/",
+  "icon": "💴",
+  "title_iwata": "💴 働く・暮らす",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "仕事",
+   "税金",
+   "年金"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイトを確認する"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/job-change/",
+  "icon": "💴",
+  "title_iwata": "就職・転職活動は、就職支援窓口と求人情報を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "転職",
+   "就職支援"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/index.html",
+    "label": "就職・雇用支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/1014687.html",
+    "label": "就職相談・にこハロ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/shokuin_saiyou/index.html",
+    "label": "職員採用情報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/job-recruitment/",
+  "icon": "💴",
+  "title_iwata": "職員採用情報は、募集要項と試験日程を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "市役所採用",
+   "職員採用"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/shokuin_saiyou/index.html",
+    "label": "職員採用情報"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/index.html",
+    "label": "就職・雇用支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/1014687.html",
+    "label": "就職相談・にこハロ"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/light-vehicle-tax/",
+  "icon": "💴",
+  "title_iwata": "軽自動車税の手続きは、排気量と登録先を分けて確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "軽自動車税"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/keijidoushazei/1001424.html",
+    "label": "軽自動車税"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/my-number-card/",
+  "icon": "💴",
+  "title_iwata": "マイナンバーカードの手続きは、申請窓口と受取予約を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "マイナンバーカード"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
+    "label": "マイナンバー制度"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/mynumber/1009711.html",
+    "label": "申請・受取方法"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/national-health-insurance-tax/",
+  "icon": "💴",
+  "title_iwata": "国民健康保険税は、所得割・均等割と減免申請を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "国民健康保険税",
+   "国保税"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/index.html",
+    "label": "国保・年金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/nhk-pension/",
+  "icon": "💴",
+  "title_iwata": "国民健康保険・年金の手続きは、喪失証明と期限を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "国民健康保険",
+   "国民年金"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/index.html",
+    "label": "国保・年金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/1014094/1014119.html",
+    "label": "国保加入手続き"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/resident-tax/",
+  "icon": "💴",
+  "title_iwata": "住民税の手続きは、納付方法（普通・特別）と申告を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "住民税"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "住民税・税金"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/start-business/",
+  "icon": "💴",
+  "title_iwata": "起業・創業の準備は、相談窓口と支援制度を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "起業",
+   "創業支援"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/sougyou_shien/index.html",
+    "label": "創業支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/shushoku/index.html",
+    "label": "就職・雇用支援"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014830.html",
+    "label": "支援制度一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/start-farming/",
+  "icon": "💴",
+  "title_iwata": "就農の準備は、就農相談と利用可能な農地を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "就農"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/index.html",
+    "label": "農業・林水産業"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/sangyou_business/nougyou/1010427/1010431.html",
+    "label": "1アールから始める農業"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014830.html",
+    "label": "支援制度一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/subsidies/",
+  "icon": "💴",
+  "title_iwata": "補助金の申請は、対象要件と事前申請ルールを先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "補助金"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/iiwatashi/1014830.html",
+    "label": "支援制度一覧"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/tax/",
+  "icon": "💴",
+  "title_iwata": "税金の手続きは、税目と納付方法を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "税金"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/tax-certificates/",
+  "icon": "💴",
+  "title_iwata": "証明書の申請は、必要な証明年度と申請方法を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "納税証明書",
+   "課税証明書"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/1001381.html",
+    "label": "証明オンライン申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/1012724.html",
+    "label": "証明窓口申請"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ },
+ {
+  "href": "/life/work-life/tax-guide/",
+  "icon": "💴",
+  "title_iwata": "税金の相談は、担当課と納付猶予制度を先に確認する",
+  "category": "働く・暮らす",
+  "synonyms": [
+   "税金相談",
+   "納税猶予"
+  ],
+  "tier": "common",
+  "source_iwata": [
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/1012742.html",
+    "label": "税金について"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_noufu/index.html",
+    "label": "市税の納付"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/zeikin/shizei_shoumei/index.html",
+    "label": "市税の証明"
+   },
+   {
+    "url": "https://www.city.iwata.shizuoka.jp/",
+    "label": "磐田市公式サイト"
+   }
+  ],
+  "status": "draft"
+ }
+]

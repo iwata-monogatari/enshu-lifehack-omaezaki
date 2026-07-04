@@ -1,0 +1,22 @@
+[
+  { "query": "スポカル", "expectedHrefIncludesAny": ["/life/play-out/sports-facilities/", "/life/play-out/cultural-facilities/"], "note": "スポーツ+カルチャーの略語。防災項目が最上位に来ないこと" },
+  { "query": "保育園", "expectedHrefIncludesAny": ["/life/family-grow/nursery-school/"] },
+  { "query": "ごみの日", "expectedHrefIncludesAny": ["/life/start-living/garbage-sorting-calendar/"] },
+  { "query": "空き家", "expectedHrefIncludesAny": ["/life/housing/vacant-house/", "/life/end-of-life/house-became-vacant/", "/life/end-of-life/inherited-vacant-house/", "/life/troubles-consult/vacant-house-consultation/"] },
+  { "query": "相続", "expectedHrefIncludesAny": ["/life/end-of-life/inheritance/"] },
+  { "query": "住民票", "expectedHrefIncludesAny": ["/life/start-living/certificates/", "/life/start-living/resident-registration/"] },
+  { "query": "転入", "expectedHrefIncludesAny": ["/life/start-living/moving-address-change/", "/life/start-living/moved-in/"] },
+  { "query": "転出", "expectedHrefIncludesAny": ["/life/moving-out/moving-away/", "/life/moving-out/move-out-notice/"] },
+  { "query": "水道", "expectedHrefIncludesAny": ["/life/start-living/water-sewer/", "/life/start-living/water-start-stop-fees/", "/life/moving-out/stop-water/"] },
+  { "query": "税金が払えない", "expectedHrefIncludesAny": ["/life/troubles-consult/cannot-pay-tax/"] },
+  { "query": "介護", "expectedHrefIncludesAny": ["/life/parents-care/check-parents/", "/life/parents-care/care-started/", "/life/parents-care/long-term-care-insurance/", "/life/troubles-consult/care-consultation/"] },
+  { "query": "学区", "expectedHrefIncludesAny": ["/life/living-soon/school-districts/", "/life/education/school-zones/"] },
+  { "query": "予防接種", "expectedHrefIncludesAny": ["/life/health-medical/vaccinations/", "/life/family-grow/child-vaccination/", "/life/health-medical/adult-vaccination/"] },
+  { "query": "農地転用", "expectedHrefIncludesAny": ["/life/troubles-consult/farmland/conversion/", "/life/troubles-consult/farmland/change-use/"] },
+  { "query": "不動産売却", "expectedHrefIncludesAny": ["/life/housing/sell-house/"] },
+  { "query": "犬の登録", "expectedHrefIncludesAny": ["/life/start-living/dog-registration/"] },
+  { "query": "図書館", "expectedHrefIncludesAny": ["/life/play-out/visit-library/"] },
+  { "query": "粗大ごみ", "expectedHrefIncludesAny": ["/life/start-living/bulky-garbage-dropoff/", "/life/moving-out/bulk-garbage-cleaning/"] },
+  { "query": "マイナンバー", "expectedHrefIncludesAny": ["/life/start-living/mynumber/", "/life/work-life/my-number-card/"] },
+  { "query": "認知症", "expectedHrefIncludesAny": ["/life/parents-care/dementia-consultation/"] }
+]

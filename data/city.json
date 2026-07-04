@@ -1,0 +1,33 @@
+{
+ "city_id": "omaezaki",
+ "city_name": "御前崎市",
+ "site_name": "御前崎ライフハック",
+ "site_url": "https://omaezaki.enshu-lifehack.com",
+ "official": {
+  "domain": "www.city.omaezaki.shizuoka.jp",
+  "top": "https://www.city.omaezaki.shizuoka.jp/",
+  "hall_name": "御前崎市役所",
+  "hall_address": "〒437-1692 静岡県御前崎市池新田5585番地",
+  "hall_tel": "0537-85-1111",
+  "branches": [
+   {
+    "name": "御前崎支所",
+    "note": "旧御前崎町エリアの窓口。消防署白羽出張所(2019年3月開設)が支所内に併設。取扱業務は本庁と異なる場合があるため個別確認が必要"
+   }
+  ],
+  "tetsuduki_navi": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/koseki/madoguchi/index.html",
+  "fire_emergency": "御前崎市消防本部・御前崎市消防署（2011年4月設置の単独消防、1署体制＋白羽出張所）。119番通報の指令業務は中東遠消防指令センター（掛川市）が磐田・掛川・袋井・森町・菊川・御前崎の5市1町で共同運用"
+ },
+ "cv": {
+  "kaigo_lead": true,
+  "fudosan_link": true,
+  "monogatari_link": true,
+  "context_links": true
+ },
+ "notes": [
+  "2004年に旧浜岡町・旧御前崎町が合併して現在の御前崎市。本庁は旧浜岡町エリア(池新田)、御前崎支所は旧御前崎町エリアの窓口",
+  "浜岡原子力発電所(中部電力)が市内に立地。御前崎港・御前崎灯台があり、遠洋漁業・園芸(メロン等)が盛ん",
+  "磐田・袋井・掛川に隣接し不動産商圏内。介護CVリード対象（磐田・袋井・掛川・森町・菊川と同様）",
+  "遠州ライフハック展開先の中では人口規模が小さい部類に入る市。窓口体制や制度の有無は個別に確認が必要"
+ ]
+}
