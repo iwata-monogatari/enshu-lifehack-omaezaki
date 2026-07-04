@@ -7762,7 +7762,7 @@
   ],
   "facts": {
    "window": "税務課収納推進室",
-   "tel": "0537-85-1174（確認中: 本文未確認 0537-85-1174）"
+   "tel": "0537-85-1174"
   },
   "ai_checked_date": "2026-07-04",
   "ai_notes": "公式サイトの納付方法ページをWebFetchで確認。口座振替・コンビニ・スマホ決済・eL-QR等の納付方法と税目ごとの納期を反映。"
@@ -7832,7 +7832,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/shushoku/shien/index.html",
@@ -7917,7 +7917,7 @@
   ],
   "facts": {
    "window": "総務課",
-   "tel": "0537-85-1132（確認中: 本文未確認 0537-85-1132）"
+   "tel": "0537-85-1132"
   },
   "ai_checked_date": "2026-07-04",
   "ai_notes": "職員採用ページをWebFetchで確認。総務課が所管、消防職員は消防本部、園職員はこども未来課が別途所管。総務課の直通電話はWebSearchで確認。"
@@ -7949,7 +7949,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/kei/keijidoshazei.html",
@@ -8003,7 +8003,7 @@
     "confidence": "high"
    },
    {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/mynumber/kojin/kojinbangokado.html",
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/digital/joho_kojinjoho/johoseisaku/8224.html",
     "label": "マイナンバーカード出張申請サポート",
     "confidence": "high"
    },
@@ -8053,7 +8053,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/kokuhozei/hokennzei.html",
@@ -8094,7 +8094,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/hokennenkin/kokuminkenkohoken/konnatoki.html",
@@ -8138,7 +8138,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/shiminzei/kojin.html",
@@ -8188,7 +8188,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/shokogyo/10153.html",
@@ -8242,7 +8242,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/business/noringyo/nogyoinkai/index.html",
@@ -8317,7 +8317,7 @@
   ],
   "facts": {
    "window": "目的により異なる（商工観光課・企画政策課等）",
-   "tel": "0537-85-1135（商工観光課）／0537-85-1161（企画政策課）（確認中: 本文未確認 0537-85-1135）"
+   "tel": "0537-85-1135（商工観光課）／0537-85-1161（企画政策課）"
   },
   "ai_checked_date": "2026-07-04",
   "ai_notes": "補助金は分野ごとに担当課が分かれるため一覧ページは存在せず。確認できた主要な補助金（移住就業・まちづくり活動・起業支援金・企業立地奨励）を中心に、着手前申請の注意点を案内。住宅系補助金はhousingカテゴリで別途案内済み。"
@@ -8362,7 +8362,7 @@
     "confidence": "high"
    },
    {
-    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/zeikin/kakuteishinkoku/index.html",
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/kakuteishinkoku/kakuteishinkoku.html",
     "label": "確定申告のお知らせ",
     "confidence": "high"
    }
@@ -8402,7 +8402,7 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "machine-verified",
+  "status": "ai-checked",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/shomeisho/kakushu.html",
@@ -8455,14 +8455,14 @@
     "confidence": "high"
    },
    {
-    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/zeikin/kakuteishinkoku/index.html",
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/kakuteishinkoku/kakuteishinkoku.html",
     "label": "確定申告のお知らせ",
     "confidence": "high"
    }
   ],
   "facts": {
    "window": "税務課（税務課収納推進室）",
-   "tel": "0537-85-1114（収納推進室0537-85-1174）（確認中: 本文未確認 0537-85-1174）"
+   "tel": "0537-85-1114（収納推進室0537-85-1174）"
   },
   "ai_checked_date": "2026-07-04",
   "ai_notes": "徴収猶予・分割納付・延滞金についてWebSearchで確認。具体的な猶予要件の詳細ページは確認できなかったため、一般的な制度説明にとどめ「相談が前提」の構成にした。延滞金率(2.4%/8.7%)は市税納付ガイドの記載を反映。"
