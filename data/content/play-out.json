@@ -1,1 +1,363 @@
-[]
+[
+ {
+  "href": "/life/play-out/",
+  "lead": "御前崎市には図書館・体育施設・プール・公園・地区センターなど多彩な公共施設があり、太平洋沿岸ならではの海水浴場や公園も充実しています。まずは目的（読む・遊ぶ・借りる・泳ぐ・運動する）を決めて、該当のページから施設と予約方法を確認しましょう。",
+  "real_cards": [
+   {"icon":"📚","title":"図書館は市立図書館アスパルの1館体制","body":"池新田にある市立図書館アスパルが市内唯一の図書館です。開館時間は曜日によって異なるため、来館前に確認しておくと安心です。"},
+   {"icon":"🏟️","title":"体育施設は市内4か所","body":"浜岡総合運動場、御前崎運動場、市民プールぷるる、B&G海洋センターがあり、種目や目的に応じて使い分けられています。"},
+   {"icon":"🌳","title":"公園は市内に約20か所以上","body":"あらさわふる里公園のような大型公園から、比木こども公園のような遊具中心の公園まで幅広くあります。年齢や目的に合わせて選べます。"},
+   {"icon":"🏖️","title":"夏はマリンパーク御前崎海水浴場も人気","body":"御前崎港東側にある遠浅の海水浴場で、期間中はライフセーバーも配置されます。海のまち御前崎ならではのおでかけ先です。"}
+  ],
+  "action_grid": [
+   {"label":"公共施設リスト（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/kokyo.html"},
+   {"label":"施設を探す（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/shisetsu/index.html"},
+   {"label":"御前崎市公共施設予約システム","href":"https://omaezaki.comp-re.com/"},
+   {"label":"市役所へ電話","href":"tel:0537-85-1111"}
+  ]
+ },
+ {
+  "href": "/life/play-out/visit-library/",
+  "lead": "御前崎市の図書館は池新田にある市立図書館アスパルの1館のみです。曜日によって開館時間が異なり、月曜休館・毎月第4木曜日の資料整理日など独自の休館ルールがあるため、来館前に開館日を確認しましょう。利用カードは市内・近隣在住や通勤通学者であれば作成できます。",
+  "note": "開館時間・休館日は年によって特別整理期間などの変更があります。最新情報は図書館の公式サイトまたは電話でご確認ください。",
+  "real_cards": [
+   {"icon":"📖","title":"市内唯一の図書館「アスパル」","body":"所在地は御前崎市池新田5560番地。文化会館等と同じ複合施設エリアにあり、蔵書検索や視聴覚資料の貸出も行っています。"},
+   {"icon":"🕐","title":"開館時間は曜日で異なる","body":"火曜・金曜は午前9時〜午後7時、水・木・土・日・祝日は午前9時〜午後5時です。夜間開館がある曜日を狙うと仕事帰りにも利用しやすくなります。"},
+   {"icon":"📅","title":"休館日に注意","body":"毎週月曜日（祝日の場合は開館し、翌火曜が休館）、毎月第4木曜日（資料整理日）、年末年始（12月29日〜1月3日）が休館です。8月・12月は資料整理日の変更がある場合があります。"},
+   {"icon":"🪪","title":"利用カードは申込みその場で作成可能","body":"氏名・住所が確認できるもの（運転免許証、保険証等）を持参すれば、その場で利用者カードを作成できます。対象は御前崎市内在住・在勤・在学の方などです。"}
+  ],
+  "qa": [
+   {"question":"図書館はどこにありますか。","answer":"御前崎市池新田5560番地の市立図書館アスパルです。詳細は<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイト</a>をご覧ください。"},
+   {"question":"開館時間を教えてください。","answer":"火曜・金曜は午前9時〜午後7時、水・木・土・日・祝日は午前9時〜午後5時です。月曜と毎月第4木曜（資料整理日）は休館です。"},
+   {"question":"利用カードはどうやって作りますか。","answer":"氏名・住所を確認できる書類（運転免許証、健康保険証など）を持って窓口に申し込めば、その場で作成できます。詳細は図書館（0537-86-8181）にお問い合わせください。"},
+   {"question":"本の予約や取り置きはできますか。","answer":"できます。蔵書検索システムで在庫を確認し、予約することが可能です。詳しくは<a href=\"https://library.maotv.ne.jp/\" target=\"_blank\" rel=\"noopener\">御前崎市立図書館公式サイト</a>の蔵書検索をご利用ください。"},
+   {"question":"駐車場はありますか。","answer":"図書館周辺に駐車場が用意されています。台数に限りがあるため、混雑時は近隣の公共施設駐車場もあわせてご確認ください。"},
+   {"question":"問い合わせ先はどこですか。","answer":"御前崎市立図書館アスパル、電話0537-86-8181、メールaspal@city.omaezaki.shizuoka.jpです。"}
+  ],
+  "tabs": [
+   {"id":"type-first","label":"初めて利用したい","heading":"利用カードを作ってから借りたい方","bullets":["氏名・住所が確認できる書類を持参しましょう","窓口でその場で利用者カードを作成できます","対象は市内在住・在勤・在学の方などです"],
+    "actions":[{"label":"図書館の公式ページを見る","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-search","label":"本を探したい・予約したい","heading":"読みたい本の在庫や予約状況を確認したい方","bullets":["図書館公式サイトの蔵書検索が利用できます","視聴覚資料（CD・DVD等）の検索も可能です","予約した資料は準備でき次第連絡が来ます"],
+    "actions":[{"label":"蔵書検索（図書館公式サイト）","href":"https://library.maotv.ne.jp/","source":"御前崎市立図書館公式サイト"}]},
+   {"id":"type-hours","label":"開館日・休館日を確認したい","heading":"来館前に開館時間を確認したい方","bullets":["火・金曜は19時まで、その他の開館日は17時までです","月曜と毎月第4木曜（資料整理日）は休館です","年末年始（12月29日〜1月3日）も休館になります"],
+    "actions":[{"label":"開館時間・休館日ページ","href":"https://library.maotv.ne.jp/contents?pid=14","source":"御前崎市立図書館公式サイト"}]},
+   {"id":"type-contact","label":"問い合わせたい","heading":"直接質問・相談したい方","bullets":["電話でも本の取り置きや在庫確認について相談できます","団体貸出やイベントについても問い合わせ可能です","メールでの問い合わせも受け付けています"],
+    "actions":[{"label":"図書館へ電話","href":"tel:0537-86-8181","source":"御前崎市立図書館アスパル"}]}
+  ],
+  "steps": {
+   "today": ["開館時間・休館日を図書館公式サイトで確認する","利用カードを持っているか確認する（未作成なら本人確認書類を準備）"],
+   "this_week": ["読みたい本を蔵書検索で調べておく","初めての場合は本人確認書類を持って来館する"],
+   "outside": ["利用カードを作成し、資料を借りる","返却期限を確認し、必要なら予約・延長の手続きをする"]
+  },
+  "action_grid": [
+   {"label":"市立図書館アスパル（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html"},
+   {"label":"図書館公式サイト（蔵書検索）","href":"https://library.maotv.ne.jp/"},
+   {"label":"開館時間・休館日","href":"https://library.maotv.ne.jp/contents?pid=14"},
+   {"label":"図書館へ電話","href":"tel:0537-86-8181"}
+  ]
+ },
+ {
+  "href": "/life/play-out/cultural-facilities/",
+  "lead": "御前崎市の文化施設は、御前崎市民会館・市立図書館アスパル・丸尾記念館などです。かつての御前崎市文化会館は閉館しており、大ホールを使う催しは御前崎市民会館が中心となっています。利用目的に応じて施設を選び、開館日・予約方法を確認しましょう。",
+  "note": "御前崎市文化会館は閉館済みのため、コンサートやホール利用は御前崎市民会館が主な受け皿です。案内が古い情報のままになっている場合があるので、必ず最新の公式ページで確認してください。",
+  "real_cards": [
+   {"icon":"🎭","title":"御前崎市民会館が大ホールの中心施設","body":"池新田5585番地（市役所と同一エリア）にあり、703人収容の大ホールのほか会議室等を備えています。コンサートや式典など幅広い用途で利用されています。"},
+   {"icon":"🏛️","title":"御前崎市文化会館は閉館","body":"かつて500席のホールを持つ文化会館がありましたが、現在は閉館しています。文化事業は市民会館や地区センター等に引き継がれています。"},
+   {"icon":"📚","title":"図書館アスパルも文化施設のひとつ","body":"読書だけでなく、講座やイベントの会場として使われることもあります。詳しくは図書館ページをご確認ください。"},
+   {"icon":"🖼️","title":"丸尾記念館など地域の文化資産も","body":"御前崎市丸尾記念館をはじめ、地域の歴史・文化を伝える施設もあります。企画展や開館日は個別に確認しましょう。"}
+  ],
+  "qa": [
+   {"question":"御前崎市文化会館はまだ使えますか。","answer":"御前崎市文化会館は閉館しています。ホール利用は<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/omaezakishiminkaikan.html\" target=\"_blank\" rel=\"noopener\">御前崎市民会館</a>をご確認ください。"},
+   {"question":"御前崎市民会館の予約方法は。","answer":"御前崎市公共施設予約システムでオンライン予約ができるほか、窓口でも申込みができます。詳細は市民会館ページまたは公益財団法人御前崎市振興公社（0537-63-0195）にお問い合わせください。"},
+   {"question":"文化施設の一覧はどこで見られますか。","answer":"<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/index.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイトの文化施設ページ</a>に一覧が掲載されています。"},
+   {"question":"会議室だけ借りることはできますか。","answer":"御前崎市民会館には大ホールのほか会議室もあり、目的に応じて個別に借りることができます。料金は利用時間帯や団体区分によって異なります。"},
+   {"question":"市外在住でも利用できますか。","answer":"利用は可能ですが、多くの施設で市外利用者向けの割増料金（10%程度）が設定されています。詳細は各施設の料金表でご確認ください。"},
+   {"question":"問い合わせ先はどこですか。","answer":"御前崎市民会館の管理は公益財団法人御前崎市振興公社が行っています。電話0537-63-0195、または市役所代表0537-85-1111です。"}
+  ],
+  "tabs": [
+   {"id":"type-hall","label":"ホールを借りたい","heading":"コンサート・式典・発表会などで大ホールを使いたい方","bullets":["御前崎市民会館の大ホールは703人収容です","午前・午後・夜間の3区分で料金が設定されています","予約は公共施設予約システムまたは窓口で行えます"],
+    "actions":[{"label":"御前崎市民会館ページを見る","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/omaezakishiminkaikan.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-room","label":"会議室・研修室を借りたい","heading":"講座・会議・サークル活動などの会場を探す方","bullets":["市民会館には大小の会議室があります","地区センターの会議室・和室も利用できます","収容人数や設備は施設ごとに異なります"],
+    "actions":[{"label":"地区センターページを見る","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/chiku_center/chiku_center.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-list","label":"文化施設を一覧で確認したい","heading":"どんな文化施設があるか知りたい方","bullets":["図書館・市民会館・地域の記念館などが分類されています","各施設ページで所在地・電話番号を確認できます","閉館施設の情報が残っている場合があるので要確認です"],
+    "actions":[{"label":"文化施設一覧ページ","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/index.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-contact","label":"予約・料金を問い合わせたい","heading":"具体的な予約や料金を確認したい方","bullets":["公共施設予約システムで空き状況を24時間確認できます","料金は利用目的（営利・非営利）で異なります","不明点は管理団体または市役所に電話しましょう"],
+    "actions":[{"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/","source":"御前崎市公共施設予約システム"}]}
+  ],
+  "steps": {
+   "today": ["利用したい施設（ホール・会議室等）を決める","公共施設予約システムで空き状況を確認する"],
+   "this_week": ["料金表・利用条件を施設ページで確認する","必要に応じて振興公社(0537-63-0195)や市役所(0537-85-1111)に問い合わせる"],
+   "outside": ["予約システムまたは窓口で申込みを行う","利用当日は鍵の受け取り方法（スマートロック等）を確認する"]
+  },
+  "action_grid": [
+   {"label":"文化施設一覧（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/index.html"},
+   {"label":"御前崎市民会館","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/sports_bunka/bunka_gejutsu/bunkashisetsu/omaezakishiminkaikan.html"},
+   {"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/"},
+   {"label":"市役所へ電話","href":"tel:0537-85-1111"}
+  ]
+ },
+ {
+  "href": "/life/play-out/sports-facilities/",
+  "lead": "御前崎市のスポーツ施設は、浜岡総合運動場・御前崎運動場・市民プールぷるる・B&G海洋センターの4施設が中心です。種目によって使える施設が異なり、予約は公共施設予約システムまたは各管理事務所窓口で行います。持ち物や利用時間帯を事前に確認してから出かけましょう。",
+  "note": "料金・利用時間は施設や時間帯（午前・午後・夜間）で細かく分かれています。最新の料金表は各施設ページのPDFで確認してください。",
+  "real_cards": [
+   {"icon":"⚾","title":"浜岡総合運動場は野球場中心の総合施設","body":"池新田444番地にあります。野球場のほか各種グラウンドがあり、借用申請は運動場野球場管理事務所の窓口（8時30分〜17時、郵送・FAX不可）で受け付けています。"},
+   {"icon":"🏃","title":"御前崎運動場は無人管理","body":"白羽7174番地にある運動場で、窓口が無人のためB&G海洋センターで申請を受け付けています。利用前に必ずB&G海洋センターへ確認しましょう。"},
+   {"icon":"🌊","title":"B&G海洋センターは体育館・プールも併設","body":"御前崎46番地30にあり、体育館とプールを備えた複合スポーツ施設です。時間帯は午前・午後・夜間の3区分制です。"},
+   {"icon":"📱","title":"公共施設予約システムでオンライン予約","body":"多くのスポーツ施設が御前崎市公共施設予約システムに対応しており、24時間いつでも空き状況の確認とオンライン予約ができます。スマートロックによる鍵の受け取りにも対応しています。"}
+  ],
+  "qa": [
+   {"question":"体育館を借りるにはどうすればいいですか。","answer":"<a href=\"https://omaezaki.comp-re.com/\" target=\"_blank\" rel=\"noopener\">御前崎市公共施設予約システム</a>でオンライン予約するか、各施設の管理事務所窓口で申請してください。"},
+   {"question":"御前崎運動場はどこで申し込みますか。","answer":"御前崎運動場自体は無人のため、B&G海洋センター（0548-63-3133）で借用申請を行います。"},
+   {"question":"浜岡総合運動場の申込み方法は。","answer":"運動場野球場管理事務所の窓口で借用申請書を提出します。受付は8時30分〜17時で、郵送・FAXでの申請はできません。"},
+   {"question":"利用料金はいくらですか。","answer":"施設・時間帯（午前・午後・夜間）・市内外の区分で料金が異なります。各施設ページに掲載の料金表PDFでご確認ください。"},
+   {"question":"個人でも利用できますか。","answer":"施設によって個人利用・団体利用の扱いが異なります。詳しくは各施設や<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/sports/sportsshisetsu/taiku.html\" target=\"_blank\" rel=\"noopener\">体育施設ページ</a>でご確認ください。"},
+   {"question":"休館日はいつですか。","answer":"多くの施設が月曜日・年末年始・祝日を休館日としています。詳細は各施設ページでご確認ください。"}
+  ],
+  "tabs": [
+   {"id":"type-ball","label":"野球・グラウンドを使いたい","heading":"野球場・運動場を利用したい方","bullets":["浜岡総合運動場は運動場野球場管理事務所窓口で申請します","御前崎運動場はB&G海洋センターで申請を受け付けています","受付時間は8時30分〜17時で郵送・FAXは不可です"],
+    "actions":[{"label":"浜岡総合運動場ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1688.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-gym","label":"体育館・室内競技を使いたい","heading":"バレーボール・バスケットボール等の室内競技","bullets":["B&G海洋センターに体育館が併設されています","公共施設予約システムでオンライン予約が可能です","利用時間は午前・午後・夜間の3区分制です"],
+    "actions":[{"label":"B&G海洋センターページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1515.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-book","label":"予約システムを使いたい","heading":"オンラインで空き状況を確認・予約したい方","bullets":["24時間365日いつでも空き状況の確認ができます","クレジットカードでのキャッシュレス決済に対応しています","スマートロックで窓口に行かずに鍵を受け取れます"],
+    "actions":[{"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/","source":"御前崎市公共施設予約システム"}]},
+   {"id":"type-list","label":"施設一覧・詳細を確認したい","heading":"市内のスポーツ施設全体を把握したい方","bullets":["体育施設ページに4施設の所在地・連絡先がまとまっています","利用料金・休館日も施設ごとに確認できます","不明点は各施設や市役所に電話しましょう"],
+    "actions":[{"label":"体育施設一覧ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/sports/sportsshisetsu/taiku.html","source":"御前崎市公式サイト"}]}
+  ],
+  "steps": {
+   "today": ["利用したい競技・施設を決める","公共施設予約システムで空き状況を確認する"],
+   "this_week": ["必要な施設の管理事務所に申請方法を確認する（浜岡は運動場野球場管理事務所、御前崎運動場はB&G海洋センター）","料金表で費用を確認する"],
+   "outside": ["予約システムまたは窓口で申請を行う","当日は持ち物・受付方法（スマートロック等）を確認して利用する"]
+  },
+  "action_grid": [
+   {"label":"体育施設一覧（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/sports/sportsshisetsu/taiku.html"},
+   {"label":"浜岡総合運動場","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1688.html"},
+   {"label":"B&G海洋センター","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1515.html"},
+   {"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/"}
+  ]
+ },
+ {
+  "href": "/life/play-out/swimming-pools/",
+  "lead": "御前崎市の屋内プールは市民プール「すいすいパークぷるる」（宮内）が中心で、年中利用できます。夏季にはB&G海洋センターの屋外プールや、マリンパーク御前崎海水浴場も開設されます。目的（通年利用か夏の海水浴か）に応じて行き先を選びましょう。",
+  "note": "海水浴場の開設期間は年によって変わります（例年7月下旬〜8月中旬）。最新の開設期間は必ず公式サイトでご確認ください。",
+  "real_cards": [
+   {"icon":"🏊","title":"市民プール「すいすいパークぷるる」は年中営業","body":"宮内1581-1にあり、月曜と年末年始以外は通年利用できます。屋内25m×6コースプールと子供プールがあり、7〜8月は屋外プール・ウォータースライダーも開放されます。トレーニングルームやサウナ、露天風呂も備えています。"},
+   {"icon":"💴","title":"料金は年齢区分・市内外で異なる","body":"3歳〜中学生は400円（市内外同額）、高校生・大人は市内800円/市外1,000円、70歳以上は市内600円/市外800円です（要最新確認）。駐車場は無料です。"},
+   {"icon":"🏖️","title":"夏はマリンパーク御前崎海水浴場が開設","body":"御前崎港東側にある遠浅で穏やかな入り江の海水浴場です。例年7月下旬〜8月中旬に開設され、期間中はライフセーバーが配置されシャワーも利用できます。"},
+   {"icon":"🌊","title":"B&G海洋センターにも屋外プールがある","body":"御前崎46番地30の複合スポーツ施設で、体育館とプールが併設されています。夏季利用の詳細は施設に直接確認しましょう。"}
+  ],
+  "qa": [
+   {"question":"市民プールはいつ営業していますか。","answer":"「すいすいパークぷるる」は年中営業で、月曜日と年末年始のみ休館です。夏季（7・8月）は営業時間が延びます。詳細は<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/pururu.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイト</a>でご確認ください。"},
+   {"question":"料金はいくらですか。","answer":"3歳〜中学生400円、高校生・大人は市内800円/市外1,000円、70歳以上は市内600円/市外800円が目安です（時期により変更の可能性があるため要確認）。"},
+   {"question":"海水浴場はいつからいつまで開いていますか。","answer":"マリンパーク御前崎海水浴場は例年7月下旬〜8月中旬に開設されます。年によって日程が変わるため、開設前に<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイト</a>で最新の開設期間をご確認ください。"},
+   {"question":"駐車場はありますか。","answer":"すいすいパークぷるるは無料駐車場があります。マリンパーク御前崎も駐車場がありますが、混雑時は台数に限りがあるため早めの来場がおすすめです。"},
+   {"question":"持ち物は何が必要ですか。","answer":"水着・水泳帽（施設によっては必須）・タオルが基本です。海水浴の場合はビーチサンダルや日焼け対策も準備しましょう。詳細は各施設にご確認ください。"},
+   {"question":"問い合わせ先はどこですか。","answer":"すいすいパークぷるるは0537-63-0195です。マリンパーク御前崎・海水浴場については商工観光課（0537-85-1135）にお問い合わせください。"}
+  ],
+  "tabs": [
+   {"id":"type-indoor","label":"通年で泳ぎたい","heading":"屋内プールを年間通じて利用したい方","bullets":["すいすいパークぷるるは月曜・年末年始以外は営業しています","25m×6コースの屋内プールと子供プールがあります","トレーニングルーム・サウナ・露天風呂も併設されています"],
+    "actions":[{"label":"すいすいパークぷるるページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/pururu.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-summer","label":"夏だけ屋外プールを楽しみたい","heading":"夏季限定の屋外プール・ウォータースライダーを使いたい方","bullets":["7・8月は営業時間が延長されます（9時30分〜21時、屋外プールは16時50分まで）","屋外プールとウォータースライダーが開放されます","B&G海洋センターの屋外プールも夏季利用できます"],
+    "actions":[{"label":"B&G海洋センターページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1515.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-beach","label":"海水浴場に行きたい","heading":"マリンパーク御前崎で海水浴を楽しみたい方","bullets":["御前崎港東側の遠浅で穏やかな入り江です","例年7月下旬〜8月中旬に開設されます","期間中はライフセーバー配置・シャワー利用が可能です"],
+    "actions":[{"label":"マリンパーク御前崎ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-contact","label":"料金・開設期間を問い合わせたい","heading":"最新情報を直接確認したい方","bullets":["プールの営業状況はすいすいパークぷるるに直接確認できます","海水浴場の開設期間は商工観光課が窓口です","年によって日程・料金が変わる場合があります"],
+    "actions":[{"label":"すいすいパークぷるるへ電話","href":"tel:0537-63-0195","source":"御前崎市民プールぷるる"}]}
+  ],
+  "steps": {
+   "today": ["行きたい先（通年プールか海水浴場か）を決める","営業日・開設期間を公式サイトで確認する"],
+   "this_week": ["料金・持ち物（水着、タオル等）を準備する","駐車場の有無・混雑状況を確認する"],
+   "outside": ["当日は開館時間内に来場する","海水浴の場合は天候・遊泳可否を当日確認する"]
+  },
+  "action_grid": [
+   {"label":"市民プールぷるる（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/pururu.html"},
+   {"label":"マリンパーク御前崎","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html"},
+   {"label":"B&G海洋センター","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1515.html"},
+   {"label":"すいすいパークぷるるへ電話","href":"tel:0537-63-0195"}
+  ]
+ },
+ {
+  "href": "/life/play-out/find-parks/",
+  "lead": "御前崎市には維持管理課が管理する公園を中心に20か所以上の公園があります。大型のあらさわふる里公園から、遊具中心の身近な公園まで幅広く、目的や年齢に応じて選べます。アクセスや駐車場の有無は事前に確認しておくと安心です。",
+  "note": "公園の遊具内容は改修等で変わる場合があります。最新の設備状況は維持管理課（0537-85-1124）にご確認ください。",
+  "real_cards": [
+   {"icon":"🌲","title":"あらさわふる里公園は大型レジャー公園","body":"下朝比奈にあり、バーベキュー場、芝そりゲレンデ、展望タワー、直売所、カフェなどを備えた大型公園です。家族での一日レジャーに向いています。"},
+   {"icon":"🛝","title":"遊具中心の身近な公園も多数","body":"八千代公園（アスレチック遊具・砂場）、長者公園・神子公園・大山自然公園（コンビネーション遊具）、高松緑の森公園（ローラースライダー）など地区ごとに特色ある公園があります。"},
+   {"icon":"🏖️","title":"マリンパーク御前崎は海辺の公園","body":"海水浴場に隣接する公園で、51mの滑り台「タートルスライダー」など遊具も充実しており、夏以外の季節も散策やピクニックに利用されています。"},
+   {"icon":"🚗","title":"公園によって駐車場の規模が異なる","body":"大型公園は駐車場が整っていますが、身近な公園では台数が少ない場合があります。行事の際は混雑するため、公共交通の利用も検討しましょう。"}
+  ],
+  "qa": [
+   {"question":"公園の一覧はどこで見られますか。","answer":"<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html\" target=\"_blank\" rel=\"noopener\">御前崎市内の公園一覧（維持管理課管轄）</a>で確認できます。"},
+   {"question":"子どもと行くならどの公園がおすすめですか。","answer":"遊具が充実した比木こども公園や八千代公園、高松緑の森公園などが人気です。詳しくは公園一覧ページでご確認ください。"},
+   {"question":"あらさわふる里公園ではバーベキューができますか。","answer":"できます。14基のバーベキュー施設があり、手ぶらでの利用も可能です（要予約）。詳細は0537-85-8230にお問い合わせください。"},
+   {"question":"駐車場はありますか。","answer":"多くの公園に駐車場がありますが、規模は施設によって異なります。イベント時は混雑することがあるため、早めの来園がおすすめです。"},
+   {"question":"公園の管理窓口はどこですか。","answer":"多くの公園は維持管理課が管轄しています。電話0537-85-1124にお問い合わせください。運動場を兼ねる公園は担当課が異なる場合があります。"},
+   {"question":"ペットを連れて行けますか。","answer":"公園によってルールが異なります。リード着用やマナーの徹底など、各公園の掲示に従ってご利用ください。"}
+  ],
+  "tabs": [
+   {"id":"type-big","label":"一日遊べる大型公園に行きたい","heading":"家族でレジャーを楽しみたい方","bullets":["あらさわふる里公園はバーベキュー・芝そり・直売所を備えています","展望タワーからの景色やビオトープでの自然体験もできます","予約が必要な設備（バーベキュー等）は事前連絡しましょう"],
+    "actions":[{"label":"あらさわふる里公園ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1638.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-nearby","label":"近所で気軽に遊びたい","heading":"身近な公園で少し遊びたい方","bullets":["各地区に遊具付きの公園が点在しています","八千代公園・長者公園・神子公園などが遊具充実です","公園一覧ページで住まいに近い公園を探せます"],
+    "actions":[{"label":"公園一覧を見る","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-beach","label":"海の景色を楽しみたい","heading":"海辺の公園を訪れたい方","bullets":["マリンパーク御前崎は海水浴場に隣接する公園です","タートルスライダーなど遊具も充実しています","夏以外の季節も散策やピクニックにおすすめです"],
+    "actions":[{"label":"マリンパーク御前崎ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-contact","label":"公園の管理状況を問い合わせたい","heading":"遊具の安全性や利用ルールを確認したい方","bullets":["維持管理課が公園全般の窓口です","遊具の破損等に気づいた場合も連絡しましょう","公園ごとの利用ルールは掲示物で確認できます"],
+    "actions":[{"label":"維持管理課へ電話","href":"tel:0537-85-1124","source":"御前崎市維持管理課"}]}
+  ],
+  "steps": {
+   "today": ["目的（レジャーか近所での遊びか）に合う公園を選ぶ","駐車場の有無・アクセスを確認する"],
+   "this_week": ["天候や混雑状況を踏まえて訪問日を決める","バーベキュー等予約が必要な設備は事前連絡する"],
+   "outside": ["当日は持ち物（飲み物・タオル・虫よけ等）を準備する","遊具の対象年齢や利用ルールを守って楽しむ"]
+  },
+  "action_grid": [
+   {"label":"公園一覧（維持管理課管轄）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html"},
+   {"label":"あらさわふる里公園","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1638.html"},
+   {"label":"マリンパーク御前崎","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html"},
+   {"label":"維持管理課へ電話","href":"tel:0537-85-1124"}
+  ]
+ },
+ {
+  "href": "/life/play-out/kids-playgrounds/",
+  "lead": "小さな子どもと出かける遊び場を選ぶときは、年齢に合った遊具があるか、天候（屋内か屋外か）、自宅からのアクセスの3点で選ぶのがおすすめです。御前崎市では比木こども公園など遊具中心の公園のほか、雨天時は市民プールぷるるの屋内施設なども選択肢になります。",
+  "note": "遊具の対象年齢は施設の掲示で必ず確認してください。天候急変時は無理せず屋内施設への切り替えを検討しましょう。",
+  "real_cards": [
+   {"icon":"🧒","title":"比木こども公園は遊具が充実","body":"比木地区にあり、アスレチック遊具・トンネル滑り台・砂場を備えています。名前のとおり子ども向けの公園として整備されています。"},
+   {"icon":"🎠","title":"地区ごとにコンビネーション遊具の公園がある","body":"長者公園・神子公園・大山自然公園・けやき広場・丸塚公園などにコンビネーション遊具（複合遊具）があります。お住まいの地区に近い公園を探すのがおすすめです。"},
+   {"icon":"🌳","title":"あらさわふる里公園は一日遊べる","body":"芝そりゲレンデなど、体を使って遊べる設備がある大型公園です。飲食もできるため、お弁当を持たずに出かけられる日にも便利です。"},
+   {"icon":"☔","title":"雨の日はプールや屋内施設も選択肢","body":"天候が悪い日はすいすいパークぷるるの屋内プールや、地区センターの屋内スペースの利用も検討できます。"}
+  ],
+  "qa": [
+   {"question":"未就学児でも遊べる公園はありますか。","answer":"比木こども公園や砂場のある丸塚公園など、小さな子ども向けの遊具がある公園があります。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html\" target=\"_blank\" rel=\"noopener\">公園一覧ページ</a>でご確認ください。"},
+   {"question":"雨の日でも遊べる場所はありますか。","answer":"すいすいパークぷるるの屋内プールや、屋根付きの地区センター等が候補になります。詳細は各施設にお問い合わせください。"},
+   {"question":"駐車場から近い遊び場はどこですか。","answer":"あらさわふる里公園やマリンパーク御前崎は駐車場が整備されています。身近な公園は台数が少ない場合があるため事前確認をおすすめします。"},
+   {"question":"授乳室やおむつ替えスペースはありますか。","answer":"施設によって設備が異なります。大型施設（すいすいパークぷるる、あらさわふる里公園等）は設備が整っている場合が多いですが、事前に施設へご確認ください。"},
+   {"question":"遊具の対象年齢はどこで確認できますか。","answer":"各遊具に掲示されている対象年齢表示をご確認ください。不明な場合は維持管理課（0537-85-1124）にお問い合わせください。"},
+   {"question":"公園の安全点検は行われていますか。","answer":"維持管理課が定期的に公園・遊具の点検を行っています。破損等に気づいた場合はご連絡ください。"}
+  ],
+  "tabs": [
+   {"id":"type-toddler","label":"未就学児と行きたい","heading":"小さな子ども向けの遊び場を探す方","bullets":["比木こども公園はアスレチック・滑り台・砂場が揃っています","丸塚公園にはブランコ・砂場もあります","対象年齢の表示を必ず確認しましょう"],
+    "actions":[{"label":"公園一覧を見る","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-active","label":"体を動かして遊びたい","heading":"活発に遊びたい小学生くらいの子ども","bullets":["あらさわふる里公園の芝そりゲレンデが人気です","高松緑の森公園のローラースライダーもおすすめです","広い公園なので走り回るのにも向いています"],
+    "actions":[{"label":"あらさわふる里公園ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1638.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-rain","label":"雨の日でも遊びたい","heading":"天候が悪い日の遊び場を探す方","bullets":["すいすいパークぷるるの屋内プールが利用できます","地区センターの屋内スペースも選択肢になります","天候に応じて柔軟に行き先を切り替えましょう"],
+    "actions":[{"label":"すいすいパークぷるるページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/pururu.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-safety","label":"安全面を確認したい","heading":"遊具の安全性や対象年齢を確認したい方","bullets":["維持管理課が公園・遊具の点検窓口です","破損や不具合を見つけたら連絡しましょう","対象年齢表示を守って利用しましょう"],
+    "actions":[{"label":"維持管理課へ電話","href":"tel:0537-85-1124","source":"御前崎市維持管理課"}]}
+  ],
+  "steps": {
+   "today": ["子どもの年齢に合う遊具がある公園を選ぶ","天候を確認し屋内・屋外どちらにするか決める"],
+   "this_week": ["駐車場やおむつ替え等の設備を事前に確認する","持ち物（飲み物、着替え、日よけ等）を準備する"],
+   "outside": ["当日は対象年齢・利用ルールを守って遊ぶ","異常があれば維持管理課に連絡する"]
+  },
+  "action_grid": [
+   {"label":"公園一覧（維持管理課管轄）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html"},
+   {"label":"あらさわふる里公園","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/koen_sports/1638.html"},
+   {"label":"すいすいパークぷるる","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/pururu.html"},
+   {"label":"維持管理課へ電話","href":"tel:0537-85-1124"}
+  ]
+ },
+ {
+  "href": "/life/play-out/facilities-library-parks/",
+  "lead": "御前崎市の公共施設は「公共施設リスト」から目的別・地区別に探せます。図書館・体育施設・地区センター・公園など150以上の施設が分類されているので、まずは目的（借りる、遊ぶ、運動する等）を決めて、該当のカテゴリページから絞り込みましょう。",
+  "note": "施設情報は統廃合や名称変更で更新されることがあります。訪問前に必ず最新の公式ページで所在地・連絡先を確認してください。",
+  "real_cards": [
+   {"icon":"🗂️","title":"公共施設リストが総合案内","body":"御前崎市公式サイトの「公共施設リスト」に、教育・福祉・スポーツ・文化などカテゴリ別に150以上の施設情報がまとめられています。"},
+   {"icon":"🔍","title":"「施設を探す」ページも便利","body":"公民館・地区センター、観光施設、スポーツ施設など目的別に整理されたページがあり、初めての人でも探しやすくなっています。"},
+   {"icon":"📍","title":"地区センターが8か所の身近な拠点","body":"池新田・高松・佐倉・比木・朝比奈・新野・御前崎・白羽の8地区にセンターがあり、会議室や体育館など地域活動の拠点になっています。"},
+   {"icon":"📱","title":"多くの施設が予約システムに対応","body":"御前崎市公共施設予約システムで、地区センターやスポーツ施設、市民会館などの空き状況確認・予約がオンラインでできます。"}
+  ],
+  "qa": [
+   {"question":"施設の一覧はどこで見られますか。","answer":"<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/kokyo.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイトの公共施設リスト</a>でカテゴリ別に確認できます。"},
+   {"question":"図書館・体育館・公園をまとめて探せますか。","answer":"できます。<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/shisetsu/index.html\" target=\"_blank\" rel=\"noopener\">施設を探すページ</a>から目的別にリンクをたどれます。"},
+   {"question":"地区センターとは何ですか。","answer":"地域活動の拠点となる施設で、会議室や体育館を備えています。市内8地区にあり、9時〜21時30分まで利用できます。"},
+   {"question":"施設の予約はまとめてできますか。","answer":"多くの施設が御前崎市公共施設予約システムに対応しており、1つのアカウントで複数施設の空き状況確認・予約ができます。"},
+   {"question":"施設ごとの電話番号はどこで分かりますか。","answer":"公共施設リストの各施設欄に電話番号・所在地・ファックス番号が掲載されています。"},
+   {"question":"問い合わせ先はどこですか。","answer":"施設全般の問い合わせは各施設の窓口、システムの操作については御前崎市デジタル推進課（0537-85-1127）にご相談ください。"}
+  ],
+  "action_grid": [
+   {"label":"公共施設リスト（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/kokyo.html"},
+   {"label":"施設を探す","href":"https://www.city.omaezaki.shizuoka.jp/kurashi/shisetsu/index.html"},
+   {"label":"地区センター","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/chiku_center/chiku_center.html"},
+   {"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/"}
+  ]
+ },
+ {
+  "href": "/life/play-out/rent-public-facilities/",
+  "lead": "御前崎市の公共施設を借りるには、御前崎市公共施設予約システムでのオンライン予約か、各施設窓口での申請のいずれかの方法があります。地区センター・市民会館・スポーツ施設など施設ごとに手続きや料金が異なるため、利用条件を事前に確認しましょう。",
+  "note": "予約システムの利用にはxIDアプリ等での利用者登録が必要です。個人と団体で登録方法が異なるため、公式サイトの利用ガイドを確認してください。",
+  "real_cards": [
+   {"icon":"💻","title":"公共施設予約システムでオンライン予約","body":"24時間365日、空き状況の確認とオンライン予約ができます。クレジットカード決済に対応し、施設によってはスマートロックで窓口に行かずに鍵を受け取れます。"},
+   {"icon":"🪪","title":"利用にはxIDアプリでの登録が必要","body":"個人利用の場合はxIDアプリで、団体利用の場合は所定の方法で利用者登録を行います。登録方法の動画ガイドが公式サイトで公開されています。"},
+   {"icon":"🏢","title":"施設ごとに窓口申請も可能","body":"浜岡総合運動場（運動場野球場管理事務所）や地区センター等では、従来どおり窓口での申請も受け付けています。郵送・FAXでの申請は不可な施設もあるため注意しましょう。"},
+   {"icon":"💴","title":"料金は施設・時間帯・営利非営利で異なる","body":"午前・午後・夜間の時間区分や、市内・市外、営利・非営利の区分で料金が変わります。各施設の料金表PDFで確認しましょう。"}
+  ],
+  "qa": [
+   {"question":"施設を借りるにはどうすればいいですか。","answer":"<a href=\"https://omaezaki.comp-re.com/\" target=\"_blank\" rel=\"noopener\">御前崎市公共施設予約システム</a>でオンライン予約するか、各施設の窓口で申請してください。"},
+   {"question":"予約システムを使うには何が必要ですか。","answer":"個人利用の場合はxIDアプリでの利用者登録が必要です。団体利用の場合も別途登録手続きがあります。詳細は<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/digital/joho_kojinjoho/10399.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式ページ</a>でご確認ください。"},
+   {"question":"鍵はどうやって受け取りますか。","answer":"スマートロック対応施設では、予約後に発行される暗証番号をキーボックスに入力して鍵を取り出せます。対応していない施設は窓口での受け渡しになります。"},
+   {"question":"郵送やFAXで申請できますか。","answer":"施設によります。例えば浜岡総合運動場の借用申請は窓口のみで、郵送・FAXでの受付は行っていません。"},
+   {"question":"料金はどこで確認できますか。","answer":"各施設の公式ページに料金表（PDF）が掲載されています。時間帯・市内外・営利非営利の区分で異なるため確認してください。"},
+   {"question":"予約システムの操作で困ったら誰に相談すればいいですか。","answer":"御前崎市デジタル推進課（電話0537-85-1127、メールdigital@city.omaezaki.shizuoka.jp）にお問い合わせください。"}
+  ],
+  "tabs": [
+   {"id":"type-online","label":"オンラインで予約したい","heading":"公共施設予約システムを使いたい方","bullets":["24時間いつでも空き状況の確認・予約ができます","クレジットカードでのキャッシュレス決済に対応しています","事前にxIDアプリ等での利用者登録が必要です"],
+    "actions":[{"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/","source":"御前崎市公共施設予約システム"}]},
+   {"id":"type-window","label":"窓口で申請したい","heading":"直接窓口で手続きしたい方","bullets":["浜岡総合運動場は運動場野球場管理事務所窓口で申請します","地区センターは各センターの窓口（平日8時15分〜17時）で申請できます","郵送・FAXでの申請ができない施設もあります"],
+    "actions":[{"label":"地区センターページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/chiku_center/chiku_center.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-fee","label":"料金を確認したい","heading":"利用にかかる費用を知りたい方","bullets":["時間帯（午前・午後・夜間）で料金が異なります","市内・市外、営利・非営利でも料金区分があります","各施設ページのPDF料金表で詳細を確認できます"],
+    "actions":[{"label":"体育施設一覧ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/sports/sportsshisetsu/taiku.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-support","label":"予約システムの使い方が分からない","heading":"操作や登録方法で困っている方","bullets":["利用者登録編・予約編の動画ガイドが用意されています","個人と団体で登録方法が異なります","不明点はデジタル推進課に電話で相談できます"],
+    "actions":[{"label":"デジタル推進課へ電話","href":"tel:0537-85-1127","source":"御前崎市デジタル推進課"}]}
+  ],
+  "steps": {
+   "today": ["借りたい施設と利用日時の候補を決める","公共施設予約システムで空き状況を確認する"],
+   "this_week": ["未登録の場合はxIDアプリ等で利用者登録を行う","料金表で費用を確認する"],
+   "outside": ["予約システムまたは窓口で正式に申し込む","当日の鍵の受け取り方法（スマートロック/窓口）を確認する"]
+  },
+  "action_grid": [
+   {"label":"公共施設予約システム","href":"https://omaezaki.comp-re.com/"},
+   {"label":"予約システムの案内（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/digital/joho_kojinjoho/10399.html"},
+   {"label":"地区センター","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/chiku_center/chiku_center.html"},
+   {"label":"デジタル推進課へ電話","href":"tel:0537-85-1127"}
+  ]
+ },
+ {
+  "href": "/life/play-out/parking-access/",
+  "lead": "御前崎市の公共施設は市内に広く点在しており、施設によって駐車場の規模やアクセス経路が異なります。大型施設は駐車場が整っていますが、身近な公園や地区センターは台数に限りがある場合があるため、行事の際は早めの来場や公共交通の利用を検討しましょう。",
+  "note": "駐車場の台数や無料・有料の別は施設によって異なります。最新情報は各施設のページまたは電話で確認してください。",
+  "real_cards": [
+   {"icon":"🅿️","title":"すいすいパークぷるるは無料駐車場あり","body":"市民プールには無料の駐車場が整備されています。夏季の混雑期は満車になることもあるため、早めの来場がおすすめです。"},
+   {"icon":"🚙","title":"あらさわふる里公園・マリンパーク御前崎も駐車場完備","body":"大型のレジャー施設は駐車場が整備されていますが、イベント開催時は混雑するため時間に余裕を持って向かいましょう。"},
+   {"icon":"🚌","title":"公共交通（自主運行バス等）も選択肢","body":"御前崎市内は自主運行バスなどの公共交通も運行しています。駐車場が少ない施設に行く場合は公共交通の利用も検討しましょう。"},
+   {"icon":"🗺️","title":"施設マップで場所を事前確認","body":"御前崎市公式サイトの施設マップで、施設の位置関係やアクセスルートを事前に把握しておくと迷わずに済みます。"}
+  ],
+  "qa": [
+   {"question":"駐車場の台数はどこで確認できますか。","answer":"各施設の公式ページに駐車場の有無や台数が記載されている場合があります。記載がない場合は施設に直接お問い合わせください。"},
+   {"question":"駐車場は無料ですか。","answer":"多くの公共施設は無料駐車場を備えていますが、施設によって異なります。すいすいパークぷるるは無料です。"},
+   {"question":"公共交通で行くことはできますか。","answer":"御前崎市は自主運行バス等の公共交通を運行しています。詳細は<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11372.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式サイトの公共交通ページ</a>でご確認ください。"},
+   {"question":"イベント時は駐車場が混みますか。","answer":"夏祭りや海水浴シーズンなど、イベント時は駐車場が混雑し、乗り合わせでの来場を呼びかけられることがあります。事前に公式サイトの案内をご確認ください。"},
+   {"question":"施設の場所を地図で確認したい場合は。","answer":"御前崎市公式サイトの施設マップページで施設の位置を確認できます。"},
+   {"question":"アクセスについて問い合わせたい場合はどこに連絡すればいいですか。","answer":"施設ごとの窓口、または御前崎市役所代表（0537-85-1111）にお問い合わせください。"}
+  ],
+  "tabs": [
+   {"id":"type-car","label":"車で行きたい","heading":"駐車場の有無・台数を確認したい方","bullets":["大型施設は無料駐車場が整備されています","身近な公園・地区センターは台数が少ない場合があります","イベント時は乗り合わせや早めの来場がおすすめです"],
+    "actions":[{"label":"施設マップを見る","href":"https://www.city.omaezaki.shizuoka.jp/shisetsu.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-bus","label":"公共交通で行きたい","heading":"車を使わずに施設へ行きたい方","bullets":["御前崎市は自主運行バスを運行しています","ルート・時刻表は公式サイトで確認できます","駐車場が少ない施設への訪問におすすめです"],
+    "actions":[{"label":"公共交通ページ","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11372.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-map","label":"場所を事前に確認したい","heading":"施設の位置関係を把握したい方","bullets":["施設マップで全施設の位置を確認できます","公共施設リストにも所在地が掲載されています","訪問前にルートを確認しておくと安心です"],
+    "actions":[{"label":"公共施設リスト","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/kokyo.html","source":"御前崎市公式サイト"}]},
+   {"id":"type-contact","label":"アクセスを問い合わせたい","heading":"直接確認したい方","bullets":["各施設の窓口に直接問い合わせるのが確実です","イベント時の交通規制情報も事前に確認しましょう","市役所代表でも案内を受けられます"],
+    "actions":[{"label":"市役所へ電話","href":"tel:0537-85-1111","source":"御前崎市役所"}]}
+  ],
+  "steps": {
+   "today": ["訪問したい施設の駐車場情報を公式ページで確認する","混雑が予想される場合は公共交通も検討する"],
+   "this_week": ["施設マップでアクセスルートを確認する","イベント時は交通規制・臨時駐車場の有無を確認する"],
+   "outside": ["当日は余裕を持って出発する","満車の場合の代替駐車場や公共交通も想定しておく"]
+  },
+  "action_grid": [
+   {"label":"施設マップ（御前崎市公式サイト）","href":"https://www.city.omaezaki.shizuoka.jp/shisetsu.html"},
+   {"label":"公共交通","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11372.html"},
+   {"label":"公共施設リスト","href":"https://www.city.omaezaki.shizuoka.jp/soshiki/somu/kokyo.html"},
+   {"label":"市役所へ電話","href":"tel:0537-85-1111"}
+  ]
+ }
+]
