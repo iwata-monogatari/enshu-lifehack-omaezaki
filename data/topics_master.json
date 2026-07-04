@@ -151,7 +151,7 @@
     "label": "学校・園情報"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/gakko/index.html",
@@ -177,7 +177,9 @@
    "high_school": "静岡県立池新田高等学校"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトの学校一覧・通学区域一覧ページをWebFetchで確認。学校教育課の直通電話番号は「市役所等電話番号案内」ページの検索結果で確認（0537-29-8734）。"
+  "ai_notes": "御前崎市公式サイトの学校一覧・通学区域一覧ページをWebFetchで確認。学校教育課の直通電話番号は「市役所等電話番号案内」ページの検索結果で確認（0537-29-8734）。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/",
@@ -250,7 +252,7 @@
     "label": "子育てに関する悩み・相談"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/index.html",
@@ -269,7 +271,9 @@
    "schedule": "確認中（要確認）。就学時健康診断の専用告知ページは検索で確認できず、実施時期・会場は例年秋頃と推定されるが年度により異なるため学校教育課への確認を推奨"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイト内に就学時健康診断・就学相談の専用ページが検索で見つからなかったため、実施時期・詳細は断定せず「確認中」と明記。窓口（学校教育課）と関連の教育相談ページは確認済み。"
+  "ai_notes": "御前崎市公式サイト内に就学時健康診断・就学相談の専用ページが検索で見つからなかったため、実施時期・詳細は断定せず「確認中」と明記。窓口（学校教育課）と関連の教育相談ページは確認済み。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-district-transfer/",
@@ -299,7 +303,7 @@
     "label": "体験入学願い・保護者変更届"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html",
@@ -323,7 +327,9 @@
    "process": "確認中（要確認）。転校専用の手続き案内ページは検索で見つからず、一般的な流れ（住所異動→在学証明書等の受け渡し→就学手続き）として案内。詳細な必要書類は学校教育課へ要確認"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトに転校専用の手続きページが見当たらず、確定的な手続きフローは断定を避けて一般的な流れの案内とした。窓口(学校教育課)・通学区域一覧・学校一覧は確認済み。"
+  "ai_notes": "御前崎市公式サイトに転校専用の手続きページが見当たらず、確定的な手続きフローは断定を避けて一般的な流れの案内とした。窓口(学校教育課)・通学区域一覧・学校一覧は確認済み。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-expense-support/",
@@ -462,7 +468,7 @@
     "label": "相談・手続き"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html",
@@ -481,7 +487,9 @@
    "method": "公式サイトの通学区域一覧ページで地域ごとの対応校を表形式で確認可能。通常学級・特別支援学級等で区域の扱いが異なる場合あり"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "通学区域一覧ページをWebFetchで内容確認済み。学校教育課の直通番号を確認。"
+  "ai_notes": "通学区域一覧ページをWebFetchで内容確認済み。学校教育課の直通番号を確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/study-facilities/",
@@ -574,7 +582,30 @@
     "label": "申請書ダウンロード"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/koteishisan/risaishoumei.html",
+    "label": "罹災証明書等の発行について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/bosai/saigaitaisaku/hisaisyasien.html",
+    "label": "被災者支援について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "税務課（り災証明書・被災証明書）／危機管理課（被災者支援全般）",
+   "tel": "0537-85-1114（税務課）／0537-85-1119（危機管理課）",
+   "hours": "平日8時15分〜17時00分（土・日・祝日を除く）",
+   "documents": "罹災証明交付申請書または被災証明交付申請書、被害箇所および建物全体が分かる写真",
+   "support": "被害の程度に応じた税の減免・国民健康保険税の軽減・災害見舞金等（詳細は被災者支援チェックリストで確認）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "税務課の「罹災証明書等の発行について」ページと危機管理課の「被災者支援について」ページをWebFetchで実在確認。申請窓口・受付時間・必要書類（写真）を確認済み。令和7年台風15号の際の案内が最新事例として掲載されていた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/disaster-mail-line/",
@@ -617,7 +648,35 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/bosaimail.html",
+    "label": "防災メールについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/bousaiapuri.html",
+    "label": "御前崎市防災アプリについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/1/9832.html",
+    "label": "同報系防災行政無線について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "register": "「bousai.omaezaki-city@raiden3.ktaiwork.jp」へ空メール送信、返信URLから配信情報を選択（無料）",
+   "content": "市内震度3以上の地震情報、津波警報・注意報、市内の気象警報・注意報、土砂災害警戒情報、県内の竜巻注意情報等",
+   "line_official": "確認中（要確認。磐田市のようなLINE公式アカウントでの防災配信の有無は未確認）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "防災メールについてのページをWebFetchで実在確認し、空メール登録方式・配信内容を確認済み。防災アプリ・防災行政無線のページも実在確認。LINEでの防災情報配信の有無は公式サイト上で確認できなかったため確認中扱いとした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/earthquake/",
@@ -676,7 +735,35 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/index.html",
+    "label": "防災・ハザードマップ",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/bosaimap.html",
+    "label": "御前崎市防災マップについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/index.html",
+    "label": "原子力防災",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "tsunami_towers": "御前崎市津波避難タワー（港6185-2、避難高さ+12m、100人収容）、御前崎市池新田津波避難タワー（池新田8665-3、避難高さ+13m、110人収容）の2基",
+   "map_update": "御前崎市防災マップは令和6年3月作成版が最新（発行数15,000部）",
+   "taishin_hojo": "確認中（要確認。住宅耐震化の補助制度の有無・内容は本文で断定せず都市整備課への確認を案内）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "WebSearch/WebFetchで津波避難タワー2基（御前崎・池新田）の所在地・収容人数・避難高さを確認。防災マップ・原子力防災ページも実在確認。住宅耐震補助制度の詳細は公式ページで確認できず確認中扱いとした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/emergency-medical/",
@@ -707,7 +794,29 @@
     "label": "救急（静岡県の救急医療・相談窓口）"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/keibo/oshirase/10197.html",
+    "label": "救急相談窓口（#7119）について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kyukyu_iryo/index.html",
+    "label": "救急車の適正利用について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "消防本部警防課",
+   "tel": "0537-85-2656",
+   "hotline_7119": "#7119（令和7年4月1日から24時間対応）",
+   "hotline_8000": "静岡県こども救急電話相談（#8000）。御前崎市公式ページ内には直接の記載は確認できず、静岡県窓口の情報として案内"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "救急相談窓口（#7119）についてのページをWebFetchで実在確認し、24時間対応化（令和7年4月1日〜）と窓口（警防課0537-85-2656）を確認。#8000は御前崎市公式ページに記載がなかったため静岡県の制度として案内。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/evacuation-centers/",
@@ -745,7 +854,34 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www2.wagmap.jp/omaezakicity/Portal",
+    "label": "御前崎市オンライン地図情報サービス「うみかぜマップ」",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/bosaimap.html",
+    "label": "御前崎市防災マップについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/hinanjoho.html",
+    "label": "御前崎市地域防災計画 資料編〈14.避難地・避難所関係〉",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "count": "指定避難所は21施設（例: 御前崎市ふれあい福祉センターなごみ 収容1,515人等、静岡県オープンデータ・地域防災計画資料編で確認）",
+   "note": "災害種別（津波・洪水・土砂災害・地震等）によって使用可否が異なる施設がある"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "うみかぜマップ・防災マップ・地域防災計画資料編（避難地・避難所関係PDF）をWebSearch/WebFetchで実在確認。避難所数は静岡県オープンデータおよび地域防災計画資料編の記載から21施設を把握したが、最新の一覧は防災マップ本体での確認を案内。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/evacuation-hazard-map/",
@@ -783,7 +919,33 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/hinanjoho.html",
+    "label": "避難情報の種類・内容について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/1/hinankodo.html",
+    "label": "災害ごとの避難行動について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/7/hinanjyouhoutounohanndandentatu.pdf",
+    "label": "避難情報等の判断・伝達マニュアル（令和5年1月）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "levels": "警戒レベル1（早期注意情報）〜レベル5（緊急安全確保）の5段階。レベル3で高齢者等避難、レベル4で危険な場所から全員避難"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "避難情報の種類・内容についてのページと災害ごとの避難行動についてのページをWebFetchで実在確認し、警戒レベル1〜5の内容を確認済み。避難情報等の判断・伝達マニュアル（令和5年1月）PDFも実在確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/fire-ambulance/",
@@ -826,7 +988,29 @@
     "label": "磐田市消防本部（施設案内）"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/shobo/index.html",
+    "label": "消防本部・消防署",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kyukyu_iryo/index.html",
+    "label": "救急車の適正利用について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "御前崎市消防本部（1署体制＋白羽出張所）",
+   "tel": "0537-85-2119（消防署）／119番（緊急時）（確認中: 本文未確認 0537-85-2119）",
+   "dispatch": "119番の受信・指令業務は磐田市・掛川市・袋井市・森町・菊川市・御前崎市の5市1町共同運用の中東遠消防指令センター（掛川市）が担当",
+   "established": "2011年4月設置の単独消防"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "消防本部・消防署のページと救急車の適正利用についてのページをWebSearch/WebFetchで実在確認。119番の受付が中東遠消防指令センター（掛川市）の共同運用であることは磐田版等の既存確認情報とcity.jsonの記載を踏襲。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/hazard-maps/",
@@ -873,7 +1057,34 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/bosaimap.html",
+    "label": "御前崎市防災マップについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/8128.html",
+    "label": "御前崎市洪水浸水想定区域について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www2.wagmap.jp/omaezakicity/Portal",
+    "label": "御前崎市オンライン地図情報サービス「うみかぜマップ」",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "map_update": "御前崎市防災マップは令和6年3月作成版が最新",
+   "landslide_map": "土砂災害警戒区域・特別警戒区域はうみかぜマップおよび静岡県の地図システムで確認（御前崎市独自の専用ページは確認中）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "防災マップ・洪水浸水想定区域についてのページをWebFetchで実在確認。うみかぜマップも実在確認済み。土砂災害警戒区域の御前崎市独自の専用ページの有無は確認できず、うみかぜマップ経由の確認を案内した。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/",
@@ -892,7 +1103,22 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/index.html",
+    "label": "防災（御前崎市公式ホームページ）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "防災カテゴリハブページとして御前崎市公式サイトの防災総合案内ページをWebFetchで実在確認。詳細は個別トピック（地震・避難所・ハザードマップ等）で確認済み。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/pet-disaster-prevention/",
@@ -938,7 +1164,27 @@
     "label": "人とペットの災害対策ガイドライン"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/pet/index.html",
+    "label": "ペット",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/index.html",
+    "label": "防災（総合案内）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課（災害時対応）／御前崎市役所担当窓口（日常の飼育相談、代表0537-85-1111）",
+   "tel": "0537-85-1119（確認中: 本文未確認 0537-85-1119）",
+   "shelter_acceptance": "確認中（要確認。避難所でのペット受け入れの具体的な条件は公式サイト上で明確な記載を確認できず）",
+   "note": "過去にペットとの同行避難訓練が実施された記録あり（外部情報源で確認、公式一次情報での確証は今後の課題）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの「ペット」ページをWebFetchで確認したが、防災・同行避難に関する記載は見当たらず（犬の登録・狂犬病予防注射・里親探し等が中心）。同行避難訓練の実施情報は外部情報源のみで確認され、公式一次情報での確証が取れなかったため、避難所受け入れ体制は確認中扱いとした。"
  },
  {
   "href": "/life/emergency/road-river-info/",
@@ -989,7 +1235,28 @@
     "label": "道路情報（工事・通行規制）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/kotsu/10133.html",
+    "label": "災害による道路の通行止めについて",
+    "confidence": "high"
+   },
+   {
+    "url": "https://sipos.pref.shizuoka.jp/",
+    "label": "サイポスレーダー（静岡県土木総合防災情報）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122",
+   "river_level_source": "静岡県サイポスレーダー・国交省「川の防災情報」で確認（御前崎市独自の河川水位観測ページは確認中）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "災害による道路の通行止めについてのページをWebFetchで実在確認（都市整備課0537-85-1122、実際の通行止め事例を確認）。御前崎市独自の河川水位監視システムの有無は確認できず、静岡県のサイポスレーダーでの確認を案内した。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/storm-heavy-rain/",
@@ -1040,7 +1307,28 @@
     "label": "防災（総合案内）"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/hinanjoho.html",
+    "label": "避難情報の種類・内容について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/6/8128.html",
+    "label": "御前崎市洪水浸水想定区域について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0537-85-1119",
+   "levels": "警戒レベル1〜5。レベル3で高齢者等避難、レベル4で危険な場所から全員避難"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "避難情報の種類・内容についてのページと洪水浸水想定区域についてのページをWebFetchで実在確認。警戒レベルの内容はevacuation-hazard-mapトピックと同一情報源で確認済み。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/after-death-procedures/",
@@ -1070,7 +1358,36 @@
     "label": "相続人代表者届"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/hokennenkin/kokuminkenkohoken/konnatoki.html",
+    "label": "こんなときには届出を",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/faq/koteiqa/koteishisan02.html",
+    "label": "固定資産税の支払いは月割りにならないの？",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/gaiyo/soshiki/denwa.html",
+    "label": "市役所等電話番号案内",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課（戸籍・住民記録係）／国保年金室／税務課",
+   "tel": "0537-85-1117（市民課）／0537-85-1171（国保年金室）／0537-85-1114（税務課）（確認中: 本文未確認 0537-85-1117）",
+   "okuyami_corner": "専用のおくやみコーナー設置は公式サイト上で確認できず（確認中）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの市民課・国保年金室・税務課ページと電話番号案内ページをWebFetch/WebSearchで確認。おくやみコーナーの有無は確認できなかったため安全側の表現にした。"
  },
  {
   "href": "/life/end-of-life/bereavement/",
@@ -1096,7 +1413,34 @@
     "label": "戸籍・住民票の届出"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/somei/kosekiyuso.html",
+    "label": "戸籍謄抄本の郵送請求",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/gaiyo/soshiki/denwa.html",
+    "label": "市役所等電話番号案内",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課（戸籍・住民記録係）",
+   "tel": "0537-85-1117",
+   "deadline": "死亡の事実を知った日から7日以内（国外の場合は3か月以内）",
+   "office_note": "御前崎支所（旧御前崎町エリアの窓口）でも一部業務を取り扱う可能性があるが、死亡届の受付体制の詳細は要確認"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "市民課ページと戸籍謄抄本郵送請求ページをWebFetchで実在確認。死亡届の届出期限・提出先は戸籍法の一般的なルールに基づき記載。御前崎支所での死亡届受付可否は公式サイト上で明記が見当たらず断定を避けた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/bereavement-procedures/",
@@ -1127,7 +1471,31 @@
     "label": "墓地・火葬場"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/hokennenkin/kokuminkenkohoken/konnatoki.html",
+    "label": "こんなときには届出を",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/9902.html",
+    "label": "新しい窓口サービスが始まります",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課／国保年金室／税務課／高齢者支援課・福祉課（該当する場合）",
+   "tel": "0537-85-1117（市民課）／0537-85-1171（国保年金室）／0537-85-1114（税務課）（確認中: 本文未確認 0537-85-1117）（確認中: 本文未確認 0537-85-1114）",
+   "okuyami_corner": "専用のおくやみコーナーは確認できず（確認中）。令和6年4月からアバター案内・キオスク端末等のデジタル窓口サービスは導入されている（おくやみ専用ではない）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "「新しい窓口サービスが始まります」ページの内容をWebSearchで確認したところ、アバター総合案内・キオスク端末・セミセルフレジ導入であり、おくやみコーナーではないことを確認。おくやみ専用窓口の有無は確認中とした。"
  },
  {
   "href": "/life/end-of-life/grave-memorial/",
@@ -1154,7 +1522,29 @@
     "label": "磐田市合葬墓"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/bochikasouba/index.html",
+    "label": "墓地・火葬場",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/bochikasoba/bochikaiso.html",
+    "label": "墓地の改葬許可について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課（生活衛生係）",
+   "tel": "0537-85-1162",
+   "municipal_cemetery": "御前崎市栗ノ原霊園（市営墓地）。空き区画・使用料等の詳細は要確認",
+   "kaiso_days": "改葬許可申請書提出から許可証発行まで10日程度"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "墓地・火葬場ページ、改葬許可についてページをWebFetchで実在確認。市営「栗ノ原霊園」の存在は確認できたが、使用料等の個別ページ（旧URL soshiki/toshiseisaku/.../akiya/6281.htmlは404）は特定できず確認中扱い。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/house-became-vacant/",
@@ -1180,7 +1570,33 @@
     "label": "危険空き家解体費用の助成"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "空き家",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/kikennakiyatoujokyakujigyouhihojokinn.html",
+    "label": "危険空家除却事業費補助金",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/6754.html",
+    "label": "空家等バンク登録物件情報について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122",
+   "demolition_subsidy": "危険空家除却事業費補助金：対象経費と国基準額のいずれか少ない方の5分の4、上限60万円程度（市長認定・市税滞納なし等が条件）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "空き家ページ・危険空家除却事業費補助金ページ・空家等バンク登録物件情報ページをWebFetchで実在確認。担当課は「都市政策課」表記が一部ページにあったが電話番号案内では「都市整備課」(0537-85-1122)が正式名称と確認したためこちらを採用。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/",
@@ -1199,7 +1615,25 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/",
+    "label": "御前崎市公式サイト",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課／国保年金室／税務課／都市整備課",
+   "tel": "0537-85-1111（代表）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "カテゴリハブページ。死亡届・おくやみ手続き・相続・空き家など各中項目ページへの導線として整理した。"
  },
  {
   "href": "/life/end-of-life/inheritance/",
@@ -1226,7 +1660,31 @@
     "label": "空き家"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/index.html",
+    "label": "税務課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/faq/koteiqa/koteishisan02.html",
+    "label": "固定資産税の支払いは月割りにならないの？",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "税務課（固定資産税の相続人代表者届）／市民課（戸籍関係証明）",
+   "tel": "0537-85-1114（税務課）／0537-85-1117（市民課）（確認中: 本文未確認 0537-85-1117）",
+   "touki_gimuka": "相続登記は2024年4月から義務化。相続を知った日から3年以内に登記が必要"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "税務課ページ・固定資産税FAQページ・市民課ページをWebFetchで実在確認。相続登記義務化は全国共通の法制度のため一般情報として記載。"
  },
  {
   "href": "/life/end-of-life/inherited-house/",
@@ -1253,7 +1711,26 @@
     "label": "粗大ごみの戸別収集"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/index.html",
+    "label": "税務課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "空き家",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "税務課（固定資産税関連）／都市整備課（空き家対策）",
+   "tel": "0537-85-1114（税務課）／0537-85-1122（都市整備課）（確認中: 本文未確認 0537-85-1114）（確認中: 本文未確認 0537-85-1122）",
+   "garbage_note": "粗大ごみの出し方は御前崎市のごみ収集案内で確認が必要（本カテゴリでは断定せず案内のみ）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "税務課・空き家ページをWebFetchで実在確認。実家片付けの具体的な粗大ごみ収集方法は別カテゴリ管轄のため詳細を断定せず窓口案内にとどめた。"
  },
  {
   "href": "/life/end-of-life/inherited-vacant-house/",
@@ -1279,7 +1756,34 @@
     "label": "家屋または土地を譲渡した場合の優遇税制"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "空き家",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/6754.html",
+    "label": "空家等バンク登録物件情報について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/kikennakiyatoujokyakujigyouhihojokinn.html",
+    "label": "危険空家除却事業費補助金",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122",
+   "bank_registration": "空家等バンクは売却・賃貸どちらも登録可能。登録には登記事項証明書・固定資産税課税明細・間取り図・写真・本人確認書類等が必要",
+   "reform_subsidy": "空家リフォーム支援事業補助金の存在を確認（詳細な補助率・上限額は要確認）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "空き家ページ・空家等バンク登録物件情報ページ・危険空家除却事業費補助金ページをWebFetchで実在確認。リフォーム支援事業補助金は名称の存在をWebSearchで確認したが詳細ページは特定できず金額等は確認中扱い。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/pension-inheritance/",
@@ -1301,7 +1805,26 @@
     "label": "国保・後期高齢者医療・年金"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/hokennenkin/kokuminkenkohoken/konnatoki.html",
+    "label": "こんなときには届出を",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/gaiyo/soshiki/denwa.html",
+    "label": "市役所等電話番号案内",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "国保年金室（国民年金）／年金事務所（厚生年金等）",
+   "tel": "0537-85-1171（国保年金室）／0570-05-1165（ねんきんダイヤル）（確認中: 本文未確認 0570-05-1165）",
+   "mishikyu_deadline": "未支給年金の請求権は死亡日の翌日から5年で時効"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "国保年金室の電話番号を電話番号案内ページで確認。未支給年金の請求順位・時効は日本年金機構の一般制度として記載。御前崎市公式サイトに年金相続専用ページは見当たらず、国保・年金の届出案内ページを情報源とした。"
  },
  {
   "href": "/life/end-of-life/property-tax-inheritance/",
@@ -1323,7 +1846,28 @@
     "label": "固定資産税・都市計画税"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/index.html",
+    "label": "税務課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/faq/koteiqa/koteishisan02.html",
+    "label": "固定資産税の支払いは月割りにならないの？",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "税務課",
+   "tel": "0537-85-1114",
+   "daihyosha_todoke": "相続人代表者届は相続登記完了までの間、固定資産税の納税通知書を受け取る代表者を指定する届出。様式・必要書類は税務課へ要確認"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "税務課ページと固定資産税FAQページをWebFetchで実在確認し、税務課の電話番号(0537-85-1114)を確認。相続人代表者届の様式そのものの掲載ページは検索で特定できなかったため、制度の一般的な仕組みとして案内し、詳細は窓口確認を促す表現にした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-allowance/",
@@ -1352,7 +1896,30 @@
     "label": "こども未来課のご案内"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
+    "label": "児童手当（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/index.html",
+    "label": "こども未来課（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（子育て支援係）",
+   "tel": "0537-85-1120",
+   "amount": "3歳未満は月額1万5,000円、3歳〜高校生年代は月額1万円（第3子以降3万円）",
+   "deadline": "出生・転入から原則15日以内",
+   "payment": "年6回・偶数月15日"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの児童手当ページをWebFetchで確認。支給額・申請期限・窓口（こども未来課0537-85-1120）を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-allowance-medical/",
@@ -1390,7 +1957,30 @@
     "label": "子どもの健診・教室"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/iryou/jose.html",
+    "label": "子ども医療費助成制度（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
+    "label": "児童手当（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（子育て支援係・幼保こども園係）",
+   "tel": "0537-85-1120",
+   "fax": "0537-85-1142",
+   "target_age": "0歳〜満18歳到達後最初の3月31日まで",
+   "coverage": "保険診療分の通院・入院は原則自己負担なし（予防接種・健診等は対象外）"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの子ども医療費助成制度ページをWebFetchで確認。対象年齢・助成内容・窓口を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-vaccination/",
@@ -1428,7 +2018,21 @@
     "label": "転出・転入された方へ"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/yobosesshu/yobosesshu.html",
+    "label": "こどもの予防接種（定期予防接種）（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "予防接種は健康づくり課、乳幼児健診はこども未来課こども家庭センター（母子保健係）",
+   "tel": "0537-85-1123（健康づくり課）／0537-85-6666（こども家庭センター）（確認中: 本文未確認 0537-85-6666）",
+   "note": "予診票・母子健康手帳は新生児訪問時に配布。予診票の再発行は電子申請で可能"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの定期予防接種ページをWebFetchで確認。ワクチン種類・窓口（健康づくり課0537-85-1123）を反映。"
  },
  {
   "href": "/life/family-grow/childbirth/",
@@ -1470,7 +2074,26 @@
     "label": "子育てに関する手当・助成（一覧）"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ninshin_shussan/ninshin/10746.html",
+    "label": "妊婦のための支援給付（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
+    "label": "児童手当（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "出生届は市民課（戸籍・住民記録係）、給付・手当はこども未来課",
+   "tel": "0537-85-1117（市民課）／0537-85-1120（こども未来課）／0537-85-6666（こども家庭センター）（確認中: 本文未確認 0537-85-1117）",
+   "deadline": "出生届は生後14日以内（国外出生は3か月以内）"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "出生届の期限・窓口（市民課0537-85-1117）と、妊婦のための支援給付ページをWebFetchで確認。"
  },
  {
   "href": "/life/family-grow/developmental-support/",
@@ -1509,7 +2132,21 @@
     "label": "こども相談"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/10745.html",
+    "label": "御前崎市こども家庭センター（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課こども家庭センター（母子保健係・児童福祉係）／家庭児童相談室",
+   "tel": "0537-85-6666（こども家庭センター）／0537-85-1151（家庭児童相談室）",
+   "note": "2025年4月設置のこども家庭センターが妊娠期〜3歳頃の発達相談の窓口。就学後は学校教育課の教育相談（0537-29-8734）も利用可（確認中: 本文未確認 0537-29-8734）"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市こども家庭センターのページをWebFetchで確認。母子保健係・児童福祉係・家庭児童相談室の電話番号を反映。"
  },
  {
   "href": "/life/family-grow/",
@@ -1528,7 +2165,20 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/index.html",
+    "label": "こども未来課（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（こども家庭センター）が中心。出生届・婚姻届は市民課、就学は学校教育課",
+   "tel": "0537-85-1120（こども未来課）／0537-85-6666（こども家庭センター）"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "カテゴリハブページ。こども未来課・市民課・学校教育課の役割分担を確認のうえ反映。"
  },
  {
   "href": "/life/family-grow/infant-health-check/",
@@ -1558,7 +2208,23 @@
     "label": "子どもの予防接種"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kenkodukuri/kenkodukuri_soudan/kodomo.html",
+    "label": "こどもの健診・健康相談（1歳まで）（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課こども家庭センター（母子保健係）",
+   "tel": "0537-85-6666",
+   "note": "2か月・3〜4か月・6〜7か月・1歳児は市役所西館3階での健康相談。4か月児・10か月児は契約医療機関での健診（要予約、満月齢時のみ公費負担）"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの乳幼児健診ページをWebFetchで確認。対象月齢・実施場所・窓口を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/marriage/",
@@ -1588,7 +2254,21 @@
     "label": "結婚新生活支援事業補助金"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/index.html",
+    "label": "市民課（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課（戸籍・住民記録係）",
+   "tel": "0537-85-1117（確認中: 本文未確認 0537-85-1117）",
+   "note": "令和5年4月に市民課の証明書発行の時間外窓口は廃止済み。戸籍の届出自体（婚姻届等）は制度上いつでも提出可能"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "市民課（戸籍・住民記録係）の電話番号をWebSearch・WebFetchで確認。時間外窓口廃止の事実も反映。"
  },
  {
   "href": "/life/family-grow/nursery-childcare/",
@@ -1614,7 +2294,28 @@
     "label": "一時的な子どもの預け先"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kosodateservice/8250.html",
+    "label": "一時保育事業／リフレッシュ保育事業（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/famisupo.html",
+    "label": "ファミリー・サポート・センター（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（子育て支援係・幼保こども園係）",
+   "tel": "0537-85-1120",
+   "note": "ファミリー・サポート・センターは0歳〜小学6年生対象。日中1時間600円、早朝夜間1時間700円が目安"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "一時保育・リフレッシュ保育・ファミリー・サポート・センターのページをWebFetchで確認。料金・対象年齢を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/nursery-school/",
@@ -1642,7 +2343,26 @@
     "label": "幼児教育・保育無償化"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kosodate_kyoiku/hoikuen_yochien/hoikuen/nyusho.html",
+    "label": "入所について（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/hoikuen_yochien_ninteikodomoen/yochien/kijun.html",
+    "label": "幼稚園の入園について（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（子育て支援係・幼保こども園係）",
+   "tel": "0537-85-1120",
+   "note": "認定区分は1号（教育標準時間）・2号（3歳以上保育認定）・3号（3歳未満保育認定）。保育料は無償化対象が多い"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "保育園の入所ページ・幼稚園の入園基準ページをWebFetchで確認。認定区分・保育料・預かり保育料金を反映。"
  },
  {
   "href": "/life/family-grow/parenting-support/",
@@ -1668,7 +2388,25 @@
     "label": "いわた子育てアプリ"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/index.html",
+    "label": "子育て支援・子育て相談（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/10745.html",
+    "label": "御前崎市こども家庭センター（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課こども家庭センター（母子保健係・児童福祉係）／家庭児童相談室",
+   "tel": "0537-85-6666（こども家庭センター）／0537-85-1151（家庭児童相談室）／0537-85-1120（こども未来課）（確認中: 本文未確認 0537-85-1120）"
+  },
+  "status": "ai-checked",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "子育て支援・相談のリンク集ページとこども家庭センターのページをWebFetchで確認。窓口の使い分けを反映。"
  },
  {
   "href": "/life/family-grow/pregnancy/",
@@ -1706,7 +2444,28 @@
     "label": "妊娠・出産に関する支援（一覧）"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ninshin_shussan/ninshin/10746.html",
+    "label": "妊婦のための支援給付（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ninshin_shussan/shussan/sangokea.html",
+    "label": "産後ケア事業（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課こども家庭センター",
+   "tel": "0537-85-6666",
+   "note": "母子健康手帳の交付は市役所西館で火曜9時・10時、木曜13時・14時が基本枠（要予約）。令和7年4月より妊婦のための支援給付（2段階、各5万円）に移行"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "妊婦のための支援給付・産後ケア事業のページをWebFetchで確認。母子健康手帳交付枠・給付内容を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/single-parent-support/",
@@ -1737,7 +2496,29 @@
     "label": "ひとり親家庭養育費確保支援助成金"
    }
   ],
-  "status": "draft"
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/hitorioya/hitorioyashien/fuyo.html",
+    "label": "児童扶養手当（御前崎市公式）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kosodate_kyoiku/hitorioya/hitorioyashien/index.html",
+    "label": "ひとり親家族支援（御前崎市公式）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "こども未来課（子育て支援係）",
+   "tel": "0537-85-1120",
+   "amount": "児童扶養手当：全部支給月額4万8,050円、一部支給4万8,040円〜1万1,340円（令和8年4月〜の目安額）",
+   "note": "ひとり親家庭等医療費助成の助成額詳細は確認中（要確認）。母子父子寡婦福祉資金・教育訓練給付金等もこども未来課が窓口"
+  },
+  "status": "machine-verified",
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "児童扶養手当ページ・ひとり親家族支援ページをWebFetchで確認。支給額・窓口を反映。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/adult-vaccination/",
@@ -1767,7 +2548,35 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/yobosesshu/koureisha.html",
+    "label": "高齢者（65歳以上）の予防接種（インフルエンザ・新型コロナ・肺炎球菌）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kenkodukuri/yobosesshu/fuusin.html",
+    "label": "大人の風しん予防接種費用の助成について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kenkodukuri/kenshin/index.html",
+    "label": "健康診断・検診",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課",
+   "tel": "0537-85-1123",
+   "target_age": "65歳以上（インフルエンザ・新型コロナ・肺炎球菌）。肺炎球菌は一生に一度、66歳誕生日前日まで",
+   "self_pay": "インフルエンザ1,600円／新型コロナ8,000円／肺炎球菌4,000円（生活保護世帯は事前申請で無料）",
+   "period": "10月1日〜翌年1月31日"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトで高齢者予防接種ページを確認。担当は健康づくり課(0537-85-1123)。近隣市町の指定医療機関でも接種可能。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/cancer-specific-checkups/",
@@ -1796,7 +2605,28 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/kenshin/kenshingaido.html",
+    "label": "市の検診一覧について（がん検診等）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kenkodukuri/kenshin/index.html",
+    "label": "健康診断・検診",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課",
+   "tel": "0537-85-1123",
+   "types": "胃がん・大腸がん・胸部（肺がん・結核）・乳がん・子宮頸がん・前立腺がん検診等",
+   "cost": "検診種類ごとに自己負担額が異なる（実費より低額）。詳細金額は確認中（要窓口確認）",
+   "note": "地区（浜岡地区／御前崎地区）によって案内時期・受診先が異なる場合がある"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトの検診一覧ページでがん検診の種類を確認。個別の自己負担額はページ上に明示されておらず健康づくり課への確認が必要。"
  },
  {
   "href": "/life/health-medical/dental-care/",
@@ -1826,7 +2656,30 @@
     "label": "健康・福祉・医療"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/kenshin/shishuu.html",
+    "label": "歯周病検診",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kenkodukuri/kenshin/yoji.html",
+    "label": "こどもの健診（1歳半から3歳）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課（歯周病検診）／こども未来課（子どもの歯科健診）",
+   "tel": "0537-85-1123",
+   "target_age": "歯周病検診：20・30・40・50・60・70歳（4月1日時点）",
+   "self_pay": "500円（生活保護世帯は事前申請で無料）",
+   "note": "市内5つの契約歯科医院から選んで受診"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトで歯周病検診の対象年齢・費用・受診方法を確認。子どもの歯科健診はこども未来課の別制度。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/disability-services/",
@@ -1856,7 +2709,34 @@
     "label": "障がい児に関する通所サービス・助成"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/shougaifukushiservice/7524.html",
+    "label": "障害福祉サービス",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/fukushi_kaigo/shogaisha/index.html",
+    "label": "障がい者福祉",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/soudann_madoguti/index.html",
+    "label": "相談窓口",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "福祉課",
+   "tel": "0537-85-1121",
+   "services": "介護給付（居宅介護・生活介護・施設入所支援等）／訓練等給付（就労移行支援・就労継続支援A型B型・グループホーム等）／障害児通所支援",
+   "flow": "相談・申請→利用計画案作成→聴き取り調査→支給決定→事業所と契約→モニタリング"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市公式サイトで障害福祉サービスの種類・申請の流れを確認。窓口は福祉課(0537-85-1121)。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/disability-welfare/",
@@ -1886,7 +2766,34 @@
     "label": "障がい者の自立支援"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/techou/7426.html",
+    "label": "療育手帳の申請について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/nennkinn_gennmenn_waribiki/7464.html",
+    "label": "障害者の税金の減免",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/fukushi_kaigo/shogaisha/index.html",
+    "label": "障がい者福祉",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "福祉課",
+   "tel": "0537-85-1121",
+   "handbooks": "身体障害者手帳／療育手帳／精神障害者保健福祉手帳",
+   "required_docs_ryoiku": "療育手帳交付申請書、顔写真（縦4cm×横3cm、6か月以内）、マイナンバー確認書類、印鑑"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "療育手帳の申請方法・必要書類を確認。身体障害者手帳・精神障害者保健福祉手帳の詳細な申請書類はページ上未記載のため個別確認が必要。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/find-hospitals/",
@@ -1912,7 +2819,35 @@
     "label": "医療情報ネット"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kyukyu_iryo/iryokikan/byouinsinryoujyo.html",
+    "label": "市内の病院・診療所・歯科医院・助産院について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://omaezaki-hospital.jp/",
+    "label": "市立御前崎総合病院（公式サイト）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/keibo/oshirase/10197.html",
+    "label": "救急相談窓口（#7119）について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課",
+   "tel": "0537-85-1123",
+   "main_hospital": "市立御前崎総合病院（池新田2060番地、電話0537-86-8511）",
+   "clinics": "市内11診療所・5歯科医院・1助産院（医師会加盟）",
+   "consult": "救急相談窓口#7119（24時間、御前崎市警防課0537-85-2656）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市には市立御前崎総合病院があることを確認（掛川・菊川等の近隣病院に頼る体制ではない）。市内診療所数等も公式サイトで確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/health-checkups/",
@@ -1942,7 +2877,29 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/yobo_kenshin_kenko/2/tokute.html",
+    "label": "特定健診について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kenkodukuri/kenshin/index.html",
+    "label": "健康診断・検診",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "市民課国保年金室（特定健診）／健康づくり課（その他検診）",
+   "tel": "0537-85-1171（市民課国保年金室）／0537-85-1123（健康づくり課）（確認中: 本文未確認 0537-85-1123）",
+   "target_age": "40歳〜74歳の国民健康保険被保険者",
+   "self_pay": "1,000円（実費約10,000円相当）",
+   "period": "毎年5月〜10月（医療機関により終了日が異なる）",
+   "note": "受診券発送元は地区で異なる（浜岡地区：小笠医師会・青色封筒、御前崎地区：榛原医師会・黄色封筒）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "特定健診の担当が市民課国保年金室であることを確認（健康づくり課とは別窓口）。75歳以上の後期高齢者健康診査は別制度のため断定を避けた。"
  },
  {
   "href": "/life/health-medical/health-promotion/",
@@ -1971,7 +2928,26 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/kenkodukuri_soudan/maireji.html",
+    "label": "健康マイレージおまえざき",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/kenkodukuri/shokuiku/5494.html",
+    "label": "御前崎市健康づくり食生活推進協議会",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課（ストレスチェックは福祉課）",
+   "tel": "0537-85-1123（健康づくり課）／0537-85-1121（福祉課）（確認中: 本文未確認 0537-85-1121）",
+   "mileage_note": "健康マイレージおまえざきは18歳以上の市内在住・在勤者が対象、チャレンジ期間は年度により設定される"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "健康マイレージ事業・食生活推進協議会の活動を公式サイトで確認。ストレスチェックは福祉課が別途案内していることも確認。"
  },
  {
   "href": "/life/health-medical/holiday-night-emergency-care/",
@@ -1997,7 +2973,30 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kyukyu_iryo/kyukyu_kyumei/kyujitsuyakan.html",
+    "label": "休日・夜間一次救急診療のご案内",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/keibo/oshirase/10197.html",
+    "label": "救急相談窓口（#7119）について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課（案内）／御前崎市警防課（救急相談窓口）",
+   "tel": "0537-85-1123（健康づくり課）／0537-85-2656（警防課）",
+   "primary_facility": "小笠掛川急患診療所（掛川市杉谷南一丁目1番地の30、電話0537-61-1299）",
+   "hospital_backup": "市立御前崎総合病院（電話0537-86-8511、原則重症患者対応）",
+   "child_hotline": "小児救急電話相談 #8000／054-247-9910（午後6時〜翌午前8時、年中無休）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "御前崎市の休日夜間一次救急は掛川市の小笠掛川急患診療所が中心であることを確認。受診前の電話連絡必須。市立御前崎総合病院は重症患者中心。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/",
@@ -2016,7 +3015,26 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/index.html",
+    "label": "健康・医療・介護（カテゴリトップ）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://omaezaki-hospital.jp/",
+    "label": "市立御前崎総合病院（公式サイト）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課(0537-85-1123)／福祉課(0537-85-1121)／市民課国保年金室(0537-85-1171)",
+   "tel": "0537-85-1111（代表）",
+   "main_hospital": "市立御前崎総合病院あり（池新田2060番地、電話0537-86-8511）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "健康・医療カテゴリのハブページ。テーマによって担当課が健康づくり課・福祉課・市民課国保年金室に分かれることを確認。"
  },
  {
   "href": "/life/health-medical/mental-health-consulting/",
@@ -2046,7 +3064,29 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/soudann_madoguti/7393.html",
+    "label": "こころの健康相談日",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/fukushi/fukushi/shogaisha/soudann_madoguti/index.html",
+    "label": "相談窓口",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "福祉課",
+   "tel": "0537-85-1121",
+   "consultation": "こころの健康相談日：市役所3階会議室（会場変更の場合あり）、生活支援センターいつでもおまえざきの精神保健福祉士が対応、事前予約制・無料",
+   "other": "西部健康福祉センター掛川支所 精神保健福祉総合相談（電話0537-3263、13:30〜15:00、予約制）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "こころの健康相談日の窓口・体制を福祉課ページで確認。開催頻度・次回日程はページ上に具体的な曜日指定がなく、年度のチラシ参照が必要なため断定を避けた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/night-holiday-medical/",
@@ -2072,7 +3112,30 @@
     "label": "健康・医療"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kyukyu_iryo/kyukyu_kyumei/kyujitsuyakan.html",
+    "label": "休日・夜間一次救急診療のご案内",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/keibo/oshirase/10197.html",
+    "label": "救急相談窓口（#7119）について",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課（案内）／御前崎市警防課（救急相談窓口）",
+   "tel": "0537-85-1123（健康づくり課）／0537-85-2656（警防課）",
+   "primary_facility": "小笠掛川急患診療所（電話0537-61-1299）、受診前の電話連絡必須",
+   "hotline_7119": "静岡県内24時間利用可能",
+   "child_hotline": "小児救急電話相談 #8000／054-247-9910（午後6時〜翌午前8時、年中無休）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "holiday-night-emergency-careと同じ事実関係だが、受診の判断軸・事前準備という別視点で執筆。119番と#7119の使い分けを中東遠消防指令センターの共同運用体制もふまえて整理。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/vaccinations/",
@@ -2101,7 +3164,29 @@
     "label": "おとなの健診・予防接種・相談"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/yobosesshu/yobosesshu.html",
+    "label": "こどもの予防接種(定期予防接種)",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kenkodukuri/kenkodukuri/yobosesshu/koureisha.html",
+    "label": "高齢者（65歳以上）の予防接種（インフルエンザ・新型コロナ・肺炎球菌）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "健康づくり課",
+   "tel": "0537-85-1123",
+   "child_vaccines": "BCG、水痘、5種混合・4種混合・2種混合、ポリオ、麻しん風しん混合、日本脳炎、ヒブ、小児用肺炎球菌、B型肝炎、ロタ、子宮頸がん(HPV)ワクチン等（対象年齢内は公費負担）",
+   "hpv_catchup": "キャッチアップ接種の助成制度あり（詳細ページURLが確認時点で404だったため内容は確認中、健康づくり課に要確認）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "子ども・大人の予防接種いずれも窓口は健康づくり課(0537-85-1123)と確認。HPVワクチンキャッチアップ接種の個別ページはWebFetch時点で404だったため、リンクをcontent側から除去し安全な表現にした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/build-house/",
@@ -2131,7 +3216,32 @@
     "label": "耐震"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/index.html",
+    "label": "都市整備課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/index.html",
+    "label": "TOUKAI-0総合支援事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/",
+    "label": "御前崎市公式サイト",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "都市整備課(0537-85-1122)が土地利用・建築・耐震関連を所管することをWebFetchで確認。新築そのものへの補助金の有無は年度により変動するため断定を避け「要確認」表現にした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/buy-house/",
@@ -2161,7 +3271,31 @@
     "label": "耐震"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "御前崎市空家等バンク",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/index.html",
+    "label": "TOUKAI-0総合支援事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/koteishisan/koteshisanzei.html",
+    "label": "固定資産税",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課(空き家・耐震)/税務課(固定資産税)",
+   "tel_toshiseibi": "0537-85-1122",
+   "tel_zeimu": "0537-85-1114"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "空家等バンク・耐震診断・固定資産税の窓口をそれぞれWebFetchで実在確認。物件個別の補助制度は年度変動のため断定を避けた。"
  },
  {
   "href": "/life/housing/clean-parents-house/",
@@ -2191,7 +3325,33 @@
     "label": "住宅"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html",
+    "label": "粗大ごみ戸別回収",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
+    "label": "ごみの直接搬入",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/index.html",
+    "label": "空き家（都市整備課）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window_gomi": "市民課生活衛生係",
+   "tel_gomi": "0537-85-1162",
+   "kankyou_hozen_center_tel": "0548-58-0044",
+   "window_akiya": "都市整備課",
+   "tel_akiya": "0537-85-1122（確認中: 本文未確認 0537-85-1122）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "粗大ごみ戸別回収・環境保全センター直接搬入・空き家窓口をWebFetchで確認。環境保全センターは牧之原市笠名(広域施設組合)所在である点を明記。"
  },
  {
   "href": "/life/housing/earthquake-demolition/",
@@ -2221,7 +3381,39 @@
     "label": "住まいの確保にお困りの方へ"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/index.html",
+    "label": "TOUKAI-0総合支援事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/mokuzo.html",
+    "label": "木造住宅耐震補強事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/mokuzoujuutakujokyakutatekae.html",
+    "label": "木造住宅除却・建替事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/juutakutaisin.html",
+    "label": "住宅耐震リフォーム支援事業補助金",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122",
+   "taishin_hokyo_max": "100万円(高齢者のみ世帯+20万円)",
+   "jokyaku_max": "事業費23%・上限30万円"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "TOUKAI-0総合支援事業の各制度（耐震診断無料・補強最大100万円・除却建替23%上限30万円・シェルター半額上限12.5万円）をすべてWebFetchで実在確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/",
@@ -2240,7 +3432,31 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/index.html",
+    "label": "都市整備課",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/sumaitochi/sumai/shieijutaku/jutaku.html",
+    "label": "市営住宅",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/index.html",
+    "label": "税務課",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window_akiya_taishin": "都市整備課(0537-85-1122)",
+   "window_shieijutaku": "維持管理課(0537-85-1124)",
+   "window_zeimu": "税務課(0537-85-1114)"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "カテゴリハブページ。配下11トピックの窓口一覧をもとに主要3課の電話番号を整理した。"
  },
  {
   "href": "/life/housing/municipal-housing/",
@@ -2270,7 +3486,35 @@
     "label": "悩み・相談"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/sumaitochi/sumai/shieijutaku/jutaku.html",
+    "label": "市営住宅について",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/sumaitochi/sumai/shieijutaku/shirowa.html",
+    "label": "市営白羽住宅",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/sumaitochi/sumai/shieijutaku/susukihara.html",
+    "label": "市営薄原住宅",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "維持管理課",
+   "tel": "0537-85-1124",
+   "income_general": "月額158,000円以下",
+   "income_asahina": "月額158,001円〜487,000円",
+   "income_discretionary": "月額214,000円以下"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "維持管理課(0537-85-1124)、収入基準（一般/朝比奈団地/裁量世帯）をWebFetchで確認。必要書類の詳細はPDF案内のため個別記載は避けた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/property-tax/",
@@ -2299,7 +3543,28 @@
     "label": "納税通知書等の送付先変更"
    }
   ],
-  "status": "draft"
+  "status": "machine-verified",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/koteishisan/koteshisanzei.html",
+    "label": "固定資産税",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/index.html",
+    "label": "税務課",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "税務課",
+   "tel": "0537-85-1114",
+   "tax_rate": "1.4%"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "税務課(0537-85-1114)、税率1.4%をWebFetchで確認。納期の具体的な日付や証明書手数料はページに明記がなかったため個別の断定を避けた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/public-housing-consultation/",
@@ -2328,7 +3593,34 @@
     "label": "悩み相談"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/shokan/shohi/soudan/index.html",
+    "label": "御前崎市消費生活センター",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/sumaitochi/sumai/shieijutaku/jutaku.html",
+    "label": "市営住宅",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/index.html",
+    "label": "空き家（都市整備課）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window_shohi": "市民課(消費生活センター)",
+   "tel_shohi": "0537-85-1117",
+   "window_shieijutaku": "維持管理課",
+   "tel_shieijutaku": "0537-85-1124",
+   "window_akiya": "都市整備課",
+   "tel_akiya": "0537-85-1122（確認中: 本文未確認 0537-85-1122）"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "住まいの悩みが内容によって複数窓口（消費生活センター・維持管理課・都市整備課）に分かれることをWebFetchで確認。会社導線（富士ヶ丘サービス）は複合的な悩みのタブのみ控えめに設置。"
  },
  {
   "href": "/life/housing/rent-house/",
@@ -2354,7 +3646,25 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "御前崎市空家等バンク",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/sumaitochi/sumai/shieijutaku/jutaku.html",
+    "label": "市営住宅",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window_akiyabank": "都市整備課(0537-85-1122)（確認中: 本文未確認 0537-85-1122）",
+   "window_shieijutaku": "維持管理課(0537-85-1124)"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "民間賃貸探しは市の直接窓口がないため、空家等バンクの賃貸物件と市営住宅を選択肢として整理。契約費用の相場は一般的な説明にとどめた。"
  },
  {
   "href": "/life/housing/sell-house/",
@@ -2386,7 +3696,30 @@
     "label": "住宅カテゴリ"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "御前崎市空家等バンク",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/zeimu/zeikin/koteishisan/koteshisanzei.html",
+    "label": "固定資産税",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/taishin/taishin/toukai0/index.html",
+    "label": "TOUKAI-0総合支援事業",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window_akiyabank": "都市整備課(0537-85-1122)",
+   "window_zeimu": "税務課(0537-85-1114)"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "空家等バンク登録・固定資産税評価証明・耐震診断の窓口をWebFetchで確認。会社導線（富士ヶ丘サービス）は相続・実家じまい関連のタブ・QAで控えめに設置。"
  },
  {
   "href": "/life/housing/vacant-house/",
@@ -2416,7 +3749,37 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "status": "draft"
+  "status": "ai-checked",
+  "sources_omaezaki": [
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/index.html",
+    "label": "空き家（都市整備課）",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/kikennakiyatoujokyakujigyouhihojokinn.html",
+    "label": "危険空家除却事業費補助金",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/akiyareformsienjigyouhojokin.html",
+    "label": "空家リフォーム支援事業補助金",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/index.html",
+    "label": "御前崎市空家等バンク",
+    "confidence": "high"
+   }
+  ],
+  "facts": {
+   "window": "都市整備課",
+   "tel": "0537-85-1122",
+   "jokyaku_hojo_max": "上限60万円(実費と算定額の少ない方の4/5)",
+   "reform_hojo_max": "上限40万円(工事費の50%)"
+  },
+  "ai_checked_date": "2026-07-04",
+  "ai_notes": "危険空家除却事業費補助金(上限60万円)・空家リフォーム支援事業補助金(上限40万円)・空家等バンクをすべてWebFetchで実在確認。会社導線（富士ヶ丘サービス）はQA・tabsで控えめに設置。"
  },
  {
   "href": "/life/living-soon/about-omaezaki/",
@@ -2721,7 +4084,7 @@
     "label": "磐田市立小中学校通学区域規則"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/gakkokyoiku/shogakko_chugakko/tennyugaku/6690.html",
@@ -2740,7 +4103,9 @@
    "note": "小学校5校・中学校2校。御前崎中学校は牧之原市との組合立学校で牧之原市の一部地区も通学区に含まれる"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "通学区域一覧ページと、御前崎中学校が牧之原市との組合立学校である事実を組合立学校公式サイトで確認。学校教育課電話番号は市電話帳検索結果から確認。"
+  "ai_notes": "通学区域一覧ページと、御前崎中学校が牧之原市との組合立学校である事実を組合立学校公式サイトで確認。学校教育課電話番号は市電話帳検索結果から確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/transportation/",
@@ -3023,7 +4388,7 @@
     "label": "窓口業務案内"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html",
@@ -3048,7 +4413,9 @@
    "period": "転出予定日のおおむね14日前から転出予定日まで"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "届出期間・担当課・電話番号・マイナポータル/郵送の各方式をWebFetchで確認済み。御前崎支所での取扱可否は明記が見当たらず、本文中で事前確認を促す表現にした。"
+  "ai_notes": "届出期間・担当課・電話番号・マイナポータル/郵送の各方式をWebFetchで確認済み。御前崎支所での取扱可否は明記が見当たらず、本文中で事前確認を促す表現にした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/moving-away/",
@@ -3125,7 +4492,7 @@
     "label": "公立保育園・幼稚園・こども園一覧"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/somu/shisetsu/gakko/index.html",
@@ -3148,7 +4515,9 @@
    "tel": "0537-29-8734（学校教育課）／0537-85-1120（こども未来課）（確認中: 本文未確認 0537-29-8734）（確認中: 本文未確認 0537-85-1120）"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "学校教育課・こども未来課の電話番号は市役所等電話番号案内ページで確認済み。転校・転園の具体的な必要書類は個別事情で異なるため、本文では窓口への事前確認を案内する表現にした。"
+  "ai_notes": "学校教育課・こども未来課の電話番号は市役所等電話番号案内ページで確認済み。転校・転園の具体的な必要書類は個別事情で異なるため、本文では窓口への事前確認を案内する表現にした。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/stop-water/",
@@ -3236,7 +4605,7 @@
     "label": "静岡家庭裁判所 浜松支部の所在地"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.omaezakishakyo.jp/kakusyusoudan/",
@@ -3261,7 +4630,9 @@
    "court_jurisdiction": "確認中（要確認）。御前崎市は合併前の旧浜岡町域と旧御前崎町域で管轄裁判所が異なる可能性があるため、申立て時に窓口で要確認"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトに成年後見専用ページなし。社会福祉協議会の司法書士権利擁護相談（偶数月第2水曜）を確認。管轄家庭裁判所は市内でも地区により異なる可能性があり断定を避けた。"
+  "ai_notes": "御前崎市公式サイトに成年後見専用ページなし。社会福祉協議会の司法書士権利擁護相談（偶数月第2水曜）を確認。管轄家庭裁判所は市内でも地区により異なる可能性があり断定を避けた。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/care-certification-support-center/",
@@ -3564,7 +4935,7 @@
     "label": "交通（バス・タクシー）案内"
    }
   ],
-  "status": "ai-checked",
+  "status": "machine-verified",
   "sources_omaezaki": [
    {
     "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
@@ -3584,7 +4955,9 @@
    "taxi_ticket": "75歳以上・要介護要支援認定者等対象、1枚500円+迎車料金140円、申請時期により年5〜20枚支給"
   },
   "ai_checked_date": "2026-07-04",
-  "ai_notes": "AIオンデマンド交通OM mobi.（運行エリア限定、2026年度中に全域拡大予定）、福祉タクシー助成券、移送サービス（東海清風園委託）を確認。"
+  "ai_notes": "AIオンデマンド交通OM mobi.（運行エリア限定、2026年度中に全域拡大予定）、福祉タクシー助成券、移送サービス（東海清風園委託）を確認。",
+  "verified_date": "2026-07-04",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/find-nursing-home/",
