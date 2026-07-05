@@ -2,7 +2,7 @@
  {
   "href": "/life/education/after-school-club/",
   "icon": "🎒",
-  "title_iwata": "放課後の預け先は、対象と申請時期を先に確認する",
+  "title": "放課後の預け先は、対象と申請時期を先に確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "放課後児童クラブ",
@@ -66,7 +66,7 @@
  {
   "href": "/life/education/educational-consulting/",
   "icon": "🎒",
-  "title_iwata": "教育相談は、困りごとを一文で整理してから相談する",
+  "title": "教育相談は、困りごとを一文で整理してから相談する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "教育相談",
@@ -125,7 +125,7 @@
  {
   "href": "/life/education/elementary-middle-school/",
   "icon": "🎒",
-  "title_iwata": "小学校・中学校の情報は、学校一覧・通学区・手続きを分けて見る",
+  "title": "小学校・中学校の情報は、学校一覧・通学区・手続きを分けて見る",
   "category": "学ぶ・育つ",
   "synonyms": [
    "小学校",
@@ -184,7 +184,7 @@
  {
   "href": "/life/education/",
   "icon": "🎒",
-  "title_iwata": "🎒 学ぶ・育つ",
+  "title": "🎒 学ぶ・育つ",
   "category": "学ぶ・育つ",
   "synonyms": [
    "教育",
@@ -226,7 +226,7 @@
  {
   "href": "/life/education/school-attendance-support/",
   "icon": "🎒",
-  "title_iwata": "就学の不安は、健診・相談・手続きを分けて確認する",
+  "title": "就学の不安は、健診・相談・手続きを分けて確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "就学",
@@ -278,7 +278,7 @@
  {
   "href": "/life/education/school-district-transfer/",
   "icon": "🎒",
-  "title_iwata": "転校は、住所・通学区・学校手続きをまとめて確認する",
+  "title": "転校は、住所・通学区・学校手続きをまとめて確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "転校",
@@ -334,7 +334,7 @@
  {
   "href": "/life/education/school-expense-support/",
   "icon": "🎒",
-  "title_iwata": "学校費用の不安は、制度名と相談先を先に確認する",
+  "title": "学校費用の不安は、制度名と相談先を先に確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "就学援助",
@@ -383,7 +383,7 @@
  {
   "href": "/life/education/school-meals/",
   "icon": "🎒",
-  "title_iwata": "学校給食は、献立・費用・アレルギーを分けて確認する",
+  "title": "学校給食は、献立・費用・アレルギーを分けて確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "給食",
@@ -442,7 +442,7 @@
  {
   "href": "/life/education/school-zones/",
   "icon": "🎒",
-  "title_iwata": "通学区は、住所と学校情報をセットで確認する",
+  "title": "通学区は、住所と学校情報をセットで確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "通学区",
@@ -494,7 +494,7 @@
  {
   "href": "/life/education/study-facilities/",
   "icon": "🎒",
-  "title_iwata": "学習場所は、開館日・席・利用ルールを先に確認する",
+  "title": "学習場所は、開館日・席・利用ルールを先に確認する",
   "category": "学ぶ・育つ",
   "synonyms": [
    "学習室",
@@ -548,7 +548,7 @@
  {
   "href": "/life/emergency/disaster-certificates-procedures/",
   "icon": "⚠️",
-  "title_iwata": "災害にあった後、何から動くか。り災証明書と支援の手続きを順番に整理する。",
+  "title": "災害にあった後、何から動くか。り災証明書と支援の手続きを順番に整理する。",
   "category": "もしもの時",
   "synonyms": [
    "り災証明",
@@ -610,7 +610,7 @@
  {
   "href": "/life/emergency/disaster-mail-line/",
   "icon": "⚠️",
-  "title_iwata": "災害の知らせを取りこぼさないよう、平常時にメール・LINE・アプリで備える。",
+  "title": "災害の知らせを取りこぼさないよう、平常時にメール・LINE・アプリで備える。",
   "category": "もしもの時",
   "synonyms": [
    "防災メール",
@@ -681,7 +681,7 @@
  {
   "href": "/life/emergency/earthquake/",
   "icon": "⚠️",
-  "title_iwata": "地震・津波の備えを、今日できることから一つずつ。",
+  "title": "地震・津波の備えを、今日できることから一つずつ。",
   "category": "もしもの時",
   "synonyms": [
    "地震",
@@ -768,7 +768,7 @@
  {
   "href": "/life/emergency/emergency-medical/",
   "icon": "⚠️",
-  "title_iwata": "急な病気やけがで迷ったとき、救急車を呼ぶか今すぐ判断する。",
+  "title": "急な病気やけがで迷ったとき、救急車を呼ぶか今すぐ判断する。",
   "category": "もしもの時",
   "synonyms": [
    "救急相談",
@@ -821,7 +821,7 @@
  {
   "href": "/life/emergency/evacuation-centers/",
   "icon": "⚠️",
-  "title_iwata": "いざというとき、どこへ避難するかを今のうちに決めておく。",
+  "title": "いざというとき、どこへ避難するかを今のうちに決めておく。",
   "category": "もしもの時",
   "synonyms": [
    "避難所",
@@ -886,7 +886,7 @@
  {
   "href": "/life/emergency/evacuation-hazard-map/",
   "icon": "⚠️",
-  "title_iwata": "「いつ・どこへ逃げるか」を、迷う前に決めておく。",
+  "title": "「いつ・どこへ逃げるか」を、迷う前に決めておく。",
   "category": "もしもの時",
   "synonyms": [
    "避難",
@@ -950,7 +950,7 @@
  {
   "href": "/life/emergency/fire-ambulance/",
   "icon": "⚠️",
-  "title_iwata": "火事のとき、急病のとき。まず119番。落ち着いて伝える。",
+  "title": "火事のとき、急病のとき。まず119番。落ち着いて伝える。",
   "category": "もしもの時",
   "synonyms": [
    "119番",
@@ -1015,7 +1015,7 @@
  {
   "href": "/life/emergency/hazard-maps/",
   "icon": "⚠️",
-  "title_iwata": "自宅と避難先の災害リスクを、ハザードマップで今すぐ確かめる。",
+  "title": "自宅と避難先の災害リスクを、ハザードマップで今すぐ確かめる。",
   "category": "もしもの時",
   "synonyms": [
    "ハザードマップ",
@@ -1089,7 +1089,7 @@
  {
   "href": "/life/emergency/",
   "icon": "⚠️",
-  "title_iwata": "⚠️ もしもの時",
+  "title": "⚠️ もしもの時",
   "category": "もしもの時",
   "synonyms": [
    "防災",
@@ -1123,7 +1123,7 @@
  {
   "href": "/life/emergency/pet-disaster-prevention/",
   "icon": "⚠️",
-  "title_iwata": "ペットと一緒に逃げる。そのための備えを、災害が来る前に整える。",
+  "title": "ペットと一緒に逃げる。そのための備えを、災害が来る前に整える。",
   "category": "もしもの時",
   "synonyms": [
    "ペット防災",
@@ -1191,7 +1191,7 @@
  {
   "href": "/life/emergency/road-river-info/",
   "icon": "⚠️",
-  "title_iwata": "大雨・台風のとき、道路の通行止めと川の水位を今すぐ確かめる。",
+  "title": "大雨・台風のとき、道路の通行止めと川の水位を今すぐ確かめる。",
   "category": "もしもの時",
   "synonyms": [
    "通行止め",
@@ -1263,7 +1263,7 @@
  {
   "href": "/life/emergency/storm-heavy-rain/",
   "icon": "⚠️",
-  "title_iwata": "台風・大雨が近づいたら、警戒レベルで「いつ逃げるか」を先に決めておく。",
+  "title": "台風・大雨が近づいたら、警戒レベルで「いつ逃げるか」を先に決めておく。",
   "category": "もしもの時",
   "synonyms": [
    "台風",
@@ -1335,7 +1335,7 @@
  {
   "href": "/life/end-of-life/after-death-procedures/",
   "icon": "🕊️",
-  "title_iwata": "死亡後の手続きは、急ぐ届出と後日の手続きを分ける",
+  "title": "死亡後の手続きは、急ぐ届出と後日の手続きを分ける",
   "category": "人生の終わり",
   "synonyms": [
    "死亡後の手続き",
@@ -1396,7 +1396,7 @@
  {
   "href": "/life/end-of-life/bereavement/",
   "icon": "🕊️",
-  "title_iwata": "家族が亡くなったら、急ぐ届出と後日の手続きを分けて確認する",
+  "title": "家族が亡くなったら、急ぐ届出と後日の手続きを分けて確認する",
   "category": "人生の終わり",
   "synonyms": [
    "家族が亡くなった",
@@ -1449,7 +1449,7 @@
  {
   "href": "/life/end-of-life/bereavement-procedures/",
   "icon": "🕊️",
-  "title_iwata": "おくやみ手続きは、一覧で見てから家族で分担する",
+  "title": "おくやみ手続きは、一覧で見てから家族で分担する",
   "category": "人生の終わり",
   "synonyms": [
    "おくやみ",
@@ -1506,7 +1506,7 @@
  {
   "href": "/life/end-of-life/grave-memorial/",
   "icon": "🕊️",
-  "title_iwata": "お墓・供養は、墓地の場所と必要な届出を分けて確認する",
+  "title": "お墓・供養は、墓地の場所と必要な届出を分けて確認する",
   "category": "人生の終わり",
   "synonyms": [
    "お墓",
@@ -1555,7 +1555,7 @@
  {
   "href": "/life/end-of-life/house-became-vacant/",
   "icon": "🕊️",
-  "title_iwata": "相続後の空き家は、管理・売却・解体の方向性を早めに分ける",
+  "title": "相続後の空き家は、管理・売却・解体の方向性を早めに分ける",
   "category": "人生の終わり",
   "synonyms": [
    "相続空き家",
@@ -1607,7 +1607,7 @@
  {
   "href": "/life/end-of-life/",
   "icon": "🕊️",
-  "title_iwata": "🕊️ 人生の終わり",
+  "title": "🕊️ 人生の終わり",
   "category": "人生の終わり",
   "synonyms": [
    "おくやみ",
@@ -1644,7 +1644,7 @@
  {
   "href": "/life/end-of-life/inheritance/",
   "icon": "🕊️",
-  "title_iwata": "相続は、市の手続きと家族で決めることを分けて進める",
+  "title": "相続は、市の手続きと家族で決めることを分けて進める",
   "category": "人生の終わり",
   "synonyms": [
    "相続",
@@ -1697,7 +1697,7 @@
  {
   "href": "/life/end-of-life/inherited-house/",
   "icon": "🕊️",
-  "title_iwata": "親の家は、名義・管理・片付け・今後の使い方を一つずつ決める",
+  "title": "親の家は、名義・管理・片付け・今後の使い方を一つずつ決める",
   "category": "人生の終わり",
   "synonyms": [
    "親の家",
@@ -1745,7 +1745,7 @@
  {
   "href": "/life/end-of-life/inherited-vacant-house/",
   "icon": "🕊️",
-  "title_iwata": "相続した家は、使う・貸す・売る・解体するを家族で整理する",
+  "title": "相続した家は、使う・貸す・売る・解体するを家族で整理する",
   "category": "人生の終わり",
   "synonyms": [
    "相続した空き家",
@@ -1798,7 +1798,7 @@
  {
   "href": "/life/end-of-life/pension-inheritance/",
   "icon": "🕊️",
-  "title_iwata": "年金の手続きは、年金の種類と未支給分を分けて確認する",
+  "title": "年金の手続きは、年金の種類と未支給分を分けて確認する",
   "category": "人生の終わり",
   "synonyms": [
    "年金相続",
@@ -1841,7 +1841,7 @@
  {
   "href": "/life/end-of-life/property-tax-inheritance/",
   "icon": "🕊️",
-  "title_iwata": "固定資産税の相続は、代表者届と納税通知の行き先を先に確認する",
+  "title": "固定資産税の相続は、代表者届と納税通知の行き先を先に確認する",
   "category": "人生の終わり",
   "synonyms": [
    "固定資産税相続",
@@ -1884,7 +1884,7 @@
  {
   "href": "/life/family-grow/child-allowance/",
   "icon": "👶",
-  "title_iwata": "児童手当を、申請忘れも期限切れもなく確実に受け取る。",
+  "title": "児童手当を、申請忘れも期限切れもなく確実に受け取る。",
   "category": "家族が増える",
   "synonyms": [
    "児童手当"
@@ -1936,7 +1936,7 @@
  {
   "href": "/life/family-grow/child-allowance-medical/",
   "icon": "👶",
-  "title_iwata": "出生や転入のあと、児童手当とこども医療費を申請漏れなく確認する。",
+  "title": "出生や転入のあと、児童手当とこども医療費を申請漏れなく確認する。",
   "category": "家族が増える",
   "synonyms": [
    "こども医療費",
@@ -1997,7 +1997,7 @@
  {
   "href": "/life/family-grow/child-vaccination/",
   "icon": "👶",
-  "title_iwata": "子どもの予防接種は、予診票と母子健康手帳をそろえて予約する。",
+  "title": "子どもの予防接種は、予診票と母子健康手帳をそろえて予約する。",
   "category": "家族が増える",
   "synonyms": [
    "予防接種",
@@ -2051,7 +2051,7 @@
  {
   "href": "/life/family-grow/childbirth/",
   "icon": "👶",
-  "title_iwata": "赤ちゃんが生まれたら、出生届からまとめて手続きを進める。",
+  "title": "赤ちゃんが生まれたら、出生届からまとめて手続きを進める。",
   "category": "家族が増える",
   "synonyms": [
    "出産",
@@ -2114,7 +2114,7 @@
  {
   "href": "/life/family-grow/developmental-support/",
   "icon": "👶",
-  "title_iwata": "子どもの発達が気になったら、相談先と通所支援の入口を先に分ける。",
+  "title": "子どもの発達が気になったら、相談先と通所支援の入口を先に分ける。",
   "category": "家族が増える",
   "synonyms": [
    "発達相談",
@@ -2169,7 +2169,7 @@
  {
   "href": "/life/family-grow/",
   "icon": "👶",
-  "title_iwata": "👶 家族が増える",
+  "title": "👶 家族が増える",
   "category": "家族が増える",
   "synonyms": [
    "子育て",
@@ -2201,7 +2201,7 @@
  {
   "href": "/life/family-grow/infant-health-check/",
   "icon": "👶",
-  "title_iwata": "乳幼児健診の案内を見落とさず、月齢ごとに確認する。",
+  "title": "乳幼児健診の案内を見落とさず、月齢ごとに確認する。",
   "category": "家族が増える",
   "synonyms": [
    "乳幼児健診",
@@ -2247,7 +2247,7 @@
  {
   "href": "/life/family-grow/marriage/",
   "icon": "👶",
-  "title_iwata": "婚姻届を出す日と、結婚後に変わる手続きを先に整理する。",
+  "title": "婚姻届を出す日と、結婚後に変わる手続きを先に整理する。",
   "category": "家族が増える",
   "synonyms": [
    "結婚",
@@ -2293,7 +2293,7 @@
  {
   "href": "/life/family-grow/nursery-childcare/",
   "icon": "👶",
-  "title_iwata": "保育園と一時預かりを、必要なタイミングから確認する。",
+  "title": "保育園と一時預かりを、必要なタイミングから確認する。",
   "category": "家族が増える",
   "synonyms": [
    "一時預かり",
@@ -2340,7 +2340,7 @@
  {
   "href": "/life/family-grow/nursery-school/",
   "icon": "👶",
-  "title_iwata": "幼稚園・保育園・こども園を、子どもに合う入口から選ぶ。",
+  "title": "幼稚園・保育園・こども園を、子どもに合う入口から選ぶ。",
   "category": "家族が増える",
   "synonyms": [
    "保育園",
@@ -2387,7 +2387,7 @@
  {
   "href": "/life/family-grow/parenting-support/",
   "icon": "👶",
-  "title_iwata": "子育てで迷ったら、相談先と使える支援を先に分ける。",
+  "title": "子育てで迷ったら、相談先と使える支援を先に分ける。",
   "category": "家族が増える",
   "synonyms": [
    "子育て相談",
@@ -2433,7 +2433,7 @@
  {
   "href": "/life/family-grow/pregnancy/",
   "icon": "👶",
-  "title_iwata": "妊娠がわかったら、まず妊娠届を出して母子手帳を受け取る。",
+  "title": "妊娠がわかったら、まず妊娠届を出して母子手帳を受け取る。",
   "category": "家族が増える",
   "synonyms": [
    "妊娠届",
@@ -2492,7 +2492,7 @@
  {
   "href": "/life/family-grow/single-parent-support/",
   "icon": "👶",
-  "title_iwata": "ひとり親家庭の手当・医療費・養育費を、最初に見る順番で整理する。",
+  "title": "ひとり親家庭の手当・医療費・養育費を、最初に見る順番で整理する。",
   "category": "家族が増える",
   "synonyms": [
    "ひとり親",
@@ -2545,7 +2545,7 @@
  {
   "href": "/life/health-medical/adult-vaccination/",
   "icon": "🏥",
-  "title_iwata": "おとなの予防接種は、対象年齢と接種時期を先に確認する",
+  "title": "おとなの予防接種は、対象年齢と接種時期を先に確認する",
   "category": "健康・医療",
   "synonyms": [
    "大人の予防接種",
@@ -2603,7 +2603,7 @@
  {
   "href": "/life/health-medical/cancer-specific-checkups/",
   "icon": "🏥",
-  "title_iwata": "がん検診と支援制度は、対象と時期を分けて確認する",
+  "title": "がん検診と支援制度は、対象と時期を分けて確認する",
   "category": "健康・医療",
   "synonyms": [
    "がん検診"
@@ -2653,7 +2653,7 @@
  {
   "href": "/life/health-medical/dental-care/",
   "icon": "🏥",
-  "title_iwata": "歯科・口の健康は、健診と相談先を分けて確認する",
+  "title": "歯科・口の健康は、健診と相談先を分けて確認する",
   "category": "健康・医療",
   "synonyms": [
    "歯科検診",
@@ -2706,7 +2706,7 @@
  {
   "href": "/life/health-medical/disability-services/",
   "icon": "🏥",
-  "title_iwata": "障がい福祉サービスは、支援内容と相談先を先に分ける",
+  "title": "障がい福祉サービスは、支援内容と相談先を先に分ける",
   "category": "健康・医療",
   "synonyms": [
    "障害福祉サービス",
@@ -2763,7 +2763,7 @@
  {
   "href": "/life/health-medical/disability-welfare/",
   "icon": "🏥",
-  "title_iwata": "障がい者福祉は、支援・相談・助成を分けて確認する",
+  "title": "障がい者福祉は、支援・相談・助成を分けて確認する",
   "category": "健康・医療",
   "synonyms": [
    "障害者福祉",
@@ -2820,7 +2820,7 @@
  {
   "href": "/life/health-medical/find-hospitals/",
   "icon": "🏥",
-  "title_iwata": "医療機関を探すときは、診療時間と相談先を分けて確認する",
+  "title": "医療機関を探すときは、診療時間と相談先を分けて確認する",
   "category": "健康・医療",
   "synonyms": [
    "病院探し",
@@ -2874,7 +2874,7 @@
  {
   "href": "/life/health-medical/health-checkups/",
   "icon": "🏥",
-  "title_iwata": "健康診断とがん検診は、受診券と対象条件を先に確認する",
+  "title": "健康診断とがん検診は、受診券と対象条件を先に確認する",
   "category": "健康・医療",
   "synonyms": [
    "健康診断",
@@ -2928,7 +2928,7 @@
  {
   "href": "/life/health-medical/health-promotion/",
   "icon": "🏥",
-  "title_iwata": "健康づくりは、生活習慣と相談内容を先に整理する",
+  "title": "健康づくりは、生活習慣と相談内容を先に整理する",
   "category": "健康・医療",
   "synonyms": [
    "健康づくり"
@@ -2976,7 +2976,7 @@
  {
   "href": "/life/health-medical/holiday-night-emergency-care/",
   "icon": "🏥",
-  "title_iwata": "休日夜間の急患は、まず救急診療所の電話番号を確認する",
+  "title": "休日夜間の急患は、まず救急診療所の電話番号を確認する",
   "category": "健康・医療",
   "synonyms": [
    "休日夜間診療",
@@ -3025,7 +3025,7 @@
  {
   "href": "/life/health-medical/",
   "icon": "🏥",
-  "title_iwata": "🏥 健康・医療",
+  "title": "🏥 健康・医療",
   "category": "健康・医療",
   "synonyms": [
    "健康",
@@ -3063,7 +3063,7 @@
  {
   "href": "/life/health-medical/mental-health-consulting/",
   "icon": "🏥",
-  "title_iwata": "こころの相談は、相談窓口と予約方法を先に確認する",
+  "title": "こころの相談は、相談窓口と予約方法を先に確認する",
   "category": "健康・医療",
   "synonyms": [
    "こころの相談",
@@ -3115,7 +3115,7 @@
  {
   "href": "/life/health-medical/night-holiday-medical/",
   "icon": "🏥",
-  "title_iwata": "夜間・休日の急患は、まず救急診療所の電話番号を確認する",
+  "title": "夜間・休日の急患は、まず救急診療所の電話番号を確認する",
   "category": "健康・医療",
   "synonyms": [
    "夜間診療",
@@ -3164,7 +3164,7 @@
  {
   "href": "/life/health-medical/vaccinations/",
   "icon": "🏥",
-  "title_iwata": "予防接種は、対象年齢と接種時期を先に確認する",
+  "title": "予防接種は、対象年齢と接種時期を先に確認する",
   "category": "健康・医療",
   "synonyms": [
    "予防接種"
@@ -3215,7 +3215,7 @@
  {
   "href": "/life/housing/build-house/",
   "icon": "🏠",
-  "title_iwata": "家を建てる前に、土地・許可・補助金を先に確認する。",
+  "title": "家を建てる前に、土地・許可・補助金を先に確認する。",
   "category": "家・住まい",
   "synonyms": [
    "家を建てる",
@@ -3270,7 +3270,7 @@
  {
   "href": "/life/housing/buy-house/",
   "icon": "🏠",
-  "title_iwata": "家を買う前に、補助金・税金・物件状態を分けて確認する。",
+  "title": "家を買う前に、補助金・税金・物件状態を分けて確認する。",
   "category": "家・住まい",
   "synonyms": [
    "家を買う",
@@ -3324,7 +3324,7 @@
  {
   "href": "/life/housing/clean-parents-house/",
   "icon": "🏠",
-  "title_iwata": "親の家の片付けは、ごみ・相続・空き家を分けて進める。",
+  "title": "親の家の片付けは、ごみ・相続・空き家を分けて進める。",
   "category": "家・住まい",
   "synonyms": [
    "実家片付け",
@@ -3380,7 +3380,7 @@
  {
   "href": "/life/housing/earthquake-demolition/",
   "icon": "🏠",
-  "title_iwata": "耐震や解体は、制度確認と現地判断を分けて進める。",
+  "title": "耐震や解体は、制度確認と現地判断を分けて進める。",
   "category": "家・住まい",
   "synonyms": [
    "耐震",
@@ -3442,7 +3442,7 @@
  {
   "href": "/life/housing/",
   "icon": "🏠",
-  "title_iwata": "🏠 家・住まい",
+  "title": "🏠 家・住まい",
   "category": "家・住まい",
   "synonyms": [
    "住宅",
@@ -3485,7 +3485,7 @@
  {
   "href": "/life/housing/municipal-housing/",
   "icon": "🏠",
-  "title_iwata": "市営住宅は、募集条件・収入・必要書類を先に確認する。",
+  "title": "市営住宅は、募集条件・収入・必要書類を先に確認する。",
   "category": "家・住まい",
   "synonyms": [
    "市営住宅",
@@ -3543,7 +3543,7 @@
  {
   "href": "/life/housing/property-tax/",
   "icon": "🏠",
-  "title_iwata": "土地・家屋の税金は、課税内容と手続きを分けて確認する",
+  "title": "土地・家屋の税金は、課税内容と手続きを分けて確認する",
   "category": "家・住まい",
   "synonyms": [
    "固定資産税"
@@ -3593,7 +3593,7 @@
  {
   "href": "/life/housing/public-housing-consultation/",
   "icon": "🏠",
-  "title_iwata": "住まいに困ったら、状況と緊急度を先に分ける",
+  "title": "住まいに困ったら、状況と緊急度を先に分ける",
   "category": "家・住まい",
   "synonyms": [
    "住まい相談"
@@ -3651,7 +3651,7 @@
  {
   "href": "/life/housing/rent-house/",
   "icon": "🏠",
-  "title_iwata": "賃貸探しは、条件・費用・手続きの順に整理する",
+  "title": "賃貸探しは、条件・費用・手続きの順に整理する",
   "category": "家・住まい",
   "synonyms": [
    "賃貸",
@@ -3695,7 +3695,7 @@
  {
   "href": "/life/housing/sell-house/",
   "icon": "🏠",
-  "title_iwata": "家を売る前に、税金・権利・現地状態をそろえる",
+  "title": "家を売る前に、税金・権利・現地状態をそろえる",
   "category": "家・住まい",
   "synonyms": [
    "不動産売却",
@@ -3750,7 +3750,7 @@
  {
   "href": "/life/housing/vacant-house/",
   "icon": "🏠",
-  "title_iwata": "空き家は、管理・税金・今後の使い道を同時に整理する",
+  "title": "空き家は、管理・税金・今後の使い道を同時に整理する",
   "category": "家・住まい",
   "synonyms": [
    "空き家",
@@ -3810,7 +3810,7 @@
  {
   "href": "/life/living-soon/about-omaezaki/",
   "icon": "🏡",
-  "title_iwata": "磐田で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
+  "title": "御前崎で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
   "category": "これから暮らす",
   "synonyms": [
    "御前崎市の暮らし"
@@ -3863,7 +3863,7 @@
  {
   "href": "/life/living-soon/bus-license-return/",
   "icon": "🏡",
-  "title_iwata": "運転免許を返したあとも、磐田で困らずに動ける道を先に整える。",
+  "title": "運転免許を返したあとも、御前崎で困らずに動ける道を先に整える。",
   "category": "これから暮らす",
   "synonyms": [
    "免許返納"
@@ -3922,7 +3922,7 @@
  {
   "href": "/life/living-soon/disaster-risk/",
   "icon": "🏡",
-  "title_iwata": "引っ越す前に、候補地が洪水・津波・土砂・地震に強い場所か確かめる。",
+  "title": "引っ越す前に、候補地が洪水・津波・土砂・地震に強い場所か確かめる。",
   "category": "これから暮らす",
   "synonyms": [
    "災害リスク",
@@ -3990,7 +3990,7 @@
  {
   "href": "/life/living-soon/",
   "icon": "🏡",
-  "title_iwata": "🏡 これから暮らす",
+  "title": "🏡 これから暮らす",
   "category": "これから暮らす",
   "synonyms": [
    "移住",
@@ -4022,7 +4022,7 @@
  {
   "href": "/life/living-soon/moving-decided/",
   "icon": "🏡",
-  "title_iwata": "引っ越しが決まったら、何をいつまでにやるかを順番に整理する。",
+  "title": "引っ越しが決まったら、何をいつまでにやるかを順番に整理する。",
   "category": "これから暮らす",
   "synonyms": [
    "引っ越し準備"
@@ -4081,7 +4081,7 @@
  {
   "href": "/life/living-soon/school-districts/",
   "icon": "🏡",
-  "title_iwata": "引っ越し先で、子どもがどの小中学校に通うのかを先に確かめる。",
+  "title": "引っ越し先で、子どもがどの小中学校に通うのかを先に確かめる。",
   "category": "これから暮らす",
   "synonyms": [
    "学区",
@@ -4136,7 +4136,7 @@
  {
   "href": "/life/living-soon/transportation/",
   "icon": "🏡",
-  "title_iwata": "住む地区を決める前に、磐田での移動手段を先に確かめる。",
+  "title": "住む地区を決める前に、御前崎での移動手段を先に確かめる。",
   "category": "これから暮らす",
   "synonyms": [
    "移動手段",
@@ -4200,7 +4200,7 @@
  {
   "href": "/life/living-soon/want-to-live/",
   "icon": "🏡",
-  "title_iwata": "広い家で、安定した仕事があって、子どもをのびのび育てられる暮らしを磐田で考える。",
+  "title": "広い家で、安定した仕事があって、子どもをのびのび育てられる暮らしを御前崎で考える。",
   "category": "これから暮らす",
   "synonyms": [
    "移住",
@@ -4256,7 +4256,7 @@
  {
   "href": "/life/moving-out/bulk-garbage-cleaning/",
   "icon": "📦",
-  "title_iwata": "転出前の片付けは、粗大ごみ・持ち込み・処理不可品を分ける",
+  "title": "転出前の片付けは、粗大ごみ・持ち込み・処理不可品を分ける",
   "category": "新しい場所へ",
   "synonyms": [
    "粗大ごみ",
@@ -4307,7 +4307,7 @@
  {
   "href": "/life/moving-out/dog-ownership-change/",
   "icon": "📦",
-  "title_iwata": "犬の登録変更は、転出先自治体での手続きも見越して確認する",
+  "title": "犬の登録変更は、転出先自治体での手続きも見越して確認する",
   "category": "新しい場所へ",
   "synonyms": [
    "犬登録変更"
@@ -4358,7 +4358,7 @@
  {
   "href": "/life/moving-out/",
   "icon": "📦",
-  "title_iwata": "📦 新しい場所へ",
+  "title": "📦 新しい場所へ",
   "category": "新しい場所へ",
   "synonyms": [
    "転出",
@@ -4394,7 +4394,7 @@
  {
   "href": "/life/moving-out/move-out-notice/",
   "icon": "📦",
-  "title_iwata": "転出届は、引っ越し先と届出方法を確認してから進める",
+  "title": "転出届は、引っ越し先と届出方法を確認してから進める",
   "category": "新しい場所へ",
   "synonyms": [
    "転出届"
@@ -4446,7 +4446,7 @@
  {
   "href": "/life/moving-out/moving-away/",
   "icon": "📦",
-  "title_iwata": "磐田市から引っ越すときは、転出届と暮らしの停止手続きを一緒に確認する",
+  "title": "御前崎市から引っ越すときは、転出届と暮らしの停止手続きを一緒に確認する",
   "category": "新しい場所へ",
   "synonyms": [
    "転出",
@@ -4497,7 +4497,7 @@
  {
   "href": "/life/moving-out/school-nursery-procedures/",
   "icon": "📦",
-  "title_iwata": "子どもの転出は、学校と園の手続きを別々に確認する",
+  "title": "子どもの転出は、学校と園の手続きを別々に確認する",
   "category": "新しい場所へ",
   "synonyms": [
    "転出時の学校手続き",
@@ -4548,7 +4548,7 @@
  {
   "href": "/life/moving-out/stop-water/",
   "icon": "📦",
-  "title_iwata": "水道の中止は、使用をやめる日と精算方法を先に決める",
+  "title": "水道の中止は、使用をやめる日と精算方法を先に決める",
   "category": "新しい場所へ",
   "synonyms": [
    "水道中止",
@@ -4602,7 +4602,7 @@
  {
   "href": "/life/parents-care/adult-guardianship/",
   "icon": "👵",
-  "title_iwata": "親の判断能力が落ちても、財産と契約を守れるように備える。",
+  "title": "親の判断能力が落ちても、財産と契約を守れるように備える。",
   "category": "親のこと",
   "synonyms": [
    "成年後見",
@@ -4663,7 +4663,7 @@
  {
   "href": "/life/parents-care/care-certification-support-center/",
   "icon": "👵",
-  "title_iwata": "親の介護認定を、申請から結果通知まで迷わず進める。",
+  "title": "親の介護認定を、申請から結果通知まで迷わず進める。",
   "category": "親のこと",
   "synonyms": [
    "介護認定申請"
@@ -4718,7 +4718,7 @@
  {
   "href": "/life/parents-care/care-started/",
   "icon": "👵",
-  "title_iwata": "親の介護が急に始まって、何からすればいいか分からないとき。",
+  "title": "親の介護が急に始まって、何からすればいいか分からないとき。",
   "category": "親のこと",
   "synonyms": [
    "介護開始"
@@ -4777,7 +4777,7 @@
  {
   "href": "/life/parents-care/check-parents/",
   "icon": "👵",
-  "title_iwata": "離れて暮らす親が心配。何かあったらと不安なとき、最初の相談先を整理する。",
+  "title": "離れて暮らす親が心配。何かあったらと不安なとき、最初の相談先を整理する。",
   "category": "親のこと",
   "synonyms": [
    "親の見守り",
@@ -4831,7 +4831,7 @@
  {
   "href": "/life/parents-care/community-support-center/",
   "icon": "👵",
-  "title_iwata": "どこに相談すればいいか分からない介護の悩みを、まず一つの窓口に。",
+  "title": "どこに相談すればいいか分からない介護の悩みを、まず一つの窓口に。",
   "category": "親のこと",
   "synonyms": [
    "地域包括支援センター"
@@ -4871,7 +4871,7 @@
  {
   "href": "/life/parents-care/dementia-consultation/",
   "icon": "👵",
-  "title_iwata": "親が認知症かもしれない。抱え込まず、まず相談から始める。",
+  "title": "親が認知症かもしれない。抱え込まず、まず相談から始める。",
   "category": "親のこと",
   "synonyms": [
    "認知症相談",
@@ -4932,7 +4932,7 @@
  {
   "href": "/life/parents-care/elderly-transportation/",
   "icon": "👵",
-  "title_iwata": "通院や買い物に行きづらくなった親の「足」を、無理なく確保する。",
+  "title": "通院や買い物に行きづらくなった親の「足」を、無理なく確保する。",
   "category": "親のこと",
   "synonyms": [
    "高齢者の移動",
@@ -4988,7 +4988,7 @@
  {
   "href": "/life/parents-care/find-nursing-home/",
   "icon": "👵",
-  "title_iwata": "親の介護施設を、種類の違いから落ち着いて選ぶ。",
+  "title": "親の介護施設を、種類の違いから落ち着いて選ぶ。",
   "category": "親のこと",
   "synonyms": [
    "介護施設",
@@ -5056,7 +5056,7 @@
  {
   "href": "/life/parents-care/",
   "icon": "👵",
-  "title_iwata": "👵 親のこと",
+  "title": "👵 親のこと",
   "category": "親のこと",
   "synonyms": [
    "介護",
@@ -5092,7 +5092,7 @@
  {
   "href": "/life/parents-care/long-term-care-insurance/",
   "icon": "👵",
-  "title_iwata": "親の介護が始まったら、要介護認定の申請から順番に動く。",
+  "title": "親の介護が始まったら、要介護認定の申請から順番に動く。",
   "category": "親のこと",
   "synonyms": [
    "要介護認定",
@@ -5161,7 +5161,7 @@
  {
   "href": "/life/play-out/cultural-facilities/",
   "icon": "🌳",
-  "title_iwata": "文化施設は、開館日・予約・アクセスを先に確認する",
+  "title": "文化施設は、開館日・予約・アクセスを先に確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "文化施設",
@@ -5225,7 +5225,7 @@
  {
   "href": "/life/play-out/facilities-library-parks/",
   "icon": "🌳",
-  "title_iwata": "公共施設は、施設ガイドから目的別に探す",
+  "title": "公共施設は、施設ガイドから目的別に探す",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "公共施設一覧"
@@ -5286,7 +5286,7 @@
  {
   "href": "/life/play-out/find-parks/",
   "icon": "🌳",
-  "title_iwata": "公園は、目的・年齢・アクセスで選ぶ",
+  "title": "公園は、目的・年齢・アクセスで選ぶ",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "公園"
@@ -5347,7 +5347,7 @@
  {
   "href": "/life/play-out/",
   "icon": "🌳",
-  "title_iwata": "🌳 遊ぶ・使う・出かける",
+  "title": "🌳 遊ぶ・使う・出かける",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "レジャー",
@@ -5389,7 +5389,7 @@
  {
   "href": "/life/play-out/kids-playgrounds/",
   "icon": "🌳",
-  "title_iwata": "子どもの遊び場は、年齢・天気・帰りやすさで選ぶ",
+  "title": "子どもの遊び場は、年齢・天気・帰りやすさで選ぶ",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "子どもの遊び場"
@@ -5444,7 +5444,7 @@
  {
   "href": "/life/play-out/parking-access/",
   "icon": "🌳",
-  "title_iwata": "出発前に、駐車場・地図・公共交通を確認する",
+  "title": "出発前に、駐車場・地図・公共交通を確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "駐車場"
@@ -5499,7 +5499,7 @@
  {
   "href": "/life/play-out/rent-public-facilities/",
   "icon": "🌳",
-  "title_iwata": "公共施設を借りる前に、予約方法と利用条件を確認する",
+  "title": "公共施設を借りる前に、予約方法と利用条件を確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "公共施設予約",
@@ -5556,7 +5556,7 @@
  {
   "href": "/life/play-out/sports-facilities/",
   "icon": "🌳",
-  "title_iwata": "スポーツ施設は、予約・料金・持ち物を先に確認する",
+  "title": "スポーツ施設は、予約・料金・持ち物を先に確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "スポーツ施設",
@@ -5619,7 +5619,7 @@
  {
   "href": "/life/play-out/swimming-pools/",
   "icon": "🌳",
-  "title_iwata": "プールは、営業日・料金・持ち物を先に確認する",
+  "title": "プールは、営業日・料金・持ち物を先に確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "プール"
@@ -5677,7 +5677,7 @@
  {
   "href": "/life/play-out/visit-library/",
   "icon": "🌳",
-  "title_iwata": "図書館へ行く前に、開館日・利用カード・場所を確認する",
+  "title": "図書館へ行く前に、開館日・利用カード・場所を確認する",
   "category": "遊ぶ・使う・出かける",
   "synonyms": [
    "図書館"
@@ -5734,7 +5734,7 @@
  {
   "href": "/life/start-living/bulky-garbage-dropoff/",
   "icon": "🧭",
-  "title_iwata": "布団・家具・大きなごみを、自分で持ち込むか、取りに来てもらうか決める。",
+  "title": "布団・家具・大きなごみを、自分で持ち込むか、取りに来てもらうか決める。",
   "category": "暮らし始めた",
   "synonyms": [
    "粗大ごみ",
@@ -5791,7 +5791,7 @@
  {
   "href": "/life/start-living/certificates/",
   "icon": "🧭",
-  "title_iwata": "提出先に出す証明書を、種類を間違えず最短で受け取る。",
+  "title": "提出先に出す証明書を、種類を間違えず最短で受け取る。",
   "category": "暮らし始めた",
   "synonyms": [
    "住民票",
@@ -5866,7 +5866,7 @@
  {
   "href": "/life/start-living/city-hall-branches/",
   "icon": "🧭",
-  "title_iwata": "近くの窓口に行ってから「ここでは扱っていません」を防ぐ。",
+  "title": "近くの窓口に行ってから「ここでは扱っていません」を防ぐ。",
   "category": "暮らし始めた",
   "synonyms": [
    "支所",
@@ -5919,7 +5919,7 @@
  {
   "href": "/life/start-living/dog-registration/",
   "icon": "🧭",
-  "title_iwata": "犬の登録・鑑札の手続きを、出直しなしで一度に済ませる。",
+  "title": "犬の登録・鑑札の手続きを、出直しなしで一度に済ませる。",
   "category": "暮らし始めた",
   "synonyms": [
    "犬の登録",
@@ -5979,7 +5979,7 @@
  {
   "href": "/life/start-living/dog-registration-rabies/",
   "icon": "🧭",
-  "title_iwata": "毎年の狂犬病予防注射を、忘れずに受けて注射済票までそろえる。",
+  "title": "毎年の狂犬病予防注射を、忘れずに受けて注射済票までそろえる。",
   "category": "暮らし始めた",
   "synonyms": [
    "狂犬病予防注射"
@@ -6029,7 +6029,7 @@
  {
   "href": "/life/start-living/garbage-sorting-calendar/",
   "icon": "🧭",
-  "title_iwata": "引っ越し先で、ごみを間違えずに出せるようにする。",
+  "title": "引っ越し先で、ごみを間違えずに出せるようにする。",
   "category": "暮らし始めた",
   "synonyms": [
    "ごみの日",
@@ -6087,7 +6087,7 @@
  {
   "href": "/life/start-living/how-to-garbage/",
   "icon": "🧭",
-  "title_iwata": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
+  "title": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
   "category": "暮らし始めた",
   "synonyms": [
    "ごみの出し方"
@@ -6146,7 +6146,7 @@
  {
   "href": "/life/start-living/",
   "icon": "🧭",
-  "title_iwata": "🧭 暮らし始めた",
+  "title": "🧭 暮らし始めた",
   "category": "暮らし始めた",
   "synonyms": [
    "転入",
@@ -6177,7 +6177,7 @@
  {
   "href": "/life/start-living/moved-in/",
   "icon": "🧭",
-  "title_iwata": "引っ越してきた後の手続きを、抜けなく順番どおりに片づける。",
+  "title": "引っ越してきた後の手続きを、抜けなく順番どおりに片づける。",
   "category": "暮らし始めた",
   "synonyms": [
    "転入後の手続き",
@@ -6234,7 +6234,7 @@
  {
   "href": "/life/start-living/moving-address-change/",
   "icon": "🧭",
-  "title_iwata": "引っ越しの住所変更を、転出証明書から順番どおりに片づける。",
+  "title": "引っ越しの住所変更を、転出証明書から順番どおりに片づける。",
   "category": "暮らし始めた",
   "synonyms": [
    "転入届",
@@ -6298,7 +6298,7 @@
  {
   "href": "/life/start-living/mynumber/",
   "icon": "🧭",
-  "title_iwata": "マイナンバーカードを、申請から受け取りまで迷わず進める。",
+  "title": "マイナンバーカードを、申請から受け取りまで迷わず進める。",
   "category": "暮らし始めた",
   "synonyms": [
    "マイナンバーカード",
@@ -6357,7 +6357,7 @@
  {
   "href": "/life/start-living/pets-lost-animals/",
   "icon": "🧭",
-  "title_iwata": "犬や猫がいなくなった。最初の電話を、いますぐ正しい先へ。",
+  "title": "犬や猫がいなくなった。最初の電話を、いますぐ正しい先へ。",
   "category": "暮らし始めた",
   "synonyms": [
    "迷い犬",
@@ -6420,7 +6420,7 @@
  {
   "href": "/life/start-living/public-transit/",
   "icon": "🧭",
-  "title_iwata": "車に頼らない日の移動を、バス・お助け号・電車で乗りこなす。",
+  "title": "車に頼らない日の移動を、バス・お助け号・電車で乗りこなす。",
   "category": "暮らし始めた",
   "synonyms": [
    "バス",
@@ -6479,7 +6479,7 @@
  {
   "href": "/life/start-living/resident-registration/",
   "icon": "🧭",
-  "title_iwata": "会社や学校に出す住民票を、急ぎでも確実に手に入れる。",
+  "title": "会社や学校に出す住民票を、急ぎでも確実に手に入れる。",
   "category": "暮らし始めた",
   "synonyms": [
    "住民票"
@@ -6537,7 +6537,7 @@
  {
   "href": "/life/start-living/water-sewer/",
   "icon": "🧭",
-  "title_iwata": "毎月の水道・下水道、仕組みと払い方を一度で見渡す。",
+  "title": "毎月の水道・下水道、仕組みと払い方を一度で見渡す。",
   "category": "暮らし始めた",
   "synonyms": [
    "水道料金",
@@ -6604,7 +6604,7 @@
  {
   "href": "/life/start-living/water-start-stop-fees/",
   "icon": "🧭",
-  "title_iwata": "引っ越し日に水が出ない、を防ぐ。水道の届け出を3日前までに。",
+  "title": "引っ越し日に水が出ない、を防ぐ。水道の届け出を3日前までに。",
   "category": "暮らし始めた",
   "synonyms": [
    "水道開始",
@@ -6671,7 +6671,7 @@
  {
   "href": "/life/troubles-consult/animal-pet-consultation/",
   "icon": "🧩",
-  "title_iwata": "動物・ペットの困りごと。誰に相談すればよいかを整理する。",
+  "title": "動物・ペットの困りごと。誰に相談すればよいかを整理する。",
   "category": "困った・相談したい",
   "synonyms": [
    "ペット相談",
@@ -6729,7 +6729,7 @@
  {
   "href": "/life/troubles-consult/cannot-pay-tax/",
   "icon": "🧩",
-  "title_iwata": "税金・保険料が払えない。放置せず、差押えの前に相談する。",
+  "title": "税金・保険料が払えない。放置せず、差押えの前に相談する。",
   "category": "困った・相談したい",
   "synonyms": [
    "税金払えない",
@@ -6782,7 +6782,7 @@
  {
   "href": "/life/troubles-consult/care-consultation/",
   "icon": "🧩",
-  "title_iwata": "介護で困ったとき、まずどこに相談すればいいかが分かる。",
+  "title": "介護で困ったとき、まずどこに相談すればいいかが分かる。",
   "category": "困った・相談したい",
   "synonyms": [
    "介護相談"
@@ -6839,7 +6839,7 @@
  {
   "href": "/life/troubles-consult/child-consultation/",
   "icon": "🧩",
-  "title_iwata": "子どものことで不安なとき、ひとりで抱えず、まず相談先を確認する。",
+  "title": "子どものことで不安なとき、ひとりで抱えず、まず相談先を確認する。",
   "category": "困った・相談したい",
   "synonyms": [
    "子どもの相談"
@@ -6905,7 +6905,7 @@
  {
   "href": "/life/troubles-consult/consumer-fraud/",
   "icon": "🧩",
-  "title_iwata": "だまされたかも、契約してしまった。そのときは、早めに相談する。",
+  "title": "だまされたかも、契約してしまった。そのときは、早めに相談する。",
   "category": "困った・相談したい",
   "synonyms": [
    "消費者トラブル",
@@ -6972,7 +6972,7 @@
  {
   "href": "/life/troubles-consult/disability-consultation/",
   "icon": "🧩",
-  "title_iwata": "障害のこと、まず誰に相談すればいいかを整理する。",
+  "title": "障害のこと、まず誰に相談すればいいかを整理する。",
   "category": "困った・相談したい",
   "synonyms": [
    "障害相談"
@@ -7037,7 +7037,7 @@
  {
   "href": "/life/troubles-consult/farmland/certificates/",
   "icon": "🧩",
-  "title_iwata": "農地の証明は、用途と対象地を先に確認する",
+  "title": "農地の証明は、用途と対象地を先に確認する",
   "category": "困った・相談したい",
   "synonyms": [
    "農地証明"
@@ -7079,7 +7079,7 @@
  {
   "href": "/life/troubles-consult/farmland/change-use/",
   "icon": "🧩",
-  "title_iwata": "農地を別の用途に使いたいとき、まず「何を確認するか」から整理する。",
+  "title": "農地を別の用途に使いたいとき、まず「何を確認するか」から整理する。",
   "category": "困った・相談したい",
   "synonyms": [
    "農地転用",
@@ -7126,7 +7126,7 @@
  {
   "href": "/life/troubles-consult/farmland/conversion/",
   "icon": "🧩",
-  "title_iwata": "農地を宅地や駐車場に使うとき、許可か届出かを先に見極める。",
+  "title": "農地を宅地や駐車場に使うとき、許可か届出かを先に見極める。",
   "category": "困った・相談したい",
   "synonyms": [
    "農地転用",
@@ -7178,7 +7178,7 @@
  {
   "href": "/life/troubles-consult/farmland/",
   "icon": "🧩",
-  "title_iwata": "相続した田んぼ・畑をどうすればいいか分からないとき、最初の整理から始める。",
+  "title": "相続した田んぼ・畑をどうすればいいか分からないとき、最初の整理から始める。",
   "category": "困った・相談したい",
   "synonyms": [
    "農地相続",
@@ -7243,7 +7243,7 @@
  {
   "href": "/life/troubles-consult/farmland/inheritance/",
   "icon": "🧩",
-  "title_iwata": "相続した田んぼ・畑を、まず届出から整理する。",
+  "title": "相続した田んぼ・畑を、まず届出から整理する。",
   "category": "困った・相談したい",
   "synonyms": [
    "農地相続"
@@ -7303,7 +7303,7 @@
  {
   "href": "/life/troubles-consult/farmland/noshin-exclusion/",
   "icon": "🧩",
-  "title_iwata": "農振・農用地区域は、土地の場所と目的を先に確認する",
+  "title": "農振・農用地区域は、土地の場所と目的を先に確認する",
   "category": "困った・相談したい",
   "synonyms": [
    "農振除外",
@@ -7342,7 +7342,7 @@
  {
   "href": "/life/troubles-consult/farmland/sell-or-rent/",
   "icon": "🧩",
-  "title_iwata": "使っていない農地を売りたい・貸したいとき、まず手続きの順番を整理する。",
+  "title": "使っていない農地を売りたい・貸したいとき、まず手続きの順番を整理する。",
   "category": "困った・相談したい",
   "synonyms": [
    "農地売買",
@@ -7406,7 +7406,7 @@
  {
   "href": "/life/troubles-consult/foreign-resident-consultation/",
   "icon": "🧩",
-  "title_iwata": "外国人住民の手続きは、住民登録と相談先を分けて確認する",
+  "title": "外国人住民の手続きは、住民登録と相談先を分けて確認する",
   "category": "困った・相談したい",
   "synonyms": [
    "外国人相談"
@@ -7448,7 +7448,7 @@
  {
   "href": "/life/troubles-consult/",
   "icon": "🧩",
-  "title_iwata": "🧩 困った・相談したい",
+  "title": "🧩 困った・相談したい",
   "category": "困った・相談したい",
   "synonyms": [
    "相談",
@@ -7478,7 +7478,7 @@
  {
   "href": "/life/troubles-consult/legal-general-consultation/",
   "icon": "🧩",
-  "title_iwata": "誰に相談すればいいか分からない悩みを、正しい窓口へつなぐ。",
+  "title": "誰に相談すればいいか分からない悩みを、正しい窓口へつなぐ。",
   "category": "困った・相談したい",
   "synonyms": [
    "法律相談"
@@ -7542,7 +7542,7 @@
  {
   "href": "/life/troubles-consult/living-costs-trouble/",
   "icon": "🧩",
-  "title_iwata": "生活費が足りない。そのつらさ、ひとりで抱えなくて大丈夫です。",
+  "title": "生活費が足りない。そのつらさ、ひとりで抱えなくて大丈夫です。",
   "category": "困った・相談したい",
   "synonyms": [
    "生活費相談",
@@ -7597,7 +7597,7 @@
  {
   "href": "/life/troubles-consult/road-repair-mirror/",
   "icon": "🧩",
-  "title_iwata": "道路の穴・カーブミラー・街路灯の不具合は、どこへ通報すればいいかをはっきりさせる。",
+  "title": "道路の穴・カーブミラー・街路灯の不具合は、どこへ通報すればいいかをはっきりさせる。",
   "category": "困った・相談したい",
   "synonyms": [
    "道路の穴",
@@ -7652,7 +7652,7 @@
  {
   "href": "/life/troubles-consult/vacant-house-consultation/",
   "icon": "🧩",
-  "title_iwata": "親の家・実家をどうするか迷ったとき、最初の整理から始める。",
+  "title": "親の家・実家をどうするか迷ったとき、最初の整理から始める。",
   "category": "困った・相談したい",
   "synonyms": [
    "空き家相談",
@@ -7713,7 +7713,7 @@
  {
   "href": "/life/work-life/city-tax-payment/",
   "icon": "💴",
-  "title_iwata": "市税の納付方法は、納付方法と口座振替を分けて確認する",
+  "title": "市税の納付方法は、納付方法と口座振替を分けて確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "市税納付"
@@ -7770,7 +7770,7 @@
  {
   "href": "/life/work-life/",
   "icon": "💴",
-  "title_iwata": "💴 働く・暮らす",
+  "title": "💴 働く・暮らす",
   "category": "働く・暮らす",
   "synonyms": [
    "仕事",
@@ -7807,7 +7807,7 @@
  {
   "href": "/life/work-life/job-change/",
   "icon": "💴",
-  "title_iwata": "就職・転職活動は、就職支援窓口と求人情報を先に確認する",
+  "title": "就職・転職活動は、就職支援窓口と求人情報を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "転職",
@@ -7867,7 +7867,7 @@
  {
   "href": "/life/work-life/job-recruitment/",
   "icon": "💴",
-  "title_iwata": "職員採用情報は、募集要項と試験日程を先に確認する",
+  "title": "職員採用情報は、募集要項と試験日程を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "市役所採用",
@@ -7925,7 +7925,7 @@
  {
   "href": "/life/work-life/light-vehicle-tax/",
   "icon": "💴",
-  "title_iwata": "軽自動車税の手続きは、排気量と登録先を分けて確認する",
+  "title": "軽自動車税の手続きは、排気量と登録先を分けて確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "軽自動車税"
@@ -7975,7 +7975,7 @@
  {
   "href": "/life/work-life/my-number-card/",
   "icon": "💴",
-  "title_iwata": "マイナンバーカードの手続きは、申請窓口と受取予約を先に確認する",
+  "title": "マイナンバーカードの手続きは、申請窓口と受取予約を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "マイナンバーカード"
@@ -8028,7 +8028,7 @@
  {
   "href": "/life/work-life/national-health-insurance-tax/",
   "icon": "💴",
-  "title_iwata": "国民健康保険税は、所得割・均等割と減免申請を先に確認する",
+  "title": "国民健康保険税は、所得割・均等割と減免申請を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "国民健康保険税",
@@ -8073,7 +8073,7 @@
  {
   "href": "/life/work-life/nhk-pension/",
   "icon": "💴",
-  "title_iwata": "国民健康保険・年金の手続きは、喪失証明と期限を先に確認する",
+  "title": "国民健康保険・年金の手続きは、喪失証明と期限を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "国民健康保険",
@@ -8114,7 +8114,7 @@
  {
   "href": "/life/work-life/resident-tax/",
   "icon": "💴",
-  "title_iwata": "住民税の手続きは、納付方法（普通・特別）と申告を先に確認する",
+  "title": "住民税の手続きは、納付方法（普通・特別）と申告を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "住民税"
@@ -8163,7 +8163,7 @@
  {
   "href": "/life/work-life/start-business/",
   "icon": "💴",
-  "title_iwata": "起業・創業の準備は、相談窓口と支援制度を先に確認する",
+  "title": "起業・創業の準備は、相談窓口と支援制度を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "起業",
@@ -8218,7 +8218,7 @@
  {
   "href": "/life/work-life/start-farming/",
   "icon": "💴",
-  "title_iwata": "就農の準備は、就農相談と利用可能な農地を先に確認する",
+  "title": "就農の準備は、就農相談と利用可能な農地を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "就農"
@@ -8277,7 +8277,7 @@
  {
   "href": "/life/work-life/subsidies/",
   "icon": "💴",
-  "title_iwata": "補助金の申請は、対象要件と事前申請ルールを先に確認する",
+  "title": "補助金の申請は、対象要件と事前申請ルールを先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "補助金"
@@ -8325,7 +8325,7 @@
  {
   "href": "/life/work-life/tax/",
   "icon": "💴",
-  "title_iwata": "税金の手続きは、税目と納付方法を先に確認する",
+  "title": "税金の手続きは、税目と納付方法を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "税金"
@@ -8377,7 +8377,7 @@
  {
   "href": "/life/work-life/tax-certificates/",
   "icon": "💴",
-  "title_iwata": "証明書の申請は、必要な証明年度と申請方法を先に確認する",
+  "title": "証明書の申請は、必要な証明年度と申請方法を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "納税証明書",
@@ -8422,7 +8422,7 @@
  {
   "href": "/life/work-life/tax-guide/",
   "icon": "💴",
-  "title_iwata": "税金の相談は、担当課と納付猶予制度を先に確認する",
+  "title": "税金の相談は、担当課と納付猶予制度を先に確認する",
   "category": "働く・暮らす",
   "synonyms": [
    "税金相談",
