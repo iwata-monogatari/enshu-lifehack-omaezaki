@@ -51,7 +51,16 @@ def main():
                 r"<!-- PART:%s:START -->.*?<!-- PART:%s:END -->" % (re.escape(name), re.escape(name)),
                 re.S,
             )
-            replacement = "<!-- PART:%s:START -->%s<!-- PART:%s:END -->" % (name, content, name)
+            effective_content = content
+            if name == "footer":
+                # 既存配信ページにはfooterマーカー外の計測タグがある。
+                # 部品側の同じタグを重ねて二重送信しない。
+                outside_footer = pattern.sub("", new_html)
+                if 'data-fujigaoka-analytics="true"' in outside_footer:
+                    effective_content = re.sub(
+                        r'<script\b[^>]*data-fujigaoka-analytics="true"[^>]*>.*?</script>',
+                        '', content, flags=re.S)
+            replacement = "<!-- PART:%s:START -->%s<!-- PART:%s:END -->" % (name, effective_content, name)
             new_html, n = pattern.subn(lambda m: replacement, new_html)
             total_markers[name] += n
         if new_html != html:

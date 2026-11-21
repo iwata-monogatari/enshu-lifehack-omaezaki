@@ -104,7 +104,7 @@
    {"question": "津波警報が出たらどう行動すればいいですか", "answer": "強い揺れを感じたときは、警報の発表を待たずにすぐ避難を開始するのが原則です。津波避難タワーや高台など、より高く・より遠くの場所を目指してください。詳しくは危機管理課（0537-85-1119）にご確認ください。"},
    {"question": "地震の揺れの強さの情報はどこで届きますか", "answer": "市内震度3以上の地震情報は防災メールで配信されます。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/saigaijijohoteikyo/bosaimail.html\" target=\"_blank\" rel=\"noopener\">防災メール</a>への登録をおすすめします。"},
    {"question": "浜岡原発の地震・津波対策も気になります", "answer": "浜岡原子力発電所に関する原子力災害への備えは、<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/index.html\" target=\"_blank\" rel=\"noopener\">原子力防災</a>のページで案内されています。地震・津波対策とあわせて確認しておくと安心です。"},
-   {"question": "住宅の耐震化について相談できますか", "answer": "住宅の耐震化に関する補助制度の有無は、御前崎市都市整備課にご確認ください（詳細情報は2026年7月時点で確認中です）。"}
+   {"question": "住宅の耐震化について相談できますか", "answer": "2026年度のTOUKAI-0＋に、専門家診断・耐震改修・建替えや除却の補助があります。着工前に都市整備課（0537-85-1122）へ相談してください。"}
   ],
   "tabs": [
    {"id": "type-coast2", "label": "沿岸部に住んでいる・行く", "heading": "津波避難タワーの位置を確認する", "bullets": ["最寄りの津波避難タワーの場所を確認する", "レベル2津波の浸水想定区域を確認する", "強い揺れを感じたらすぐ避難する"], "actions": [

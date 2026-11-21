@@ -76,7 +76,7 @@ def real_cards_html(cards):
     parts = []
     for c in cards:
         parts.append(
-            f'<div class="card real-card"><h3>{esc(c.get("icon",""))} {esc(c.get("title",""))}</h3>'
+            f'<div class="card real-card"><h3><span aria-hidden="true">{esc(c.get("icon",""))}</span> {esc(c.get("title",""))}</h3>'
             f'<p>{esc(c.get("body",""))}</p></div>'
         )
     return f'<h2 class="sec">先に知っておきたいこと</h2><div class="grid">{"".join(parts)}</div>'
@@ -166,7 +166,7 @@ def sources_html(sources, city_name):
     for s in sources:
         links.append(
             f'<a class="official-link" href="{esc(s["url"])}" target="_blank" rel="noopener">'
-            f'{esc(s["label"])} <span>{esc(city_name)}公式</span></a>'
+            f'{esc(s["label"])} <span>{esc(s.get("publisher", city_name + "公式"))}</span></a>'
         )
     return "".join(links)
 
@@ -211,6 +211,12 @@ def render_page(item, city, category_items, content_map):
     status = item.get("status", "draft")
     verified = status in PUBLISHABLE_STATUSES
     verified_date = item.get("verified_date") or item.get("ai_checked_date") or "確認中"
+    update_html = ""
+    verified_label = "最終確認日"
+    if item.get("content_updated_date"):
+        update_html = (f'<p class="content-updated">情報更新：{esc(item["content_updated_date"])}'
+                       f' ／ 今回の確認範囲：{esc(item.get("update_scope", ""))}</p>')
+        verified_label = "従来掲載内容の確認日"
 
     hub_href = min((i["href"] for i in category_items), key=len)
     is_hub = item["href"] == hub_href
@@ -262,7 +268,8 @@ def render_page(item, city, category_items, content_map):
 <h2 class="sec">あわせて確認したい{esc(category)}のリンク</h2><div class="official">{related_links_html(item, category_items)}</div>
 {cv_block_html(city)}
 <section class="feedback-box" id="feedback"><h2 class="sec" style="margin-top:0">これで解決しそうですか？</h2><p class="mini" style="margin:0 0 10px">いただいた反応は、ページ改善のためだけに使います。お名前や連絡先は取得しません。</p><div class="fb-actions"><button type="button" class="fb-btn" data-feedback="solved">解決しそう</button><button type="button" class="fb-btn" data-feedback="still_worried">まだ不安</button><button type="button" class="fb-btn" data-feedback="could_not_find">探している情報がなかった</button></div><p class="fb-thanks">ありがとうございました。いただいた声は今後のページ改善に役立てます。</p></section>
-<p class="verified">最終確認日：{esc(verified_date)} ／ 本ページは公式情報を整理したものです。最新・正確な情報は必ず{esc(city_name)}公式ページで確認してください。</p>
+{update_html}
+<p class="verified">{verified_label}：{esc(verified_date)} ／ 本ページは公式情報を整理したものです。最新・正確な情報は必ず{esc(city_name)}公式ページで確認してください。</p>
 </div></main><!-- PART:footer:START --><!-- PART:footer:END -->
 </body></html>
 """
@@ -272,11 +279,14 @@ def render_page(item, city, category_items, content_map):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--category")
+    ap.add_argument("--updated-only", action="store_true", help="更新範囲を記録した項目のみ生成")
+    ap.add_argument("--refresh-existing", action="store_true", help="既存の共通部品・canonical・導線を保持して本文と出典を更新")
     args = ap.parse_args()
 
     ledger, city = load()
     content_map = load_content_map()
-    items = [i for i in ledger if not args.category or i["category"] == args.category]
+    items = [i for i in ledger if (not args.category or i["category"] == args.category)
+             and (not args.updated_only or i.get("content_updated_date"))]
 
     by_category = {}
     for i in ledger:
@@ -290,6 +300,25 @@ def main():
         rel = item["href"].strip("/")  # 例: life/education/after-school-club
         out_base = ROOT if verified else STAGING_DIR
         out_path = out_base / rel / "index.html"
+        if args.refresh_existing and out_path.exists():
+            previous = out_path.read_text(encoding="utf-8")
+            # 独立に管理されているヘッダー、canonical、相談導線、フッター等はそのまま保持。
+            pattern = r'<section class="hero">.*?(?=<h2 class="sec">あわせて確認したい)'
+            fresh = re.search(pattern, html, re.S)
+            if not fresh or not re.search(pattern, previous, re.S):
+                raise ValueError(f"本文更新境界が見つかりません: {out_path}")
+            old_title = re.search(r'<h1>(.*?)</h1>', previous, re.S)
+            new_title = re.search(r'<h1>(.*?)</h1>', html, re.S)
+            previous = re.sub(pattern, lambda m: fresh.group(0), previous, count=1, flags=re.S)
+            if old_title and new_title and old_title.group(1) != new_title.group(1):
+                previous = previous.replace(old_title.group(1), new_title.group(1))
+            if item.get("content_updated_date"):
+                update = (f'<p class="content-updated">情報更新：{esc(item["content_updated_date"])}'
+                          f' ／ 今回の確認範囲：{esc(item.get("update_scope", ""))}</p>')
+                previous = re.sub(r'<p class="content-updated">.*?</p>\s*', '', previous, flags=re.S)
+                previous = previous.replace('<p class="verified">', update + '\n<p class="verified">', 1)
+                previous = previous.replace('<p class="verified">最終確認日：', '<p class="verified">従来掲載内容の確認日：', 1)
+            html = previous
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html, encoding="utf-8", newline="\n")
         if verified:

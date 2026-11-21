@@ -519,7 +519,7 @@
       {"icon": "🏷️", "title": "鑑札・マイクロチップがあれば身元確認が早い", "body": "犬に鑑札や狂犬病予防注射済票が着いていれば、保護されたときに飼い主の身元確認がスムーズです。普段から首輪に着けておくことをおすすめします。"}
     ],
     "qa": [
-      {"question": "飼い犬・飼い猫が迷子になりました。どこに連絡すればいいですか", "answer": "御前崎市民課（生活衛生係、電話0537-85-1162）へ連絡してください。市が保護している場合や情報が寄せられている場合は確認できます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/pet/9805.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の迷い犬のお知らせページ</a>をご覧ください。"},
+      {"question": "飼い犬・飼い猫が迷子になりました。どこに連絡すればいいですか", "answer": "御前崎市民課（生活衛生係、電話0537-85-1162）へ連絡してください。市が保護している場合や情報が寄せられている場合は確認できます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/pet/mayoiinuosirase.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の迷い犬のお知らせページ</a>をご覧ください。"},
       {"question": "市外に迷い出てしまった可能性がある場合はどうすればいいですか", "answer": "静岡県が公開している<a href=\"https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1066835/index.html\" target=\"_blank\" rel=\"noopener\">迷い犬情報一覧</a>や、近隣市町（牧之原市、菊川市など）の窓口にも問い合わせると見つかりやすくなります。"},
       {"question": "迷い犬・迷い猫を保護しました。どこに連絡すればいいですか", "answer": "御前崎市民課（生活衛生係、電話0537-85-1162）へ連絡してください。飼い主の情報や引き渡し方法について案内してもらえます。"},
       {"question": "鑑札がついていない犬を保護した場合はどうなりますか", "answer": "飼い主の特定に時間がかかる場合があります。市民課に相談するか、静岡県動物愛護センターに連絡すると適切な対応を案内してもらえます。"},
@@ -528,7 +528,7 @@
     ],
     "tabs": [
       {"id": "type-lost", "label": "迷子になった", "heading": "自分の犬・猫がいなくなった場合", "bullets": ["市民課（生活衛生係）へすぐ連絡する", "御前崎市公式サイトの保護情報を確認する", "県の迷い犬情報一覧もあわせて確認する"], "actions": [
-          {"label": "迷い犬のお知らせページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/pet/9805.html", "source": "御前崎市公式"},
+          {"label": "迷い犬のお知らせページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/pet/mayoiinuosirase.html", "source": "御前崎市公式"},
           {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162", "source": "0537-85-1162"}
         ]},
       {"id": "type-found", "label": "保護した", "heading": "迷い犬・迷い猫を保護した場合", "bullets": ["市民課（生活衛生係）へ連絡する", "鑑札・注射済票の有無を確認する", "飼い主が見つからない場合の対応も相談できる"], "actions": [
@@ -547,7 +547,7 @@
       "outside": ["普段から鑑札・マイクロチップなどの備えをしておく"]
     },
     "action_grid": [
-      {"label": "迷い犬のお知らせページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/pet/9805.html"},
+      {"label": "迷い犬のお知らせページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/pet/mayoiinuosirase.html"},
       {"label": "静岡県の迷い犬情報一覧を見る", "href": "https://www.pref.shizuoka.jp/kenkofukushi/eiseiyakuji/dobutsuaigo/1066835/index.html"},
       {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162"},
       {"label": "犬の登録・鑑札交付を見る", "href": "/life/start-living/dog-registration/"}
@@ -555,31 +555,78 @@
   },
   {
     "href": "/life/start-living/public-transit/",
-    "lead": "御前崎市では2025年10月から、自主運行バスに代わりAIオンデマンド交通「OM mobi.（オンモビ）」の実証運行が始まりました。電話またはスマートフォンアプリで予約する乗合型の交通サービスで、現在は市内5地区が対象です。",
-    "note": "自主運行バス「御前崎市内線」は2025年9月30日で運行を休止し、OM mobi.に移行しました。対象地区は令和8年度中に朝比奈・新野・高松を加えて市内全域に拡大予定ですが、実証運行のため今後内容が変わる可能性があります。",
+    "lead": "御前崎市の乗合タクシー「OM mobi.（オンモビ）」は、2026年10月1日から市内全域で実証運行しています。電話・アプリで予約でき、市外の方も利用できます。路線バスと合わせて、目的地に合う移動手段を選びましょう。",
+    "note": "自主運行バス「御前崎市内線」は運休中です。「相良浜岡線」「相良御前崎線」は運行を継続しています。オンモビは通常、指定停留所で乗降します。",
     "real_cards": [
-      {"icon": "🚕", "title": "AIオンデマンド交通「OM mobi.」", "body": "電話（0570-02-3503）またはスマートフォンアプリ・Webアプリで予約すると、AIが効率的なルートを組んで自宅近くまで送迎してくれる乗合型の交通サービスです。菊川タクシーと御前崎タクシーの2社が運行しています。"},
-      {"icon": "🗺️", "title": "対象地区は現在5地区", "body": "令和7年10月の運行開始時点で、池新田・佐倉・比木・御前崎・白羽の5地区が対象です。令和8年度中に朝比奈・新野・高松を加えて市内全域への拡大が予定されています。"},
-      {"icon": "⏰", "title": "運行時間と予約方法", "body": "平日は午前6時～午後8時、土日祝日は午前7時～午後8時運行です。電話予約は運行日の午前8時～午後5時、アプリ・Webアプリでの予約は24時間受け付けています。"},
-      {"icon": "🚌", "title": "自主運行バスは運行休止", "body": "従来の自主運行バス「御前崎市内線」は2025年9月30日をもって運行を休止し、翌10月1日からOM mobi.に移行しました。路線バスや電車の利用については個別に確認してください。"}
-    ],
+ {
+  "icon": "🚕",
+  "title": "11月からPayPayにも対応",
+  "body": "2026年11月1日からPayPayが加わりました。支払方法は予約時に指定し、乗車前に支払います。乗車時の変更はできません。"
+ },
+ {
+  "icon": "🚕",
+  "title": "AIオンデマンド交通「OM mobi.」",
+  "body": "電話（0120-74-7175）またはスマートフォンアプリ・Webアプリで予約すると、AIが効率的なルートを組む乗合型の交通サービスです。通常は指定停留所で乗り降りします。菊川タクシーと御前崎タクシーの2社が運行しています。"
+ },
+ {
+  "icon": "🗺️",
+  "title": "2026年10月1日から市内全域で運行",
+  "body": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
+ },
+ {
+  "icon": "⏰",
+  "title": "運行時間と予約方法",
+  "body": "平日は午前6時～午後8時、土日祝日は午前7時～午後8時運行です。電話予約は運行日の午前8時～午後5時、アプリ・Webアプリでの予約は24時間受け付けています。"
+ },
+ {
+  "icon": "🚌",
+  "title": "自主運行バスは運行休止",
+  "body": "従来の自主運行バス「御前崎市内線」は2025年9月30日をもって運行を休止し、翌10月1日からOM mobi.に移行しました。路線バスや電車の利用については個別に確認してください。"
+ }
+],
     "qa": [
-      {"question": "OM mobi.とはどんな交通サービスですか", "answer": "AIが乗客の予約に応じて効率的なルートを組む、乗合型のオンデマンド交通サービスです。電話またはスマートフォンアプリで予約します。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のAIオンデマンド交通ページ</a>をご覧ください。"},
-      {"question": "どうやって予約すればいいですか", "answer": "電話（0570-02-3503、運行日の午前8時～午後5時）またはスマートフォンアプリ・Webアプリ（24時間受付）で予約できます。"},
-      {"question": "対象地区はどこですか", "answer": "現在は池新田・佐倉・比木・御前崎・白羽の5地区が対象です。令和8年度中に朝比奈・新野・高松を加えて市内全域に拡大予定です。"},
-      {"question": "料金はいくらですか", "answer": "距離に応じて予約時に運賃が決まる仕組みです。例として市役所～市立御前崎総合病院間は200円という案内があります。詳しくは公式サイトまたはコールセンターで確認してください。"},
-      {"question": "以前の自主運行バスは使えますか", "answer": "自主運行バス「御前崎市内線」は2025年9月30日で運行を休止しました。翌日からOM mobi.に移行しています。"},
-      {"question": "使い方がわからない場合はどうすればいいですか", "answer": "御前崎市公式サイトに利用方法をわかりやすく解説したページが公開されています。企画政策課（電話0537-85-1161）でも相談できます。"}
-    ],
+ {
+  "question": "自宅まで迎えに来てもらえますか？",
+  "answer": "通常は指定停留所で乗降します。障害者手帳の所持者や要支援・要介護認定者等は、利用2週間前までに市へ申請する「ドアtoドアユーザー」の対象となる場合があります。許可後は定額300円です。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11502.html\" target=\"_blank\" rel=\"noopener\">対象条件・申請方法</a>"
+ },
+ {
+  "question": "現在の運賃と予約方法は？",
+  "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。 電話予約は無料0120-74-7175（有料0570-02-3503も利用可、毎日8時〜17時）、アプリ・Web予約は24時間受付です。利用日の14日前から1時間前まで予約できます。予約時に乗車人数・乗降場所を確認してください。 <a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">市公式の最新案内</a>"
+ },
+ {
+  "question": "OM mobi.とはどんな交通サービスですか",
+  "answer": "AIが乗客の予約に応じて効率的なルートを組む、乗合型のオンデマンド交通サービスです。電話またはスマートフォンアプリで予約します。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のAIオンデマンド交通ページ</a>をご覧ください。"
+ },
+ {
+  "question": "どうやって予約すればいいですか",
+  "answer": "電話（0120-74-7175、運行日の午前8時～午後5時）またはスマートフォンアプリ・Webアプリ（24時間受付）で予約できます。"
+ },
+ {
+  "question": "対象地区はどこですか",
+  "answer": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
+ },
+ {
+  "question": "料金はいくらですか",
+  "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。"
+ },
+ {
+  "question": "以前の自主運行バスは使えますか",
+  "answer": "自主運行バス「御前崎市内線」は2025年9月30日で運行を休止しました。翌日からOM mobi.に移行しています。"
+ },
+ {
+  "question": "使い方がわからない場合はどうすればいいですか",
+  "answer": "御前崎市公式サイトに利用方法をわかりやすく解説したページが公開されています。企画政策課（電話0537-85-1161）でも相談できます。"
+ }
+],
     "tabs": [
-      {"id": "type-ommobi", "label": "OM mobi.", "heading": "AIオンデマンド交通の概要", "bullets": ["電話・アプリで予約する乗合型サービス", "現在5地区が対象、拡大予定あり", "運賃は距離に応じて予約時に決まる"], "actions": [
+      {"id": "type-ommobi", "label": "OM mobi.", "heading": "AIオンデマンド交通の概要", "bullets": ["電話・アプリで予約する乗合型サービス", "2026年10月1日から市内全域で運行", "運賃は距離に応じて予約時に決まる"], "actions": [
           {"label": "AIオンデマンド交通のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"},
-          {"label": "OM mobi.コールセンターに電話する", "href": "tel:0570-02-3503", "source": "0570-02-3503"}
+          {"label": "OM mobi.コールセンターに電話する", "href": "tel:0120-74-7175", "source": "0120-74-7175"}
         ]},
       {"id": "type-howto", "label": "使い方", "heading": "予約から乗車までの流れ", "bullets": ["ユーザー登録後、アプリまたは電話で予約", "運行時間は平日6時～20時、休日7時～20時", "初めての方向けに4コマ解説がある"], "actions": [
           {"label": "オンモビの使い方解説を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html", "source": "御前崎市公式"}
         ]},
-      {"id": "type-area", "label": "対象地区", "heading": "現在の対象地区と拡大予定", "bullets": ["池新田・佐倉・比木・御前崎・白羽が対象", "令和8年度中に朝比奈・新野・高松を追加予定", "実証運行のため内容が変わる可能性がある"], "actions": [
+      {"id": "type-area", "label": "対象地区", "heading": "現在の対象地区と拡大予定", "bullets": ["池新田・佐倉・比木・御前崎・白羽が対象", "2026年10月1日から市内全域で運行", "実証運行のため内容が変わる可能性がある"], "actions": [
           {"label": "AIオンデマンド交通のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"}
         ]},
       {"id": "type-other", "label": "その他の交通", "heading": "路線バス・電車の利用", "bullets": ["自主運行バスは運行休止、OM mobi.に移行", "民間路線バスの運行状況は個別に確認する", "詳細は企画政策課へ問い合わせる"], "actions": [
@@ -589,12 +636,12 @@
     "steps": {
       "today": ["自宅の地区がOM mobi.の対象地区か確認する"],
       "this_week": ["アプリをダウンロードするかコールセンターに問い合わせて利用登録する"],
-      "outside": ["対象地区拡大の案内を確認しておく（令和8年度予定）"]
+      "outside": ["2026年10月1日から市内全域で運行"]
     },
     "action_grid": [
       {"label": "AIオンデマンド交通のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"},
       {"label": "オンモビの使い方解説を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html"},
-      {"label": "OM mobi.コールセンターに電話する", "href": "tel:0570-02-3503"},
+      {"label": "OM mobi.コールセンターに電話する", "href": "tel:0120-74-7175"},
       {"label": "企画政策課に電話する", "href": "tel:0537-85-1161"}
     ]
   },
