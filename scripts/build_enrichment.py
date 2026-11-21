@@ -29,6 +29,9 @@ def linklist(links):
  return '<ul class="link-list">'+''.join(f'<li><a href="{esc(x["href"])}">{esc(x["label"])}</a></li>' for x in links)+'</ul>'
 def card(href,title,text='',icon='📖',eyebrow='',image=None):
  return f'<a class="browse-card" href="{esc(href)}">'+(f'<img src="/assets/omaezaki/{image}.webp" alt="" width="600" height="400" loading="lazy">' if image else f'<span class="card-icon" aria-hidden="true">{icon}</span>')+(f'<span class="eyebrow">{esc(eyebrow)}</span>' if eyebrow else '')+f'<h3>{esc(title)}</h3><p>{esc(text)}</p><span class="card-action">詳しく見る</span></a>'
+def album_note():
+ return '<section class="answer-first" id="photo-memories"><h2>写真でたどる、御前崎の記憶</h2><p>灯台へ向かう道、港の仕事、浜岡の町並み。いま出かけたい場所の昔の姿を、<a href="https://omaezakialb.atawi.link/">御前崎懐かし写真館</a>で見てみませんか。地名や年代から写真を探し、一枚ごとの出典もたどれます。</p></section>'
+
 def sources(items):
  return '<section class="sources-panel"><h2>公式の確認先</h2><p class="source-note">内容確認：'+DATE+'。料金・受付・休業状況は、利用前に各公式窓口でご確認ください。</p><ul>'+''.join(f'<li><a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x.get("label",x.get("title","公式案内")))}</a> — {esc(x.get("publisher",""))}</li>' for x in items)+'</ul></section>'
 def photo(slug):
@@ -73,6 +76,7 @@ def main():
   if path=='/guide/':
    body+='<h2>暮らしの場面からすべての案内を探す</h2><div class="browse-grid">'+''.join(card(t['href'],t['category'],t.get('title',''),t.get('icon','📖')) for t in LEDGER if t['href'].count('/')==3)+'</div>'
   else:body+='<h2>場所を決めてから調べたいとき</h2>'+linklist([{'href':'/discover/outing-plans/','label':'目的別に、出かける場所を組み合わせる'},{'href':'/places/','label':'施設・公園・観光スポットを名称と分野で探す'},{'href':'/life/start-living/public-transit/','label':'オンモビ・路線バスの使い方を確認する'}])
+  if path=='/discover/':body+=album_note()
   write(path,page(path,title,lead,body,category))
  routes=[]
  for r in read('outing-routes.json',[]):
@@ -119,7 +123,7 @@ def main():
  guidecards='<div class="section-heading"><h2>詳しく知ってから動きたい</h2><a href="/guide/">暮らしガイド一覧</a></div><div class="browse-grid">'+''.join(card(g['href'],g['title'],g['lead'],g.get('icon','📖')) for g in GUIDES if g.get('home'))+'</div>'
  utilities='<div class="section-heading"><h2>答えと次の行動を探す</h2></div>'+tools
  closing='<section class="sources-panel"><h2>情報の見方</h2><p>各案内に出典と確認範囲を記載しています。新しい条件や空き状況は、掲載した公式窓口でご確認ください。</p><p><a href="/about/">運営者・編集方針・写真の出典</a> ／ <a href="https://www.city.omaezaki.shizuoka.jp/">御前崎市公式サイト</a></p></section>'
- homebody=hero+urgent+search+feature+latest+guidecards+utilities+categories.group(0)+closing+community
+ homebody=hero+urgent+search+feature+album_note()+latest+guidecards+utilities+categories.group(0)+closing+community
  write('/',page('/','御前崎の暮らし・手続き・お出かけガイド','御前崎の手続き、子育て、介護、防災から海辺・食・観光まで。公式情報を整理し、検索とチェックリストで次の行動を案内します。',homebody,home=True))
  (ROOT/'data/enrichment-pages.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps({'extra_pages':len(manifest),'guides':len(GUIDES),'questions':len(questions),'places':len(places),'checklists':len(CHECKLISTS)},ensure_ascii=False))

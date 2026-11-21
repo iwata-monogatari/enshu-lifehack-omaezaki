@@ -806,6 +806,18 @@
         ],
         "bullets": [],
         "links": []
+      },
+      {
+        "heading": "写真で、昔の灯台と海辺をたどる",
+        "paragraphs": [
+          "いまの散策とあわせて、同じ灯台が写る昔の写真も見てみませんか。御前崎懐かし写真館の「灯台と海辺のアルバム」では、写真帖や絵葉書、時代ごとの写真を出典とともに紹介しています。"
+        ],
+        "links": [
+          {
+            "href": "https://omaezakialb.atawi.link/features/cape/",
+            "label": "御前崎懐かし写真館で、灯台と海辺のアルバムを見る"
+          }
+        ]
       }
     ],
     "sources": [
@@ -1428,6 +1440,18 @@
           {
             "label": "波小僧の民話",
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/namikozo.html"
+          }
+        ]
+      },
+      {
+        "heading": "町並みの移り変わりを写真で知る",
+        "paragraphs": [
+          "地域の歴史を読んだあとは、写真に残る風景を見比べてみましょう。御前崎懐かし写真館では、旧御前崎町・旧浜岡町を含む写真を地名や年代から探せます。撮影年と資料の刊行年を区別した説明や、写真ごとの出典も確認できます。"
+        ],
+        "links": [
+          {
+            "href": "https://omaezakialb.atawi.link/",
+            "label": "御前崎懐かし写真館で、まちの記憶をたどる"
           }
         ]
       }
