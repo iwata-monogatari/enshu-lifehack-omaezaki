@@ -6,3 +6,5 @@ node_modules/
 err.txt
 scratchpad/
 _staging/
+__pycache__/
+*.pyc

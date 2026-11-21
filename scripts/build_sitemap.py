@@ -14,6 +14,10 @@ def main():
     ledger = json.loads((ROOT / 'data/topics_master.json').read_text(encoding='utf-8'))
     published = [t for t in ledger if t.get('status') in PUBLISHABLE_STATUSES]
     urls = ['/', '/terms/'] + sorted(t['href'] for t in published)
+    extra_file = ROOT / 'data/enrichment-pages.json'
+    if extra_file.exists():
+        urls += [t['href'] for t in json.loads(extra_file.read_text(encoding='utf-8'))]
+    urls = list(dict.fromkeys(urls))
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:

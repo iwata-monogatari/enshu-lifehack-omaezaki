@@ -154,9 +154,12 @@ def facts_html(facts):
     if not facts:
         return ""
     rows = []
+    labels = json.loads((ROOT / 'data/fact-labels.json').read_text(encoding='utf-8'))
     for k, v in facts.items():
-        rows.append(f"<p class=\"mini\"><b>{esc(k)}</b>：{esc(v)}</p>")
-    return "".join(rows)
+        if k not in labels:
+            raise ValueError(f'公開用の日本語項目名が未登録です: {k}')
+        rows.append(f'<dt>{esc(labels[k])}</dt><dd>{esc(v)}</dd>')
+    return '<dl class="fact-list">' + "".join(rows) + '</dl>'
 
 
 def sources_html(sources, city_name):

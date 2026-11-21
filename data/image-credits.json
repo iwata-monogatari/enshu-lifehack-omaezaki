@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "lighthouse",
+    "title": "【御前埼灯台1】",
+    "creator": "御前崎市",
+    "source": "https://opendata.pref.shizuoka.jp/dataset/fuji-896.html",
+    "download_url": "https://opendata.pref.shizuoka.jp/dataset/fuji-896/resource/34504/%E3%80%90%E5%BE%A1%E5%89%8D%E5%9F%BC%E7%81%AF%E5%8F%B01%E3%80%91.JPG",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "terms": "https://opendata.pref.shizuoka.jp/privacy.html",
+    "dataset_date": "2018-12-01",
+    "note": "公開データを縮小・WebP変換。現況や撮影日の保証ではない。",
+    "sha256_original": "3e9a0fe3f507cbd290f5d61c92456c9b7afed338d98beafdd36cf0ca28894ade",
+    "file": "/assets/omaezaki/lighthouse.webp"
+  },
+  {
+    "slug": "dunes",
+    "title": "【御前崎市浜岡砂丘】",
+    "creator": "御前崎市",
+    "source": "https://opendata.pref.shizuoka.jp/dataset/fuji-896.html",
+    "download_url": "https://opendata.pref.shizuoka.jp/dataset/fuji-896/resource/34497/%E3%80%90%E5%BE%A1%E5%89%8D%E5%B4%8E%E5%B8%82%E6%B5%9C%E5%B2%A1%E7%A0%82%E4%B8%98%E3%80%91.JPG",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "terms": "https://opendata.pref.shizuoka.jp/privacy.html",
+    "dataset_date": "2018-12-01",
+    "note": "公開データを縮小・WebP変換。現況や撮影日の保証ではない。",
+    "sha256_original": "ac085f8e0997d055d1aac551da4bbcb31483e4a9a7faef1bb60af953d8ac68ec",
+    "file": "/assets/omaezaki/dunes.webp"
+  },
+  {
+    "slug": "tea-fields",
+    "title": "【御前崎茶畑】",
+    "creator": "御前崎市",
+    "source": "https://opendata.pref.shizuoka.jp/dataset/fuji-896.html",
+    "download_url": "https://opendata.pref.shizuoka.jp/dataset/fuji-896/resource/34498/%E3%80%90%E5%BE%A1%E5%89%8D%E5%B4%8E%E8%8C%B6%E7%95%91%E3%80%91.JPG",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "terms": "https://opendata.pref.shizuoka.jp/privacy.html",
+    "dataset_date": "2018-12-01",
+    "note": "公開データを縮小・WebP変換。現況や撮影日の保証ではない。",
+    "sha256_original": "f1e281e22fc5aaed1a99d49eb4bd6b2b9b0a47400b54c2a3c0b1e66dbfd67608",
+    "file": "/assets/omaezaki/tea-fields.webp"
+  }
+]

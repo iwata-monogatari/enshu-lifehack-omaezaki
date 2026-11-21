@@ -56,6 +56,12 @@ function main() {
       };
     })
     .filter(Boolean);
+  const extraPath = path.join(ROOT, 'data/enrichment-pages.json');
+  if (fs.existsSync(extraPath)) {
+    for (const item of JSON.parse(fs.readFileSync(extraPath, 'utf8'))) {
+      if (!searchIndex.some(existing => existing.href === item.href)) searchIndex.push(item);
+    }
+  }
 
   const outPath = path.join(ROOT, 'search-index.json');
   const json = JSON.stringify(searchIndex);

@@ -1,0 +1,360 @@
+[
+  {
+    "slug": "moving-in",
+    "title": "御前崎へ引っ越してきた",
+    "lead": "住所の届出だけでなく、水道、子どもの手続き、ごみ、犬の登録まで。自分の世帯に当てはまる項目を確認します。",
+    "icon": "🏡",
+    "tasks": [
+      {
+        "id": "moving-in-1",
+        "title": "住所の届出と持ち物を確認",
+        "description": "転入・転居・世帯変更で必要な届出が異なります。住所が変わる人、引っ越した日、本人確認資料を整理します。",
+        "href": "/life/start-living/moving-address-change/"
+      },
+      {
+        "id": "moving-in-2",
+        "title": "マイナンバーカード等の住所を変更",
+        "description": "転入届とカードの手続きは別に確認します。暗証番号が分からない場合も、来庁前に必要書類を尋ねます。",
+        "href": "/life/start-living/mynumber/"
+      },
+      {
+        "id": "moving-in-3",
+        "title": "水道の開始を申し込む",
+        "description": "開始希望日と住所、契約者を整理。WEB受付の現況や申込期限は水道料金お客さまセンターに確認します。",
+        "href": "/guide/water-moving/"
+      },
+      {
+        "id": "moving-in-4",
+        "title": "ごみの集積所・収集日を確認",
+        "description": "地区の収集カレンダーと分別方法を確認し、粗大ごみを通常の集積所に出さないようにします。",
+        "href": "/life/start-living/garbage-sorting-calendar/"
+      },
+      {
+        "id": "moving-in-5",
+        "title": "健康保険・年金の変更を確認",
+        "description": "会社の保険に入る方と国民健康保険に入る方で、必要な届出と資料が異なります。",
+        "href": "/life/work-life/nhk-pension/"
+      },
+      {
+        "id": "moving-in-6",
+        "title": "子どもの手当・医療・学校を確認",
+        "description": "児童手当と医療費受給者証、保育・転校はそれぞれ申請先と期限を確認します。",
+        "href": "/guide/child-benefits/"
+      },
+      {
+        "id": "moving-in-7",
+        "title": "犬の所在地変更を届け出る",
+        "description": "他市町村で登録済みかを確認し、旧自治体の鑑札・愛犬手帳を用意します。",
+        "href": "/life/start-living/dog-registration/"
+      },
+      {
+        "id": "moving-in-8",
+        "title": "家と通勤・通学路の災害リスクを確認",
+        "description": "津波、洪水、土砂災害などの地図を分けて確認し、家族の避難先を決めます。",
+        "href": "/life/emergency/evacuation-hazard-map/"
+      }
+    ]
+  },
+  {
+    "slug": "moving-out",
+    "title": "御前崎から引っ越す",
+    "lead": "退去日から逆算して、住所、水道、学校、ごみの手続きを整理します。",
+    "icon": "📦",
+    "tasks": [
+      {
+        "id": "moving-out-1",
+        "title": "転出届の方法と時期を決める",
+        "description": "窓口・郵送・電子手続きの対象を確認。届出だけで引っ越し先の転入が済むわけではありません。",
+        "href": "/life/moving-out/move-out-notice/"
+      },
+      {
+        "id": "moving-out-2",
+        "title": "水道の中止と精算を申し込む",
+        "description": "中止日、使用者、転居先の連絡先を整理して申込みます。家の退去立会いと水道中止の手続きは分けて確認します。",
+        "href": "/guide/water-moving/"
+      },
+      {
+        "id": "moving-out-3",
+        "title": "大きなごみの搬出方法を決める",
+        "description": "自分で持ち込むか許可業者に依頼するかを決め、対象品目・搬入日時を確認します。",
+        "href": "/life/moving-out/bulk-garbage-cleaning/"
+      },
+      {
+        "id": "moving-out-4",
+        "title": "保育・学校の引継ぎを行う",
+        "description": "在園・在学先へ早めに相談し、転園・転校に必要な書類を受け取ります。",
+        "href": "/life/moving-out/school-nursery-procedures/"
+      },
+      {
+        "id": "moving-out-5",
+        "title": "健康保険と子育て給付の変更を確認",
+        "description": "国保、児童手当、医療費助成等の変更は転出届だけで完了するかをそれぞれ確認します。",
+        "href": "/life/moving-out/moving-away/"
+      },
+      {
+        "id": "moving-out-6",
+        "title": "犬の所在地変更を引っ越し先で相談",
+        "description": "旧自治体での登録を伝え、鑑札等を持参します。重複した新規登録をしないようにします。",
+        "href": "/life/moving-out/dog-ownership-change/"
+      }
+    ]
+  },
+  {
+    "slug": "new-baby",
+    "title": "赤ちゃんが生まれた",
+    "lead": "出生届、健康保険、手当、健診、産後の支援を分けて準備します。",
+    "icon": "👶",
+    "tasks": [
+      {
+        "id": "new-baby-1",
+        "title": "出生届を提出する",
+        "description": "出生証明書付き届書と母子健康手帳等の必要資料、提出期限・休日受付を確認します。",
+        "href": "/life/family-grow/childbirth/"
+      },
+      {
+        "id": "new-baby-2",
+        "title": "子どもの健康保険加入を手配",
+        "description": "勤務先の保険か国保かに応じて手続きします。受診が必要な場合は保険資格の確認方法も相談します。",
+        "href": "/life/family-grow/child-allowance-medical/"
+      },
+      {
+        "id": "new-baby-3",
+        "title": "児童手当と医療費助成を申請",
+        "description": "出生届と手当・受給者証の申請は別です。期限に間に合うよう、足りない書類があっても窓口へ相談します。",
+        "href": "/guide/child-benefits/"
+      },
+      {
+        "id": "new-baby-4",
+        "title": "産後の相談・ケアを申し込む",
+        "description": "休養や授乳・育児の支援が必要なら、宿泊・日帰り・訪問の使い分けを相談します。",
+        "href": "/guide/pregnancy-postpartum/"
+      },
+      {
+        "id": "new-baby-5",
+        "title": "健診と予防接種の案内を整理",
+        "description": "月齢、予診票、予約先を確認。体調や接種間隔は医療機関に相談します。",
+        "href": "/life/family-grow/infant-health-check/"
+      },
+      {
+        "id": "new-baby-6",
+        "title": "今後の預け先を比較する",
+        "description": "仕事復帰の保育園だけでなく、一時保育や誰でも通園の対象条件も確認します。",
+        "href": "/guide/childcare-options/"
+      }
+    ]
+  },
+  {
+    "slug": "marriage",
+    "title": "結婚したあとの手続き",
+    "lead": "婚姻届、住所、氏名、保険、各契約の変更は、必要に応じて別々に進めます。",
+    "icon": "💍",
+    "tasks": [
+      {
+        "id": "marriage-1",
+        "title": "婚姻届の提出先・記載・証人欄を確認",
+        "description": "希望日に提出する場合は事前確認を。休日夜間は預かりとなり、後日の確認が必要になる場合があります。",
+        "href": "/life/family-grow/marriage/"
+      },
+      {
+        "id": "marriage-2",
+        "title": "住所が変わる場合は転入・転居届",
+        "description": "婚姻届だけでは住所は変わりません。同居を始める日と世帯の扱いを整理します。",
+        "href": "/life/start-living/moving-address-change/"
+      },
+      {
+        "id": "marriage-3",
+        "title": "氏名・住所が変わるカード等を確認",
+        "description": "マイナンバーカード、保険資格、運転免許、銀行・勤務先などに分けて変更します。",
+        "href": "/life/start-living/mynumber/"
+      },
+      {
+        "id": "marriage-4",
+        "title": "扶養・保険・年金の区分を確認",
+        "description": "勤務先の保険に入るか国保を継続するか、配偶者の扶養となるかで必要な手続きが変わります。",
+        "href": "/life/work-life/nhk-pension/"
+      },
+      {
+        "id": "marriage-5",
+        "title": "住まいと生活の契約を整理",
+        "description": "新居の賃貸契約・水道等を整理。補助制度は契約や支払いの前に条件を確認します。",
+        "href": "/life/housing/rent-house/"
+      }
+    ]
+  },
+  {
+    "slug": "retirement",
+    "title": "退職・転職した",
+    "lead": "健康保険、年金、税金、生活費を、退職日と次の就職日に合わせて整理します。",
+    "icon": "💼",
+    "tasks": [
+      {
+        "id": "retirement-1",
+        "title": "退職日と資格喪失の資料をそろえる",
+        "description": "健康保険資格喪失証明書や離職票など、手続きごとに求められる資料を確認します。",
+        "href": "/life/work-life/nhk-pension/"
+      },
+      {
+        "id": "retirement-2",
+        "title": "次に加入する健康保険を選ぶ",
+        "description": "国保、任意継続、家族の扶養などの対象条件と期限を、それぞれの保険者へ確認します。",
+        "href": "/life/work-life/nhk-pension/"
+      },
+      {
+        "id": "retirement-3",
+        "title": "国民年金の区分を変更",
+        "description": "厚生年金を離れる本人と配偶者の年金区分を確認します。納付が難しい場合は免除等を相談します。",
+        "href": "/life/work-life/nhk-pension/"
+      },
+      {
+        "id": "retirement-4",
+        "title": "国保税の軽減対象を確認",
+        "description": "失業の理由等で対象が異なります。所得の申告と、申請が必要な軽減を分けて確認します。",
+        "href": "/life/work-life/national-health-insurance-tax/"
+      },
+      {
+        "id": "retirement-5",
+        "title": "住民税の納付方法を確認",
+        "description": "給与天引きから納付書に変わる場合があります。通知書を確認し、納付が難しい場合は期限前に相談します。",
+        "href": "/life/work-life/resident-tax/"
+      },
+      {
+        "id": "retirement-6",
+        "title": "仕事と生活費の相談先を決める",
+        "description": "求職支援と、家賃・生活費に困ったときの相談窓口を分けて使います。",
+        "href": "/life/work-life/job-change/"
+      }
+    ]
+  },
+  {
+    "slug": "parents-care",
+    "title": "親の介護が気になり始めた",
+    "lead": "生活の困りごとを整理し、地域の相談先、認定、支援の使い方へ進みます。",
+    "icon": "👵",
+    "tasks": [
+      {
+        "id": "parents-care-1",
+        "title": "親の生活と連絡先をメモする",
+        "description": "食事、服薬、移動、お金の管理など、本人が困っていることを具体的に整理。緊急の体調変化は医療機関へ相談します。",
+        "href": "/life/parents-care/check-parents/"
+      },
+      {
+        "id": "parents-care-2",
+        "title": "親の地区の地域包括支援センターへ相談",
+        "description": "相談する地区と窓口の所在地を確認し、訪問等で不在の場合もあるため先に電話します。",
+        "href": "/guide/care-consultation-route/"
+      },
+      {
+        "id": "parents-care-3",
+        "title": "主治医・認定申請・調査日程を確認",
+        "description": "介護認定が必要な場合、主治医と必要書類、家族が調査に立ち会える日を整理します。",
+        "href": "/life/parents-care/care-certification-support-center/"
+      },
+      {
+        "id": "parents-care-4",
+        "title": "在宅支援と施設の両方を検討",
+        "description": "本人の希望、費用、家族ができる支援を確認してから、ケアプランや住まいを相談します。",
+        "href": "/life/parents-care/find-nursing-home/"
+      },
+      {
+        "id": "parents-care-5",
+        "title": "用品・補聴器など購入前の助成を確認",
+        "description": "用品代と補聴器では対象・申請時期が異なります。買う前に交付決定が必要な制度を確認します。",
+        "href": "/guide/care-supplies-hearing/"
+      },
+      {
+        "id": "parents-care-6",
+        "title": "見守り・移動・認知症の支援を確認",
+        "description": "本人の状態に合わせ、移動支援や相談、家族向けの情報を組み合わせます。",
+        "href": "/life/parents-care/dementia-consultation/"
+      }
+    ]
+  },
+  {
+    "slug": "bereavement",
+    "title": "家族が亡くなった",
+    "lead": "急ぐ届出、保険・年金、相続と家の管理を分け、書類を保管して順番に進めます。",
+    "icon": "🕊️",
+    "tasks": [
+      {
+        "id": "bereavement-1",
+        "title": "死亡届・火葬許可の手続きを確認",
+        "description": "医師の証明書を含む書類、届出人、休日の提出先を確認します。",
+        "href": "/life/end-of-life/bereavement/"
+      },
+      {
+        "id": "bereavement-2",
+        "title": "おくやみの手続きと持ち物を整理",
+        "description": "亡くなった方の保険・年金・各種受給状況を確認して、窓口で扱える手続きを整理します。",
+        "href": "/life/end-of-life/after-death-procedures/"
+      },
+      {
+        "id": "bereavement-3",
+        "title": "年金・保険の届出と請求を確認",
+        "description": "受給停止と未支給年金、葬祭費等の請求を混同しないよう、各制度の対象と期限を確認します。",
+        "href": "/life/end-of-life/pension-inheritance/"
+      },
+      {
+        "id": "bereavement-4",
+        "title": "相続人と財産・債務を調べる",
+        "description": "書類を保存し、処分や名義変更を急ぐ前に相続人、遺言、負債等を整理します。個別判断は専門家へ相談します。",
+        "href": "/life/end-of-life/inheritance/"
+      },
+      {
+        "id": "bereavement-5",
+        "title": "家と土地の名義・税金を確認",
+        "description": "相続登記と固定資産税の届出は別です。誰が連絡・管理を担うかを整理します。",
+        "href": "/life/end-of-life/property-tax-inheritance/"
+      },
+      {
+        "id": "bereavement-6",
+        "title": "空き家の安全と管理を確保",
+        "description": "郵便物、鍵、水道、庭木、建物の状態を確認。売る・貸す・使う・解体の判断前に管理を続けます。",
+        "href": "/life/end-of-life/inherited-house/"
+      }
+    ]
+  },
+  {
+    "slug": "vacant-house",
+    "title": "実家・空き家を整理したい",
+    "lead": "片づけ・名義・建物の状態を先に確認し、売却、賃貸、利用、解体を比較します。",
+    "icon": "🏠",
+    "tasks": [
+      {
+        "id": "vacant-house-1",
+        "title": "所有者・相続・境界の資料を確認",
+        "description": "登記、納税通知、図面等を整理。名義や共有者が不明なまま契約を進めないようにします。",
+        "href": "/life/end-of-life/inheritance/"
+      },
+      {
+        "id": "vacant-house-2",
+        "title": "建物と周囲の安全を確認",
+        "description": "屋根・壁・庭木・郵便物等を確認し、危険な部分には無理に入らず相談します。",
+        "href": "/life/housing/vacant-house/"
+      },
+      {
+        "id": "vacant-house-3",
+        "title": "家財と大きなごみの処分方法を選ぶ",
+        "description": "個人の通常ごみと、家財整理・事業者に依頼する廃棄物の扱いを確認します。",
+        "href": "/life/housing/clean-parents-house/"
+      },
+      {
+        "id": "vacant-house-4",
+        "title": "改修・解体の前に補助条件を確認",
+        "description": "空き家支援と耐震補助は別制度です。申請前の契約や着工が対象外となる条件を先に確かめます。",
+        "href": "/guide/vacant-home-support/"
+      },
+      {
+        "id": "vacant-house-5",
+        "title": "売る・貸す・使う選択肢を比べる",
+        "description": "価格だけでなく修繕、管理、相続人の希望、住み続ける人の事情を整理して相談します。",
+        "href": "/life/housing/sell-house/"
+      },
+      {
+        "id": "vacant-house-6",
+        "title": "決定までの管理担当を決める",
+        "description": "遠方に住む場合も、点検と連絡先を決め、近隣から連絡が取れる状態を保ちます。",
+        "href": "/life/troubles-consult/vacant-house-consultation/"
+      }
+    ]
+  }
+]

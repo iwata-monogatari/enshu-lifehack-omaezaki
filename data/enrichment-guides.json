@@ -1,0 +1,2002 @@
+[
+  {
+    "slug": "childcare-options",
+    "title": "一時的に子どもを預けたいときの選び方",
+    "lead": "仕事の有無、子どもの年齢、病気の回復期かどうかで、使える制度が変わります。まず状況に合う入口を選び、認定や面談を済ませてから予約します。",
+    "sections": [
+      {
+        "heading": "働いていなくても通園を経験させたい",
+        "items": [
+          "こども誰でも通園は、保育所等に通っていない生後6か月以上3歳未満が対象。保護者の就労は条件ではありません。",
+          "月10時間まで、1時間単位で利用し、余った時間の翌月繰越はできません。料金は1時間300円程度で施設により異なります。",
+          "市内はさくらこども園（佐倉888-1、080-3610-2739）。9〜16時の範囲で空きがあるときに利用できます。食事・おやつは必要に応じて持参します。",
+          "総合支援システムで認定申請→アカウント発行→子ども同伴の事前面談→利用予約。キャンセルは原則前営業日の16時までにシステムと園への電話で連絡します。"
+        ]
+      },
+      {
+        "heading": "病気が治りかけているが登園できない",
+        "items": [
+          "病後児保育は、市内在住・在園中の満1歳から就学前で、回復期にあり家庭保育が難しい子どもが対象です。受診と医師の連絡票が必要です。",
+          "はまおか幼稚園（池新田5814、0537-86-2049）で平日8時30分〜17時。1日2,000円、1回につき土日祝を除く連続7日まで。弁当・おやつは持参します。",
+          "急性期や感染のおそれがある場合は利用できません。受入れ可否を自己判断せず、医師と実施施設へ確認します。"
+        ]
+      },
+      {
+        "heading": "保護者の病気・育児疲れで泊まりの支援が必要",
+        "items": [
+          "子育てショートステイは市内在住の18歳未満が対象。病気、出産、育児ストレス等で家庭での養育が難しいときに相談できます。",
+          "市の委託施設で支援し、期間・自己負担は家庭状況等によります。利用可能な日数や費用単位は、こども家庭センター0537-85-6666へ確認してください。"
+        ]
+      },
+      {
+        "heading": "緊急・一時保育を利用する",
+        "items": [
+          "保護者の傷病などで家庭・親族による保育が難しい、市内在住の就園前の子どもが対象です。原則は連続6日以内、合計で月12日まで。平日9〜16時の利用が基本です。",
+          "料金は1人1日につき4時間未満1,000円、4時間以上2,000円。4時間ちょうどは2,000円です。翌月中旬に届く納付書で支払います。弁当・おやつは原則持参します。",
+          "原則さくらこども園で実施します。こども未来課の窓口で前月15日（閉庁日はその前日）までに申請し、初回は園と面談します。申請理由によって診断書などが必要です。",
+          "急な利用希望はこども未来課0537-85-1120へ相談します。取消しも同課へ連絡し、直前の取消しには料金がかかる場合があります。"
+        ]
+      },
+      {
+        "heading": "育児を休むためのリフレッシュ保育",
+        "items": [
+          "市内在住の生後6か月以上4歳未満の未就園児は、1人につき月2回まで利用できます。施設の営業日の9〜16時が基本です。",
+          "4時間未満1,000円、4時間以上2,000円。食事の提供を受ける場合は別途実費がかかり、子育て応援チケットが使えます。",
+          "やまもも保育園、高松保育園、LEAPen、御前崎白百合保育園が市公式掲載の実施施設です。先に施設へ希望日を予約し、前月15日までに市窓口または電子申請で申込み、利用前に面談します。",
+          "一時保育の概要は2026年7月、リフレッシュ保育の掲載資料は2024年7月作成です。市が現在案内している資料として2026年11月21日に確認しました。空き状況や受付は予約時に施設へ確認してください。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "申請したら必ず預かってもらえますか？",
+        "answer": "認定や事前面談、施設の空き、子どもの健康状態の確認が必要です。認定申請と個別の日の予約確定は別の手続きです。"
+      },
+      {
+        "question": "市外の誰でも通園施設も使えますか？",
+        "answer": "市公式は広域利用も案内しています。御前崎市に住民票がある場合の申請窓口は原則御前崎市で、初めて使う施設とは事前面談が必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "こども誰でも通園",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kosodateservice/11217.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.141734+09:00",
+        "evidence_title": "こども誰でも通園制度（乳児等通園支援事業）／御前崎市公式ホームページ"
+      },
+      {
+        "label": "病後児保育",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kosodateservice/11218.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.141734+09:00",
+        "evidence_title": "御前崎市病後児保育事業／御前崎市公式ホームページ"
+      },
+      {
+        "label": "子育てショートステイ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kosodateservice/11271.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.141734+09:00",
+        "evidence_title": "子育て短期支援事業（ショートステイ）／御前崎市公式ホームページ"
+      },
+      {
+        "label": "一時・リフレッシュ保育",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/kosodateservice/8250.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "一時保育事業／リフレッシュ保育事業／御前崎市公式ホームページ"
+      },
+      {
+        "label": "緊急・一時保育の概要（料金・日数・申請期限）",
+        "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/13/kinnkyuuichijichirashi.pdf",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:19:19.490858+09:00",
+        "evidence_title": "緊急・一時保育の概要（料金・日数・申請期限）",
+        "document_date": "2026-07",
+        "verification": "PDF本文抽出と画像化した料金表・条件の目視照合済み"
+      },
+      {
+        "label": "リフレッシュ保育の概要（市の現行掲載資料）",
+        "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/13/rifuressyudennsisinnsei.pdf",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:19:19.975664+09:00",
+        "evidence_title": "リフレッシュ保育の概要（市の現行掲載資料）",
+        "document_date": "2024-07",
+        "verification": "PDF本文抽出と画像化した料金表・条件の目視照合済み"
+      }
+    ],
+    "related": [
+      "/life/family-grow/nursery-childcare/",
+      "/life/family-grow/parenting-support/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/childcare-options/",
+    "category": "暮らしガイド",
+    "home": true,
+    "keywords": [
+      "誰でも通園",
+      "病後児保育",
+      "ショートステイ",
+      "リフレッシュ保育",
+      "一時保育",
+      "さくらこども園"
+    ]
+  },
+  {
+    "slug": "pregnancy-postpartum",
+    "title": "妊娠から産後の給付・相談・ケアをつなぐ",
+    "lead": "妊娠中の給付申請と、出産後の休養・育児支援は別の制度です。母子手帳交付時から相談し、利用前に必要な手続きを確認します。",
+    "sections": [
+      {
+        "heading": "妊婦のための支援給付",
+        "items": [
+          "申請時に御前崎市に住民票がある妊婦本人が申請します。1回目は5万円、2回目は胎児の数に応じて1人につき5万円です。",
+          "1回目は胎児心拍の確認後、母子手帳交付時に案内。2回目は出産予定日の8週間前から申請できます。",
+          "本人確認書類と本人名義の振込先を用意します。配偶者名義の口座ではなく、申請者と口座名義を合わせます。",
+          "流産・死産等の場合も、医師による胎児心拍の確認などの条件に応じて対象になります。申請方法はこども家庭センターに相談できます。"
+        ]
+      },
+      {
+        "heading": "産後ケアを予約する",
+        "items": [
+          "市内に住民票がある産後1年以内の母子で、産後ケアが必要な方が対象。宿泊、日帰り、訪問の3方式を合計7日・7回まで利用できます。",
+          "おおむね妊娠28週以降から申請でき、利用日の7開庁日前までに手続きします。希望日が決まっている場合は先に施設を予約し、持ち物を確認します。急ぎの場合はこども家庭センターへ連絡します。",
+          "電子申請またはこども家庭センター窓口で申込みます。医療行為が必要な状態は対象外となる場合があるため、相談時に体調を伝えます。",
+          "料金は利用方式・施設・課税状況で異なります。令和8年度の市公式料金資料を確認してください。子育て応援チケットは使えません。",
+          "利用時は郵送される承認決定通知書を提出し、料金を施設に直接支払います。2026年1月1日に市内に住所がなかった転入世帯は、世帯全員の課税状況が分かる証明書が必要です。取消しは施設に連絡し、決定後は取消料が発生する場合があります。"
+        ]
+      },
+      {
+        "heading": "産後ケアの料金と施設選び",
+        "items": [
+          "2026年4月作成の料金表では、市内のおはな助産院の課税世帯の負担は、宿泊1日3,000円、日帰り1日2,000円、短時間1回1,000円、訪問1回1,200円です。訪問の別途交通費はありません。",
+          "同院の非課税・生活保護世帯の負担は、宿泊1日1,000円、日帰り1日600円、短時間1回300円、訪問1回400円。宿泊は産後1か月程度までの母子が対象です。宿泊・長時間の日帰りは多胎児の追加料金があります。",
+          "同院の連絡先は090-7916-4122、所在地は白羽6621-1070です。ほかにも市外の病院・助産院が参加していますが、出産した施設の利用者に限る場合や月齢制限があるため、料金表と受入条件を合わせて確認します。",
+          "短期入所・通所には家族や上の子は同伴利用できません。利用日数は宿泊・日帰り・訪問を合わせて7日・7回までです。医療行為が必要な場合の治療費を補助する制度ではありません。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "産後ケアは出産後にしか申請できませんか？",
+        "answer": "市はおおむね妊娠8か月・28週以降から受け付けています。希望日が決まる前でも、必要なケアの種類を相談できます。"
+      },
+      {
+        "question": "給付とケアの相談先はどこですか？",
+        "answer": "こども未来課こども家庭センター（0537-85-6666）です。給付申請とケア利用申請は別々に確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "妊婦のための支援給付",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ninshin_shussan/ninshin/10746.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "妊婦のための支援給付／御前崎市公式ホームページ"
+      },
+      {
+        "label": "産後ケア事業",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ninshin_shussan/shussan/sangokea.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "産後ケア事業／御前崎市公式ホームページ"
+      },
+      {
+        "label": "2026年度産後ケア案内・課税世帯料金表",
+        "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/13/sanngokeajigyouchirashi-shiminnzeikazeisha.pdf",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:19:20.663668+09:00",
+        "evidence_title": "2026年度産後ケア案内・課税世帯料金表",
+        "document_date": "2026-04",
+        "verification": "PDF本文抽出と画像化した料金表・条件の目視照合済み"
+      },
+      {
+        "label": "2026年度産後ケア非課税・生活保護世帯料金表",
+        "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/13/sanngokeajigyouchirashi-hikazeiseiho.pdf",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:19:21.146753+09:00",
+        "evidence_title": "2026年度産後ケア非課税・生活保護世帯料金表",
+        "document_date": "2026-04",
+        "verification": "PDF本文抽出と画像化した料金表・条件の目視照合済み"
+      }
+    ],
+    "related": [
+      "/life/family-grow/pregnancy/",
+      "/life/family-grow/childbirth/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/pregnancy-postpartum/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "妊婦給付",
+      "5万円",
+      "産後ケア",
+      "おはな助産院"
+    ]
+  },
+  {
+    "slug": "child-benefits",
+    "title": "児童手当・こども医療費・就学援助を申請する",
+    "lead": "子育てに関する支援は、現金の手当、医療費の助成、学校費用の援助で申請先と期限が異なります。出生・転入時と学校生活の節目に分けて確認します。",
+    "sections": [
+      {
+        "heading": "児童手当の金額と申請期限",
+        "items": [
+          "高校生年代までが対象で、所得制限はありません。第1・2子は3歳未満が月1万5,000円、3歳以上は月1万円。第3子以降は年齢にかかわらず月3万円です。",
+          "多子加算では、親等が経済的に負担している22歳年度末までの兄姉等を数える場合があります。人数だけで自己判定せず申請時に家族状況を伝えます。",
+          "出生・転入等から原則15日以内に申請します。御前崎市の支給日は偶数月15日が基本で、休日の場合はその前の金融機関営業日です。"
+        ]
+      },
+      {
+        "heading": "こども医療費受給者証を用意する",
+        "items": [
+          "市内在住で健康保険に加入する子どもは、18歳到達後最初の3月31日までが対象。保険診療の通院・入院の自己負担を助成します。予防接種、健診、差額ベッド等の保険外費用は対象外です。",
+          "受診時にはマイナ保険証または資格確認書等と受給者証を提示します。出生・転入時には受給者証の申請が必要です。",
+          "県外受診等で立て替えた場合は受診日から1年以内に償還払いを申請します。領収書、保険資格の確認資料、受給者証、保護者名義の口座資料等を用意します。"
+        ]
+      },
+      {
+        "heading": "学校費用の援助を相談する",
+        "items": [
+          "就学援助は、経済的な事情で就学が難しい家庭への支援です。非課税、税や保険料の減免、児童扶養手当、失業・災害等の事情を学校または教育総務課に相談します。",
+          "申請書に加え、3か月分の給与明細等を準備。民生委員・児童委員との面接では1週間分のレシートと訂正用印鑑を用意し、意見記入後に学校へ提出します。",
+          "学用品、新入学用品、修学旅行等が対象ですが、認定日によって支給できない費用があります。早めに相談してください。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "児童手当の所得制限と児童扶養手当の所得制限は同じですか？",
+        "answer": "別制度です。児童手当には所得制限がありませんが、ひとり親家庭等の児童扶養手当には本人や同居扶養義務者の所得による制限があります。"
+      },
+      {
+        "question": "医療費受給者証は毎年更新しますか？",
+        "answer": "市は受給者証の期限を18歳到達後の年度末までとしており、年度ごとの更新は行いません。紛失や保険変更は別途届出が必要です。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "児童手当制度のご案内",
+        "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+        "publisher": "こども家庭庁",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.469735+09:00",
+        "evidence_title": "児童手当制度のご案内｜こども家庭庁"
+      },
+      {
+        "label": "所得制限の撤廃",
+        "url": "https://lifedesign-information.cfa.go.jp/support-system/support-system02/",
+        "publisher": "こども家庭庁",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.490049+09:00",
+        "evidence_title": "子どもを育てるためのお金をもらえるって本当？｜支援制度のご案内｜ライフデザインのための情報ポータルサイト｜こども家庭庁"
+      },
+      {
+        "label": "御前崎市の児童手当申請",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "児童手当／御前崎市公式ホームページ"
+      },
+      {
+        "label": "こども医療費助成",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/iryou/jose.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "御前崎市子ども医療費助成制度／御前崎市公式ホームページ"
+      },
+      {
+        "label": "就学援助",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kyoikusomu/ikujiteate_shugakuenjo/shugakuenjo.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "就学援助制度のお知らせ／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/family-grow/child-allowance/",
+      "/life/family-grow/child-allowance-medical/",
+      "/life/education/school-expense-support/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/child-benefits/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "児童手当",
+      "3万円",
+      "医療費",
+      "就学援助"
+    ]
+  },
+  {
+    "slug": "care-supplies-hearing",
+    "title": "在宅介護の用品代と補聴器の助成を確認する",
+    "lead": "介護用品の助成券と、補聴器の購入補助は別制度です。要介護度・所得・購入時期に条件があるため、買う前に窓口へ確認します。",
+    "sections": [
+      {
+        "heading": "紙おむつなどの介護用品",
+        "items": [
+          "本人と家族が市内に住み、65歳以上の方を在宅で介護している家庭が対象です。要介護1〜5で排尿・排便の介助等の条件がある方、または職員訪問で要件が確認された方などが該当します。",
+          "課税世帯は月2,000円、非課税世帯は月4,000円相当の助成券。紙おむつ・尿取りパッド・使い捨て手袋・おしり拭きに使えます。申請月などにより交付額が変わります。",
+          "2026年度の申請期限は2027年3月15日、券の利用期限は3月31日。高齢者支援課または地域包括支援センターおまえざきへ提出し、郵送申請はできません。",
+          "施設入所・入院中は対象外です。入所や転出、認定変更などがあったら券の使用を続けず窓口に連絡します。"
+        ]
+      },
+      {
+        "heading": "補聴器は交付決定前に買わない",
+        "items": [
+          "市内在住の65歳以上で本人が住民税非課税、両耳の聴力が各30デシベル以上など、すべての条件を満たす方が対象です。身体障害者向け制度の対象者、他の助成利用者等は対象外です。",
+          "管理医療機器として認定された補聴器本体1台が対象で、対象費の2分の1、上限3万円。付属品・修理・受診・証明書作成等の費用は含みません。",
+          "申請書、医師の証明書、メーカー・型番の分かる見積書を提出し、市の交付決定通知を受けてから購入します。",
+          "医師証明・見積の日付のうち早い方から6か月以内に申請。購入は交付決定年度内、請求は購入後30日以内または年度末の早い方までです。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "先に購入した補聴器も対象ですか？",
+        "answer": "申請前に買ったものは対象外です。医師の証明と見積書をそろえ、交付決定通知を待ってから購入してください。"
+      },
+      {
+        "question": "相談先はどこですか？",
+        "answer": "高齢者支援課（0537-85-1118）へ、年齢、在宅・入院等の状況、所得や要介護認定の状況を伝えて相談します。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "介護用品購入費助成",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/fukushi_kaigo/iryo_fukushi/kaigoyohinjosei.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.141734+09:00",
+        "evidence_title": "介護用品購入費助成／御前崎市公式ホームページ"
+      },
+      {
+        "label": "高齢者補聴器購入費補助金",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kenko_iryo_kaigo/fukushi_kaigo/iryo_fukushi/10856.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "2026-11-21T17:15:32.445763+09:00",
+        "evidence_title": "高齢者補聴器購入費補助金／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/parents-care/care-started/",
+      "/life/parents-care/check-parents/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/care-supplies-hearing/",
+    "category": "暮らしガイド",
+    "home": true,
+    "keywords": [
+      "紙おむつ",
+      "補聴器",
+      "助成券"
+    ]
+  },
+  {
+    "slug": "care-consultation-route",
+    "title": "離れて暮らす親の相談から介護認定まで",
+    "lead": "相談窓口と認定申請窓口は、扱う手続きが同じとは限りません。親の住む地区、困っている生活動作、主治医を整理してから連絡します。",
+    "sections": [
+      {
+        "heading": "親の住む地区から相談先を選ぶ",
+        "items": [
+          "池新田・高松・佐倉・比木・朝比奈・新野は地域包括支援センターはまおか（市役所西館、0537-85-1167）。",
+          "御前崎・白羽は地域包括支援センターおまえざき（ふれあい福祉センターなごみ内、白羽5402-10、0548-63-6857）。古い「支所2階」という案内と間違えないようにします。",
+          "訪問等で職員が不在の場合があるため、来所前の電話が勧められています。来所困難なら訪問相談も可能です。"
+        ]
+      },
+      {
+        "heading": "認定申請の前にそろえること",
+        "items": [
+          "65歳以上で介護・支援が必要な方のほか、40〜64歳で特定疾病が原因の場合も対象になります。後者は主治医に該当疾病を確認します。",
+          "主治医へ意見書の記入を相談し、医療機関名・医師名、認定調査に立ち会える日程を整理します。",
+          "申請書、主治医意見書問診票、介護保険被保険者証、医療保険資格の資料、本人のマイナンバー確認資料を用意します。",
+          "市役所西館の高齢者支援課が基本の申請先。おまえざき窓口で受け付ける新規申請の地域条件は、提出前に確認します。"
+        ]
+      },
+      {
+        "heading": "認定後と更新",
+        "items": [
+          "訪問調査には家族等の同席が必要です。日常の困りごとを具体的に伝えます。",
+          "要介護1〜5は居宅介護支援事業所等へケアプランを依頼。要支援1・2などは地域包括支援センター等に相談します。ケアプラン作成費は無料と市が案内しています。",
+          "更新申請は有効期間満了60日前から。状態が変わった場合は区分変更申請を相談します。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "施設に入るか決まっていなくても相談できますか？",
+        "answer": "できます。まず生活上の困難や家族の支援状況を整理し、在宅サービスも含めて相談します。"
+      },
+      {
+        "question": "白羽地区の申請は全部なごみで済みますか？",
+        "answer": "相談対象地区と、受け付けられる認定申請の範囲は別です。市の認定申請ページには新規申請の地域制限があるため、窓口へ事前確認してください。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "地域包括支援センターはまおか",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/koreishashien/fukushi_kaigo/iryo_fukushi/6883.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "地域包括支援センターはまおか／御前崎市公式ホームページ"
+      },
+      {
+        "label": "地域包括支援センターおまえざき",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/koreishashien/fukushi_kaigo/iryo_fukushi/branch.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "地域包括支援センターおまえざき／御前崎市公式ホームページ"
+      },
+      {
+        "label": "要介護認定の申請",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/koreishashien/fukushi_kaigo/kaigofukushi/ninteishinsei.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "認定申請について／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/parents-care/care-certification-support-center/",
+      "/life/parents-care/community-support-center/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/care-consultation-route/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "地域包括支援センター",
+      "なごみ",
+      "介護認定"
+    ]
+  },
+  {
+    "slug": "documents-without-visiting",
+    "title": "証明書を窓口・コンビニ・オンラインから選ぶ",
+    "lead": "急ぎで必要なのか、御前崎市に本籍があるのか、マイナンバーカードを使えるのかを先に確認すると、取得方法を選びやすくなります。",
+    "sections": [
+      {
+        "heading": "その日に受け取りたいとき",
+        "items": [
+          "コンビニ交付にはマイナンバーカードと利用者証明用の数字4桁暗証番号が必要です。利用は6時30分〜23時で、年末年始や保守停止日を除きます。",
+          "住民票・印鑑証明・戸籍の附票・所得課税証明は各200円、戸籍謄抄本は350円です。戸籍関係をコンビニで取れるのは本籍と住所の両方が御前崎市にある方です。"
+        ]
+      },
+      {
+        "heading": "自宅で申請して郵送で受け取るとき",
+        "items": [
+          "オンライン申請は対応スマートフォン、マイナンバーカード、署名用電子証明書の英数字6〜16桁暗証番号、xIDアプリが必要です。支払いは対応クレジットカードまたはPayPayです。",
+          "住民票・印鑑証明・附票・独身証明は300円、戸籍謄抄本450円、身分証明350円、除籍・改製原戸籍750円。郵送料等が別にかかります。",
+          "申請→市から金額確定のメール→支払い→郵送です。市は入金確認から3営業日程度で発送すると案内しています。申請直後にPDFを受け取るサービスではありません。"
+        ]
+      },
+      {
+        "heading": "急ぎ・代理・複雑な戸籍は先に相談",
+        "items": [
+          "必要な証明書名、提出先、対象年度、誰の分かを整理します。本人以外の請求や相続で必要な一連の戸籍は、利用できる方法を市民課へ確認してください。",
+          "オンラインの対象者は証明書によって住所要件・本籍要件が異なります。申し込む前に公式表で確認します。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "マイナンバーカードの暗証番号はどれですか？",
+        "answer": "コンビニ交付は数字4桁、オンライン申請で使う署名用電子証明書は英数字6〜16桁です。用途が異なります。"
+      },
+      {
+        "question": "オンライン申請の方がコンビニより安いですか？",
+        "answer": "同じ証明書でもコンビニ交付の方が100円安く、オンラインは郵送料等も必要です。利用条件と必要日で選んでください。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "コンビニ交付",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/somei/convinikoufu.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "各種証明書のコンビニ交付について／御前崎市公式ホームページ"
+      },
+      {
+        "label": "証明書のオンライン申請",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/somei/online.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "各種証明書のオンライン申請について／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/start-living/certificates/",
+      "/life/start-living/resident-registration/",
+      "/life/work-life/tax-certificates/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/documents-without-visiting/",
+    "category": "暮らしガイド",
+    "home": true,
+    "keywords": [
+      "住民票",
+      "戸籍",
+      "印鑑証明",
+      "xID",
+      "PayPay",
+      "コンビニ"
+    ]
+  },
+  {
+    "slug": "water-moving",
+    "title": "引っ越し前に水道の開始・中止を届け出る",
+    "lead": "水道は住所変更だけでは切り替わりません。開始・中止したい日と契約情報を用意し、原則3営業日前までに手続きします。",
+    "sections": [
+      {
+        "heading": "日付と申込み先を決める",
+        "items": [
+          "窓口・開閉栓の受付は平日8時15分〜17時。土日祝日・年末年始は開閉栓を行わないため、休日の引越しは前もって相談します。",
+          "窓口は御前崎市水道料金お客さまセンター。電話0120-005-335、FAX0537-85-1150です。"
+        ]
+      },
+      {
+        "heading": "申込方法を確認する",
+        "items": [
+          "窓口、FAXの方法が案内されています。FAXの場合は届出書送信後、当日中にお客さまセンターへ電話して内容確認を受けます。",
+          "2026年11月21日に取得した開始・中止ページには、WEBシステムのメンテナンス中は電話で申込みをするよう案内があります。一方で旧FAQには電話・インターネット不可という記載が残るため、現在使える方法をセンターへ確認します。",
+          "口座振替を希望する場合は、銀行印と通帳等の口座情報を用意します。"
+        ]
+      },
+      {
+        "heading": "料金の区切りも確認する",
+        "items": [
+          "水道料金の請求は2か月ごと。池新田・高松は奇数月検針・偶数月請求、その他の市内地区は偶数月検針・奇数月請求です。",
+          "転出時は中止日と精算先、転入時は使用開始日と支払方法をそれぞれ確認します。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "Web申込みだけで済ませられますか？",
+        "answer": "市の開始・中止ページにはメンテナンス中の案内が掲載されています。復旧を未確認のまま申込み可能とは案内せず、公式ページまたはセンターで確認してください。"
+      },
+      {
+        "question": "3日前ならいつでも間に合いますか？",
+        "answer": "市の案内は3「営業日」前です。土日祝日を挟む場合は余裕を持ち、直前ならお客さまセンターへ相談してください。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "水道開始・中止",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "水道使用開始・中止（開栓・閉栓）について／御前崎市公式ホームページ"
+      },
+      {
+        "label": "開閉栓FAQ（申込方法に旧記載あり）",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/faq/kaiheisen.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "水道の開栓、閉栓をするとき／御前崎市公式ホームページ"
+      },
+      {
+        "label": "水道料金",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/suidoryokin/ryokin.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "水道料金について／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/start-living/water-start-stop-fees/",
+      "/life/moving-out/stop-water/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/water-moving/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "水道",
+      "WEB受付",
+      "電話申込",
+      "引越し"
+    ]
+  },
+  {
+    "slug": "vacant-home-support",
+    "title": "空き家を直す・取り壊すときの支援を分ける",
+    "lead": "空き家リフォーム、危険空家の除却、耐震改修は別制度です。目的を決める前に、建物の状態、権利、取得方法、今後住む予定を整理します。",
+    "sections": [
+      {
+        "heading": "買った・借りた空き家に住み続けるための改修",
+        "items": [
+          "空家リフォーム支援は、賃貸・売買で取得した市内空き家の省エネ、バリアフリー、長寿命化等の工事が対象です。対象工事費の50％、上限40万円です。",
+          "市内居住予定、10年以上住む予定、班加入、税滞納がないことなどの条件があります。三親等以内の売買・賃貸契約は対象外です。",
+          "工事前に申請書・事業計画、契約書、見積、施工前写真、図面、納税証明等を提出します。借主は所有者の承諾も必要です。",
+          "2026年度の受付予定5件は残り枠の表示ではありません。現在の受付状況を都市整備課へ確認します。"
+        ]
+      },
+      {
+        "heading": "倒壊等のおそれがある危険空家の除却",
+        "items": [
+          "市の危険空家認定を先に受け、その後に補助金を申請します。木造、市内所在、周辺道路・建物へ危険のおそれ、権利関係等の条件があります。",
+          "補助対象費と基準により算出する額の低い方の5分の4、上限60万円。交付決定前の着工や建物の一部だけの除却等は対象外です。",
+          "認定には位置図、登記事項証明、所有者全員の誓約書等を準備します。市が現地調査を行います。"
+        ]
+      },
+      {
+        "heading": "共通して気をつけること",
+        "items": [
+          "相談・認定・交付申請・交付決定・工事・実績報告の順番を確認してから発注します。",
+          "実績報告は工事完了後30日以内または交付決定年度末の早い方が目安です。変更工事も事前手続きが必要です。",
+          "耐震支援TOUKAI-0＋の補助条件と混同しないでください。制度併用や相続しただけの物件の扱いは都市整備課0537-85-1122へ確認します。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "古い家なら危険空家除却補助を受けられますか？",
+        "answer": "古いだけでは対象と決まりません。市の危険空家認定や周辺への影響、権利関係などの条件を確認する必要があります。"
+      },
+      {
+        "question": "契約や工事を済ませてから申請できますか？",
+        "answer": "工事前の申請・交付決定が必要な制度です。先に着工せず、見積の段階で窓口へ相談してください。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "空家リフォーム支援",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseibi/akiya/akiyareformsienjigyouhojokin.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "御前崎市空家リフォーム支援事業補助金／御前崎市公式ホームページ"
+      },
+      {
+        "label": "危険空家除却支援",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/toshiseisaku/sumaitochi/sumai/akiya/kikennakiyatoujokyakujigyouhihojokinn.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "御前崎市危険空家除却事業費補助金／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/housing/vacant-house/",
+      "/life/housing/earthquake-demolition/",
+      "/life/end-of-life/inherited-vacant-house/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/vacant-home-support/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "空家リフォーム",
+      "危険空家",
+      "解体",
+      "補助金"
+    ]
+  },
+  {
+    "slug": "single-parent-support",
+    "title": "ひとり親家庭の手当を申請するとき",
+    "lead": "児童扶養手当は、児童手当とは別の制度です。離婚等の事由、子どもの年齢、本人や同居家族の所得を確認してから申請します。",
+    "sections": [
+      {
+        "heading": "対象と2026年度の金額",
+        "items": [
+          "18歳到達後最初の3月31日までの児童が対象で、一定の障害がある場合は20歳未満までです。父・母・養育者や同居の扶養義務者の所得に制限があります。",
+          "2026年4月以降の全部支給は月48,050円。一部支給は48,040〜11,340円、第2子以降の加算は全部支給11,350円、一部支給11,340〜5,680円です。",
+          "公的年金を受けていても、年金額が手当額を下回る場合は差額を受けられることがあります。"
+        ]
+      },
+      {
+        "heading": "申請時の準備",
+        "items": [
+          "離婚日等を確認できる本人と子どもの戸籍謄本、本人名義の通帳、年金関係資料、本人・子ども・扶養義務者のマイナンバー資料等を用意します。",
+          "月末近くの離婚で戸籍謄本が間に合わない場合は、受理証明書による仮受付が案内されています。後日戸籍を提出する必要があります。",
+          "原則として申請翌月から支給対象になります。御前崎市は奇数月11日が支給日で、休日の場合は直前の金融機関営業日です。"
+        ]
+      },
+      {
+        "heading": "窓口で確認すること",
+        "items": [
+          "こども未来課0537-85-1120へ、申請理由、同居家族、年金受給の有無を伝えます。書類がそろうまで放置せず、まず必要書類と受付時期を相談してください。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "児童手当を受けていると児童扶養手当は申請できませんか？",
+        "answer": "別制度です。児童扶養手当の対象事由と所得等の条件を個別に確認します。"
+      },
+      {
+        "question": "金額はずっと同じですか？",
+        "answer": "手当額は年度改定や所得・子どもの人数で変わります。ここに示した額は市公式の2026年4月以降の案内に基づきます。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "児童扶養手当",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/hitorioya/hitorioyashien/fuyo.html",
+        "publisher": "御前崎市公式",
+        "verified_date": "2026-11-21",
+        "retrieval": "先行作業の同日取得資料を引継ぎ",
+        "evidence_title": "児童扶養手当／御前崎市公式ホームページ"
+      }
+    ],
+    "related": [
+      "/life/family-grow/single-parent-support/"
+    ],
+    "verified_date": "2026-11-21",
+    "href": "/guide/single-parent-support/",
+    "category": "暮らしガイド",
+    "home": false,
+    "keywords": [
+      "児童扶養手当",
+      "ひとり親",
+      "離婚"
+    ]
+  },
+  {
+    "slug": "cape-lighthouse",
+    "title": "御前埼灯台と海岸を歩く",
+    "sections": [
+      {
+        "heading": "灯台の予定を先に決める",
+        "paragraphs": [
+          "灯台へ登る計画なら、最初に参観時間を確認します。2026年3月1日から12時〜13時は参観を休止。11〜2月は9時〜16時、3〜10月は平日9時〜16時、土日等9時〜16時30分です。荒天時には予定が変わるため、現地への出発前に公式案内も確認しましょう。"
+        ],
+        "bullets": [
+          "参観寄付金は中学生以上300円、小学生以下無料。",
+          "参観窓口：0548-63-2550。"
+        ],
+        "links": [
+          {
+            "label": "灯台の参観案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/toudai.html"
+          }
+        ]
+      },
+      {
+        "heading": "丘と海岸側を組み合わせる",
+        "paragraphs": [
+          "灯台周辺のケープパークには「地球が丸く見えるん台」や潮騒の像があります。海岸側の最南端の碑、ウミエール広場とは場所が異なります。駐車場所と歩く範囲を決め、階段や坂道を含む道を無理なく選んでください。"
+        ],
+        "bullets": [
+          "灯台周辺の眺望は天候に左右されます。",
+          "海岸の駐車場は園路や広場の中へ自由に車で入れるという意味ではありません。"
+        ],
+        "links": [
+          {
+            "label": "ケープパーク",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/omaezaki_capepark.html"
+          },
+          {
+            "label": "ウミエール広場の利用ルール",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/6421.html"
+          }
+        ]
+      },
+      {
+        "heading": "海辺で休むときのルール",
+        "paragraphs": [
+          "ウミエール広場では火気・バーベキュー・花火が禁止され、禁煙です。犬にはリードを付け、ごみは持ち帰ります。写真を撮るために護岸の危険な場所や立入禁止区域へ進まないことも、海辺で過ごす計画の一部にしましょう。"
+        ],
+        "bullets": [],
+        "links": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "御前埼灯台（omae saki toudai）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/toudai.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎ケープパーク／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/omaezaki_capepark.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "静岡県最南端の岬／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sainantan.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前埼灯台前広場（ウミエール）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/6421.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "海",
+      "灯台",
+      "散策"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/cape-lighthouse/",
+    "lead": "参観時間の昼休みと、丘の上・海岸側の違いを先に押さえる御前崎の散策案内。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "昼12時に着いても灯台に登れますか？",
+        "answer": "12時〜13時は参観休止です。周辺散策や昼食と時間を組み替え、再開後の参観を検討してください。"
+      },
+      {
+        "question": "夕日は必ず見られますか？",
+        "answer": "見え方は天気・季節・場所によります。灯台参観の終了時刻と夕日の時刻も別なので、同時に楽しめるとは限りません。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "image": "lighthouse",
+    "keywords": []
+  },
+  {
+    "slug": "dunes-and-flowers",
+    "title": "浜岡砂丘・河津桜・白砂公園を歩く",
+    "sections": [
+      {
+        "heading": "砂丘へ行く日を選ぶ",
+        "paragraphs": [
+          "浜岡砂丘は池新田の海岸にあり、砂丘入口付近には駐車場があります。冬の風が砂の模様をつくることもありますが、強風の日は飛砂を受けます。風景を見る散策と海水浴は別の計画として、海況を確かめてください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "浜岡砂丘",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakyu.html"
+          }
+        ]
+      },
+      {
+        "heading": "河津桜は開花情報で決める",
+        "paragraphs": [
+          "砂丘入口付近の並木は約600メートル、約230本。例年は2月中旬〜3月中旬が花期とされていますが、気温で前後します。2027年の催事日程は今回確認できた公式ページでは発表されていません。「例年の時季」と「次回の開催日」を分けて確認しましょう。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "河津桜の公式案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/hamaokasakura.html"
+          }
+        ]
+      },
+      {
+        "heading": "白砂公園まで含めて歩く",
+        "paragraphs": [
+          "白砂公園には自然遊歩道、花菖蒲園、芝生広場があります。市の公園一覧ではトイレと駐車場を案内しています。公園所在地と砂丘駐車場の案内住所は異なるため、地図には目的の入口を指定してください。"
+        ],
+        "bullets": [
+          "白砂公園の市公園一覧所在地：池新田9186番地216。",
+          "砂丘の案内所在地：池新田9124。"
+        ],
+        "links": [
+          {
+            "label": "市内公園一覧",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "浜岡砂丘／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakyu.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "浜岡砂丘カワヅザクラ／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/hamaokasakura.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "白砂公園／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/shirasuna_koen.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎市内の公園一覧（維持管理課管轄）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "砂丘",
+      "花",
+      "散策"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/dunes-and-flowers/",
+    "lead": "砂丘の景観、早春の花、松林の散策を目的別に選びます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "桜まつりの日程は毎年同じですか？",
+        "answer": "同じとは限りません。例年の花期だけで予約せず、開催年の観光協会・市の告知と開花状況を確認してください。"
+      },
+      {
+        "question": "駐車場がある場所から砂丘を歩けますか？",
+        "answer": "市は砂丘付近の駐車場を案内しています。砂地や遊歩道の通行状況、利用する入口は現地案内で確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "image": "dunes",
+    "keywords": []
+  },
+  {
+    "slug": "sea-and-nature",
+    "title": "海遊び・磯観察・ウミガメを知る",
+    "sections": [
+      {
+        "heading": "ロングビーチと海水浴場を分ける",
+        "paragraphs": [
+          "ロングビーチはサーフィンやウインドサーフィンで知られる海岸です。一方、マリンパーク御前崎の海水浴場は夏季に開設されます。海が見えることと遊泳できることは同じではありません。開設日、現地の監視・利用案内、波と風の予報を出発前に確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "ロングビーチ",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/beach.html"
+          },
+          {
+            "label": "マリンパーク",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html"
+          }
+        ]
+      },
+      {
+        "heading": "磯観察は潮位に加えて波と帰り道を確認",
+        "paragraphs": [
+          "市は御前崎の磯遊びを紹介しています。潮位が低い時刻でも、波・風・足場によって危険があります。滑りにくい靴、手袋や帽子を用意し、子どもから離れず、潮が満ちる前に戻る道を確保してください。立入禁止や採取に関する現地ルールに従い、ごみは持ち帰ります。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "磯遊びの市公式案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/isoasobi.html"
+          }
+        ]
+      },
+      {
+        "heading": "ウミガメは保護する自然として見る",
+        "paragraphs": [
+          "御前崎の海岸はアカウミガメの産卵地として知られ、国の天然記念物に指定されています。産卵やふ化が必ず見られる場所ではありません。観察の機会や保護活動は主催者・市の案内から確認し、自己判断で探したり巣へ近付いたりしない計画にしましょう。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "ウミガメの産卵地",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/umigamesanran.html"
+          }
+        ]
+      },
+      {
+        "heading": "初めての海の体験は実施者へ相談",
+        "paragraphs": [
+          "渚の交番や観光協会掲載のスクールで、プログラム、対象年齢、装備、予約、天候中止の条件を確かめます。釣り船は出船判断が別にあり、港に着けば必ず乗れるという利用方法ではありません。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "渚の交番",
+            "url": "https://omaezaki-nagisa-koban.com/"
+          },
+          {
+            "label": "観光釣り船の確認先",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/turibune.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "御前崎ロングビーチ／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/beach.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "マリンパーク御前崎／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "磯遊び／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/isoasobi.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "アカウミガメの産卵地／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/umigamesanran.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "観光釣り船／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/turibune.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎渚の交番スマイル - 渚の交番はあなたと海を結ぶ｢海の窓口｣です。",
+        "url": "https://omaezaki-nagisa-koban.com/",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "海",
+      "体験",
+      "自然保護"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/sea-and-nature/",
+    "lead": "低潮時刻だけで安全を判断せず、海の活動と自然保護のルールを確かめます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "潮位が低ければ磯遊びは安全ですか？",
+        "answer": "潮位だけでは判断できません。波・風・地形・潮が満ちる時刻も関係します。現地の禁止事項と海況を確認し、危険を感じる日は海へ近付かないようにしてください。"
+      },
+      {
+        "question": "ウミガメの産卵を自由に見に行けますか？",
+        "answer": "保護の対象です。観察の有無・方法は公式に案内された催しや保護活動の条件に従ってください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "parks-with-children",
+    "title": "子どもと行く公園を設備で選ぶ",
+    "sections": [
+      {
+        "heading": "海の景色か、里山の遊びか",
+        "paragraphs": [
+          "海辺ならマリンパーク御前崎の芝生や遊具、内陸ならあらさわふる里公園の芝すべりやビオトープが候補です。海に入らず園地だけで過ごす計画もできます。あらさわは買い物・食事も組み合わせられますが、利用する施設ごとの営業条件を確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "マリンパーク",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html"
+          },
+          {
+            "label": "あらさわふる里公園",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html"
+          }
+        ]
+      },
+      {
+        "heading": "地区の公園は設備を比較する",
+        "paragraphs": [
+          "市の公園一覧は地区別に遊具、トイレ、駐車場を整理しています。八千代公園は広場と遊具、白砂公園は遊歩道や花菖蒲園、高松緑の森公園はスライダーやマレットゴルフなど、遊び方が異なります。施設検索では近い地区と必要な設備を組み合わせて探せます。"
+        ],
+        "bullets": [
+          "長者公園・下岬公園など駐車場がない公園もあります。",
+          "「身障者対応トイレ」の記載は、公園の全経路がバリアフリーであることを保証しません。",
+          "遊具の点検や補修による使用停止は現地掲示を確認してください。"
+        ],
+        "links": [
+          {
+            "label": "市公式の地区別公園一覧",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html"
+          }
+        ]
+      },
+      {
+        "heading": "マレットゴルフは料金のある施設",
+        "paragraphs": [
+          "高松緑の森公園は27ホール、おさ川ふれあい公園は18ホール。市の案内は9時〜16時、月曜（祝日を除く）と年末年始休業です。市内・市外で料金が異なり、用具貸出も別料金。団体利用などは専用の申請条件を確認します。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "マレットゴルフ利用案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/10850.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "御前崎市内の公園一覧（維持管理課管轄）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/ichiran.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "マリンパーク御前崎／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/marine_park_omaezaki.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "あらさわふる里公園／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎市マレットゴルフコースについて／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/ijikanri/koen/10850.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "公園",
+      "子ども",
+      "設備"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/parks-with-children/",
+    "lead": "海辺の大型公園から地区の遊び場まで、トイレ・駐車場・遊具を比べます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "公園はすべて駐車場がありますか？",
+        "answer": "いいえ。市の一覧は駐車場のない公園も示しています。車で行く場合は公園ごとに確認してください。"
+      },
+      {
+        "question": "公園なら何でも無料で利用できますか？",
+        "answer": "園地と予約施設・スポーツ施設は条件が異なります。マレットゴルフやバーベキューなどの料金・申込みは個別に確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "fish-and-local-food",
+    "title": "魚介・御前崎クエ・地域の食を選ぶ",
+    "sections": [
+      {
+        "heading": "市場は売場と飲食店の時間を分ける",
+        "paragraphs": [
+          "御前崎海鮮なぶら市場には海産物を扱う売場と飲食の場所があります。運営者公式では火曜休館、祝日の場合は翌日、元日は休館。各店の営業・ラストオーダーが同一とは限らないため、食べたい店を決めたら店の案内も確認しましょう。鮮魚を持ち帰る日は保冷と帰宅までの時間を考えます。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "なぶら市場公式",
+            "url": "https://nabula.jp/"
+          }
+        ]
+      },
+      {
+        "heading": "御前崎クエは今季案内から予約する",
+        "paragraphs": [
+          "観光協会の2026年11月8日案内は、2026年11月1日〜2027年3月31日の御前崎クエ料理を紹介しています。取扱店は8店。数量限定で早く終了する場合があり、各店への予約が必要です。料金、コース内容、予約の締切は店舗ごとに確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "2026〜2027年の御前崎クエ案内",
+            "url": "https://www.omaezaki.gr.jp/news/detail.html?t=36"
+          }
+        ]
+      },
+      {
+        "heading": "海の幸以外も組み合わせる",
+        "paragraphs": [
+          "市は遠州夢咲牛や御前崎茶、地場の農産物も紹介しています。飲食店検索で食事先を選び、道の駅や茶店を土産選びに組み合わせると、海辺だけではない御前崎の食を探せます。紹介元が古い販売実績を示している場合、現在も同じメニューがあるとは限りません。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "市の遠州夢咲牛紹介",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/eat_buy/4100.html"
+          },
+          {
+            "label": "道の駅公式",
+            "url": "https://www.michinoeki-omaezaki.jp/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "静岡県御前崎港にある御前崎海鮮なぶら市場｜御前崎市|海鮮,魚介|観光,お土産",
+        "url": "https://nabula.jp/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "幻の魚「御前崎クエ」提供中！｜お知らせ｜いいね！御前崎「御前崎観光ガイド」御前崎市観光協会",
+        "url": "https://www.omaezaki.gr.jp/news/detail.html?t=36",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎クエ／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/eat_buy/omaezakikue.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "遠州夢咲牛／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/eat_buy/4100.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "風のマルシェ御前崎 | 道の駅 | Japan, 〒437-1613 静岡県御前崎市合戸海岸４３８４-１",
+        "url": "https://www.michinoeki-omaezaki.jp/",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "食事",
+      "魚介",
+      "土産"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/fish-and-local-food/",
+    "lead": "市場での買い物、店での食事、冬の予約料理を分けて計画します。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "クエ料理は予約なしでも食べられますか？",
+        "answer": "今季の公式案内は予約を求めています。訪問する店へ直接連絡し、仕入れ・人数・料金・予約期限を確認してください。"
+      },
+      {
+        "question": "なぶら市場のすべての店が同じ時間ですか？",
+        "answer": "売場と飲食店、各店舗で異なります。市場の営業日と利用する店の時間を両方確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "tea-and-farm-products",
+    "title": "御前崎茶と農産物を買う・知る",
+    "sections": [
+      {
+        "heading": "つゆひかりを目的に茶店へ",
+        "paragraphs": [
+          "御前崎市がブランド化を進める茶の品種が「つゆひかり」です。市の案内には茶葉のほか、ティーバッグ、パウダー、ペットボトルなどの形が掲載されています。贈り物か、自宅で淹れるか、料理に使うかを決めて店へ相談すると選びやすくなります。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "御前崎茶と取扱店",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/eat_buy/otya.html"
+          }
+        ]
+      },
+      {
+        "heading": "取扱先と直売所を選ぶ",
+        "paragraphs": [
+          "市はまるよ茶屋、ながしま茶園、牧之原製茶、山亜里製茶、やまま満寿多園、道の駅、御前崎トモルを購入先として紹介しています。在庫と販売形態は各店で異なります。道の駅やあらさわふる里公園の直売所では、茶と一緒に地域の農産物を探すこともできます。"
+        ],
+        "bullets": [
+          "市の取扱店掲載は、全商品が常時そろう保証ではありません。",
+          "農産物の入荷は季節と生産状況で変わります。"
+        ],
+        "links": [
+          {
+            "label": "道の駅公式",
+            "url": "https://www.michinoeki-omaezaki.jp/"
+          },
+          {
+            "label": "あらさわふる里公園",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html"
+          }
+        ]
+      },
+      {
+        "heading": "農業体験と茶の歴史は別の計画に",
+        "paragraphs": [
+          "門屋ふれあい観光農園のトウモロコシは例年6月上旬〜7月中旬の収穫時季に紹介されています。翌季の実施・予約は確認が必要です。茶産地の背景を知りたい場合は丸尾記念館へ。土日開館なので、買い物と同じ日に立ち寄る際は曜日を合わせます。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "観光農園の市案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/kadoya.html"
+          },
+          {
+            "label": "丸尾記念館",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/maruokinenkan.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "御前崎茶（つゆひかり）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/eat_buy/otya.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "風のマルシェ御前崎 | 道の駅 | Japan, 〒437-1613 静岡県御前崎市合戸海岸４３８４-１",
+        "url": "https://www.michinoeki-omaezaki.jp/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "あらさわふる里公園／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "門屋ふれあい観光農園／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/kadoya.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "丸尾記念館／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/maruokinenkan.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "茶",
+      "農産物",
+      "体験"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/tea-and-farm-products/",
+    "lead": "つゆひかりの買い物、直売所、季節の農業体験をつなぎます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "つゆひかりはどこで買えますか？",
+        "answer": "市公式に掲載された茶商・取扱店や道の駅で確認できます。商品形態や在庫は訪問前に店へお問い合わせください。"
+      },
+      {
+        "question": "トウモロコシの収穫体験はいつでもできますか？",
+        "answer": "季節限定です。市の紹介する例年の時季と、その年の予約受付・開催日を分けて確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "image": "tea-fields",
+    "keywords": []
+  },
+  {
+    "slug": "history-and-folklore",
+    "title": "桜ヶ池・新野・丸尾記念館で地域を知る",
+    "sections": [
+      {
+        "heading": "桜ヶ池と池宮神社",
+        "paragraphs": [
+          "桜ヶ池は龍神の伝承と、お櫃納めで知られる場所です。池宮神社と一緒に歩くと、地域で受け継がれる信仰と景観をたどれます。伝承は物語として紹介し、実証された歴史と混同しないように読み進めると理解が深まります。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "桜ヶ池",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakuragaike.html"
+          },
+          {
+            "label": "池宮神社",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/ikemiyajinjya.html"
+          }
+        ]
+      },
+      {
+        "heading": "新野の歴史をたどる",
+        "paragraphs": [
+          "左馬武神社は新野左馬助を祀る神社です。市の紹介を読み、井伊家と新野地域とのつながりを知ってから訪ねると、単なる立ち寄りを地域史の散策へ広げられます。祭りの実施日や参拝の特別な案内は主催者の当年情報で確認しましょう。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "左馬武神社",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/samatakejinjya.html"
+          }
+        ]
+      },
+      {
+        "heading": "丸尾記念館と波小僧の話",
+        "paragraphs": [
+          "丸尾記念館では牧之原の開拓に関わる丸尾家を知ることができます。土日の9時30分〜15時30分、年末年始は休館です。一方、浜岡海岸の波小僧は地域に伝わる民話。波の音にまつわる物語を、現在の天気予報や安全判断の代わりにはしないでください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "丸尾記念館",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/maruokinenkan.html"
+          },
+          {
+            "label": "波小僧の民話",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/namikozo.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "桜ヶ池／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakuragaike.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "池宮神社／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/ikemiyajinjya.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "左馬武神社／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/samatakejinjya.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "丸尾記念館／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/maruokinenkan.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "波小僧／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/namikozo.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "歴史",
+      "文化",
+      "伝承"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/history-and-folklore/",
+    "lead": "伝承、神社の祭事、地域史の展示を区別して御前崎の文化に触れます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "お櫃納めは来年も同じ日程ですか？",
+        "answer": "市は秋分の日の行事として紹介しています。実施内容や交通案内は開催年の神社・市・観光協会の告知で確認してください。"
+      },
+      {
+        "question": "丸尾記念館は平日も入れますか？",
+        "answer": "一般の開館案内は土日です。平日の見学を前提にせず、必要な場合は施設へ確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "rainy-day",
+    "title": "雨の日・風の強い日の過ごし方",
+    "sections": [
+      {
+        "heading": "展示を見るなら浜岡原子力館",
+        "paragraphs": [
+          "浜岡原子力館は発電・エネルギーの展示や映像を見る施設です。9時〜17時、入館と映像観覧は無料。第3月曜（祝日等の場合翌日）と年末年始は休館し、8月は休館日がありません。臨時休館や上映予定は運営者公式で確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "浜岡原子力館公式",
+            "url": "https://www.chuden.co.jp/hamaoka-pr/"
+          }
+        ]
+      },
+      {
+        "heading": "体を動かすならぷるる",
+        "paragraphs": [
+          "すいすいパークぷるるは温水プールなどを使う候補です。通常は9〜6月が10時〜21時、7〜8月が9時30分〜21時。月曜、年末年始、点検休館があります。水着・水泳帽や子どもの付き添い等の条件を利用前に施設へ確認しましょう。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "ぷるる公式",
+            "url": "https://pururu.org/"
+          }
+        ]
+      },
+      {
+        "heading": "休館中・一部閉鎖も確認する",
+        "paragraphs": [
+          "清川泰次芸術館は2022年4月1日から休館中です。なぶら館の4階展望室も閉鎖中のため、展望を目的に予定へ入れないようにしてください。観光案内、買い物、食事は施設ごとの開館日と店の営業時間を確認して組み合わせます。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "芸術館の休館案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/kiyokawa.html"
+          },
+          {
+            "label": "なぶら館",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/naburakan.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "浜岡原子力館｜中部電力",
+        "url": "https://www.chuden.co.jp/hamaoka-pr/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "イベント盛りだくさん！御前崎市民プール すいすいパークぷるる",
+        "url": "https://pururu.org/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "清川泰次 芸術館市民ギャラリー（臨時休館）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/kiyokawa.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎市観光物産会館「なぶら館」／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/naburakan.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "屋内",
+      "雨の日",
+      "子ども"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/rainy-day/",
+    "lead": "屋内施設の開館日を比較し、海辺の予定を組み替えます。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "清川泰次芸術館へ行けますか？",
+        "answer": "今回確認した市公式は2022年4月1日からの休館を案内しています。再開日が確認できるまでは開館施設として予定に入れないでください。"
+      },
+      {
+        "question": "なぶら館の展望室は使えますか？",
+        "answer": "4階展望室は閉鎖中です。観光案内施設の開館と展望室の利用可否を分けて確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "active-stay",
+    "title": "乗馬・サイクリング・キャンプを予約する",
+    "sections": [
+      {
+        "heading": "レンタサイクルは返却時刻から計画する",
+        "paragraphs": [
+          "観光協会のE-bikeはなぶら館で案内しています。受付は9時〜16時、火曜・年末年始休み。E-bikeの基本料金は2時間まで1,000円、以後1時間ごと500円です。乗り捨てできず、16時までの返却が必要。本人確認書類、雨天やイベントによる貸出休止も確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "観光協会のレンタサイクル",
+            "url": "https://www.omaezaki.gr.jp/contents/detail.html?s=1050"
+          }
+        ]
+      },
+      {
+        "heading": "乗馬とゴルフは運営者の現在の条件へ",
+        "paragraphs": [
+          "HASパロミノ・ポニークラブは平日12時30分〜20時30分、土日等8時30分〜16時30分、火曜定休と案内しています。市の古い掲載時間とは異なるため運営者の情報を優先します。静岡カントリー浜岡コース＆ホテルも休館日や飲食店の変更があるので、利用するサービス単位で予約先を確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "乗馬クラブ公式",
+            "url": "https://www.palomino.co.jp/"
+          },
+          {
+            "label": "静岡カントリー公式",
+            "url": "https://www.scg.jp/hamaoka/"
+          }
+        ]
+      },
+      {
+        "heading": "キャンプの古い営業期間を使わない",
+        "paragraphs": [
+          "マリンパークのキャンプは渚の交番が案内していますが、確認できた再開告知には2025年9月20日〜2026年3月31日という営業期間が記載されています。これを2026年11月以降の営業保証には使えません。運営者の現在の予約カレンダーで予約可能日を確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "渚の交番公式",
+            "url": "https://omaezaki-nagisa-koban.com/"
+          },
+          {
+            "label": "期間に注意が必要な再開告知",
+            "url": "https://omaezaki-nagisa-koban.com/notice/276/"
+          }
+        ]
+      },
+      {
+        "heading": "あらさわのバーベキューは食材セットを予約",
+        "paragraphs": [
+          "あらさわふる里公園のバーベキューは完全予約制。施設だけを借りる方式ではなく、食材や飲料の持込みはできません。希望人数、時間帯、コース料金を確認してから予定を決めます。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "市のバーベキュー案内",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "レンタルサイクル・E-bike｜御前崎を遊ぶ｜いいね！御前崎「御前崎観光ガイド」",
+        "url": "https://www.omaezaki.gr.jp/contents/detail.html?s=1050",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "静岡県の乗馬クラブならHASパロミノ・ポニークラブ",
+        "url": "https://www.palomino.co.jp/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "浜岡コース＆ホテル｜【公式】 静岡カントリーグループ",
+        "url": "https://www.scg.jp/hamaoka/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎渚の交番スマイル - 渚の交番はあなたと海を結ぶ｢海の窓口｣です。",
+        "url": "https://omaezaki-nagisa-koban.com/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "お知らせ - 御前崎渚の交番スマイル",
+        "url": "https://omaezaki-nagisa-koban.com/notice/276/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "あらさわふる里公園／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "体験",
+      "予約",
+      "サイクリング"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/active-stay/",
+    "lead": "同じ「体験」でも異なる予約条件と営業期間を確認します。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "E-bikeは別の場所に返せますか？",
+        "answer": "乗り捨て不可です。出発地点に16時までに戻る計画を立て、貸出台数や当日の実施可否を観光協会へ確認してください。"
+      },
+      {
+        "question": "キャンプは今も営業していますか？",
+        "answer": "保存されている再開告知だけでは現在の予約可否を確認できません。渚の交番の最新案内・予約カレンダーで希望日を確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "seasons-and-events",
+    "title": "御前崎の季節とイベントを確認する",
+    "sections": [
+      {
+        "heading": "直近の日付が確認できた案内",
+        "paragraphs": [
+          "2026年11月21〜22日は御前崎市大産業まつり。会場は市役所周辺で、21日は9時30分〜15時30分、22日は9時30分〜15時。11月23日にはなぶら館でSOLAのスポーツリズム体験が案内されています。開催日と予約締切は別の情報なので、参加受付が残っているかは主催者へ確認してください。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "市産業まつり",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/10208.html"
+          },
+          {
+            "label": "11月23日のリズム体験",
+            "url": "https://www.omaezaki.gr.jp/news/detail.html?t=172"
+          }
+        ]
+      },
+      {
+        "heading": "11月末・12月にも利用できる案内",
+        "paragraphs": [
+          "浜岡原子力館は11月30日までクイズラリーとどんぐりコマづくりを案内。ユウユウシアターは12月28日まで秋・冬の作品を上映予定で、月ごとに上映時刻が替わります。無料ですが先着150名で入場整理券が必要です。広域のスタンプラリーは2027年1月31日まで。御前崎市内では道の駅、あらさわふる里公園、なぶら市場が対象です。"
+        ],
+        "bullets": [
+          "上映は休館日を除く。",
+          "スタンプ取得の期間と景品応募条件はアプリの案内で確認。"
+        ],
+        "links": [
+          {
+            "label": "上映作品・月別時刻",
+            "url": "https://www.chuden.co.jp/hamaoka-pr/theater/"
+          },
+          {
+            "label": "広域スタンプラリー",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/event/11537.html"
+          }
+        ]
+      },
+      {
+        "heading": "冬のクエ、早春の桜、夏の海",
+        "paragraphs": [
+          "今季の御前崎クエは2026年11月1日〜2027年3月31日の案内が出ています。河津桜は例年2月中旬〜3月中旬、海水浴は夏季、桜ヶ池のお櫃納めは秋分の日の行事として紹介されています。例年の紹介を、未発表の翌年日程へ読み替えないことが予定づくりの基本です。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "今季クエ料理",
+            "url": "https://www.omaezaki.gr.jp/news/detail.html?t=36"
+          },
+          {
+            "label": "河津桜",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/hamaokasakura.html"
+          },
+          {
+            "label": "桜ヶ池",
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakuragaike.html"
+          }
+        ]
+      },
+      {
+        "heading": "年間カレンダーの確認日も見る",
+        "paragraphs": [
+          "市の年度イベントカレンダーは2026年4月1日時点の予定です。変更や中止があり得るため、旅行や申込みを決める段階では個別の最新告知を優先してください。過去の花火・祭り・大会の報告記事は、次回開催の告知ではありません。"
+        ],
+        "bullets": [],
+        "links": [
+          {
+            "label": "市の年間イベントカレンダー",
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/5558.html"
+          },
+          {
+            "label": "観光協会の季節紹介",
+            "url": "https://www.omaezaki.gr.jp/event/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "11月21日、22日　第20回御前崎市大産業まつり／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/10208.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "スポーツリズムトレーニング体験会実施｜お知らせ｜いいね！御前崎「御前崎観光ガイド」御前崎市観光協会",
+        "url": "https://www.omaezaki.gr.jp/news/detail.html?t=172",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "幻の魚「御前崎クエ」提供中！｜お知らせ｜いいね！御前崎「御前崎観光ガイド」御前崎市観光協会",
+        "url": "https://www.omaezaki.gr.jp/news/detail.html?t=36",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "浜岡砂丘カワヅザクラ／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/hamaokasakura.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "桜ヶ池／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/sakuragaike.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "御前崎市イベントカレンダー（年間スケジュール）／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/5558.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "いいね！御前崎「御前崎観光ガイド」|　イベントカレンダー",
+        "url": "https://www.omaezaki.gr.jp/event/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "11月ミニイベント「クイズラリー」 - イベント・スポーツ・CM｜中部電力",
+        "url": "https://www.chuden.co.jp/topics/event/eve_202610_02.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "11月ミニイベント「カラフルどんぐりコマづくり」 - イベント・スポーツ・CM｜中部電力",
+        "url": "https://www.chuden.co.jp/topics/event/eve_202610_03.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "ユウユウシアター - 浜岡原子力館｜中部電力",
+        "url": "https://www.chuden.co.jp/hamaoka-pr/theater/",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "おもいふかき遠州 ぐるっと！スタンプラリー2026　ドライブ×食満喫編【遠州観光協議会】／御前崎市公式ホームページ",
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/event/11537.html",
+        "checked": "2026-11-21"
+      },
+      {
+        "label": "【遠州観光協議会】「おもいふかき遠州ぐるっと！スタンプラリー」を開催中です／袋井市",
+        "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/1/event/14961.html",
+        "checked": "2026-11-21"
+      }
+    ],
+    "tags": [
+      "季節",
+      "イベント"
+    ],
+    "checked": "2026-11-21",
+    "href": "/discover/seasons-and-events/",
+    "lead": "今季の日付が出た案内と、例年の見どころを分けて探します。",
+    "category": "御前崎を知る",
+    "questions": [
+      {
+        "question": "年間カレンダーだけで予定を確定してよいですか？",
+        "answer": "掲載時点の予定です。開催日が近付いたら主催者の個別告知で、日程・会場・申込条件・変更情報を確認してください。"
+      },
+      {
+        "question": "イベントの開催日が先ならまだ申し込めますか？",
+        "answer": "申込締切や定員は開催日とは別です。受付が残っているかを主催者に確認してください。"
+      }
+    ],
+    "icon": "🗺️",
+    "related": [
+      "/life/living-soon/transportation/"
+    ],
+    "keywords": []
+  },
+  {
+    "slug": "nuclear-disaster-preparation",
+    "title": "御前崎市の原子力防災｜避難の順番・移動手段・安定ヨウ素剤",
+    "lead": "御前崎市の原子力災害への備えは、市内全域を早期の避難等に備える区域として扱う計画が基本です。避難先、一時集合場所、家族の移動手段、安定ヨウ素剤を平時に確認し、災害時は市が伝える避難先・経路・服用の指示に従います。津波が迫るときは、原子力災害の案内を待たずに身を守る避難を優先してください。",
+    "sections": [
+      {
+        "heading": "御前崎市は全域が早期の避難に備える区域",
+        "items": [
+          "2026年3月修正の市広域避難計画は、市内全域をPAZとして扱います。PAZは、原子力発電所で重大事故のおそれがある場合に、放射性物質が放出される前から避難等を進める区域です。",
+          "警戒事態では、避難に時間がかかる人などが避難準備を始めます。施設敷地緊急事態では、該当する要避難者が避難し、一般の住民等は避難準備をします。全面緊急事態では、一般の住民等も避難する計画です。",
+          "この順番には、高齢者や障がいのある人、乳幼児などのうち移動に通常以上の時間がかかる人、安定ヨウ素剤を服用できないと医師が判断した人などへの配慮があります。自分の家庭で必要な支援を、危機管理課や支援者と平時に相談しておきます。",
+          "事故の状況や道路・施設の被害によって対応は変わります。自宅からの距離だけで避難時期を自己判断せず、防災無線、市公式サイト、公式LINE、防災メール等で市の指示を確認します。"
+        ]
+      },
+      {
+        "heading": "避難先は浜松市が基本、複合災害時は受入れ確認後に変更",
+        "items": [
+          "市計画の避難先1は浜松市です。大規模地震などで浜松市が受け入れられない場合に備え、避難先2として長野県内の地域を示しています。",
+          "避難先の受入れ可否は県・市が確認し、実際に向かう場所を住民へ伝えます。平時の候補地が、そのまま災害当日の行き先になるとは限りません。町内会単位の割り振りを基本とするため、所属する町内会も確認しておきましょう。",
+          "親戚・知人宅など、市指定施設以外への避難を考える場合も、市の避難指示や経路案内に従います。避難が完了したら、災害時に案内される連絡先へ所在地を知らせ、安否確認につなげます。"
+        ]
+      },
+      {
+        "heading": "車で移動できる家庭と、バス避難が必要な家庭で準備を分ける",
+        "items": [
+          "自家用車で運転・同乗して避難できる人は、自家用車等での避難が基本です。渋滞や避難先の駐車場不足を抑えるため、複数人での乗り合いを原則としています。家族の乗車人数、運転者、支援が必要な人の乗り方を確認します。",
+          "自家用車等での避難が難しく、自分や家族・支援者の助けで集合場所まで移動できる人は、市が指定する一時集合場所からバス等で避難します。路線バスの通常の停留所に集まるという意味ではありません。",
+          "移動中は警察等の交通規制や誘導に従います。市計画では避難退域時検査場所を経由する流れが示されているため、災害時に案内される検査場所・経路も確認します。"
+        ]
+      },
+      {
+        "heading": "バス避難の一時集合場所を地区別に確認",
+        "items": [
+          "池新田地区：浜岡中学校（池新田3923-1）。",
+          "高松地区：高松地区センター（門屋2060-2）。",
+          "佐倉地区：佐倉地区センター（佐倉3617-1）。",
+          "比木地区：比木地区センター（比木2836-5）。",
+          "朝比奈地区：朝比奈地区センター（上朝比奈2681-1）。",
+          "新野地区：新野地区センター（新野789-1）。",
+          "御前崎地区：御前崎小学校（御前崎3556）。",
+          "白羽地区：白羽小学校（白羽3521-3）。",
+          "以上は2026年3月修正計画の一時集合場所です。地震や津波との複合災害で使用できない場合は、市が別の施設を指定します。災害時に自動的に開設されると考えず、開設・移動の指示を確認してください。"
+        ]
+      },
+      {
+        "heading": "2026年度の安定ヨウ素剤は郵送・薬局でも受取り可能",
+        "items": [
+          "市は2026年度の対象者へ案内通知を郵送しています。配布券を確認し、家族それぞれの受取り状況と使用期限を整理してください。通知が届かない、転入した、紛失したといった場合は危機管理課（0537-85-1119）へ相談します。",
+          "郵送配布の期間は2026年9月1日〜12月28日です。家族全員分の事前配布券を用意し、記載の二次元コードから本人認証・必要事項入力・説明動画の視聴・健康状態と送付先の確認を行います。申請完了メールを確認後、薬剤が郵送されます。",
+          "薬局配布の期間は2026年9月1日〜12月26日です。事前配布券とチェックシート兼受領書を準備し、県が案内する協力薬局に予約します。チェックシート記入と説明動画の視聴を済ませて受け取ります。すべての薬局で受け取れるわけではありません。",
+          "アレルギーや健康状態によっては医師の問診が必要です。市の案内では説明会での受取りを勧める場合もあるため、問診が必要な人は今後の受取り方法を危機管理課へ相談してください。代理受領では追加の記入票が必要な場合があります。"
+        ]
+      },
+      {
+        "heading": "安定ヨウ素剤は、服用の指示があったときに",
+        "items": [
+          "安定ヨウ素剤は、放射性ヨウ素による甲状腺の内部被ばくを抑えるために使う医薬品です。ほかの放射性物質への対策や避難の代わりにはなりません。",
+          "市計画では、原則として国の指示に基づいて県・市が服用を指示します。地震が起きたことだけを理由に自己判断で服用せず、配布時の説明と災害時の指示に従ってください。服用できない事情は事前に医師と市へ相談します。"
+        ]
+      },
+      {
+        "heading": "今日、家族で確認しておくこと",
+        "items": [
+          "自宅・職場・学校の地区と、バス避難が必要な場合の一時集合場所を確認する。津波の緊急避難先とは分けて整理する。",
+          "運転できる人、乗り合いする相手、移動に支援が必要な人、離れている家族への連絡方法を決める。",
+          "薬・お薬手帳、必要な生活用品、安定ヨウ素剤の配布券と受取り状況を確認する。服用方法に不安がある場合は事前に相談する。",
+          "防災情報の受取り手段を複数用意し、市の現行広域避難計画を保存する。災害時には、その時点の避難先・経路・集合場所の案内を再確認する。"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "地震が起きたら、すぐに浜松市へ車で向かうのですか？",
+        "answer": "地震・津波による目の前の危険から身を守る避難と、原子力災害の広域避難は分けて考えます。津波の危険があれば高台などへ直ちに避難し、原子力災害の広域避難は、市が伝える避難時期・行き先・経路を確認して行います。"
+      },
+      {
+        "question": "車がない場合、どこへ集まればよいですか？",
+        "answer": "2026年の市計画では地区ごとに一時集合場所を定め、県や市が確保するバス等で避難する方法を示しています。地区別の予定場所を平時に確認し、災害当日は開設・変更の指示に従ってください。移動に支援が必要な場合は、事前に市や支援者へ相談します。"
+      },
+      {
+        "question": "郵送配布と薬局配布の期限は同じですか？",
+        "answer": "異なります。2026年度の市公式案内では郵送配布は12月28日まで、薬局配布は12月26日までです。いずれも配布券等が必要で、薬局は協力薬局への予約が必要です。"
+      },
+      {
+        "question": "安定ヨウ素剤を持っていれば避難しなくてもよいですか？",
+        "answer": "避難の代わりにはなりません。安定ヨウ素剤の効果は放射性ヨウ素への対策に限られ、避難等と組み合わせて使います。服用と避難は、それぞれ国・県・市の指示に従います。"
+      },
+      {
+        "question": "問い合わせ先はどこですか？",
+        "answer": "御前崎市危機管理課、電話0537-85-1119です。広域避難計画、一時集合場所、安定ヨウ素剤の配布券や受取り方法を相談できます。"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/koikihinankeikaku.html",
+        "label": "御前崎市原子力災害広域避難計画について（2026年3月修正）",
+        "publisher": "御前崎市"
+      },
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/7/R8kouikihinannkeikaku.pdf",
+        "label": "令和8年3月 御前崎市原子力災害広域避難計画（本文5・9・19〜25ページ）",
+        "publisher": "御前崎市"
+      },
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/11545.html",
+        "label": "令和8年度安定ヨウ素剤の郵送配布や薬局配布について",
+        "publisher": "御前崎市"
+      },
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/bosai_bohan/bosai/2/anteiyousozai_qa.html",
+        "label": "安定ヨウ素剤Q&A（2025年8月13日更新）",
+        "publisher": "御前崎市"
+      }
+    ],
+    "related": [
+      "/life/emergency/earthquake/",
+      "/life/emergency/evacuation-hazard-map/",
+      "/life/emergency/disaster-mail-line/",
+      "/life/emergency/pet-disaster-prevention/",
+      "/life/living-soon/disaster-risk/"
+    ],
+    "checked_date": "2026-11-21",
+    "href": "/guide/nuclear-disaster-preparation/",
+    "category": "暮らしガイド",
+    "icon": "🛡️",
+    "keywords": [
+      "PAZ",
+      "安定ヨウ素剤",
+      "浜岡原発",
+      "バス避難"
+    ]
+  }
+]
