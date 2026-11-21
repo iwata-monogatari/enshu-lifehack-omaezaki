@@ -3,6 +3,7 @@ const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&am
 
 async function initializeSearch(root) {
   const input=root.querySelector('input[type="search"]'), category=root.querySelector('select'), list=root.querySelector('[data-results]'), count=root.querySelector('[data-count]'), more=root.querySelector('[data-more]');
+  const params=new URLSearchParams(location.search);input.value=params.get('q')||'';if([...category.options].some(o=>o.value===params.get('category')))category.value=params.get('category');
   let data,limit=20;
   try { const response=await fetch(root.dataset.source); if(!response.ok)throw Error(response.status);data=await response.json(); }
   catch {count.textContent='検索データを読み込めませんでした。下の分野別リンクからお探しください。';more.hidden=true;return;}
@@ -18,7 +19,7 @@ async function initializeSearch(root) {
     more.hidden=results.length<=limit;more.textContent=`続きを表示（残り${Math.max(0,results.length-limit)}件）`;
   }
   input.addEventListener('input',()=>render());category.addEventListener('change',()=>render());root.querySelector('[data-clear]')?.addEventListener('click',()=>{input.value='';category.value='';render();input.focus();});more.addEventListener('click',()=>{limit+=20;render(false);});
-  const params=new URLSearchParams(location.search);input.value=params.get('q')||'';if([...category.options].some(o=>o.value===params.get('category')))category.value=params.get('category');render();
+  render();
 }
 
 function initializeChecklist(root) {
