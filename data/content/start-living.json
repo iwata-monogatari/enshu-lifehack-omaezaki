@@ -68,43 +68,184 @@
     "lead": "御前崎市内・市外からの住所変更手続きは、転入届・転居届・転出届の3種類があり、それぞれ届出期間や必要書類が異なります。市民課（戸籍・住民記録係）が窓口ですが、届出の種類を間違えないよう最初に確認しておきましょう。",
     "note": "いずれの届出も本人・同一世帯員・法定代理人・2親等以内の親族以外が手続きする場合は委任状が必要です。手続きには30分以上かかる場合があるため、時間に余裕を持って来庁してください。",
     "real_cards": [
-      {"icon": "📥", "title": "市外から引っ越してきた場合は転入届", "body": "住み始めてから14日以内に、前住所の転出証明書・本人確認書類を持って市民課へ届け出ます。マイナンバーカードがあれば記載事項変更もあわせて行います。"},
-      {"icon": "🏠", "title": "市内で引っ越した場合は転居届", "body": "御前崎市内での住所変更は転居届を使います。届出期間は転居後14日以内で、必要書類は転入届とほぼ同様です。"},
-      {"icon": "📤", "title": "市外へ引っ越す場合は転出届", "body": "転出予定日のおおむね14日前から転出予定日までに、市民課で転出届を提出します。マイナポータルでのオンライン提出も可能です。"},
-      {"icon": "🪪", "title": "本人確認書類を忘れずに", "body": "運転免許証・マイナンバーカード・パスポートなど、写真付きの本人確認書類が必要です。マイナンバーカードや住基カードを持っている場合は暗証番号の入力も求められます。"}
+      {
+        "icon": "📥",
+        "title": "市外から引っ越してきた場合は転入届",
+        "body": "住み始めてから14日以内に、前住所の転出証明書・本人確認書類を持って市民課へ届け出ます。マイナンバーカードがあれば記載事項変更もあわせて行います。"
+      },
+      {
+        "icon": "🏠",
+        "title": "市内で引っ越した場合は転居届",
+        "body": "御前崎市内での住所変更は転居届を使います。届出期間は転居後14日以内で、必要書類は転入届とほぼ同様です。"
+      },
+      {
+        "icon": "📤",
+        "title": "市外へ引っ越す場合は転出届",
+        "body": "転出予定日のおおむね14日前から転出予定日までに、市民課で転出届を提出します。マイナポータルでのオンライン提出も可能です。"
+      },
+      {
+        "icon": "🪪",
+        "title": "本人確認書類を忘れずに",
+        "body": "運転免許証・マイナンバーカード・パスポートなど、写真付きの本人確認書類が必要です。マイナンバーカードや住基カードを持っている場合は暗証番号の入力も求められます。"
+      }
     ],
     "qa": [
-      {"question": "転入届・転居届・転出届の違いは何ですか", "answer": "市外から御前崎市に引っ越す場合は転入届、市内で住所を変える場合は転居届、御前崎市から市外へ引っ越す場合は転出届を使います。届出先はいずれも市民課（戸籍・住民記録係、電話0537-85-1117）です。"},
-      {"question": "転入届・転居届はいつまでに出せばいいですか", "answer": "どちらも住み始めてから（引っ越してから）14日以内です。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の転入届ページ</a>で確認してください。"},
-      {"question": "必要な持ち物は何ですか", "answer": "本人確認書類（運転免許証、マイナンバーカード、パスポートなど）に加え、転入の場合は前住所の転出証明書が必要です。マイナンバーカード・住基カードを持っている場合はそれも持参し、暗証番号の入力が必要になります。"},
-      {"question": "本人以外が手続きすることはできますか", "answer": "同一世帯員、法定代理人、2親等以内の親族であれば本人以外でも手続きできます。それ以外の方が届け出る場合は委任状が必要です。"},
-      {"question": "海外から転入する場合は何が必要ですか", "answer": "日本への最終入国日の押印があるパスポート、在留カードまたは特別永住者証明書（外国人住民の場合）、戸籍謄本（本籍が御前崎市以外の場合）などが必要です。詳しくは市民課へ事前に確認してください。"},
-      {"question": "手続きにはどれくらい時間がかかりますか", "answer": "30分以上かかる場合があると案内されています。マイナンバーカードの記載事項変更など関連手続きが加わるとさらに時間がかかることがあるため、余裕を持って来庁してください。"}
+      {
+        "question": "転入届・転居届・転出届の違いは何ですか",
+        "answer": "市外から御前崎市に引っ越す場合は転入届、市内で住所を変える場合は転居届、御前崎市から市外へ引っ越す場合は転出届を使います。届出先はいずれも市民課（戸籍・住民記録係、電話0537-85-1117）です。"
+      },
+      {
+        "question": "転入届・転居届はいつまでに出せばいいですか",
+        "answer": "どちらも住み始めてから（引っ越してから）14日以内です。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の転入届ページ</a>で確認してください。"
+      },
+      {
+        "question": "必要な持ち物は何ですか",
+        "answer": "本人確認書類（運転免許証、マイナンバーカード、パスポートなど）に加え、転入時は、前住所地で紙の転出証明書の交付を受けた場合に持参します。マイナンバーカード・住基カードを持っている場合はそれも持参し、暗証番号の入力が必要になります。"
+      },
+      {
+        "question": "本人以外が手続きすることはできますか",
+        "answer": "同一世帯員、法定代理人、2親等以内の親族であれば本人以外でも手続きできます。それ以外の方が届け出る場合は委任状が必要です。"
+      },
+      {
+        "question": "海外から転入する場合は何が必要ですか",
+        "answer": "日本への最終入国日の押印があるパスポート、在留カードまたは特別永住者証明書（外国人住民の場合）、戸籍謄本（本籍が御前崎市以外の場合）などが必要です。詳しくは市民課へ事前に確認してください。"
+      },
+      {
+        "question": "手続きにはどれくらい時間がかかりますか",
+        "answer": "30分以上かかる場合があると案内されています。マイナンバーカードの記載事項変更など関連手続きが加わるとさらに時間がかかることがあるため、余裕を持って来庁してください。"
+      }
     ],
     "tabs": [
-      {"id": "type-in", "label": "転入（市外から）", "heading": "御前崎市に引っ越してきた場合", "bullets": ["住み始めてから14日以内に届け出る", "前住所の転出証明書を持参する", "マイナンバーカードの記載事項変更もあわせて行う"], "actions": [
-          {"label": "転入届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-move", "label": "転居（市内で）", "heading": "御前崎市内で引っ越した場合", "bullets": ["転居後14日以内に届け出る", "本人確認書類を持参する", "マイナンバーカード・住基カードがあれば持参"], "actions": [
-          {"label": "転居届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-out", "label": "転出（市外へ）", "heading": "御前崎市から市外へ引っ越す場合", "bullets": ["転出予定日のおおむね14日前から届出可能", "窓口・郵送・マイナポータルの3方法がある", "水道やごみなど他の手続きも並行して進める"], "actions": [
-          {"label": "転出届のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-unclear", "label": "不明点", "heading": "迷ったら市民課に確認", "bullets": ["届出の種類や必要書類は個別事情で変わる場合がある", "本人以外が届け出る場合は委任状が必要", "電話での事前確認がおすすめ"], "actions": [
-          {"label": "市民課に電話する", "href": "tel:0537-85-1117", "source": "0537-85-1117"}
-        ]}
+      {
+        "id": "type-in",
+        "label": "転入（市外から）",
+        "heading": "御前崎市に引っ越してきた場合",
+        "bullets": [
+          "住み始めてから14日以内に届け出る",
+          "前住所の転出証明書を持参する",
+          "マイナンバーカードの記載事項変更もあわせて行う"
+        ],
+        "actions": [
+          {
+            "label": "転入届のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-move",
+        "label": "転居（市内で）",
+        "heading": "御前崎市内で引っ越した場合",
+        "bullets": [
+          "転居後14日以内に届け出る",
+          "本人確認書類を持参する",
+          "マイナンバーカード・住基カードがあれば持参"
+        ],
+        "actions": [
+          {
+            "label": "転居届のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-out",
+        "label": "転出（市外へ）",
+        "heading": "御前崎市から市外へ引っ越す場合",
+        "bullets": [
+          "転出予定日のおおむね14日前から届出可能",
+          "窓口・郵送・マイナポータルの3方法がある",
+          "水道やごみなど他の手続きも並行して進める"
+        ],
+        "actions": [
+          {
+            "label": "転出届のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-unclear",
+        "label": "不明点",
+        "heading": "迷ったら市民課に確認",
+        "bullets": [
+          "届出の種類や必要書類は個別事情で変わる場合がある",
+          "本人以外が届け出る場合は委任状が必要",
+          "電話での事前確認がおすすめ"
+        ],
+        "actions": [
+          {
+            "label": "市民課に電話する",
+            "href": "tel:0537-85-1117",
+            "source": "0537-85-1117"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["自分がどの届出（転入・転居・転出）に該当するか確認する", "必要な持ち物をそろえる"],
-      "this_week": ["市民課（戸籍・住民記録係）で届出を行う"],
-      "outside": ["マイナンバーカードの記載事項変更、水道・ごみなど関連手続きを進める"]
+      "today": [
+        "自分がどの届出（転入・転居・転出）に該当するか確認する",
+        "必要な持ち物をそろえる"
+      ],
+      "this_week": [
+        "市民課（戸籍・住民記録係）で届出を行う"
+      ],
+      "outside": [
+        "マイナンバーカードの記載事項変更、水道・ごみなど関連手続きを進める"
+      ]
     },
     "action_grid": [
-      {"label": "転入届のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html"},
-      {"label": "転居届のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html"},
-      {"label": "転出届のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html"},
-      {"label": "市民課に電話する", "href": "tel:0537-85-1117"}
+      {
+        "label": "転入届のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html"
+      },
+      {
+        "label": "転居届のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html"
+      },
+      {
+        "label": "転出届のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html"
+      },
+      {
+        "label": "市民課に電話する",
+        "href": "tel:0537-85-1117"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "住所変更を届け出る",
+        "text": "御前崎市外からの転入と市内での転居は、新居に住み始めてから14日以内。市外へ移る場合は、引っ越し前に転出届を確認してください。",
+        "links": [
+          {
+            "label": "市公式の転入届・持ち物",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html"
+          },
+          {
+            "label": "市公式の転居届",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html"
+          },
+          {
+            "label": "市公式の転出届",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html"
+          },
+          {
+            "label": "転入時のチェックリスト",
+            "href": "/checklists/moving-in/"
+          },
+          {
+            "label": "水道の使用開始・中止",
+            "href": "/life/start-living/water-start-stop-fees/"
+          },
+          {
+            "label": "地区別のごみ収集カレンダー",
+            "href": "/life/start-living/garbage-sorting-calendar/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -292,132 +433,592 @@
     "lead": "引っ越してきたばかりだと、御前崎市のごみの分別ルールがわからず戸惑いがちです。可燃物・ビニールプラスチック（マークあり/なし）・金物・陶磁器・ペットボトル・ガラスの7区分と、収集当日の午前0時から午前8時までに出すというルールを最初に押さえましょう。",
     "note": "ごみは指定袋に地区名・氏名を記入して出す必要があります。収集日は地区ごとに異なるため、収集カレンダーで自分の地区の曜日を確認してください。",
     "real_cards": [
-      {"icon": "🗂️", "title": "7区分での分別が基本", "body": "御前崎市のごみは可燃物、ビニールプラスチック（マークあり）、ビニールプラスチック（マークなし）、金物、陶磁器、ペットボトル、ガラスの7区分に分けます。分別に迷ったら市民課（生活衛生係）へ確認しましょう。"},
-      {"icon": "🕗", "title": "出す時間は収集当日の午前0時～8時", "body": "決められた集積所に、収集当日の午前0時から午前8時までの間に出します。前日の夜に出すと、動物に荒らされるなどのトラブルの原因になるため避けましょう。"},
-      {"icon": "🛍️", "title": "指定袋に地区名・氏名を記入", "body": "日用雑貨店やコンビニ、スーパーなどで販売されている指定袋を使い、地区名と氏名を記入してから出す必要があります。"},
-      {"icon": "📱", "title": "ゴミチェッカーアプリで検索できる", "body": "「5374.jp」（御前崎市版）というWeb型アプリで、品目ごとの分別区分や収集日をスマートフォンから簡単に検索できます。"}
+      {
+        "icon": "🗂️",
+        "title": "7区分での分別が基本",
+        "body": "御前崎市のごみは可燃物、ビニールプラスチック（マークあり）、ビニールプラスチック（マークなし）、金物、陶磁器、ペットボトル、ガラスの7区分に分けます。分別に迷ったら市民課（生活衛生係）へ確認しましょう。"
+      },
+      {
+        "icon": "🕗",
+        "title": "出す時間は収集当日の午前0時～8時",
+        "body": "決められた集積所に、収集当日の午前0時から午前8時までの間に出します。前日の夜に出すと、動物に荒らされるなどのトラブルの原因になるため避けましょう。"
+      },
+      {
+        "icon": "🛍️",
+        "title": "指定袋に地区名・氏名を記入",
+        "body": "日用雑貨店やコンビニ、スーパーなどで販売されている指定袋を使い、地区名と氏名を記入してから出す必要があります。"
+      },
+      {
+        "icon": "📱",
+        "title": "ゴミチェッカーアプリで検索できる",
+        "body": "「5374.jp」（御前崎市版）というWeb型アプリで、品目ごとの分別区分や収集日をスマートフォンから簡単に検索できます。"
+      }
     ],
     "qa": [
-      {"question": "引っ越してきたばかりで分別ルールがわかりません。どこで確認できますか", "answer": "御前崎市公式サイトの「家庭から出るごみの出し方について」で分別区分と出し方を確認できます。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のごみの出し方ページ</a>をご覧ください。"},
-      {"question": "ごみは何種類に分別すればいいですか", "answer": "可燃物、ビニールプラスチック（マークあり）、ビニールプラスチック（マークなし）、金物、陶磁器、ペットボトル、ガラスの7区分です。"},
-      {"question": "ごみはいつ出せばいいですか", "answer": "収集当日の午前0時から午前8時までに、決められた集積所に出してください。前日の夜に出すのは避けましょう。"},
-      {"question": "指定袋はどこで買えますか", "answer": "日用雑貨店、コンビニ、スーパーなどで販売されています。袋には地区名と氏名を記入してから出す必要があります。"},
-      {"question": "分別に迷ったときはどうすればいいですか", "answer": "「5374.jp」（御前崎市版）というWeb型アプリで品目を検索できるほか、市民課（生活衛生係、電話0537-85-1162）へ電話で確認することもできます。"},
-      {"question": "スプレー缶やボタン電池はどう捨てればいいですか", "answer": "スプレー缶やライターは中身を使い切ってから出します。ボタン電池は端子部を絶縁テープで処理してから出してください。"}
+      {
+        "question": "引っ越してきたばかりで分別ルールがわかりません。どこで確認できますか",
+        "answer": "御前崎市公式サイトの「家庭から出るごみの出し方について」で分別区分と出し方を確認できます。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のごみの出し方ページ</a>をご覧ください。"
+      },
+      {
+        "question": "ごみは何種類に分別すればいいですか",
+        "answer": "可燃物、ビニールプラスチック（マークあり）、ビニールプラスチック（マークなし）、金物、陶磁器、ペットボトル、ガラスの7区分です。"
+      },
+      {
+        "question": "ごみはいつ出せばいいですか",
+        "answer": "収集当日の午前0時から午前8時までに、決められた集積所に出してください。前日の夜に出すのは避けましょう。"
+      },
+      {
+        "question": "指定袋はどこで買えますか",
+        "answer": "日用雑貨店、コンビニ、スーパーなどで販売されています。袋には地区名と氏名を記入してから出す必要があります。"
+      },
+      {
+        "question": "分別に迷ったときはどうすればいいですか",
+        "answer": "「5374.jp」（御前崎市版）というWeb型アプリで品目を検索できるほか、市民課（生活衛生係、電話0537-85-1162）へ電話で確認することもできます。"
+      },
+      {
+        "question": "スプレー缶やボタン電池はどう捨てればいいですか",
+        "answer": "スプレー缶やライターは中身を使い切ってから出します。ボタン電池は端子部を絶縁テープで処理してから出してください。"
+      }
     ],
     "tabs": [
-      {"id": "type-sort", "label": "分別区分", "heading": "7区分での分別方法", "bullets": ["可燃物、ビニールプラスチック（マークあり/なし）", "金物、陶磁器、ペットボトル、ガラス", "分別に迷ったら市民課へ確認する"], "actions": [
-          {"label": "ごみの出し方のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-timing", "label": "出す時間・場所", "heading": "収集当日の朝までに集積所へ", "bullets": ["収集当日の午前0時～午前8時に出す", "決められた集積所を確認する", "地区名・氏名を記入した指定袋を使う"], "actions": [
-          {"label": "収集・分別のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/index.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-app", "label": "アプリで検索", "heading": "ゴミチェッカーアプリを使う", "bullets": ["「5374.jp」御前崎市版が利用できる", "品目ごとの分別区分・収集日を検索できる", "スマートフォンから手軽に確認できる"], "actions": [
-          {"label": "ゴミチェッカーの案内を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-unclear", "label": "不明点", "heading": "迷ったら市民課に確認", "bullets": ["分別・収集日・粗大ごみなど何でも相談できる", "電話番号は0537-85-1162", "収集カレンダーでも確認できる"], "actions": [
-          {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162", "source": "0537-85-1162"}
-        ]}
+      {
+        "id": "type-sort",
+        "label": "分別区分",
+        "heading": "7区分での分別方法",
+        "bullets": [
+          "可燃物、ビニールプラスチック（マークあり/なし）",
+          "金物、陶磁器、ペットボトル、ガラス",
+          "分別に迷ったら市民課へ確認する"
+        ],
+        "actions": [
+          {
+            "label": "ごみの出し方のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-timing",
+        "label": "出す時間・場所",
+        "heading": "収集当日の朝までに集積所へ",
+        "bullets": [
+          "収集当日の午前0時～午前8時に出す",
+          "決められた集積所を確認する",
+          "地区名・氏名を記入した指定袋を使う"
+        ],
+        "actions": [
+          {
+            "label": "収集・分別のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/index.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-app",
+        "label": "アプリで検索",
+        "heading": "ゴミチェッカーアプリを使う",
+        "bullets": [
+          "「5374.jp」御前崎市版が利用できる",
+          "品目ごとの分別区分・収集日を検索できる",
+          "スマートフォンから手軽に確認できる"
+        ],
+        "actions": [
+          {
+            "label": "ゴミチェッカーの案内を見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-unclear",
+        "label": "不明点",
+        "heading": "迷ったら市民課に確認",
+        "bullets": [
+          "分別・収集日・粗大ごみなど何でも相談できる",
+          "電話番号は0537-85-1162",
+          "収集カレンダーでも確認できる"
+        ],
+        "actions": [
+          {
+            "label": "市民課（生活衛生係）に電話する",
+            "href": "tel:0537-85-1162",
+            "source": "0537-85-1162"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["自分の地区の収集カレンダーを入手する", "指定袋を購入する"],
-      "this_week": ["分別区分を確認しながらごみを出してみる"],
-      "outside": ["粗大ごみが出た場合は別途持ち込みか業者依頼を検討する"]
+      "today": [
+        "自分の地区の収集カレンダーを入手する",
+        "指定袋を購入する"
+      ],
+      "this_week": [
+        "分別区分を確認しながらごみを出してみる"
+      ],
+      "outside": [
+        "粗大ごみが出た場合は別途持ち込みか業者依頼を検討する"
+      ]
     },
     "action_grid": [
-      {"label": "ごみの出し方のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html"},
-      {"label": "ごみ収集カレンダーを見る", "href": "/life/start-living/garbage-sorting-calendar/"},
-      {"label": "粗大ごみの持ち込み・回収依頼を見る", "href": "/life/start-living/bulky-garbage-dropoff/"},
-      {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162"}
+      {
+        "label": "ごみの出し方のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html"
+      },
+      {
+        "label": "ごみ収集カレンダーを見る",
+        "href": "/life/start-living/garbage-sorting-calendar/"
+      },
+      {
+        "label": "粗大ごみの持ち込み・回収依頼を見る",
+        "href": "/life/start-living/bulky-garbage-dropoff/"
+      },
+      {
+        "label": "市民課（生活衛生係）に電話する",
+        "href": "tel:0537-85-1162"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "収集日・分別を確認",
+        "text": "集積所へ出すのは収集当日の午前0時〜8時です。回収日と、使える集積所を先に確かめてください。",
+        "links": [
+          {
+            "label": "地区別ごみ収集カレンダー",
+            "href": "/life/start-living/garbage-sorting-calendar/"
+          },
+          {
+            "label": "市公式の家庭ごみの出し方",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html"
+          },
+          {
+            "label": "分別ガイド（English・市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/10/gominodashikataEnglish2022.pdf"
+          },
+          {
+            "label": "分別ガイド（Português・市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/10/gomidashipo.pdf"
+          },
+          {
+            "label": "集積所に出せない大型ごみ",
+            "href": "/life/start-living/bulky-garbage-dropoff/"
+          }
+        ]
+      }
     ]
   },
   {
     "href": "/life/start-living/garbage-sorting-calendar/",
-    "lead": "御前崎市のごみ収集日は地区ごとに異なるため、引っ越してきたら最初に自分の地区の収集カレンダーを入手しましょう。市公式サイトからのダウンロードのほか、スマートフォンアプリでも収集日と分別区分を確認できます。",
+    "lead": "収集日は住んでいる地区の公式カレンダーで確認します。令和8年度（2026年4月〜2027年3月）の8種類のPDFを、浜岡地区と御前崎地区に分けました。借家・アパートでは、使う集積所を管理者にも確認してください。",
     "note": "収集カレンダーは年度ごとに更新されます。前住所で使っていたカレンダーや、他の地区のカレンダーとは収集日が異なるため、必ず自分の住所の地区のものを確認してください。",
     "real_cards": [
-      {"icon": "📅", "title": "収集カレンダーは地区別", "body": "御前崎市の家庭ごみ収集カレンダーは地区ごとに発行されています。御前崎市公式サイトからダウンロードできるほか、市民課（生活衛生係）でも入手方法を案内しています。"},
-      {"icon": "📱", "title": "アプリでも収集日を確認できる", "body": "「5374.jp」（御前崎市版）というWeb型アプリを使えば、地区とごみの品目を入力するだけで、分別区分と次の収集日をスマートフォンで確認できます。"},
-      {"icon": "🗑️", "title": "7区分の分別ルールとあわせて確認", "body": "可燃物、ビニールプラスチック（マークあり/なし）、金物、陶磁器、ペットボトル、ガラスの7区分があります。収集日は品目によって異なるため、カレンダーで確認しながら出しましょう。"},
-      {"icon": "☎️", "title": "紙のカレンダーが欲しい場合", "body": "紙のカレンダーが必要な場合や、自分の地区がどのカレンダーに該当するかわからない場合は、市民課（生活衛生係、電話0537-85-1162）へ問い合わせると案内してもらえます。"}
+      {
+        "icon": "📅",
+        "title": "収集カレンダーは地区別",
+        "body": "御前崎市の家庭ごみ収集カレンダーは地区ごとに発行されています。御前崎市公式サイトからダウンロードできるほか、市民課（生活衛生係）でも入手方法を案内しています。"
+      },
+      {
+        "icon": "📱",
+        "title": "アプリでも収集日を確認できる",
+        "body": "市公式LINEでごみの分別と収集日を確認できます。地区を登録すると、収集日前日の通知を設定できます。"
+      },
+      {
+        "icon": "🗑️",
+        "title": "7区分の分別ルールとあわせて確認",
+        "body": "可燃物、ビニールプラスチック（マークあり/なし）、金物、陶磁器、ペットボトル、ガラスの7区分があります。収集日は品目によって異なるため、カレンダーで確認しながら出しましょう。"
+      },
+      {
+        "icon": "☎️",
+        "title": "紙のカレンダーが欲しい場合",
+        "body": "紙のカレンダーが必要な場合や、自分の地区がどのカレンダーに該当するかわからない場合は、市民課（生活衛生係、電話0537-85-1162）へ問い合わせると案内してもらえます。"
+      }
     ],
     "qa": [
-      {"question": "収集カレンダーはどこで手に入りますか", "answer": "御前崎市公式サイトからダウンロードできます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のごみの出し方・収集カレンダーページ</a>をご覧ください。紙のカレンダーが必要な場合は市民課へ問い合わせてください。"},
-      {"question": "自分の地区のカレンダーがどれかわかりません", "answer": "市民課（生活衛生係、電話0537-85-1162）に住所を伝えて問い合わせると、該当する地区のカレンダーを案内してもらえます。"},
-      {"question": "スマートフォンで収集日を確認する方法はありますか", "answer": "はい。「5374.jp」（御前崎市版）というWeb型アプリで、品目や地区を入力すると分別区分と収集日を確認できます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のゴミチェッカー案内ページ</a>をご覧ください。"},
-      {"question": "収集日は毎年同じですか", "answer": "収集カレンダーは年度ごとに発行されるため、年によって曜日や日付が変わることがあります。最新年度のカレンダーを確認してください。"},
-      {"question": "前の住所のカレンダーは使えますか", "answer": "使えません。地区ごとに収集日が異なるため、必ず現在お住まいの地区のカレンダーを確認してください。"},
-      {"question": "祝日に収集日が重なった場合はどうなりますか", "answer": "収集カレンダーには祝日の扱いも記載されています。カレンダー内の注記を確認するか、市民課に問い合わせてください。"}
+      {
+        "question": "収集カレンダーはどこで手に入りますか",
+        "answer": "御前崎市公式サイトからダウンロードできます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のごみの出し方・収集カレンダーページ</a>をご覧ください。紙のカレンダーが必要な場合は市民課へ問い合わせてください。"
+      },
+      {
+        "question": "自分の地区のカレンダーがどれかわかりません",
+        "answer": "市民課（生活衛生係、電話0537-85-1162）に住所を伝えて問い合わせると、該当する地区のカレンダーを案内してもらえます。"
+      },
+      {
+        "question": "スマートフォンで収集日を確認する方法はありますか",
+        "answer": "はい。市公式LINEで収集日と分別を確認できます。友だち追加の二次元コードは各地区のPDFに掲載されています。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/material/files/group/8/gomidasiru-ru_nihonngobann.pdf\" target=\"_blank\" rel=\"noopener\">御前崎市公式の公式LINE案内ページ</a>をご覧ください。"
+      },
+      {
+        "question": "収集日は毎年同じですか",
+        "answer": "収集カレンダーは年度ごとに発行されるため、年によって曜日や日付が変わることがあります。最新年度のカレンダーを確認してください。"
+      },
+      {
+        "question": "前の住所のカレンダーは使えますか",
+        "answer": "使えません。地区ごとに収集日が異なるため、必ず現在お住まいの地区のカレンダーを確認してください。"
+      },
+      {
+        "question": "祝日に収集日が重なった場合はどうなりますか",
+        "answer": "収集カレンダーには祝日の扱いも記載されています。カレンダー内の注記を確認するか、市民課に問い合わせてください。"
+      }
     ],
     "tabs": [
-      {"id": "type-download", "label": "ダウンロード", "heading": "公式サイトからカレンダーを入手", "bullets": ["地区別の収集カレンダーがダウンロードできる", "年度ごとに更新される", "紙のカレンダーは市民課で相談可能"], "actions": [
-          {"label": "収集カレンダーのページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-app", "label": "アプリで確認", "heading": "ゴミチェッカーアプリを使う", "bullets": ["「5374.jp」御前崎市版が利用できる", "品目・地区を入力して収集日を検索", "スマートフォンでいつでも確認できる"], "actions": [
-          {"label": "ゴミチェッカーの案内を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-sort", "label": "分別ルール", "heading": "7区分の分別を確認する", "bullets": ["可燃物・ビニールプラスチック・金物等の7区分", "収集日は品目により異なる", "指定袋に地区名・氏名を記入する"], "actions": [
-          {"label": "ごみの出し方を見る", "href": "/life/start-living/how-to-garbage/", "source": "御前崎ライフハック"}
-        ]},
-      {"id": "type-unclear", "label": "不明点", "heading": "迷ったら市民課に確認", "bullets": ["地区の該当カレンダーがわからない場合に相談できる", "電話番号は0537-85-1162", "分別区分の相談も可能"], "actions": [
-          {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162", "source": "0537-85-1162"}
-        ]}
+      {
+        "id": "type-download",
+        "label": "ダウンロード",
+        "heading": "公式サイトからカレンダーを入手",
+        "bullets": [
+          "地区別の収集カレンダーがダウンロードできる",
+          "年度ごとに更新される",
+          "紙のカレンダーは市民課で相談可能"
+        ],
+        "actions": [
+          {
+            "label": "収集カレンダーのページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-app",
+        "label": "アプリで確認",
+        "heading": "公式LINEアプリを使う",
+        "bullets": [
+          "御前崎市公式LINEで確認できる",
+          "品目・地区を入力して収集日を検索",
+          "スマートフォンでいつでも確認できる"
+        ],
+        "actions": [
+          {
+            "label": "公式LINEの案内を見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/gomidasiru-ru_nihonngobann.pdf",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-sort",
+        "label": "分別ルール",
+        "heading": "7区分の分別を確認する",
+        "bullets": [
+          "可燃物・ビニールプラスチック・金物等の7区分",
+          "収集日は品目により異なる",
+          "指定袋に地区名・氏名を記入する"
+        ],
+        "actions": [
+          {
+            "label": "ごみの出し方を見る",
+            "href": "/life/start-living/how-to-garbage/",
+            "source": "御前崎ライフハック"
+          }
+        ]
+      },
+      {
+        "id": "type-unclear",
+        "label": "不明点",
+        "heading": "迷ったら市民課に確認",
+        "bullets": [
+          "地区の該当カレンダーがわからない場合に相談できる",
+          "電話番号は0537-85-1162",
+          "分別区分の相談も可能"
+        ],
+        "actions": [
+          {
+            "label": "市民課（生活衛生係）に電話する",
+            "href": "tel:0537-85-1162",
+            "source": "0537-85-1162"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["自分の住所の地区名を確認する"],
-      "this_week": ["公式サイトまたはアプリで収集カレンダーを確認する"],
-      "outside": ["年度が変わったら最新のカレンダーに更新する"]
+      "today": [
+        "自分の住所の地区名を確認する"
+      ],
+      "this_week": [
+        "公式サイトまたはアプリで収集カレンダーを確認する"
+      ],
+      "outside": [
+        "年度が変わったら最新のカレンダーに更新する"
+      ]
     },
     "action_grid": [
-      {"label": "収集カレンダーのページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html"},
-      {"label": "ゴミチェッカーの案内を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html"},
-      {"label": "転入直後のごみの出し方を見る", "href": "/life/start-living/how-to-garbage/"},
-      {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162"}
+      {
+        "label": "収集カレンダーのページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html"
+      },
+      {
+        "label": "公式LINEの案内を見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/gomidasiru-ru_nihonngobann.pdf"
+      },
+      {
+        "label": "転入直後のごみの出し方を見る",
+        "href": "/life/start-living/how-to-garbage/"
+      },
+      {
+        "label": "市民課（生活衛生係）に電話する",
+        "href": "tel:0537-85-1162"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "浜岡地区のカレンダー",
+        "text": "令和8年度（2026年4月〜2027年3月）の市公式資料です。",
+        "links": [
+          {
+            "label": "東町・本町・早苗町（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_azumatyohonnmatisanaetyo.pdf"
+          },
+          {
+            "label": "中町・大山（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_nakamatiooyama.pdf"
+          },
+          {
+            "label": "門屋・塩原・合戸（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_jadoyasiobaragoudo.pdf"
+          },
+          {
+            "label": "佐倉（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_sakura.pdf"
+          },
+          {
+            "label": "比木・朝比奈・新野（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_hikiasahinaniino.pdf"
+          }
+        ]
+      },
+      {
+        "heading": "御前崎地区のカレンダー",
+        "text": "地区名が分からないときは集積所の管理者や市民課（生活衛生係）へ。2027年4月以降の収集日は市の年度別一覧を確認してください。",
+        "links": [
+          {
+            "label": "上岬区・下岬区・大山区・西側区（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_uemisakikusitamisakikuooyamakunisigawaku.pdf"
+          },
+          {
+            "label": "女岩区・広沢区・新谷区・薄原区（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_meiwakuhirozawakuarayakususukiharaku.pdf"
+          },
+          {
+            "label": "中原区・白羽区・白浜区・新神子区（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/2026_gomicalendar_nakaharakusirowakusirahamakusinnkanngoku.pdf"
+          },
+          {
+            "label": "市公式の年度別カレンダー一覧",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html"
+          }
+        ]
+      },
+      {
+        "heading": "分別・年末年始・直接搬入",
+        "text": "集積所の回収日と、環境保全センターの持ち込み日はそれぞれ確認してください。",
+        "links": [
+          {
+            "label": "ごみの分別と集積所の出し方",
+            "href": "/life/start-living/how-to-garbage/"
+          },
+          {
+            "label": "粗大ごみ・環境保全センターへの持ち込み",
+            "href": "/life/start-living/bulky-garbage-dropoff/"
+          },
+          {
+            "label": "年末年始のごみ・施設・交通",
+            "href": "/discover/seasons-and-events/#section-1"
+          }
+        ]
+      }
     ]
   },
   {
     "href": "/life/start-living/bulky-garbage-dropoff/",
-    "lead": "御前崎市には粗大ごみの定期戸別収集がなく、牧之原市御前崎市広域施設組合環境保全センターへの自己搬入と、市の許可業者による有料戸別回収の2つの方法があります。どちらも予約や受付時間が限られているため、早めの計画が大切です。",
+    "lead": "御前崎市の家庭の粗大ごみは、環境保全センター（牧之原市笠名1212）への自己搬入か、許可業者への有料戸別回収依頼を検討します。品目ごとに搬入できるか確認してから運んでください。",
     "note": "環境保全センターへ持ち込む場合、ガラス瓶は洗浄が必要で、分別が不十分だと受け取ってもらえません。持ち込み前に受付表を用意しておくとスムーズです。",
     "real_cards": [
-      {"icon": "🚗", "title": "自己搬入は環境保全センターへ", "body": "牧之原市御前崎市広域施設組合環境保全センター（牧之原市笠名1212、電話0548-58-0044）へ自分で持ち込みます。搬入は月～金曜と第2・4日曜（祝日・土曜・第1/3/5日曜・年末年始は不可）、午前8時30分～12時、午後1時～4時30分の受付です。"},
-      {"icon": "📞", "title": "戸別回収は許可業者に直接予約", "body": "自己搬入が難しい場合は、市の一般廃棄物収集運搬許可業者（御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MENの4社）に電話で予約すると、有料で戸別回収してもらえます。料金は業者ごとに異なります。"},
-      {"icon": "🚫", "title": "ビニール・プラスチック製品は対象外の場合も", "body": "業者によっては、プラスチック製の衣装ケースなどビニール・プラスチックで出来た製品を引き取れないことがあります。持ち込み前・依頼前に対象品目を確認してください。"},
-      {"icon": "🗓️", "title": "引っ越し直後は余裕を持って計画を", "body": "自己搬入・戸別回収のどちらも受付日時や予約枠が限られています。転入前後で不用品が出た場合は、早めに搬入日や業者への連絡を計画しましょう。"}
+      {
+        "icon": "🚗",
+        "title": "自己搬入は環境保全センターへ",
+        "body": "牧之原市御前崎市広域施設組合環境保全センター（牧之原市笠名1212、電話0548-58-0044）へ自分で持ち込みます。搬入は月～金曜と第2・4日曜（祝日・土曜・第1/3/5日曜・年末年始は不可）、午前8時30分～12時、午後1時～4時30分の受付です。"
+      },
+      {
+        "icon": "📞",
+        "title": "戸別回収は許可業者に直接予約",
+        "body": "自己搬入が難しい場合は、市の一般廃棄物収集運搬許可業者（御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MENの4社）に電話で予約すると、有料で戸別回収してもらえます。料金は業者ごとに異なります。"
+      },
+      {
+        "icon": "🚫",
+        "title": "ビニール・プラスチック製品は対象外の場合も",
+        "body": "業者によっては、プラスチック製の衣装ケースなどビニール・プラスチックで出来た製品を引き取れないことがあります。持ち込み前・依頼前に対象品目を確認してください。"
+      },
+      {
+        "icon": "🗓️",
+        "title": "引っ越し直後は余裕を持って計画を",
+        "body": "自己搬入・戸別回収のどちらも受付日時や予約枠が限られています。転入前後で不用品が出た場合は、早めに搬入日や業者への連絡を計画しましょう。"
+      }
     ],
     "qa": [
-      {"question": "粗大ごみはどこに持ち込めますか", "answer": "牧之原市御前崎市広域施設組合環境保全センター（牧之原市笠名1212）へ自分で搬入します。受付表の提出が必要です。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の直接搬入案内ページ</a>で確認してください。"},
-      {"question": "自分で運べない場合はどうすればいいですか", "answer": "市内の一般廃棄物収集運搬許可業者（御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MEN）に電話で予約すると、有料で戸別回収してもらえます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の粗大ごみ有料戸別回収ページ</a>をご覧ください。"},
-      {"question": "料金はいくらくらいかかりますか", "answer": "料金は品目の大きさ・重さ・搬出のしやすさによって業者ごとに異なります。市が一律の料金表を示しているわけではないため、依頼する業者に直接問い合わせて見積もりを確認してください。"},
-      {"question": "引き取ってもらえないものはありますか", "answer": "業者によっては、プラスチック製の衣装ケースなどビニール・プラスチック製品を引き取れない場合があります。事前に業者へ確認しておくと当日困ることが少なくなります。"},
-      {"question": "環境保全センターの受付時間を教えてください", "answer": "搬入は月～金曜と第2・4日曜（祝日・土曜・第1/3/5日曜・年末年始は不可）、午前8時30分～12時、午後1時～4時30分です。ガラス瓶は洗浄してから持ち込む必要があります。"},
-      {"question": "担当窓口はどこですか", "answer": "御前崎市役所の市民課（生活衛生係）が担当です。電話は0537-85-1162（ファックス0537-85-1172）です。"}
+      {
+        "question": "粗大ごみはどこに持ち込めますか",
+        "answer": "牧之原市御前崎市広域施設組合環境保全センター（牧之原市笠名1212）へ自分で搬入します。受付表の提出が必要です。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の直接搬入案内ページ</a>で確認してください。"
+      },
+      {
+        "question": "自分で運べない場合はどうすればいいですか",
+        "answer": "市内の一般廃棄物収集運搬許可業者（御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MEN）に電話で予約すると、有料で戸別回収してもらえます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/5726.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の粗大ごみ有料戸別回収ページ</a>をご覧ください。"
+      },
+      {
+        "question": "料金はいくらくらいかかりますか",
+        "answer": "料金は品目の大きさ・重さ・搬出のしやすさによって業者ごとに異なります。市が一律の料金表を示しているわけではないため、依頼する業者に直接問い合わせて見積もりを確認してください。"
+      },
+      {
+        "question": "引き取ってもらえないものはありますか",
+        "answer": "業者によっては、プラスチック製の衣装ケースなどビニール・プラスチック製品を引き取れない場合があります。事前に業者へ確認しておくと当日困ることが少なくなります。"
+      },
+      {
+        "question": "環境保全センターの受付時間を教えてください",
+        "answer": "搬入は月～金曜と第2・4日曜（祝日・土曜・第1/3/5日曜・年末年始は不可）、午前8時30分～12時、午後1時～4時30分です。ガラス瓶は洗浄してから持ち込む必要があります。"
+      },
+      {
+        "question": "担当窓口はどこですか",
+        "answer": "御前崎市役所の市民課（生活衛生係）が担当です。電話は0537-85-1162（ファックス0537-85-1172）です。"
+      }
     ],
     "tabs": [
-      {"id": "type-self", "label": "自分で運ぶ", "heading": "環境保全センターへの自己搬入", "bullets": ["牧之原市御前崎市広域施設組合環境保全センターへ持ち込む", "搬入は月～金曜と第2・4日曜（祝日等は不可）", "午前8時30分～12時、午後1時～4時30分の受付"], "actions": [
-          {"label": "直接搬入の案内を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html", "source": "御前崎市公式"},
-          {"label": "環境保全センターに電話する", "href": "tel:0548-58-0044", "source": "0548-58-0044"}
-        ]},
-      {"id": "type-collect", "label": "業者に依頼", "heading": "許可業者の有料戸別回収を使う", "bullets": ["市の一般廃棄物収集運搬許可業者に電話予約する", "料金は品目の大きさ・重さで業者ごとに異なる", "ビニール・プラスチック製品は対象外の場合がある"], "actions": [
-          {"label": "粗大ごみ戸別回収の案内を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-normal", "label": "通常ごみ", "heading": "普段のごみは分別ルールに従う", "bullets": ["粗大ごみ以外は7区分の分別ルールで出す", "収集日は地区ごとに異なる", "迷ったら市民課に確認する"], "actions": [
-          {"label": "ごみの出し方を見る", "href": "/life/start-living/how-to-garbage/", "source": "御前崎ライフハック"}
-        ]},
-      {"id": "type-confirm", "label": "不明点", "heading": "判断に迷ったら窓口に確認", "bullets": ["対象品目や料金は業者によって異なる", "自己搬入前に受付時間を確認しておく", "確認先は市民課（生活衛生係）"], "actions": [
-          {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162", "source": "0537-85-1162"}
-        ]}
+      {
+        "id": "type-self",
+        "label": "自分で運ぶ",
+        "heading": "環境保全センターへの自己搬入",
+        "bullets": [
+          "牧之原市御前崎市広域施設組合環境保全センターへ持ち込む",
+          "搬入は月～金曜と第2・4日曜（祝日等は不可）",
+          "午前8時30分～12時、午後1時～4時30分の受付"
+        ],
+        "actions": [
+          {
+            "label": "直接搬入の案内を見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
+            "source": "御前崎市公式"
+          },
+          {
+            "label": "環境保全センターに電話する",
+            "href": "tel:0548-58-0044",
+            "source": "0548-58-0044"
+          }
+        ]
+      },
+      {
+        "id": "type-collect",
+        "label": "業者に依頼",
+        "heading": "許可業者の有料戸別回収を使う",
+        "bullets": [
+          "市の一般廃棄物収集運搬許可業者に電話予約する",
+          "料金は品目の大きさ・重さで業者ごとに異なる",
+          "ビニール・プラスチック製品は対象外の場合がある"
+        ],
+        "actions": [
+          {
+            "label": "粗大ごみ戸別回収の案内を見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/5726.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-normal",
+        "label": "通常ごみ",
+        "heading": "普段のごみは分別ルールに従う",
+        "bullets": [
+          "粗大ごみ以外は7区分の分別ルールで出す",
+          "収集日は地区ごとに異なる",
+          "迷ったら市民課に確認する"
+        ],
+        "actions": [
+          {
+            "label": "ごみの出し方を見る",
+            "href": "/life/start-living/how-to-garbage/",
+            "source": "御前崎ライフハック"
+          }
+        ]
+      },
+      {
+        "id": "type-confirm",
+        "label": "不明点",
+        "heading": "判断に迷ったら窓口に確認",
+        "bullets": [
+          "対象品目や料金は業者によって異なる",
+          "自己搬入前に受付時間を確認しておく",
+          "確認先は市民課（生活衛生係）"
+        ],
+        "actions": [
+          {
+            "label": "市民課（生活衛生係）に電話する",
+            "href": "tel:0537-85-1162",
+            "source": "0537-85-1162"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["家の中の不用品を通常ごみと粗大ごみに分ける", "自己搬入か業者依頼か、片付け方法を決める"],
-      "this_week": ["環境保全センターの受付日時を確認して搬入するか、許可業者に電話で予約する"],
-      "outside": ["車がない場合や大量にある場合は業者への依頼を早めに手配する"]
+      "today": [
+        "家の中の不用品を通常ごみと粗大ごみに分ける",
+        "自己搬入か業者依頼か、片付け方法を決める"
+      ],
+      "this_week": [
+        "環境保全センターの受付日時を確認して搬入するか、許可業者に電話で予約する"
+      ],
+      "outside": [
+        "車がない場合や大量にある場合は業者への依頼を早めに手配する"
+      ]
     },
     "action_grid": [
-      {"label": "粗大ごみ戸別回収の案内を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html"},
-      {"label": "直接搬入の案内を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html"},
-      {"label": "市民課（生活衛生係）に電話する", "href": "tel:0537-85-1162"},
-      {"label": "ごみの出し方を見る", "href": "/life/start-living/how-to-garbage/"}
+      {
+        "label": "粗大ごみ戸別回収の案内を見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/5726.html"
+      },
+      {
+        "label": "直接搬入の案内を見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html"
+      },
+      {
+        "label": "市民課（生活衛生係）に電話する",
+        "href": "tel:0537-85-1162"
+      },
+      {
+        "label": "ごみの出し方を見る",
+        "href": "/life/start-living/how-to-garbage/"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "車で持ち込む",
+        "text": "受付は平日と第2・第4日曜の8:30〜12:00、13:00〜16:30。祝日・年末年始（12月29日〜1月3日）は休業です。分別して、受付表を提出します。",
+        "links": [
+          {
+            "label": "市公式の直接搬入案内",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html"
+          },
+          {
+            "label": "搬入受付表（市公式PDF）",
+            "href": "https://www.city.omaezaki.shizuoka.jp/material/files/group/10/uketukehyou2.pdf"
+          },
+          {
+            "label": "環境保全センターに電話する（0548-58-0044）",
+            "href": "tel:0548580044"
+          }
+        ]
+      },
+      {
+        "heading": "自分で運べないとき",
+        "text": "市が案内している許可業者に、品目と搬出場所を伝えて費用・回収日を確認します。 市の案内では、プラスチック製の衣装ケースなどは有料戸別回収の対象外です。",
+        "links": [
+          {
+            "label": "市公式の有料戸別回収と許可業者",
+            "href": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/5726.html"
+          },
+          {
+            "label": "ふだんの集積所の収集日",
+            "href": "/life/start-living/garbage-sorting-calendar/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -580,91 +1181,207 @@
     "lead": "御前崎市の乗合タクシー「OM mobi.（オンモビ）」は、2026年10月1日から市内全域で実証運行しています。電話・アプリで予約でき、市外の方も利用できます。路線バスと合わせて、目的地に合う移動手段を選びましょう。",
     "note": "自主運行バス「御前崎市内線」は運休中です。「相良浜岡線」「相良御前崎線」は運行を継続しています。オンモビは通常、指定停留所で乗降します。",
     "real_cards": [
- {
-  "icon": "🚕",
-  "title": "11月からPayPayにも対応",
-  "body": "2026年11月1日からPayPayが加わりました。支払方法は予約時に指定し、乗車前に支払います。乗車時の変更はできません。"
- },
- {
-  "icon": "🚕",
-  "title": "AIオンデマンド交通「OM mobi.」",
-  "body": "電話（0120-74-7175）またはスマートフォンアプリ・Webアプリで予約すると、AIが効率的なルートを組む乗合型の交通サービスです。通常は指定停留所で乗り降りします。菊川タクシーと御前崎タクシーの2社が運行しています。"
- },
- {
-  "icon": "🗺️",
-  "title": "2026年10月1日から市内全域で運行",
-  "body": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
- },
- {
-  "icon": "⏰",
-  "title": "運行時間と予約方法",
-  "body": "平日は午前6時～午後8時、土日祝日は午前7時～午後8時運行です。電話予約は運行日の午前8時～午後5時、アプリ・Webアプリでの予約は24時間受け付けています。"
- },
- {
-  "icon": "🚌",
-  "title": "自主運行バスは運行休止",
-  "body": "従来の自主運行バス「御前崎市内線」は2025年9月30日をもって運行を休止し、翌10月1日からOM mobi.に移行しました。路線バスや電車の利用については個別に確認してください。"
- }
-],
+      {
+        "icon": "🚕",
+        "title": "11月からPayPayにも対応",
+        "body": "2026年11月1日からPayPayが加わりました。支払方法は予約時に指定し、乗車前に支払います。乗車時の変更はできません。"
+      },
+      {
+        "icon": "🚕",
+        "title": "AIオンデマンド交通「OM mobi.」",
+        "body": "電話（0120-74-7175）またはスマートフォンアプリ・Webアプリで予約すると、AIが効率的なルートを組む乗合型の交通サービスです。通常は指定停留所で乗り降りします。菊川タクシーと御前崎タクシーの2社が運行しています。"
+      },
+      {
+        "icon": "🗺️",
+        "title": "2026年10月1日から市内全域で運行",
+        "body": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
+      },
+      {
+        "icon": "⏰",
+        "title": "運行時間と予約方法",
+        "body": "平日は午前6時～午後8時、土日祝日は午前7時～午後8時運行です。電話予約は運行日の午前8時～午後5時、アプリ・Webアプリでの予約は24時間受け付けています。"
+      },
+      {
+        "icon": "🚌",
+        "title": "自主運行バスは運行休止",
+        "body": "従来の自主運行バス「御前崎市内線」は2025年9月30日をもって運行を休止し、翌10月1日からOM mobi.に移行しました。路線バスや電車の利用については個別に確認してください。"
+      }
+    ],
     "qa": [
- {
-  "question": "自宅まで迎えに来てもらえますか？",
-  "answer": "通常は指定停留所で乗降します。障害者手帳の所持者や要支援・要介護認定者等は、利用2週間前までに市へ申請する「ドアtoドアユーザー」の対象となる場合があります。許可後は定額300円です。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11502.html\" target=\"_blank\" rel=\"noopener\">対象条件・申請方法</a>"
- },
- {
-  "question": "現在の運賃と予約方法は？",
-  "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。 電話予約は無料0120-74-7175（有料0570-02-3503も利用可、毎日8時〜17時）、アプリ・Web予約は24時間受付です。利用日の14日前から1時間前まで予約できます。予約時に乗車人数・乗降場所を確認してください。 <a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">市公式の最新案内</a>"
- },
- {
-  "question": "OM mobi.とはどんな交通サービスですか",
-  "answer": "AIが乗客の予約に応じて効率的なルートを組む、乗合型のオンデマンド交通サービスです。電話またはスマートフォンアプリで予約します。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のAIオンデマンド交通ページ</a>をご覧ください。"
- },
- {
-  "question": "どうやって予約すればいいですか",
-  "answer": "電話（0120-74-7175、運行日の午前8時～午後5時）またはスマートフォンアプリ・Webアプリ（24時間受付）で予約できます。"
- },
- {
-  "question": "対象地区はどこですか",
-  "answer": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
- },
- {
-  "question": "料金はいくらですか",
-  "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。"
- },
- {
-  "question": "以前の自主運行バスは使えますか",
-  "answer": "自主運行バス「御前崎市内線」は2025年9月30日で運行を休止しました。翌日からOM mobi.に移行しています。"
- },
- {
-  "question": "使い方がわからない場合はどうすればいいですか",
-  "answer": "御前崎市公式サイトに利用方法をわかりやすく解説したページが公開されています。企画政策課（電話0537-85-1161）でも相談できます。"
- }
-],
+      {
+        "question": "自宅まで迎えに来てもらえますか？",
+        "answer": "通常は指定停留所で乗降します。障害者手帳の所持者や要支援・要介護認定者等は、利用2週間前までに市へ申請する「ドアtoドアユーザー」の対象となる場合があります。許可後は定額300円です。<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11502.html\" target=\"_blank\" rel=\"noopener\">対象条件・申請方法</a>"
+      },
+      {
+        "question": "現在の運賃と予約方法は？",
+        "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。 電話予約は無料0120-74-7175（有料0570-02-3503も利用可、毎日8時〜17時）、アプリ・Web予約は24時間受付です。利用日の14日前から1時間前まで予約できます。予約時に乗車人数・乗降場所を確認してください。 <a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">市公式の最新案内</a>"
+      },
+      {
+        "question": "OM mobi.とはどんな交通サービスですか",
+        "answer": "AIが乗客の予約に応じて効率的なルートを組む、乗合型のオンデマンド交通サービスです。電話またはスマートフォンアプリで予約します。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式のAIオンデマンド交通ページ</a>をご覧ください。"
+      },
+      {
+        "question": "どうやって予約すればいいですか",
+        "answer": "電話（0120-74-7175、運行日の午前8時～午後5時）またはスマートフォンアプリ・Webアプリ（24時間受付）で予約できます。"
+      },
+      {
+        "question": "対象地区はどこですか",
+        "answer": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。"
+      },
+      {
+        "question": "料金はいくらですか",
+        "answer": "通常運賃は直線距離3km未満200円、3〜6km未満300円、6〜9km未満400円、9〜12km未満500円、12km以上700円です。75歳以上は定額200円、6歳以上12歳未満・福祉割引対象者は半額、6歳未満は無料です。割引は重複適用されません。"
+      },
+      {
+        "question": "以前の自主運行バスは使えますか",
+        "answer": "自主運行バス「御前崎市内線」は2025年9月30日で運行を休止しました。翌日からOM mobi.に移行しています。"
+      },
+      {
+        "question": "使い方がわからない場合はどうすればいいですか",
+        "answer": "御前崎市公式サイトに利用方法をわかりやすく解説したページが公開されています。企画政策課（電話0537-85-1161）でも相談できます。"
+      }
+    ],
     "tabs": [
-      {"id": "type-ommobi", "label": "OM mobi.", "heading": "AIオンデマンド交通の概要", "bullets": ["電話・アプリで予約する乗合型サービス", "2026年10月1日から市内全域で運行", "運賃は距離に応じて予約時に決まる"], "actions": [
-          {"label": "AIオンデマンド交通のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"},
-          {"label": "OM mobi.コールセンターに電話する", "href": "tel:0120-74-7175", "source": "0120-74-7175"}
-        ]},
-      {"id": "type-howto", "label": "使い方", "heading": "予約から乗車までの流れ", "bullets": ["ユーザー登録後、アプリまたは電話で予約", "運行時間は平日6時～20時、休日7時～20時", "初めての方向けに4コマ解説がある"], "actions": [
-          {"label": "オンモビの使い方解説を見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-area", "label": "対象地区", "heading": "現在の対象地区と拡大予定", "bullets": ["池新田・佐倉・比木・御前崎・白羽が対象", "2026年10月1日から市内全域で運行", "実証運行のため内容が変わる可能性がある"], "actions": [
-          {"label": "AIオンデマンド交通のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-other", "label": "その他の交通", "heading": "路線バス・電車の利用", "bullets": ["自主運行バスは運行休止、OM mobi.に移行", "民間路線バスの運行状況は個別に確認する", "詳細は企画政策課へ問い合わせる"], "actions": [
-          {"label": "企画政策課に電話する", "href": "tel:0537-85-1161", "source": "0537-85-1161"}
-        ]}
+      {
+        "id": "type-ommobi",
+        "label": "OM mobi.",
+        "heading": "AIオンデマンド交通の概要",
+        "bullets": [
+          "電話・アプリで予約する乗合型サービス",
+          "2026年10月1日から市内全域で運行",
+          "運賃は距離に応じて予約時に決まる"
+        ],
+        "actions": [
+          {
+            "label": "AIオンデマンド交通のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
+            "source": "御前崎市公式"
+          },
+          {
+            "label": "OM mobi.コールセンターに電話する",
+            "href": "tel:0120-74-7175",
+            "source": "0120-74-7175"
+          }
+        ]
+      },
+      {
+        "id": "type-howto",
+        "label": "使い方",
+        "heading": "予約から乗車までの流れ",
+        "bullets": [
+          "ユーザー登録後、アプリまたは電話で予約",
+          "運行時間は平日6時～20時、休日7時～20時",
+          "初めての方向けに4コマ解説がある"
+        ],
+        "actions": [
+          {
+            "label": "オンモビの使い方解説を見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-area",
+        "label": "対象地区",
+        "heading": "現在の対象地区と拡大予定",
+        "bullets": [
+          "池新田・佐倉・比木・御前崎・白羽が対象",
+          "2026年10月1日から市内全域で運行",
+          "実証運行のため内容が変わる可能性がある"
+        ],
+        "actions": [
+          {
+            "label": "AIオンデマンド交通のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-other",
+        "label": "その他の交通",
+        "heading": "路線バス・電車の利用",
+        "bullets": [
+          "自主運行バスは運行休止、OM mobi.に移行",
+          "民間路線バスの運行状況は個別に確認する",
+          "詳細は企画政策課へ問い合わせる"
+        ],
+        "actions": [
+          {
+            "label": "企画政策課に電話する",
+            "href": "tel:0537-85-1161",
+            "source": "0537-85-1161"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["自宅の地区がOM mobi.の対象地区か確認する"],
-      "this_week": ["アプリをダウンロードするかコールセンターに問い合わせて利用登録する"],
-      "outside": ["2026年10月1日から市内全域で運行"]
+      "today": [
+        "自宅の地区がOM mobi.の対象地区か確認する"
+      ],
+      "this_week": [
+        "アプリをダウンロードするかコールセンターに問い合わせて利用登録する"
+      ],
+      "outside": [
+        "2026年10月1日から市内全域で運行"
+      ]
     },
     "action_grid": [
-      {"label": "AIオンデマンド交通のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"},
-      {"label": "オンモビの使い方解説を見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html"},
-      {"label": "OM mobi.コールセンターに電話する", "href": "tel:0120-74-7175"},
-      {"label": "企画政策課に電話する", "href": "tel:0537-85-1161"}
+      {
+        "label": "AIオンデマンド交通のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"
+      },
+      {
+        "label": "オンモビの使い方解説を見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html"
+      },
+      {
+        "label": "OM mobi.コールセンターに電話する",
+        "href": "tel:0120-74-7175"
+      },
+      {
+        "label": "企画政策課に電話する",
+        "href": "tel:0537-85-1161"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "オンモビを予約する",
+        "text": "電話受付は運行日の8:00〜17:00。Web・アプリは24時間受け付けます。乗る場所・降りる場所・人数と、予約時に支払方法を決めてください。",
+        "links": [
+          {
+            "label": "予約窓口へ電話（0120-74-7175）",
+            "href": "tel:0120747175"
+          },
+          {
+            "label": "オンモビのWeb予約",
+            "href": "https://ommobi.app.ridewithvia.com/"
+          },
+          {
+            "label": "市公式の運賃・停留所・アプリ案内",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html"
+          }
+        ]
+      },
+      {
+        "heading": "バスと乗り継ぐ",
+        "text": "浜岡営業所などでバスに乗り継ぐときは、それぞれの停留所と帰りの便を先に確認します。",
+        "links": [
+          {
+            "label": "御前崎で暮らす前の移動手段",
+            "href": "/life/living-soon/transportation/"
+          },
+          {
+            "label": "灯台・海岸へ行く前の案内",
+            "href": "/discover/cape-lighthouse/"
+          },
+          {
+            "label": "年末年始の運行時間",
+            "href": "/discover/seasons-and-events/#section-1"
+          }
+        ]
+      }
     ]
   },
   {
@@ -716,43 +1433,175 @@
     "lead": "御前崎市の水道は住所の届出と自動連動しないため、使用開始（開栓）・使用中止（閉栓）は自分で上下水道お客さまセンターへ連絡する必要があります。希望日の3営業日前までの申請が原則です。",
     "note": "市の開始・中止ページにはWEB受付のメンテナンス中の案内があります。窓口・FAXと、メンテナンス中の電話申込みが案内されています。土日祝日・年末年始は開閉栓を行わないため、希望日の3営業日前までに確認・申請します。",
     "real_cards": [
-      {"icon": "📞", "title": "お客さまセンターへ3営業日前までに連絡", "body": "水道の使用開始・使用中止は、上下水道お客さまセンター（0120-005-335、平日8時15分～17時）への電話、またはファックス（0537-85-1150）で申し込みます。開栓・閉栓希望日の3営業日前までの申請が原則です。"},
-      {"icon": "🌐", "title": "Web受付はメンテナンス案内あり", "body": "2026年11月21日確認時点で、市の開始・中止ページはWEB受付システムのメンテナンス中を案内し、その間は電話で申し込むよう案内しています。窓口・FAXも掲載されています。復旧状況と現在の申込方法はお客さまセンター0120-005-335へ確認してください。"},
-      {"icon": "🏦", "title": "口座振替は事前手続きが必要", "body": "口座振替で料金を支払う場合、通帳・印鑑を持って金融機関やお客さまセンターで手続きが必要になることがあります。窓口で申し込む場合は口座情報も持参しましょう。"},
-      {"icon": "🏠", "title": "住民票の届出とは別扱い", "body": "転入届・転居届・転出届を市民課に提出しても、水道の使用開始・中止は自動的には連動しません。必ず別途、上下水道お客さまセンターへの連絡が必要です。"}
+      {
+        "icon": "📞",
+        "title": "お客さまセンターへ3営業日前までに連絡",
+        "body": "水道の使用開始・使用中止は、上下水道お客さまセンター（0120-005-335、平日8時15分～17時）への電話、またはファックス（0537-85-1150）で申し込みます。開栓・閉栓希望日の3営業日前までの申請が原則です。"
+      },
+      {
+        "icon": "🌐",
+        "title": "Web受付はメンテナンス案内あり",
+        "body": "2026年11月24日確認時点で、市の開始・中止ページはWEB受付システムのメンテナンス中を案内し、その間は電話で申し込むよう案内しています。窓口・FAXも掲載されています。復旧状況と現在の申込方法はお客さまセンター0120-005-335へ確認してください。"
+      },
+      {
+        "icon": "🏦",
+        "title": "口座振替は事前手続きが必要",
+        "body": "口座振替で料金を支払う場合、通帳・印鑑を持って金融機関やお客さまセンターで手続きが必要になることがあります。窓口で申し込む場合は口座情報も持参しましょう。"
+      },
+      {
+        "icon": "🏠",
+        "title": "住民票の届出とは別扱い",
+        "body": "転入届・転居届・転出届を市民課に提出しても、水道の使用開始・中止は自動的には連動しません。必ず別途、上下水道お客さまセンターへの連絡が必要です。"
+      }
     ],
     "qa": [
-      {"question": "水道を新しく使い始めたいときはどうすればいいですか", "answer": "上下水道お客さまセンター（0120-005-335、平日8時15分～17時）への電話、またはファックス（0537-85-1150）で使用開始（開栓）の申し込みができます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の水道使用開始・中止ページ</a>をご覧ください。"},
-      {"question": "転入届を出せば水道も自動的に使えるようになりますか", "answer": "いいえ、連動していません。住所の届出とは別に、上下水道お客さまセンターへ使用開始の連絡が必要です。"},
-      {"question": "いつまでに申し込めばいいですか", "answer": "開栓・閉栓したい日の3営業日前までの申請が案内されています。土日祝日や年末年始は受付がないため、引っ越し日から逆算して早めに連絡しましょう。"},
-      {"question": "ファックスで申し込んだ場合、他に何か必要ですか", "answer": "はい。ファックスで申請書を送った後、同日中に上下水道お客さまセンター（0120-005-335）へ電話で内容を確認する必要があります。"},
-      {"question": "Web上で申し込むこともできますか", "answer": "2026年11月21日確認時点で、市の開始・中止ページはWEB受付システムのメンテナンス中を案内し、その間は電話で申し込むよう案内しています。窓口・FAXも掲載されています。復旧状況と現在の申込方法はお客さまセンター0120-005-335へ確認してください。旧FAQには電話・インターネット不可の記載も残るため、利用する前に現在の受付方法を確認しましょう。"},
-      {"question": "料金の精算・口座振替の設定はどうすればいいですか", "answer": "口座振替を希望する場合、通帳・印鑑を持って金融機関または上下水道お客さまセンターで手続きが必要になることがあります。詳細は申し込み時にセンターへ確認してください。"}
+      {
+        "question": "水道を新しく使い始めたいときはどうすればいいですか",
+        "answer": "上下水道お客さまセンター（0120-005-335、平日8時15分～17時）への電話、またはファックス（0537-85-1150）で使用開始（開栓）の申し込みができます。詳しくは<a href=\"https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html\" target=\"_blank\" rel=\"noopener\">御前崎市公式の水道使用開始・中止ページ</a>をご覧ください。"
+      },
+      {
+        "question": "転入届を出せば水道も自動的に使えるようになりますか",
+        "answer": "いいえ、連動していません。住所の届出とは別に、上下水道お客さまセンターへ使用開始の連絡が必要です。"
+      },
+      {
+        "question": "いつまでに申し込めばいいですか",
+        "answer": "開栓・閉栓したい日の3営業日前までの申請が案内されています。土日祝日や年末年始は受付がないため、引っ越し日から逆算して早めに連絡しましょう。"
+      },
+      {
+        "question": "ファックスで申し込んだ場合、他に何か必要ですか",
+        "answer": "はい。ファックスで申請書を送った後、同日中に上下水道お客さまセンター（0120-005-335）へ電話で内容を確認する必要があります。"
+      },
+      {
+        "question": "Web上で申し込むこともできますか",
+        "answer": "2026年11月24日確認時点で、市の開始・中止ページはWEB受付システムのメンテナンス中を案内し、その間は電話で申し込むよう案内しています。窓口・FAXも掲載されています。復旧状況と現在の申込方法はお客さまセンター0120-005-335へ確認してください。旧FAQには電話・インターネット不可の記載も残るため、利用する前に現在の受付方法を確認しましょう。"
+      },
+      {
+        "question": "料金の精算・口座振替の設定はどうすればいいですか",
+        "answer": "口座振替を希望する場合、通帳・印鑑を持って金融機関または上下水道お客さまセンターで手続きが必要になることがあります。詳細は申し込み時にセンターへ確認してください。"
+      }
     ],
     "tabs": [
-      {"id": "type-phone", "label": "電話で", "heading": "電話で使用開始・中止を申し込む", "bullets": ["上下水道お客さまセンター（0120-005-335）へ電話する", "受付時間は平日8時15分～17時", "希望日の3営業日前までに連絡する"], "actions": [
-          {"label": "上下水道お客さまセンターに電話する", "href": "tel:0120-005-335", "source": "0120-005-335"}
-        ]},
-      {"id": "type-fax", "label": "ファックスで", "heading": "ファックスで申請書を送る", "bullets": ["申請書をダウンロードして記入する", "0537-85-1150へファックス送信する", "送信当日にセンターへ電話で確認する"], "actions": [
-          {"label": "水道使用開始・中止のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-web", "label": "Webの状況を確認", "heading": "Web受付の休止・復旧状況を確認する", "bullets": ["御前崎市公式サイトからアクセスする", "2026年11月21日の公式ページはWEBメンテナンス中と案内", "現在の申込方法をお客さまセンター0120-005-335へ確認する"], "actions": [
-          {"label": "水道使用開始・中止のページを見る", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html", "source": "御前崎市公式"}
-        ]},
-      {"id": "type-payment", "label": "精算方法", "heading": "料金の精算方法を確認する", "bullets": ["口座振替なら通帳・印鑑の準備が必要な場合がある", "スマートフォン決済にも対応", "詳細は申し込み時にセンターへ確認する"], "actions": [
-          {"label": "水道・下水道料金の仕組みを見る", "href": "/life/start-living/water-sewer/", "source": "御前崎ライフハック"}
-        ]}
+      {
+        "id": "type-phone",
+        "label": "電話で",
+        "heading": "電話で使用開始・中止を申し込む",
+        "bullets": [
+          "上下水道お客さまセンター（0120-005-335）へ電話する",
+          "受付時間は平日8時15分～17時",
+          "希望日の3営業日前までに連絡する"
+        ],
+        "actions": [
+          {
+            "label": "上下水道お客さまセンターに電話する",
+            "href": "tel:0120-005-335",
+            "source": "0120-005-335"
+          }
+        ]
+      },
+      {
+        "id": "type-fax",
+        "label": "ファックスで",
+        "heading": "ファックスで申請書を送る",
+        "bullets": [
+          "申請書をダウンロードして記入する",
+          "0537-85-1150へファックス送信する",
+          "送信当日にセンターへ電話で確認する"
+        ],
+        "actions": [
+          {
+            "label": "水道使用開始・中止のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-web",
+        "label": "Webの状況を確認",
+        "heading": "Web受付の休止・復旧状況を確認する",
+        "bullets": [
+          "御前崎市公式サイトからアクセスする",
+          "2026年11月24日の公式ページはWEBメンテナンス中と案内",
+          "現在の申込方法をお客さまセンター0120-005-335へ確認する"
+        ],
+        "actions": [
+          {
+            "label": "水道使用開始・中止のページを見る",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
+            "source": "御前崎市公式"
+          }
+        ]
+      },
+      {
+        "id": "type-payment",
+        "label": "精算方法",
+        "heading": "料金の精算方法を確認する",
+        "bullets": [
+          "口座振替なら通帳・印鑑の準備が必要な場合がある",
+          "スマートフォン決済にも対応",
+          "詳細は申し込み時にセンターへ確認する"
+        ],
+        "actions": [
+          {
+            "label": "水道・下水道料金の仕組みを見る",
+            "href": "/life/start-living/water-sewer/",
+            "source": "御前崎ライフハック"
+          }
+        ]
+      }
     ],
     "steps": {
-      "today": ["水道の使用開始・中止希望日を決める"],
-      "this_week": ["お客さまセンターで現在の受付方法を確認し、窓口・FAXまたはメンテナンス中の電話案内に従って3営業日前までに申し込む"],
-      "outside": ["料金の支払い方法（口座振替・スマホ決済等）を設定する"]
+      "today": [
+        "水道の使用開始・中止希望日を決める"
+      ],
+      "this_week": [
+        "お客さまセンターで現在の受付方法を確認し、窓口・FAXまたはメンテナンス中の電話案内に従って3営業日前までに申し込む"
+      ],
+      "outside": [
+        "料金の支払い方法（口座振替・スマホ決済等）を設定する"
+      ]
     },
     "action_grid": [
-      {"label": "水道使用開始・中止のページを見る（御前崎市公式）", "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html"},
-      {"label": "上下水道お客さまセンターに電話する", "href": "tel:0120-005-335"},
-      {"label": "水道・下水道料金の仕組みを見る", "href": "/life/start-living/water-sewer/"},
-      {"label": "転入後にやるべき手続き一覧を見る", "href": "/life/start-living/moved-in/"}
+      {
+        "label": "水道使用開始・中止のページを見る（御前崎市公式）",
+        "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html"
+      },
+      {
+        "label": "上下水道お客さまセンターに電話する",
+        "href": "tel:0120-005-335"
+      },
+      {
+        "label": "水道・下水道料金の仕組みを見る",
+        "href": "/life/start-living/water-sewer/"
+      },
+      {
+        "label": "転入後にやるべき手続き一覧を見る",
+        "href": "/life/start-living/moved-in/"
+      }
+    ],
+    "quick_guide": [
+      {
+        "heading": "開栓・閉栓を頼む",
+        "text": "希望日の3営業日前までに連絡します。2026年11月24日に確認した市の案内では、Web開閉栓システムはメンテナンス中です。",
+        "links": [
+          {
+            "label": "水道料金お客さまセンターに電話（0120-005-335）",
+            "href": "tel:0120005335"
+          },
+          {
+            "label": "市公式の水道の使用開始・中止",
+            "href": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html"
+          },
+          {
+            "label": "申込方法を比べる",
+            "href": "/guide/water-moving/"
+          },
+          {
+            "label": "転入・転居・転出の届出",
+            "href": "/life/start-living/moving-address-change/"
+          }
+        ]
+      }
     ]
   }
 ]

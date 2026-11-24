@@ -186,6 +186,23 @@ def related_links_html(item, category_items):
     return "".join(links)
 
 
+def quick_guide_html(sections):
+    if not sections:
+        return ""
+    blocks = []
+    for section in sections:
+        links = "".join(
+            f'<li><a href="{esc(link["href"])}">{esc(link["label"])}</a></li>'
+            for link in section["links"]
+        )
+        blocks.append(
+            '<section class="guide-section">'
+            f'<h2>{esc(section["heading"])}</h2><p>{esc(section["text"])}</p>'
+            f'<ul class="link-list">{links}</ul></section>'
+        )
+    return "".join(blocks)
+
+
 def cv_block_html(city):
     cv = city.get("cv", {})
     if not cv.get("kaigo_lead") and not cv.get("fudosan_link"):
@@ -206,10 +223,14 @@ def cv_block_html(city):
 
 
 def render_page(item, city, category_items, content_map):
-    title = item.get("title") or item.get("title_iwata") or item["href"]
+    title = item.get("search_title") or item.get("title") or item.get("title_iwata") or item["href"]
     city_name = city["city_name"]
     site_name = city["site_name"]
     category = item["category"]
+    description = item.get("search_description") or (
+        f"{city_name}の{category}に関する情報を整理する非公式ナビです。"
+        f"最新・正確な情報は必ず{city_name}公式ページで確認してください。"
+    )
     icon = CATEGORY_ICON.get(category, "")
     status = item.get("status", "draft")
     verified = status in PUBLISHABLE_STATUSES
@@ -224,11 +245,11 @@ def render_page(item, city, category_items, content_map):
     hub_href = min((i["href"] for i in category_items), key=len)
     is_hub = item["href"] == hub_href
     if is_hub:
-        breadcrumb = f'<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ {esc(icon)} {esc(category)}</p>'
+        breadcrumb = f'<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ <span aria-hidden="true">{esc(icon)}</span> {esc(category)}</p>'
     else:
         breadcrumb = (
             f'<p class="breadcrumb"><a href="/">{esc(site_name)}</a> ／ '
-            f'<a href="{esc(hub_href)}">{esc(icon)} {esc(category)}</a> ／ {esc(title)}</p>'
+            f'<a href="{esc(hub_href)}"><span aria-hidden="true">{esc(icon)}</span> {esc(category)}</a> ／ {esc(title)}</p>'
         )
 
     content = content_map.get(item["href"])
@@ -247,6 +268,7 @@ def render_page(item, city, category_items, content_map):
     rich_html = ""
     if content:
         rich_html = "".join([
+            quick_guide_html(content.get("quick_guide")),
             real_cards_html(content.get("real_cards")),
             qa_html(content.get("qa")),
             tabs_html(content.get("tabs")),
@@ -257,7 +279,7 @@ def render_page(item, city, category_items, content_map):
     html = f"""<!doctype html><html lang="ja"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)} | {esc(site_name)}</title>
-<meta name="description" content="{esc(city_name)}の{esc(category)}に関する情報を整理する非公式ナビです。最新・正確な情報は必ず{esc(city_name)}公式ページで確認してください。">
+<meta name="description" content="{esc(description)}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <!-- PART:head-css:START --><link rel="stylesheet" href="/assets/site.css?v=20260702"><!-- PART:head-css:END --></head><body>
 <!-- PART:header:START --><header class="site"><div class="wrap"><a class="logo" href="/">{esc(site_name)}</a></div></header><!-- PART:header:END -->
@@ -315,6 +337,12 @@ def main():
             previous = re.sub(pattern, lambda m: fresh.group(0), previous, count=1, flags=re.S)
             if old_title and new_title and old_title.group(1) != new_title.group(1):
                 previous = previous.replace(old_title.group(1), new_title.group(1))
+            if item.get("search_title") and item.get("search_description"):
+                for metadata in (r"<title>.*?</title>", r'<meta name="description" content="[^"]*">'):
+                    fresh_metadata = re.search(metadata, html, re.S).group(0)
+                    previous, count = re.subn(metadata, lambda m: fresh_metadata, previous, count=1, flags=re.S)
+                    if count != 1:
+                        raise ValueError(f"検索用の情報が見つかりません: {out_path}")
             if item.get("content_updated_date"):
                 update = (f'<p class="content-updated">情報更新：{esc(item["content_updated_date"])}'
                           f' ／ 今回の確認範囲：{esc(item.get("update_scope", ""))}</p>')
@@ -336,3 +364,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

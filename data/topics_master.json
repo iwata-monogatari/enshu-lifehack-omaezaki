@@ -1,70 +1,77 @@
 [
  {
-  "href": "/life/education/after-school-club/",
-  "icon": "🎒",
-  "title": "放課後の預け先は、対象と申請時期を先に確認する",
-  "category": "学ぶ・育つ",
-  "synonyms": [
-   "放課後児童クラブ",
-   "学童",
-   "学童保育",
-   "放課後クラブ"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
-    "label": "子育てに関する支援"
+   "href": "/life/education/after-school-club/",
+   "icon": "🎒",
+   "title": "放課後の預け先は、対象と申請時期を先に確認する",
+   "category": "学ぶ・育つ",
+   "synonyms": [
+     "放課後児童クラブ",
+     "学童",
+     "学童保育",
+     "放課後クラブ",
+     "学童 申し込み",
+     "学童 受付",
+     "放課後児童クラブ 2027",
+     "浜岡 学童",
+     "白羽 学童"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_shien/index.html",
+       "label": "子育てに関する支援"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
+       "label": "小学校・中学校・高校"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
+       "label": "学校・園情報"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/index.html",
+       "label": "子育て・教育"
+     }
+   ],
+   "status": "ai-checked",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/jidoclub.html",
+       "label": "放課後児童クラブ",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/jidoclub.html",
+       "label": "放課後児童クラブ利用申請書(一式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.omaezakishakyo.jp/houkago_r8/",
+       "label": "令和9年度 放課後児童クラブの利用申込",
+       "confidence": "high",
+       "publisher": "御前崎市社会福祉協議会"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/famisupo.html",
+       "label": "ファミリー・サポート・センター",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "こども未来課（子育て支援係）／申込受付はふれあい福祉センターなごみ・浜岡福祉会館（御前崎市社会福祉協議会）",
+     "tel": "0537-85-1120",
+     "target": "市内公立小学校の1〜6年生（保護者の就労等で放課後の保育が必要な児童）",
+     "locations": "第一小学校・浜岡東小学校・浜岡北小学校・御前崎小学校・白羽小学校の5校区",
+     "hours": "通常授業日は下校時〜17時30分（承認により18時30分まで延長可）。学校休業日は7時30分〜17時30分",
+     "apply_period": "2027年度（令和9年度）の一斉受付は2026年11月2日（月）〜11月30日（月）です。期間後は随時受付（優先順位・空き状況に注意）。"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/shougakkou_cfuugakkou/index.html",
-    "label": "小学校・中学校・高校"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kyoiku/1014986/index.html",
-    "label": "学校・園情報"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/index.html",
-    "label": "子育て・教育"
-   }
-  ],
-  "status": "ai-checked",
-  "sources_omaezaki": [
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/jidoclub.html",
-    "label": "放課後児童クラブ",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/jidoclub.html",
-    "label": "放課後児童クラブ利用申請書(一式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.omaezakishakyo.jp/houkago_r8/",
-    "label": "令和9年度 放課後児童クラブの利用申込",
-    "confidence": "high",
-    "publisher": "御前崎市社会福祉協議会"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/ikuji_kyoikusodan/famisupo.html",
-    "label": "ファミリー・サポート・センター",
-    "confidence": "high"
-   }
-  ],
-  "facts": {
-   "window": "こども未来課（子育て支援係）／申込受付はふれあい福祉センターなごみ・浜岡福祉会館（御前崎市社会福祉協議会）",
-   "tel": "0537-85-1120",
-   "target": "市内公立小学校の1〜6年生（保護者の就労等で放課後の保育が必要な児童）",
-   "locations": "第一小学校・浜岡東小学校・浜岡北小学校・御前崎小学校・白羽小学校の5校区",
-   "hours": "通常授業日は下校時〜17時30分（承認により18時30分まで延長可）。学校休業日は7時30分〜17時30分",
-   "apply_period": "2027年度（令和9年度）の一斉受付は2026年11月2日（月）〜11月30日（月）です。期間後は随時受付（優先順位・空き状況に注意）。"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトと御前崎市社会福祉協議会サイトをWebFetchで確認。運営は社協委託で、申込受付窓口が市役所こども未来課ではなく「ふれあい福祉センターなごみ」「浜岡福祉会館」の2か所である点を確認済み。料金の具体的な金額は年度別PDFのため本文では概要のみ記載。",
-  "content_updated_date": "2026-11-21",
-  "update_scope": "令和9年度学童申込期間・受付場所・期間後の扱い"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "御前崎市公式サイトと御前崎市社会福祉協議会サイトをWebFetchで確認。運営は社協委託で、申込受付窓口が市役所こども未来課ではなく「ふれあい福祉センターなごみ」「浜岡福祉会館」の2か所である点を確認済み。料金の具体的な金額は年度別PDFのため本文では概要のみ記載。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "2027年度学童の一斉受付と申込書の確認先",
+   "search_title": "御前崎市の学童（放課後児童クラブ）｜申込み・受付窓口",
+   "search_description": "御前崎市の放課後児童クラブの申込先を案内。白羽と池新田の受付窓口、2027年度の募集案内、申込書と料金表の確認先を掲載します。"
  },
  {
   "href": "/life/education/educational-consulting/",
@@ -2066,68 +2073,75 @@
   "verified_by": "machine"
  },
  {
-  "href": "/life/family-grow/child-allowance/",
-  "icon": "👶",
-  "title": "児童手当を、申請忘れも期限切れもなく確実に受け取る。",
-  "category": "家族が増える",
-  "synonyms": [
-   "児童手当"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1001779.html",
-    "label": "児童手当"
+   "href": "/life/family-grow/child-allowance/",
+   "icon": "👶",
+   "title": "児童手当を、申請忘れも期限切れもなく確実に受け取る。",
+   "category": "家族が増える",
+   "synonyms": [
+     "児童手当",
+     "児童手当 申請",
+     "児童手当 いつ振込",
+     "児童手当 支給日",
+     "15日特例",
+     "児童手当 転入"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1001779.html",
+       "label": "児童手当"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/index.html",
+       "label": "子育てに関する手当・助成"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/faq/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1009319/1009322.html",
+       "label": "よくある質問（児童手当の申請者）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002383.html",
+       "label": "こども未来課のご案内"
+     }
+   ],
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
+       "label": "児童手当（御前崎市公式）",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/index.html",
+       "label": "こども未来課（御前崎市公式）",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
+       "label": "児童手当制度のご案内",
+       "publisher": "こども家庭庁"
+     },
+     {
+       "url": "https://lifedesign-information.cfa.go.jp/support-system/support-system02/",
+       "label": "児童手当の支援内容",
+       "publisher": "こども家庭庁"
+     }
+   ],
+   "facts": {
+     "window": "こども未来課（子育て支援係）",
+     "tel": "0537-85-1120",
+     "amount": "第1・2子は3歳未満が月額1万5,000円、3歳〜高校生年代が月額1万円。第3子以降は全年齢で月額3万円（所得制限なし）",
+     "deadline": "出生・転入から原則15日以内",
+     "payment": "年6回・偶数月15日"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kosodate_kyouiku/kosodate_hojo_josei_yuushi/index.html",
-    "label": "子育てに関する手当・助成"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/faq/kosodate_kyouiku/kosodate_hojo_josei_yuushi/1009319/1009322.html",
-    "label": "よくある質問（児童手当の申請者）"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/soshikiannai/soshikikikou/1002383.html",
-    "label": "こども未来課のご案内"
-   }
-  ],
-  "sources_omaezaki": [
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/teate/jidouteate.html",
-  "label": "児童手当（御前崎市公式）",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kodomomirai/index.html",
-  "label": "こども未来課（御前崎市公式）",
-  "confidence": "high"
- },
- {
-  "url": "https://www.cfa.go.jp/policies/kokoseido/jidouteate/annai",
-  "label": "児童手当制度のご案内",
-  "publisher": "こども家庭庁"
- },
- {
-  "url": "https://lifedesign-information.cfa.go.jp/support-system/support-system02/",
-  "label": "児童手当の支援内容",
-  "publisher": "こども家庭庁"
- }
-],
-  "facts": {
-   "window": "こども未来課（子育て支援係）",
-   "tel": "0537-85-1120",
-   "amount": "第1・2子は3歳未満が月額1万5,000円、3歳〜高校生年代が月額1万円。第3子以降は全年齢で月額3万円（所得制限なし）",
-   "deadline": "出生・転入から原則15日以内",
-   "payment": "年6回・偶数月15日"
-  },
-  "status": "machine-verified",
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトの児童手当ページをWebFetchで確認。支給額・申請期限・窓口（こども未来課0537-85-1120）を反映。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine",
-  "content_updated_date": "2026-11-21",
-  "update_scope": "児童手当の支給額・所得制限撤廃・現況届"
+   "status": "machine-verified",
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "御前崎市公式サイトの児童手当ページをWebFetchで確認。支給額・申請期限・窓口（こども未来課0537-85-1120）を反映。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "出生・転入時の15日特例と申請先、持ち物の確認先",
+   "search_title": "御前崎市の児童手当｜出生・転入後の申請、支給日・金額",
+   "search_description": "御前崎市の児童手当を出生・転入後に申請する期限と持ち物、振込日、支給額を案内。月末の15日特例と公務員の申請先も確認できます。"
  },
  {
   "href": "/life/family-grow/child-allowance-medical/",
@@ -6174,130 +6188,146 @@
   "verified_by": "machine"
  },
  {
-  "href": "/life/play-out/visit-library/",
-  "icon": "🌳",
-  "title": "図書館へ行く前に、開館日・利用カード・場所を確認する",
-  "category": "遊ぶ・使う・出かける",
-  "synonyms": [
-   "図書館"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.lib-iwata-shizuoka.jp/",
-    "label": "磐田市立図書館"
+   "href": "/life/play-out/visit-library/",
+   "icon": "🌳",
+   "title": "図書館へ行く前に、開館日・利用カード・場所を確認する",
+   "category": "遊ぶ・使う・出かける",
+   "synonyms": [
+     "図書館",
+     "アスパル",
+     "図書館アスパル",
+     "御前崎 図書館 開館時間",
+     "図書館 休館日",
+     "蔵書検索"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.lib-iwata-shizuoka.jp/",
+       "label": "磐田市立図書館"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
+       "label": "図書館・文化関連施設"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
+       "label": "施設ガイド"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
+       "label": "地図から探す"
+     }
+   ],
+   "status": "machine-verified",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html",
+       "label": "市立図書館アスパル",
+       "confidence": "high"
+     },
+     {
+       "url": "https://library.maotv.ne.jp/",
+       "label": "御前崎市立図書館公式サイト",
+       "confidence": "high"
+     },
+     {
+       "url": "https://library.maotv.ne.jp/contents?pid=14",
+       "label": "開館時間・休館日・アクセスマップ",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/hokennenkin/kokuminkenkohoken/3891.html",
+       "label": "国民健康保険の資格・マイナ保険証・資格確認書",
+       "confidence": "high"
+     },
+     {
+       "url": "https://library.maotv.ne.jp/info?pid=733",
+       "label": "蔵書点検休館のお知らせ（2026年11月19日〜26日）",
+       "publisher": "御前崎市立図書館アスパル"
+     }
+   ],
+   "facts": {
+     "window": "生涯学習課／市立図書館アスパル",
+     "tel": "0537-86-8181",
+     "location": "御前崎市池新田5560番地",
+     "hours": "火・金曜9時〜19時、水・木・土・日・祝日9時〜17時",
+     "closed": "毎週月曜（祝日は開館し翌火曜が休館）、毎月第4木曜（8月・12月は変更あり）、年末年始（12月28日〜1月4日）、特別整理期間が休館です。来館前に公式カレンダーを確認してください。"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/toshokan_bunka/index.html",
-    "label": "図書館・文化関連施設"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/index.html",
-    "label": "施設ガイド"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/map/index.html",
-    "label": "地図から探す"
-   }
-  ],
-  "status": "machine-verified",
-  "sources_omaezaki": [
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html",
-  "label": "市立図書館アスパル",
-  "confidence": "high"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "御前崎市公式サイトと図書館専用サイト（library.maotv.ne.jp）をWebFetchで確認。開館時間が曜日により異なる点、休館日ルールを確認済み。利用カード作成の詳細手順は公式ページに明記がなく、来館時の窓口確認を案内する形にした。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "図書館の開館時間・休館日・蔵書検索",
+   "search_title": "御前崎市立図書館アスパル｜開館時間・休館日・利用カード",
+   "search_description": "池新田の御前崎市立図書館アスパルの開館時間、休館日、蔵書検索、利用カードを作るときの確認先を案内します。"
  },
  {
-  "url": "https://library.maotv.ne.jp/",
-  "label": "御前崎市立図書館公式サイト",
-  "confidence": "high"
- },
- {
-  "url": "https://library.maotv.ne.jp/contents?pid=14",
-  "label": "開館時間・休館日・アクセスマップ",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/hokennenkin/kokuminkenkohoken/3891.html",
-  "label": "国民健康保険の資格・マイナ保険証・資格確認書",
-  "confidence": "high"
- },
- {
-  "url": "https://library.maotv.ne.jp/info?pid=733",
-  "label": "蔵書点検休館のお知らせ（2026年11月19日〜26日）",
-  "publisher": "御前崎市立図書館アスパル"
- }
-],
-  "facts": {
-   "window": "生涯学習課／市立図書館アスパル",
-   "tel": "0537-86-8181",
-   "location": "御前崎市池新田5560番地",
-   "hours": "火・金曜9時〜19時、水・木・土・日・祝日9時〜17時",
-   "closed": "毎週月曜（祝日は開館し翌火曜が休館）、毎月第4木曜（8月・12月は変更あり）、12月29日〜1月3日（1月4日が資料整理日になる場合あり）、特別整理期間が休館です。来館前に公式カレンダーを確認してください。"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトと図書館専用サイト（library.maotv.ne.jp）をWebFetchで確認。開館時間が曜日により異なる点、休館日ルールを確認済み。利用カード作成の詳細手順は公式ページに明記がなく、来館時の窓口確認を案内する形にした。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine",
-  "content_updated_date": "2026-11-21",
-  "update_scope": "受診・保険手続きの書類案内をマイナ保険証・資格確認書等へ更新／図書館の所在地・休館日・2026年11月の蔵書点検休館と学習支援の対象"
- },
- {
-  "href": "/life/start-living/bulky-garbage-dropoff/",
-  "icon": "🧭",
-  "title": "布団・家具・大きなごみを、自分で持ち込むか、取りに来てもらうか決める。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "粗大ごみ",
-   "粗大ごみ持ち込み"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/index.html",
-    "label": "ごみの持ち込み・リユース一覧"
+   "href": "/life/start-living/bulky-garbage-dropoff/",
+   "icon": "🧭",
+   "title": "布団・家具・大きなごみを、自分で持ち込むか、取りに来てもらうか決める。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "粗大ごみ",
+     "粗大ごみ持ち込み",
+     "環境保全センター",
+     "粗大ごみ 受付時間",
+     "粗大ごみ 戸別回収",
+     "ごみ 持ち込み 笠名",
+     "家具 処分"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/index.html",
+       "label": "ごみの持ち込み・リユース一覧"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001438.html",
+       "label": "可燃ごみの持ち込み"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001440.html",
+       "label": "金物・小型電化製品・有害ごみ・埋立ごみの持ち込み"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+       "label": "粗大ごみの戸別収集"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/kurashi/gomi_recycle/1003153.html",
+       "label": "施設ガイド 磐田市クリーンセンター"
+     }
+   ],
+   "status": "machine-verified",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
+       "label": "ごみを直接搬入する方へ(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/5726.html",
+       "label": "民間業者の粗大ごみ有料戸別回収について(御前崎市公式)",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "市民課(生活衛生係)",
+     "tel": "0537-85-1162",
+     "dropoff_facility": "牧之原市御前崎市広域施設組合環境保全センター(牧之原市笠名1212、電話0548-58-0044)",
+     "dropoff_hours": "月～金曜・第2/4日曜、午前8時30分～12時、午後1時～4時30分(祝日・土曜・第1/3/5日曜・年末年始は不可)",
+     "collectors": "御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MENの4社(有料戸別回収、料金は業者ごとに異なる)"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001438.html",
-    "label": "可燃ごみの持ち込み"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014173/1001440.html",
-    "label": "金物・小型電化製品・有害ごみ・埋立ごみの持ち込み"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
-    "label": "粗大ごみの戸別収集"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shisetsu_guide/kurashi/gomi_recycle/1003153.html",
-    "label": "施設ガイド 磐田市クリーンセンター"
-   }
-  ],
-  "status": "machine-verified",
-  "sources_omaezaki": [
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
-    "label": "ごみを直接搬入する方へ(御前崎市公式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html",
-    "label": "民間業者の粗大ごみ有料戸別回収について(御前崎市公式)",
-    "confidence": "high"
-   }
-  ],
-  "facts": {
-   "window": "市民課(生活衛生係)",
-   "tel": "0537-85-1162",
-   "dropoff_facility": "牧之原市御前崎市広域施設組合環境保全センター(牧之原市笠名1212、電話0548-58-0044)",
-   "dropoff_hours": "月～金曜・第2/4日曜、午前8時30分～12時、午後1時～4時30分(祝日・土曜・第1/3/5日曜・年末年始は不可)",
-   "collectors": "御前崎市シルバー人材センター、アドバンス中部サービス、カイセイ、3MENの4社(有料戸別回収、料金は業者ごとに異なる)"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "御前崎市公式サイトを直接WebFetchし、自己搬入先(牧之原市御前崎市広域施設組合環境保全センター)の所在地・電話・受付時間、戸別回収許可業者4社を確認。moving-outカテゴリの簡略記載より正式名称が判明。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "御前崎市公式サイトを直接WebFetchし、自己搬入先(牧之原市御前崎市広域施設組合環境保全センター)の所在地・電話・受付時間、戸別回収許可業者4社を確認。moving-outカテゴリの簡略記載より正式名称が判明。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "search_title": "御前崎市の粗大ごみ｜持ち込み場所・受付時間・戸別回収",
+   "search_description": "環境保全センター（牧之原市笠名）に粗大ごみを持ち込む受付日・時間と受付表を掲載。自分で運べないときは許可業者の有料戸別回収を確認できます。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "持ち込み受付・受付表・有料戸別回収"
  },
  {
   "href": "/life/start-living/certificates/",
@@ -6550,121 +6580,143 @@
   "update_scope": "2026年度の集合注射終了と注射済票の交付手数料"
  },
  {
-  "href": "/life/start-living/garbage-sorting-calendar/",
-  "icon": "🧭",
-  "title": "引っ越し先で、ごみを間違えずに出せるようにする。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "ごみの日",
-   "ごみカレンダー",
-   "分別"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
-    "label": "ごみ・リサイクル"
+   "href": "/life/start-living/garbage-sorting-calendar/",
+   "icon": "🧭",
+   "title": "引っ越し先で、ごみを間違えずに出せるようにする。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "ごみの日",
+     "ごみカレンダー",
+     "分別",
+     "収集日",
+     "家庭ごみ収集カレンダー",
+     "令和8年度 ごみ",
+     "浜岡 ごみカレンダー",
+     "佐倉 ごみ",
+     "白羽 ごみ",
+     "年末年始 ごみ"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
+       "label": "ごみ・リサイクル"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/index.html",
+       "label": "家庭ごみ分別ガイドブック・収集カレンダー"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1010512.html",
+       "label": "令和8年度 家庭ごみ収集カレンダー（地区別）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001444.html",
+       "label": "ごみ分別検索（しっぺいのゴミチェッカー）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
+       "label": "ごみの出し方・戸別収集"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/faq/kurashi_tetsuzuki/gomi_recycle/1000949.html",
+       "label": "カレンダー・ガイドブックの入手方法（よくある質問）"
+     }
+   ],
+   "status": "ai-checked",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
+       "label": "御前崎市のごみの出し方・家庭ごみ収集カレンダー(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/8/gomidasiru-ru_nihonngobann.pdf",
+       "label": "御前崎市のごみ出しルール・公式LINE案内（PDF）",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "市民課(生活衛生係)",
+     "tel": "0537-85-1162",
+     "app": "御前崎市公式LINEで収集カレンダー・分別を確認"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/index.html",
-    "label": "家庭ごみ分別ガイドブック・収集カレンダー"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1010512.html",
-    "label": "令和8年度 家庭ごみ収集カレンダー（地区別）"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001444.html",
-    "label": "ごみ分別検索（しっぺいのゴミチェッカー）"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
-    "label": "ごみの出し方・戸別収集"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/faq/kurashi_tetsuzuki/gomi_recycle/1000949.html",
-    "label": "カレンダー・ガイドブックの入手方法（よくある質問）"
-   }
-  ],
-  "status": "ai-checked",
-  "sources_omaezaki": [
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
-    "label": "御前崎市のごみの出し方・家庭ごみ収集カレンダー(御前崎市公式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/sodaigomi.html",
-    "label": "ごみ分別・カレンダー確認アプリ「5374.jp」御前崎市版(御前崎市公式)",
-    "confidence": "high"
-   }
-  ],
-  "facts": {
-   "window": "市民課(生活衛生係)",
-   "tel": "0537-85-1162",
-   "app": "5374.jp(御前崎市版)ゴミチェッカー"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "収集カレンダーのダウンロードページとゴミチェッカーアプリの案内ページをWebSearch/WebFetchで確認。"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "収集カレンダーのダウンロードページとゴミチェッカーアプリの案内ページをWebSearch/WebFetchで確認。",
+   "search_title": "御前崎市のごみ収集カレンダー｜地区別PDF・収集日",
+   "search_description": "浜岡・御前崎の地区別に、令和8年度のごみ収集カレンダーを探せます。集積所の収集日、出す時間、年度ごとの公式確認先を案内します。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "地区別の収集カレンダー・公式LINE・年末年始の確認先"
  },
  {
-  "href": "/life/start-living/how-to-garbage/",
-  "icon": "🧭",
-  "title": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "ごみの出し方"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
-    "label": "ごみ・資源循環（総合案内）"
+   "href": "/life/start-living/how-to-garbage/",
+   "icon": "🧭",
+   "title": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "ごみの出し方",
+     "可燃ごみ",
+     "ごみ 分別",
+     "指定袋",
+     "集積所",
+     "プラごみ",
+     "garbage sorting",
+     "lixo"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/index.html",
+       "label": "ごみ・資源循環（総合案内）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
+       "label": "ごみの出し方・戸別収集"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001445.html",
+       "label": "家庭ごみ分別ガイドブック"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1016364.html",
+       "label": "ごみ分別サイト（しっぺいのゴミチェッカー）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014940/1001450.html",
+       "label": "ごみ集積所の設置・変更"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
+       "label": "粗大ごみの戸別収集"
+     }
+   ],
+   "status": "machine-verified",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html",
+       "label": "家庭から出るごみの出し方について(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/index.html",
+       "label": "収集・分別(御前崎市公式)",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "市民課(生活衛生係)",
+     "tel": "0537-85-1162",
+     "sort_categories": "可燃物・ビニールプラスチック(マークあり)・ビニールプラスチック(マークなし)・金物・陶磁器・ペットボトル・ガラスの7区分",
+     "put_out_time": "収集当日の午前0時～午前8時"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/index.html",
-    "label": "ごみの出し方・戸別収集"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014449/1001445.html",
-    "label": "家庭ごみ分別ガイドブック"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1016364.html",
-    "label": "ごみ分別サイト（しっぺいのゴミチェッカー）"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/1014940/1001450.html",
-    "label": "ごみ集積所の設置・変更"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/1001449.html",
-    "label": "粗大ごみの戸別収集"
-   }
-  ],
-  "status": "machine-verified",
-  "sources_omaezaki": [
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/dashikata.html",
-    "label": "家庭から出るごみの出し方について(御前崎市公式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/gomi/gomi/shushubunbetsu/index.html",
-    "label": "収集・分別(御前崎市公式)",
-    "confidence": "high"
-   }
-  ],
-  "facts": {
-   "window": "市民課(生活衛生係)",
-   "tel": "0537-85-1162",
-   "sort_categories": "可燃物・ビニールプラスチック(マークあり)・ビニールプラスチック(マークなし)・金物・陶磁器・ペットボトル・ガラスの7区分",
-   "put_out_time": "収集当日の午前0時～午前8時"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "ごみの出し方ページをWebFetchし、7区分の分別ルールと出す時間帯を確認。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "ごみの出し方ページをWebFetchし、7区分の分別ルールと出す時間帯を確認。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "search_title": "御前崎市のごみの分別・出し方｜指定袋と集積所",
+   "search_description": "御前崎市で家庭ごみを集積所に出す時間と分別を確認できます。指定袋の使い方と、英語・ポルトガル語の公式案内も掲載。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "ごみ出しの多言語資料と収集日"
  },
  {
   "href": "/life/start-living/",
@@ -6762,68 +6814,78 @@
   "update_scope": "市公式電話一覧で確認済みの番号に残る未確認注記を解消"
  },
  {
-  "href": "/life/start-living/moving-address-change/",
-  "icon": "🧭",
-  "title": "引っ越しの住所変更を、転出証明書から順番どおりに片づける。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "転入届",
-   "住所変更"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html",
-    "label": "転入届"
+   "href": "/life/start-living/moving-address-change/",
+   "icon": "🧭",
+   "title": "引っ越しの住所変更を、転出証明書から順番どおりに片づける。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "転入届",
+     "住所変更",
+     "転居届",
+     "転出証明書",
+     "転入届 持ち物",
+     "転入届 14日",
+     "引っ越し 手続き",
+     "転入"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001317.html",
+       "label": "転入届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001319.html",
+       "label": "転居届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
+       "label": "転出届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/1014568/1014569.html",
+       "label": "引越し手続き一覧"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
+       "label": "マイナンバー関連手続き"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+       "label": "上下水道の手続き"
+     }
+   ],
+   "status": "machine-verified",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html",
+       "label": "転入届(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html",
+       "label": "転居届(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html",
+       "label": "転出届(御前崎市公式)",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "市民課(戸籍・住民記録係)",
+     "tel": "0537-85-1117",
+     "deadline": "転入・転居は住み始めてから14日以内、転出は予定日のおおむね14日前から"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001319.html",
-    "label": "転居届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koseki_juuminhyou_inkan/todokede/1001318.html",
-    "label": "転出届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/1014568/1014569.html",
-    "label": "引越し手続き一覧"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/mynumber/index.html",
-    "label": "マイナンバー関連手続き"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
-    "label": "上下水道の手続き"
-   }
-  ],
-  "status": "machine-verified",
-  "sources_omaezaki": [
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tennyu.html",
-    "label": "転入届(御前崎市公式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tenkyo.html",
-    "label": "転居届(御前崎市公式)",
-    "confidence": "high"
-   },
-   {
-    "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/kosekiju/jumin/hikkoshi/tensyutsu.html",
-    "label": "転出届(御前崎市公式)",
-    "confidence": "high"
-   }
-  ],
-  "facts": {
-   "window": "市民課(戸籍・住民記録係)",
-   "tel": "0537-85-1117",
-   "deadline": "転入・転居は住み始めてから14日以内、転出は予定日のおおむね14日前から"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "転入・転居・転出の3ページをそれぞれWebFetchで確認し、届出期間・必要書類の違いを整理。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "転入・転居・転出の3ページをそれぞれWebFetchで確認し、届出期間・必要書類の違いを整理。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "search_title": "御前崎市の転入届・転居届・転出届｜期限と持ち物",
+   "search_description": "御前崎市での引っ越しに必要な住所変更を、転入・市内転居・転出に分けて案内。届出期限、本人確認書類、引っ越し後の水道・ごみの確認先を掲載します。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "住所変更の期限・公式様式・引っ越し後の手続き"
  },
  {
   "href": "/life/start-living/mynumber/",
@@ -6950,80 +7012,87 @@
   "update_scope": "公式リンクの現行URLへの更新"
  },
  {
-  "href": "/life/start-living/public-transit/",
-  "icon": "🧭",
-  "title": "車に頼らない日の移動を、オンモビ・路線バスで考える。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "バス",
-   "公共交通",
-   "オンモビ",
-   "OM mobi.",
-   "乗合タクシー",
-   "電車への乗継"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
-    "label": "交通（全体）"
+   "href": "/life/start-living/public-transit/",
+   "icon": "🧭",
+   "title": "車に頼らない日の移動を、オンモビ・路線バスで考える。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "バス",
+     "公共交通",
+     "オンモビ",
+     "OM mobi.",
+     "乗合タクシー",
+     "電車への乗継",
+     "オンモビ 予約",
+     "オンモビ 電話",
+     "オンモビ 運賃",
+     "デマンド交通",
+     "御前崎 乗合タクシー"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/index.html",
+       "label": "交通（全体）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1001578.html",
+       "label": "民間路線バス（遠州鉄道）"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1016044/index.html",
+       "label": "自主運行バス"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/1001580.html",
+       "label": "デマンド型乗合タクシー お助け号"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/index.html",
+       "label": "自動車・タクシー"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/keikaku/kurashi_tetsuzuki/1012136.html",
+       "label": "磐田市地域公共交通計画"
+     }
+   ],
+   "status": "ai-checked",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
+       "label": "御前崎市AIオンデマンド交通の実証運行(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html",
+       "label": "オンモビの使い方解説(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/1/gide101.pdf",
+       "label": "OM mobi. 市内全域版ガイドブック（運賃・予約）",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11502.html",
+       "label": "OM mobi. ドアtoドアユーザー登録",
+       "confidence": "high"
+     }
+   ],
+   "facts": {
+     "window": "企画政策課",
+     "tel": "0537-85-1161(企画政策課)/0120-74-7175(OM mobi.コールセンター)",
+     "service_name": "AIオンデマンド交通「OM mobi.(オンモビ)」(令和7年10月実証運行開始)",
+     "area": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。",
+     "om_mobi_area": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。",
+     "om_mobi_booking": "電話予約は無料0120-74-7175（有料0570-02-3503も利用可、毎日8時〜17時）、アプリ・Web予約は24時間受付です。利用日の14日前から1時間前まで予約できます。予約時に乗車人数・乗降場所を確認してください。"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1001578.html",
-    "label": "民間路線バス（遠州鉄道）"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/1016044/index.html",
-    "label": "自主運行バス"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/1001580.html",
-    "label": "デマンド型乗合タクシー お助け号"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/koutsuu/jidousha_taxi/index.html",
-    "label": "自動車・タクシー"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/shiseijouhou/keikaku/kurashi_tetsuzuki/1012136.html",
-    "label": "磐田市地域公共交通計画"
-   }
-  ],
-  "status": "ai-checked",
-  "sources_omaezaki": [
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
-  "label": "御前崎市AIオンデマンド交通の実証運行(御前崎市公式)",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11248.html",
-  "label": "オンモビの使い方解説(御前崎市公式)",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/material/files/group/1/gide101.pdf",
-  "label": "OM mobi. 市内全域版ガイドブック（運賃・予約）",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/11502.html",
-  "label": "OM mobi. ドアtoドアユーザー登録",
-  "confidence": "high"
- }
-],
-  "facts": {
-   "window": "企画政策課",
-   "tel": "0537-85-1161(企画政策課)/0120-74-7175(OM mobi.コールセンター)",
-   "service_name": "AIオンデマンド交通「OM mobi.(オンモビ)」(令和7年10月実証運行開始)",
-   "area": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。",
-   "om_mobi_area": "2026年10月1日から、朝比奈・新野・高松を含む御前崎市内全域で運行しています。",
-   "om_mobi_booking": "電話予約は無料0120-74-7175（有料0570-02-3503も利用可、毎日8時〜17時）、アプリ・Web予約は24時間受付です。利用日の14日前から1時間前まで予約できます。予約時に乗車人数・乗降場所を確認してください。"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "living-soonカテゴリの調査結果を踏まえ、OM mobi.の予約方法・運行時間・対象地区を公式ページのWebFetchで再確認。自主運行バスは2025年9月30日で運行休止済み。",
-  "content_updated_date": "2026-11-21",
-  "update_scope": "オンモビ全域運行・料金・無料予約番号・予約期間"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "living-soonカテゴリの調査結果を踏まえ、OM mobi.の予約方法・運行時間・対象地区を公式ページのWebFetchで再確認。自主運行バスは2025年9月30日で運行休止済み。",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "オンモビの予約先と乗車場所",
+   "search_title": "御前崎市のオンモビ（OM mobi.）｜予約・運賃・バスの乗継",
+   "search_description": "乗合タクシー「オンモビ」の電話・Web予約、運賃、停留所を確認。御前崎市内の移動と路線バスの乗継を案内します。"
  },
  {
   "href": "/life/start-living/resident-registration/",
@@ -7153,79 +7222,86 @@
   "verified_by": "machine"
  },
  {
-  "href": "/life/start-living/water-start-stop-fees/",
-  "icon": "🧭",
-  "title": "引っ越し日に水が出ない、を防ぐ。水道の届け出を3営業日前までに。",
-  "category": "暮らし始めた",
-  "synonyms": [
-   "水道開始",
-   "水道停止"
-  ],
-  "tier": "common",
-  "source_iwata": [
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
-    "label": "上下水道に関する届け出"
+   "href": "/life/start-living/water-start-stop-fees/",
+   "icon": "🧭",
+   "title": "引っ越し日に水が出ない、を防ぐ。水道の届け出を3営業日前までに。",
+   "category": "暮らし始めた",
+   "synonyms": [
+     "水道開始",
+     "水道停止",
+     "水道 開栓",
+     "水道 閉栓",
+     "水道 引っ越し",
+     "水道 使用開始",
+     "水道 お客さまセンター"
+   ],
+   "tier": "common",
+   "source_iwata": [
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/index.html",
+       "label": "上下水道に関する届け出"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004278.html",
+       "label": "水道使用開始届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004279.html",
+       "label": "水道使用中止届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1014285.html",
+       "label": "水道使用中止同時使用開始届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1014283.html",
+       "label": "上下水道料金センターインターネット受付"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004280.html",
+       "label": "水道料金の請求先等変更届"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001536.html",
+       "label": "水道料金・下水道使用料など"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001532.html",
+       "label": "料金などのお支払い方法"
+     },
+     {
+       "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
+       "label": "上下水道（総合案内）"
+     }
+   ],
+   "status": "machine-verified",
+   "sources_omaezaki": [
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
+       "label": "水道使用開始・中止(開栓・閉栓)について(御前崎市公式)",
+       "confidence": "high"
+     },
+     {
+       "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/faq/kaiheisen.html",
+       "label": "開閉栓FAQ（現行開始・中止ページと記載差あり）",
+       "publisher": "御前崎市公式"
+     }
+   ],
+   "facts": {
+     "window": "上下水道お客さまセンター",
+     "tel": "0120-005-335",
+     "deadline": "開栓・閉栓希望日の3営業日前までに申請",
+     "hours": "平日8時15分～17時(土日祝日・年末年始は受付なし)",
+     "application_method": "窓口・FAX。2026年11月24日の公式開始・中止ページはWEB停止中のため電話申込みを案内。復旧・受付方法はセンターへ確認。"
    },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004278.html",
-    "label": "水道使用開始届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004279.html",
-    "label": "水道使用中止届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1014285.html",
-    "label": "水道使用中止同時使用開始届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1014283.html",
-    "label": "上下水道料金センターインターネット受付"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1005582/1004280.html",
-    "label": "水道料金の請求先等変更届"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001536.html",
-    "label": "水道料金・下水道使用料など"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/jousuidou/1001532.html",
-    "label": "料金などのお支払い方法"
-   },
-   {
-    "url": "https://www.city.iwata.shizuoka.jp/kurashi_tetsuzuki/jougesuidou/index.html",
-    "label": "上下水道（総合案内）"
-   }
-  ],
-  "status": "machine-verified",
-  "sources_omaezaki": [
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
-  "label": "水道使用開始・中止(開栓・閉栓)について(御前崎市公式)",
-  "confidence": "high"
- },
- {
-  "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/faq/kaiheisen.html",
-  "label": "開閉栓FAQ（現行開始・中止ページと記載差あり）",
-  "publisher": "御前崎市公式"
- }
-],
-  "facts": {
-   "window": "上下水道お客さまセンター",
-   "tel": "0120-005-335",
-   "deadline": "開栓・閉栓希望日の3営業日前までに申請",
-   "hours": "平日8時15分～17時(土日祝日・年末年始は受付なし)",
-   "application_method": "窓口・FAX。2026年11月21日の公式開始・中止ページはWEB停止中のため電話申込みを案内。復旧・受付方法はセンターへ確認。"
-  },
-  "ai_checked_date": "2026-07-04",
-  "ai_notes": "水道使用開始・中止ページをWebFetchし、申請方法(電話/ファックス/Web)、3営業日前という期限、受付時間を確認。moving-outカテゴリの既存調査と整合。",
-  "verified_date": "2026-07-04",
-  "verified_by": "machine",
-  "content_updated_date": "2026-11-21",
-  "update_scope": "水道の開始・中止受付方法とWEBメンテナンスの案内"
+   "ai_checked_date": "2026-07-04",
+   "ai_notes": "水道使用開始・中止ページをWebFetchし、申請方法(電話/ファックス/Web)、3営業日前という期限、受付時間を確認。moving-outカテゴリの既存調査と整合。",
+   "verified_date": "2026-07-04",
+   "verified_by": "machine",
+   "content_updated_date": "2026-11-24",
+   "update_scope": "水道を使い始める・止めるときの申込先",
+   "search_title": "御前崎市の水道｜使用開始・中止は3営業日前まで",
+   "search_description": "御前崎市で引っ越すときの水道の開栓・閉栓、受付窓口、電話番号、申込み期限を案内。住所変更とは別に申し込みます。"
  },
  {
   "href": "/life/troubles-consult/animal-pet-consultation/",

@@ -49,7 +49,7 @@ function main() {
       return {
         href: topic.href,
         icon: topic.icon,
-        title: topic.title,
+        title: topic.search_title || topic.title,
         category: topic.category,
         synonyms: topic.synonyms || [],
         lead,
@@ -79,3 +79,4 @@ function main() {
 }
 
 main();
+

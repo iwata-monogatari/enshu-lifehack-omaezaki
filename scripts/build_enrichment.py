@@ -65,7 +65,8 @@ def guide(g):
   sections.append(f'<section class="guide-section" id="{sid}"><h2>{esc(s["heading"])}</h2>{body}</section>')
  qs=g.get('questions',g.get('qa',[]));qa=''
  if qs:qa='<section><h2>よくある質問</h2><div class="filter-results">'+''.join(f'<details><summary>{esc(q["question"])}</summary><p class="answer">{esc(q["answer"])}</p></details>' for q in qs)+'</div></section>'
- related=[{'href':h,'label':TOPIC.get(h,{}).get('title',next((x['title'] for x in GUIDES if x['href']==h),'関連する案内'))} for h in g.get('related',[]) if h in TOPIC or any(x['href']==h for x in GUIDES)]
+ labels={**{h:t.get('search_title',t['title']) for h,t in TOPIC.items()},**{x['href']:x['title'] for x in GUIDES}}
+ related=[{'href':h,'label':labels[h]} for h in g.get('related',[]) if h in labels]
  body=(photo(g['image']) if g.get('image') else '')+f'<div class="guide-layout"><article>'+(''.join(sections))+qa+(f'<h2>次に確認すること</h2>{linklist(related)}' if related else '')+sources(g['sources'], checked)+f'</article><aside class="guide-aside"><h2>このページで分かること</h2><nav>{"".join(toc)}</nav><p class="mini">確認：{esc(checked)}</p></aside></div>'
  write(href,page(href,g['title'],g['lead'],body,g['category'],g.get('icon','📖')))
  manifest[-1]['synonyms']=g.get('keywords',[])+g.get('tags',[])+[s['heading'] for s in g['sections']]
@@ -134,7 +135,7 @@ def main():
   for q in row.get('qa',[]):
    key=(re.sub(r'\s+','',q['question']),re.sub(r'\s+','',q['answer']))
    if key in seen:continue
-   seen.add(key);questions.append({'question':q['question'],'answer':q['answer'],'topic':t['title'],'href':href,'category':t['category'],'dateLabel':('更新：'+t['content_updated_date']+'（確認範囲は元ページに記載）' if t.get('content_updated_date') else '確認日と対象条件は元の案内をご確認ください。')})
+   seen.add(key);questions.append({'question':q['question'],'answer':q['answer'],'topic':t.get('search_title',t['title']),'href':href,'category':t['category'],'dateLabel':('更新：'+t['content_updated_date']+'（確認範囲は元ページに記載）' if t.get('content_updated_date') else '確認日と対象条件は元の案内をご確認ください。')})
  for g in GUIDES:
   for q in g.get('questions',g.get('qa',[])):questions.append({'question':q['question'],'answer':'<p>'+esc(q['answer'])+'</p>','topic':g['title'],'href':g['href'],'category':g['category'],'dateLabel':'確認：'+DATE})
  (ROOT/'data/questions-index.json').write_text(json.dumps(questions,ensure_ascii=False),encoding='utf-8')
@@ -163,7 +164,18 @@ def main():
  community=marker('community-links')
  hero=f'<section class="enrich-hero"><div class="hero-copy"><p class="kicker">海のまち、御前崎の暮らしとお出かけ</p><h1>御前崎を知る。<br><span>暮らしの疑問に、</span><span>答えを。</span></h1><p>市役所の手続きから、親の介護、子どもの預け先、週末のお出かけまで。知りたいことを、次の行動につながる案内にまとめました。</p><div class="hero-actions"><a href="/guide/">暮らしのガイドを探す</a><a class="secondary" href="/discover/">御前崎を知る</a></div></div><figure><img src="/assets/omaezaki/lighthouse.webp" alt="夕暮れに明かりがともる御前埼灯台" width="800" height="1200" fetchpriority="high"><figcaption>写真：御前崎市／CC BY 4.0・<a href="/about/">出典と加工内容</a></figcaption></figure></section>'
  urgent='<section class="urgent-strip"><h2>急いでいるとき</h2><div class="urgent-links"><a href="tel:119">緊急時は119番</a><a href="/life/emergency/emergency-medical/">救急相談・夜間診療</a><a href="/life/emergency/evacuation-hazard-map/">避難所・ハザード</a><a href="/life/emergency/road-river-info/">道路・河川情報</a></div><p>命に関わるときは119番。避難の必要があるときは、情報を探すより安全確保を優先してください。</p></section>'
- search='<section class="site-search" aria-labelledby="search-title"><label id="search-title" for="site-search-input">調べたいことは何ですか？</label><form class="search-row" role="search" action="/" method="get" onsubmit="return iwataSiteSearch(event)"><input type="search" id="site-search-input" name="q" placeholder="例：オンモビ、子どもを預けたい、補聴器、灯台"><button type="submit">探す</button></form><p class="mini">暮らしの案内と地域ガイドを、同じ検索から探せます。</p><div id="search-results" class="search-results" aria-live="polite"></div></section>'
+ shortcuts=[
+  ('/life/start-living/garbage-sorting-calendar/','地区別ごみカレンダー'),
+  ('/life/start-living/bulky-garbage-dropoff/','粗大ごみの持ち込み'),
+  ('/life/start-living/public-transit/','オンモビの予約・運賃'),
+  ('/life/play-out/visit-library/','図書館アスパルの開館日'),
+  ('/life/family-grow/child-allowance/','児童手当の申請'),
+  ('/life/education/after-school-club/','学童の申込み'),
+  ('/life/start-living/moving-address-change/','引っ越しの住所変更'),
+  ('/life/start-living/water-start-stop-fees/','水道の開始・中止'),
+ ]
+ quick_links='<nav class="hero-actions" aria-label="暮らしの手続き・施設へ直接進む">'+''.join(f'<a href="{esc(href)}">{esc(label)}</a>' for href,label in shortcuts)+'</nav>'
+ search='<section class="site-search" aria-labelledby="search-title"><label id="search-title" for="site-search-input">調べたいことは何ですか？</label><form class="search-row" role="search" action="/" method="get" onsubmit="return iwataSiteSearch(event)"><input type="search" id="site-search-input" name="q" placeholder="例：オンモビ、子どもを預けたい、補聴器、灯台"><button type="submit">探す</button></form><div id="search-results" class="search-results" aria-live="polite"></div>'+quick_links+'</section>'
  feature='<div class="section-heading"><h2>目的から探す</h2></div><div class="browse-grid">'+card('/discover/','遊び・食・景色を楽しむ','灯台、海辺、公園、食と買物。行く前に知りたいことを整理。',image='dunes')+card('/guide/care-consultation-route/','親・実家のことを考える','離れて暮らす家族の相談、介護の申請、住まいを確認。','🏡')+card('/life/living-soon/want-to-live/','御前崎で暮らす','移住の支援、交通、子育て。家族の生活に合わせて確かめる。',image='tea-fields')+'</div>'
  home_updates = [u for u in current_updates if u.get('home')]
  update_cards = ''.join(
@@ -184,3 +196,4 @@ def main():
  (ROOT/'data/enrichment-pages.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps({'extra_pages':len(manifest),'guides':len(GUIDES),'questions':len(questions),'places':len(places),'checklists':len(CHECKLISTS)},ensure_ascii=False))
 if __name__=='__main__':main()
+

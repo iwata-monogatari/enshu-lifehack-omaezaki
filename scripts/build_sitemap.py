@@ -18,10 +18,12 @@ def main():
     if extra_file.exists():
         urls += [t['href'] for t in json.loads(extra_file.read_text(encoding='utf-8'))]
     urls = list(dict.fromkeys(urls))
+    modified = {t['href']: t['content_updated_date'] for t in published if t.get('content_updated_date')}
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
-        lines.append(f'<url><loc>{SITE}{u}</loc></url>')
+        lastmod = f'<lastmod>{modified[u]}</lastmod>' if u in modified else ''
+        lines.append(f'<url><loc>{SITE}{u}</loc>{lastmod}</url>')
     lines.append('</urlset>')
     out = ROOT / 'sitemap.xml'
     out.write_text('\n'.join(lines) + '\n', encoding='utf-8')
@@ -29,3 +31,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

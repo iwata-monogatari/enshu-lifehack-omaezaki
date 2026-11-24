@@ -607,6 +607,7 @@
       }
     ],
     "related": [
+      "/life/start-living/moving-address-change/",
       "/life/start-living/water-start-stop-fees/",
       "/life/moving-out/stop-water/"
     ],
@@ -1662,6 +1663,7 @@
     ],
     "icon": "🗺️",
     "related": [
+      "/life/play-out/visit-library/",
       "/life/living-soon/transportation/"
     ],
     "keywords": []
@@ -1790,7 +1792,7 @@
   },
   {
     "slug": "seasons-and-events",
-    "title": "御前崎の季節とイベントを確認する",
+    "title": "御前崎の年末年始・季節のイベント｜ごみ・休館・交通",
     "sections": [
       {
         "heading": "年末年始のごみ・休館・交通",
@@ -1804,8 +1806,8 @@
         ],
         "links": [
           {
-            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
-            "label": "地区別ごみ収集カレンダー"
+            "url": "/life/start-living/garbage-sorting-calendar/",
+            "label": "地区別ごみ収集カレンダー（公式PDFを探す）"
           },
           {
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
@@ -1967,7 +1969,7 @@
     ],
     "checked": "2026-11-24",
     "href": "/discover/seasons-and-events/",
-    "lead": "今季の日付が出た案内と、例年の見どころを分けて探します。",
+    "lead": "御前崎市の年末年始のごみ収集、施設の休館日、オンモビの運行を確認できます。開催日が決まった催しと、例年の見どころも掲載します。",
     "category": "御前崎を知る",
     "questions": [
       {
@@ -1981,9 +1983,18 @@
     ],
     "icon": "🗺️",
     "related": [
+      "/life/start-living/garbage-sorting-calendar/",
+      "/life/start-living/bulky-garbage-dropoff/",
+      "/life/play-out/visit-library/",
+      "/life/start-living/public-transit/",
       "/life/living-soon/transportation/"
     ],
-    "keywords": []
+    "keywords": [
+      "御前崎 年末年始",
+      "ごみ 年末年始",
+      "休館 年末年始",
+      "オンモビ 年末年始"
+    ]
   },
   {
     "slug": "nuclear-disaster-preparation",
