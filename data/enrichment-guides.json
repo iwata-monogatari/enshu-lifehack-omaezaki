@@ -877,7 +877,7 @@
         "heading": "砂丘へ行く日を選ぶ",
         "paragraphs": [
           "浜岡砂丘は池新田の海岸にあり、砂丘入口付近には駐車場があります。冬の風が砂の模様をつくることもありますが、強風の日は飛砂を受けます。風景を見る散策と海水浴は別の計画として、海況を確かめてください。",
-          "浜岡砂丘の1975年の航空写真には、砂丘と遠州灘の海岸線が写っています。散策前に、空から見た地形も確かめられます。"
+          "1975年に上空から撮影した一枚では、砂丘に沿う林や内陸側の畑を確かめられます。"
         ],
         "bullets": [],
         "links": [
@@ -889,6 +889,16 @@
             "href": "https://omaezakialb.atawi.link/features/aerial/",
             "label": "御前崎・浜岡の昔の航空写真",
             "track": "photo_album_aerial"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/photos/commons-35910401/",
+            "label": "1975年の浜岡砂丘を写真で見る",
+            "track": "photo_album_hamaoka_dunes_1975"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/features/hamaoka/",
+            "label": "砂丘や池新田の道を、旧浜岡町の写真で見る",
+            "track": "photo_album_hamaoka"
           }
         ]
       },
@@ -1099,7 +1109,8 @@
       {
         "heading": "海の景色か、里山の遊びか",
         "paragraphs": [
-          "海辺ならマリンパーク御前崎の芝生や遊具、内陸ならあらさわふる里公園の芝すべりやビオトープが候補です。海に入らず園地だけで過ごす計画もできます。あらさわは買い物・食事も組み合わせられますが、利用する施設ごとの営業条件を確認してください。"
+          "海辺ならマリンパーク御前崎の芝生や遊具、内陸ならあらさわふる里公園の芝すべりやビオトープが候補です。海に入らず園地だけで過ごす計画もできます。あらさわは買い物・食事も組み合わせられますが、利用する施設ごとの営業条件を確認してください。",
+          "2014年のマリンパーク御前崎には、広い芝生と風車が写っています。"
         ],
         "bullets": [],
         "links": [
@@ -1110,6 +1121,11 @@
           {
             "label": "あらさわふる里公園",
             "url": "https://www.city.omaezaki.shizuoka.jp/kanko/play_experience/10264.html"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/photos/commons-35584982/",
+            "label": "マリンパーク御前崎の芝生と風車の写真を見る",
+            "track": "photo_album_marine_park_photo"
           }
         ]
       },
@@ -1343,7 +1359,8 @@
       {
         "heading": "農業体験と茶の歴史は別の計画に",
         "paragraphs": [
-          "門屋ふれあい観光農園のトウモロコシは例年6月上旬〜7月中旬の収穫時季に紹介されています。翌季の実施・予約は確認が必要です。茶産地の背景を知りたい場合は丸尾記念館へ。土日開館なので、買い物と同じ日に立ち寄る際は曜日を合わせます。"
+          "門屋ふれあい観光農園のトウモロコシは例年6月上旬〜7月中旬の収穫時季に紹介されています。翌季の実施・予約は確認が必要です。茶産地の背景を知りたい場合は丸尾記念館へ。土日開館なので、買い物と同じ日に立ち寄る際は曜日を合わせます。",
+          "白羽の茶畑を写した写真では、緑の畝と防霜ファンが並ぶ風景を見られます。"
         ],
         "bullets": [],
         "links": [
@@ -1354,6 +1371,16 @@
           {
             "label": "丸尾記念館",
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/maruokinenkan.html"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/photos/commons-103894779/",
+            "label": "白羽に広がる茶畑の写真を見る",
+            "track": "photo_album_shirowa_tea_photo"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/features/shirowa/",
+            "label": "茶畑・神社・海岸を白羽の写真でたどる",
+            "track": "photo_album_shirowa"
           }
         ]
       }
@@ -1418,7 +1445,8 @@
       {
         "heading": "桜ヶ池と池宮神社",
         "paragraphs": [
-          "桜ヶ池は龍神の伝承と、お櫃納めで知られる場所です。池宮神社と一緒に歩くと、地域で受け継がれる信仰と景観をたどれます。伝承は物語として紹介し、実証された歴史と混同しないように読み進めると理解が深まります。"
+          "桜ヶ池は龍神の伝承と、お櫃納めで知られる場所です。池宮神社と一緒に歩くと、地域で受け継がれる信仰と景観をたどれます。伝承は物語として紹介し、実証された歴史と混同しないように読み進めると理解が深まります。",
+          "古写真には、お櫃納めの支度や、櫃を持って池に入る人たちの姿が残っています。"
         ],
         "bullets": [],
         "links": [
@@ -1429,19 +1457,30 @@
           {
             "label": "池宮神社",
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/ikemiyajinjya.html"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/features/sakuragaike/",
+            "label": "桜ヶ池のお櫃納めの古写真",
+            "track": "photo_album_sakuragaike"
           }
         ]
       },
       {
         "heading": "新野の歴史をたどる",
         "paragraphs": [
-          "左馬武神社は新野左馬助を祀る神社です。市の紹介を読み、井伊家と新野地域とのつながりを知ってから訪ねると、単なる立ち寄りを地域史の散策へ広げられます。祭りの実施日や参拝の特別な案内は主催者の当年情報で確認しましょう。"
+          "左馬武神社は新野左馬助を祀る神社です。市の紹介を読み、井伊家と新野地域とのつながりを知ってから訪ねると、単なる立ち寄りを地域史の散策へ広げられます。祭りの実施日や参拝の特別な案内は主催者の当年情報で確認しましょう。",
+          "新野の道と山並みは、旧浜岡町の写真特集でも見られます。"
         ],
         "bullets": [],
         "links": [
           {
             "label": "左馬武神社",
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/samatakejinjya.html"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/features/hamaoka/",
+            "label": "旧浜岡町の写真（池新田・佐倉・新野）",
+            "track": "photo_album_hamaoka"
           }
         ]
       },
@@ -1465,24 +1504,18 @@
       {
         "heading": "町並みの移り変わりを写真で知る",
         "paragraphs": [
-          "桜ヶ池のお櫃納めの古写真には、米を洗う人や、櫃を持って池へ向かう人たちが写っています。佐倉や新野の風景も、旧浜岡町の写真でたどれます。",
           "昭和の御前崎の資料では、村役場の写真と、岬や浜岡砂丘を写した空中写真から、町の位置や当時の建物をたどれます。"
         ],
         "links": [
           {
-            "href": "https://omaezakialb.atawi.link/features/sakuragaike/",
-            "label": "桜ヶ池のお櫃納めの古写真",
-            "track": "photo_album_sakuragaike"
-          },
-          {
-            "href": "https://omaezakialb.atawi.link/features/hamaoka/",
-            "label": "旧浜岡町の写真（池新田・佐倉・新野）",
-            "track": "photo_album_hamaoka"
-          },
-          {
             "href": "https://omaezakialb.atawi.link/features/showa/",
             "label": "昭和の御前崎・浜岡の写真",
             "track": "photo_album_showa"
+          },
+          {
+            "href": "https://omaezakialb.atawi.link/features/old-photos/",
+            "label": "御前崎の古写真・絵葉書を見る",
+            "track": "photo_album_old_photos"
           }
         ]
       }
