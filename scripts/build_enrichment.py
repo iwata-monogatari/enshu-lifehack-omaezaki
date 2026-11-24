@@ -26,11 +26,26 @@ def page(href,title,lead,body,category='暮らしガイド',icon='📖',home=Fal
  # Footer source already contains the shared analytics tag. Do not add a second copy.
  return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | 御前崎ライフハック</title><meta name="description" content="{esc(lead)}"><link rel="canonical" href="{SITE}{href}"><link rel="icon" href="/favicon.svg" type="image/svg+xml">{marker('head-css')}<meta property="og:type" content="website"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(lead)}"><meta property="og:url" content="{SITE}{href}"></head><body class="{classes}"><a class="skip-link" href="#main-content">本文へ進む</a>{marker('header')}{marker('disclaimer')}<main id="main-content"><div class="wrap">{intro}{body}</div></main><nav class="enrichment-footer-nav" aria-label="主な案内"><div class="wrap">{navlinks()}<a href="/about/">運営者・編集方針</a></div></nav>{footer}<script type="module" src="/assets/enrichment.js?v=20261121b"></script>{'<script type="module" src="/assets/search-app.js"></script>' if home else ''}</body></html>'''
 def linklist(links):
- return '<ul class="link-list">'+''.join(f'<li><a href="{esc(x["href"])}">{esc(x["label"])}</a></li>' for x in links)+'</ul>'
+ def item(link):
+  tracked = f' data-track-click="{esc(link["track"])}"' if link.get('track') else ''
+  return f'<li><a href="{esc(link["href"])}"{tracked}>{esc(link["label"])}</a></li>'
+ return '<ul class="link-list">' + ''.join(item(link) for link in links) + '</ul>'
 def card(href,title,text='',icon='📖',eyebrow='',image=None):
  return f'<a class="browse-card" href="{esc(href)}">'+(f'<img src="/assets/omaezaki/{image}.webp" alt="" width="600" height="400" loading="lazy">' if image else f'<span class="card-icon" aria-hidden="true">{icon}</span>')+(f'<span class="eyebrow">{esc(eyebrow)}</span>' if eyebrow else '')+f'<h3>{esc(title)}</h3><p>{esc(text)}</p><span class="card-action">詳しく見る</span></a>'
 def album_note():
- return '<section class="answer-first" id="photo-memories"><h2>写真でたどる、御前崎の記憶</h2><p>灯台へ向かう道、港の仕事、浜岡の町並み。いま出かけたい場所の昔の姿を、<a href="https://omaezakialb.atawi.link/">御前崎懐かし写真館</a>で見てみませんか。地名や年代から写真を探し、一枚ごとの出典もたどれます。</p></section>'
+ links = [
+  {"href":"https://omaezakialb.atawi.link/features/cape/","label":"御前埼灯台の昔の写真","track":"photo_album_cape"},
+  {"href":"https://omaezakialb.atawi.link/features/old-photos/","label":"御前崎の古写真・絵葉書","track":"photo_album_old_photos"},
+  {"href":"https://omaezakialb.atawi.link/features/hamaoka/","label":"旧浜岡町の写真（池新田・佐倉・新野）","track":"photo_album_hamaoka"},
+  {"href":"https://omaezakialb.atawi.link/features/port/","label":"御前崎港の昔の写真","track":"photo_album_port"},
+  {"href":"https://omaezakialb.atawi.link/features/aerial/","label":"御前崎・浜岡の昔の航空写真","track":"photo_album_aerial"},
+  {"href":"https://omaezakialb.atawi.link/features/sakuragaike/","label":"桜ヶ池のお櫃納めの古写真","track":"photo_album_sakuragaike"},
+ ]
+ return (
+  '<section class="answer-first" id="photo-memories"><h2>写真でたどる、御前崎の記憶</h2>'
+  '<p>いま訪ねたい場所の昔の姿を、御前崎懐かし写真館の写真で見てみませんか。撮影時期や出典は写真ごとに確認できます。</p>'
+  + linklist(links) + '</section>'
+ )
 
 def sources(items):
  return '<section class="sources-panel"><h2>公式の確認先</h2><p class="source-note">内容確認：'+DATE+'。料金・受付・休業状況は、利用前に各公式窓口でご確認ください。</p><ul>'+''.join(f'<li><a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x.get("label",x.get("title","公式案内")))}</a> — {esc(x.get("publisher",""))}</li>' for x in items)+'</ul></section>'
@@ -44,7 +59,7 @@ def guide(g):
   body=''.join(f'<p>{esc(p)}</p>' for p in s.get('paragraphs',[]))
   items=s.get('items',s.get('bullets',[]))
   if items:body+='<ul>'+''.join(f'<li>{esc(p)}</li>' for p in items)+'</ul>'
-  if s.get('links'):body+=linklist([{'href':x.get('href',x.get('url')),'label':x.get('label',x.get('title'))} for x in s['links']])
+  if s.get('links'):body+=linklist([{'href':x.get('href',x.get('url')),'label':x.get('label',x.get('title')),'track':x.get('track')} for x in s['links']])
   sections.append(f'<section class="guide-section" id="{sid}"><h2>{esc(s["heading"])}</h2>{body}</section>')
  qs=g.get('questions',g.get('qa',[]));qa=''
  if qs:qa='<section><h2>よくある質問</h2><div class="filter-results">'+''.join(f'<details><summary>{esc(q["question"])}</summary><p class="answer">{esc(q["answer"])}</p></details>' for q in qs)+'</div></section>'
