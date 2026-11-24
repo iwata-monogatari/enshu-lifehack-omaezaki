@@ -4,6 +4,7 @@ import json,re,html,hashlib
 from urllib.parse import quote
 from pathlib import Path
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 ROOT=Path(__file__).resolve().parent.parent
 SITE='https://omaezaki.enshu-lifehack.com';DATE='2026-11-21'
 def read(name,default=None):
@@ -47,13 +48,14 @@ def album_note():
   + linklist(links) + '</section>'
  )
 
-def sources(items):
- return '<section class="sources-panel"><h2>公式の確認先</h2><p class="source-note">内容確認：'+DATE+'。料金・受付・休業状況は、利用前に各公式窓口でご確認ください。</p><ul>'+''.join(f'<li><a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x.get("label",x.get("title","公式案内")))}</a> — {esc(x.get("publisher",""))}</li>' for x in items)+'</ul></section>'
+def sources(items, checked=DATE):
+ return '<section class="sources-panel"><h2>公式の確認先</h2><p class="source-note">内容確認：'+esc(checked)+'。料金・受付・休業状況は、利用前に各公式窓口でご確認ください。</p><ul>'+''.join(f'<li><a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x.get("label",x.get("title","公式案内")))}</a> — {esc(x.get("publisher",""))}</li>' for x in items)+'</ul></section>'
 def photo(slug):
  credit=next(x for x in read('image-credits.json',[]) if x['slug']==slug)
  return f'<figure class="guide-photo"><img src="{credit["file"]}" alt="{esc(credit["title"].strip("【】"))}" width="1200" height="800" loading="lazy"><figcaption>写真：御前崎市「{esc(credit["title"])}」／<a href="{credit["source"]}">静岡県オープンデータ</a>／<a href="{credit["license_url"]}">CC BY 4.0</a>。縮小・形式変換。2018年公開の資料写真です。</figcaption></figure>'
 def guide(g):
  href=g['href'];sections=[];toc=[]
+ checked=g.get('checked', DATE)
  for i,s in enumerate(g['sections']):
   sid=f'section-{i+1}';toc.append(f'<a href="#{sid}">{esc(s["heading"])}</a>')
   body=''.join(f'<p>{esc(p)}</p>' for p in s.get('paragraphs',[]))
@@ -64,7 +66,7 @@ def guide(g):
  qs=g.get('questions',g.get('qa',[]));qa=''
  if qs:qa='<section><h2>よくある質問</h2><div class="filter-results">'+''.join(f'<details><summary>{esc(q["question"])}</summary><p class="answer">{esc(q["answer"])}</p></details>' for q in qs)+'</div></section>'
  related=[{'href':h,'label':TOPIC.get(h,{}).get('title',next((x['title'] for x in GUIDES if x['href']==h),'関連する案内'))} for h in g.get('related',[]) if h in TOPIC or any(x['href']==h for x in GUIDES)]
- body=(photo(g['image']) if g.get('image') else '')+f'<div class="guide-layout"><article>'+(''.join(sections))+qa+(f'<h2>次に確認すること</h2>{linklist(related)}' if related else '')+sources(g['sources'])+f'</article><aside class="guide-aside"><h2>このページで分かること</h2><nav>{"".join(toc)}</nav><p class="mini">確認：{DATE}</p></aside></div>'
+ body=(photo(g['image']) if g.get('image') else '')+f'<div class="guide-layout"><article>'+(''.join(sections))+qa+(f'<h2>次に確認すること</h2>{linklist(related)}' if related else '')+sources(g['sources'], checked)+f'</article><aside class="guide-aside"><h2>このページで分かること</h2><nav>{"".join(toc)}</nav><p class="mini">確認：{esc(checked)}</p></aside></div>'
  write(href,page(href,g['title'],g['lead'],body,g['category'],g.get('icon','📖')))
  manifest[-1]['synonyms']=g.get('keywords',[])+g.get('tags',[])+[s['heading'] for s in g['sections']]
 def checklist(c):
@@ -81,6 +83,26 @@ def browser(kind,title,lead,data,filename):
  write(href,page(href,title,lead,body,'施設検索' if kind=='places' else '質問検索','📍' if kind=='places' else '💬'))
 
 LEDGER=read('topics_master.json',[]);TOPIC={x['href']:x for x in LEDGER};GUIDES=read('enrichment-guides.json',[]);CHECKLISTS=read('checklists.json',[]);UPDATES=read('updates.json',[])
+def current_update(update, today):
+ return not update.get('end') or update['end'] >= today
+
+def expiry_attribute(update):
+ return f' data-update-end="{esc(update["end"])}"' if update.get('end') else ''
+
+EXPIRY_SCRIPT = '<script type="module" src="/assets/update-expiry.js"></script>'
+
+def update_html(update):
+ sources = ''.join(
+  f'<a href="{esc(source["url"])}" target="_blank" rel="noopener">{esc(source.get("label","公式案内"))}</a> '
+  for source in update.get('sources', [])
+ )
+ return (
+  f'<article class="update-card"{expiry_attribute(update)}>'
+  f'<p class="update-meta">{esc(update.get("date",DATE))}確認 ／ {esc(update.get("status","案内"))}</p>'
+  f'<h2><a href="{esc(update["href"])}">{esc(update["title"])}</a></h2>'
+  f'<p>{esc(update["summary"])}</p>{sources}</article>'
+ )
+
 def main():
  for g in GUIDES:guide(g)
  for c in CHECKLISTS:checklist(c)
@@ -118,9 +140,18 @@ def main():
  (ROOT/'data/questions-index.json').write_text(json.dumps(questions,ensure_ascii=False),encoding='utf-8')
  browser('questions','御前崎の暮らしを、質問から探す','制度名が分からなくても、疑問の言葉から回答へ。詳しい条件・手続き・公式窓口は各案内につながっています。',questions,'questions-index.json')
  places=read('places.json',[]);browser('places','御前崎の施設・公園・観光スポット','名称、地区、目的で場所を探せます。休館・利用制限のある施設も区別し、営業や予約の確認先へ案内します。',places,'places.json')
- def update_html(u):
-  return f'<article class="update-card"><p class="update-meta">{esc(u.get("date",DATE))}確認 ／ {esc(u.get("status","案内"))}</p><h2><a href="{esc(u["href"])}">{esc(u["title"])}</a></h2><p>{esc(u["summary"])}</p>'+(''.join(f'<a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s.get("label","公式案内"))}</a> ' for s in u.get('sources',[])))+'</article>'
- write('/updates/',page('/updates/','暮らし・お出かけの最新確認情報','申込期限、制度の変更、施設の休館などを、確認日とともに整理しています。開催日と申込締切は別々に確認してください。','<div class="update-list">'+''.join(update_html(u) for u in UPDATES)+'</div><p class="mini">掲載は確認時点の情報です。新しい発表は<a href="https://www.city.omaezaki.shizuoka.jp/">市公式の新着情報</a>と各施設の案内をご確認ください。</p>','更新情報','🗓️'))
+ today = datetime.now(timezone(timedelta(hours=9))).date().isoformat()
+ current_updates = [u for u in UPDATES if current_update(u, today)]
+ archived_updates = [u for u in UPDATES if not current_update(u, today)]
+ update_body = (
+  '<h2>受付中・開催予定・利用案内</h2>'
+  '<div class="update-list" id="current-updates">' + ''.join(map(update_html, current_updates)) + '</div>'
+  '<details id="past-updates" class="guide-section"><summary>終了した案内・過去の記録</summary>'
+  '<div class="update-list" id="past-update-list">' + ''.join(map(update_html, reversed(archived_updates))) + '</div></details>'
+  '<p class="mini">各項目に確認日を表示しています。受付・日程の変更は<a href="https://www.city.omaezaki.shizuoka.jp/news.html">市公式の新着情報</a>と各施設の案内をご確認ください。</p>'
+  + EXPIRY_SCRIPT
+ )
+ write('/updates/',page('/updates/','暮らし・お出かけの最新確認情報','申込期限、制度の変更、施設の休館などを、確認日とともに整理しています。開催日と申込締切は別々に確認してください。',update_body,'更新情報','🗓️'))
  tools='<div class="browse-grid">'+card('/questions/','質問検索','困りごとの言葉で回答を探す。','💬')+card('/places/','施設検索','名前、地区、目的から場所と確認先を探す。','📍')+card('/checklists/','手続きチェックリスト','進捗の保存と印刷。個人情報の入力は不要。','✅')+'</div>'
  write('/tools/',page('/tools/','暮らしを調べる便利ツール','検索とチェックリストで、必要な情報と次にすることを整理できます。',tools,'便利ツール','🧰'))
  about='<section class="guide-section"><h2>運営者</h2><p>御前崎ライフハックは、富士ヶ丘サービス株式会社（代表 大石浩之）が運営する非公式の情報案内サイトです。御前崎市の行政窓口ではありません。</p><p>運営会社の介護・住まいの相談案内は、制度の申請窓口と区別して表示しています。</p><h2>編集・更新の方針</h2><ul><li>市・県・国・施設運営者などの一次資料を優先し、出典と確認日を記載します。</li><li>制度の対象・料金・期限を、利用者が次の行動を選べる言葉に整理します。</li><li>古い公式ページと新しい案内が異なる場合は、相違点と確認先を示します。</li><li>確認日は、そのページで明示する確認範囲のものです。空き状況や個別の利用可否を保証するものではありません。</li><li>体験談や現地訪問を、実施記録なしに創作しません。写真の撮影・公開時期と現在の状況を区別します。</li></ul><h2>写真の出典</h2><p>地域写真は、御前崎市が静岡県オープンデータで公開した資料を、表示条件に従って縮小・形式変換して使用しています。</p>'+''.join(photo(x['slug']) for x in read('image-credits.json',[]))+'<h2>利用条件・訂正の連絡</h2>'+linklist([{'href':'/terms/','label':'利用条件・免責・お問い合わせの案内'},{'href':'https://www.fujigaoka-service.co.jp/','label':'運営会社：富士ヶ丘サービス'}])+'</section>'
@@ -134,7 +165,17 @@ def main():
  urgent='<section class="urgent-strip"><h2>急いでいるとき</h2><div class="urgent-links"><a href="tel:119">緊急時は119番</a><a href="/life/emergency/emergency-medical/">救急相談・夜間診療</a><a href="/life/emergency/evacuation-hazard-map/">避難所・ハザード</a><a href="/life/emergency/road-river-info/">道路・河川情報</a></div><p>命に関わるときは119番。避難の必要があるときは、情報を探すより安全確保を優先してください。</p></section>'
  search='<section class="site-search" aria-labelledby="search-title"><label id="search-title" for="site-search-input">調べたいことは何ですか？</label><form class="search-row" role="search" action="/" method="get" onsubmit="return iwataSiteSearch(event)"><input type="search" id="site-search-input" name="q" placeholder="例：オンモビ、子どもを預けたい、補聴器、灯台"><button type="submit">探す</button></form><p class="mini">暮らしの案内と地域ガイドを、同じ検索から探せます。</p><div id="search-results" class="search-results" aria-live="polite"></div></section>'
  feature='<div class="section-heading"><h2>目的から探す</h2></div><div class="browse-grid">'+card('/discover/','遊び・食・景色を楽しむ','灯台、海辺、公園、食と買物。行く前に知りたいことを整理。',image='dunes')+card('/guide/care-consultation-route/','親・実家のことを考える','離れて暮らす家族の相談、介護の申請、住まいを確認。','🏡')+card('/life/living-soon/want-to-live/','御前崎で暮らす','移住の支援、交通、子育て。家族の生活に合わせて確かめる。',image='tea-fields')+'</div>'
- latest='<div class="section-heading"><h2 id="current-info-title">いま確認したい情報</h2><a href="/updates/">確認した情報をすべて見る</a></div><p class="mini">'+DATE+'確認。申込期限・休館・利用条件を分けて掲載しています。</p><div class="browse-grid two">'+''.join(card(u['href'],u['title'],u['summary'],'🗓️',u.get('status','')) for u in UPDATES if u.get('home'))+'</div>'
+ home_updates = [u for u in current_updates if u.get('home')]
+ update_cards = ''.join(
+  card(u['href'],u['title'],u['summary'],'🗓️',u.get('status','')).replace(
+   '<a class="browse-card"', '<a class="browse-card"' + expiry_attribute(u), 1
+  )
+  for u in home_updates
+ )
+ latest = (
+  '<div class="section-heading"><h2 id="current-info-title">いま確認したい情報</h2><a href="/updates/">確認した情報をすべて見る</a></div>'
+  '<div class="browse-grid two" id="home-updates">' + update_cards + '</div>' + EXPIRY_SCRIPT
+ )
  guidecards='<div class="section-heading"><h2>詳しく知ってから動きたい</h2><a href="/guide/">暮らしガイド一覧</a></div><div class="browse-grid">'+''.join(card(g['href'],g['title'],g['lead'],g.get('icon','📖')) for g in GUIDES if g.get('home'))+'</div>'
  utilities='<div class="section-heading"><h2>答えと次の行動を探す</h2></div>'+tools
  closing='<section class="sources-panel"><h2>情報の見方</h2><p>各案内に出典と確認範囲を記載しています。新しい条件や空き状況は、掲載した公式窓口でご確認ください。</p><p><a href="/about/">運営者・編集方針・写真の出典</a> ／ <a href="https://www.city.omaezaki.shizuoka.jp/">御前崎市公式サイト</a></p></section>'

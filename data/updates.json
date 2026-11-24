@@ -1,17 +1,22 @@
 [
   {
     "title": "来年度の学童申込みは2026年11月30日まで",
-    "summary": "2027年度分は11月2〜30日受付。社会福祉協議会の指定窓口と必要書類を確認してください。",
+    "summary": "2027年度分の一斉受付は11月30日まで。市役所こども未来課では受け付けていません。社協が指定する窓口の受付曜日と必要書類を確認してください。",
     "href": "/life/education/after-school-club/",
     "status": "申込期限",
     "home": true,
-    "sources": [],
-    "date": "2026-11-21",
-    "end": null
+    "sources": [
+      {
+        "url": "https://www.omaezakishakyo.jp/houkago_r8/",
+        "label": "社会福祉協議会の申込案内"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2026-11-30"
   },
   {
     "title": "図書館アスパルは11月19〜26日、蔵書点検休館",
-    "summary": "来館・貸出・予約資料の受取りは休止。ブックポストではCD・DVDなどを返却できません。",
+    "summary": "11月26日まで、館内での閲覧・貸出・返却や予約資料の受け取りは休止。ブックポストではCD・DVDなどの視聴覚資料を除き返却できます。",
     "href": "/life/play-out/visit-library/",
     "status": "2026年の休館日",
     "home": true,
@@ -21,8 +26,54 @@
         "label": "図書館の休館案内"
       }
     ],
-    "date": "2026-11-21",
+    "date": "2026-11-24",
     "end": "2026-11-26"
+  },
+  {
+    "title": "年末年始のごみ収集・直接搬入を確認",
+    "summary": "集積所の回収日は地区別カレンダーへ。環境保全センターの直接搬入は12月29日〜1月3日休業です。",
+    "href": "/discover/seasons-and-events/#section-1",
+    "status": "年末年始",
+    "home": true,
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
+        "label": "御前崎市の地区別収集カレンダー"
+      },
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
+        "label": "御前崎市の直接搬入案内"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2027-01-03"
+  },
+  {
+    "title": "年末年始の図書館・プール・観光施設の休館",
+    "summary": "図書館アスパルとぷるるは12月28日〜1月4日。浜岡原子力館となぶら館は12月29日〜1月3日。",
+    "href": "/discover/seasons-and-events/#section-1",
+    "status": "年末年始",
+    "home": true,
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html",
+        "label": "図書館の休館日"
+      },
+      {
+        "url": "https://www.pururu.org/",
+        "label": "ぷるるの休館日"
+      },
+      {
+        "url": "https://www.chuden.co.jp/hamaoka-pr/userguide/",
+        "label": "浜岡原子力館の休館日"
+      },
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/watch_goaround/nabura.html",
+        "label": "なぶら館の休館日"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2027-01-04"
   },
   {
     "title": "2026御前崎市大産業まつり",
@@ -56,7 +107,7 @@
   },
   {
     "title": "2026〜2027年 御前崎クエ料理",
-    "summary": "2026-11-01〜2027-03-31。観光協会告知の取扱店8店。。 店舗ごと。各店へ要予約。 数量限定で早く終了する場合があります。",
+    "summary": "2027年3月31日までの期間限定。数量に限りがあるため、取扱店に事前予約し、提供状況を確認してください。",
     "href": "/discover/seasons-and-events/",
     "status": "開催日を確認",
     "home": false,
@@ -66,7 +117,7 @@
         "label": "主催者・自治体の案内"
       }
     ],
-    "date": "2026-11-21",
+    "date": "2026-11-24",
     "end": "2027-03-31"
   },
   {
@@ -101,9 +152,9 @@
   },
   {
     "title": "ユウユウシアター 秋・冬の上映",
-    "summary": "2026-10-01〜2026-12-28。浜岡原子力館。11月：キャンドルマン13:30／しまじろう10:30・15:00。12月：キャンドルマン10:30・15:00／しまじろう13:30。。先着150名。インフォメーション横の発券機で入場整理券が必要。",
+    "summary": "12月28日まで。11月はキャンドルマン13時30分、しまじろう10時30分・15時。12月は時刻が入れ替わります。休館日を除き、先着150名で整理券が必要です。",
     "href": "/discover/seasons-and-events/",
-    "status": "開催日を確認",
+    "status": "上映予定",
     "home": false,
     "sources": [
       {
@@ -111,12 +162,12 @@
         "label": "主催者・自治体の案内"
       }
     ],
-    "date": "2026-11-21",
+    "date": "2026-11-24",
     "end": "2026-12-28"
   },
   {
     "title": "おもいふかき遠州 ぐるっと！スタンプラリー2026",
-    "summary": "2026-09-14〜2027-01-31。御前崎市の対象は道の駅・あらさわふる里公園・なぶら市場。ほか遠州6市町の対象施設。。。静岡県公式観光アプリTIPSでQRまたはGPSによりスタンプを取得。",
+    "summary": "2027年1月31日まで。御前崎市内の対象は道の駅・あらさわふる里公園・なぶら市場。対象施設と参加方法は公式案内を確認してください。",
     "href": "/discover/seasons-and-events/",
     "status": "開催日を確認",
     "home": false,
@@ -139,28 +190,43 @@
     "href": "/guide/nuclear-disaster-preparation/",
     "status": "2026年度の配布期限",
     "home": true,
-    "sources": [],
-    "date": "2026-11-21",
-    "end": null
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikikanri/bosai/genshiryokubosai/11544.html",
+        "label": "御前崎市の配布案内"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2026-12-28"
   },
   {
     "title": "オンモビは市内全域で運行",
-    "summary": "2026年10月1日から市内全域へ。運賃、無料予約電話、11月からのPayPay対応を確認できます。",
+    "summary": "市内全域で運行。12月29日〜1月3日は土日祝の運行時間（7〜20時）です。実際に乗れる時刻は予約時に確認してください。PayPayは11月1日から対応。",
     "href": "/life/start-living/public-transit/",
     "status": "交通",
     "home": false,
-    "sources": [],
-    "date": "2026-11-21",
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
+        "label": "御前崎市の運行案内"
+      }
+    ],
+    "date": "2026-11-24",
     "end": null
   },
   {
-    "title": "水道のWEB受付はメンテナンスの案内あり",
-    "summary": "市の開始・中止ページは期間中の電話申込みを案内。希望日の3営業日前までに、現在の受付方法をご確認ください。",
+    "title": "水道の開始・中止はWEB停止中のため電話へ",
+    "summary": "市はメンテナンス中の申込みを電話で案内しています。開栓・閉栓を希望する日の3営業日前までに、0120-005-335へ。",
     "href": "/guide/water-moving/",
     "status": "受付方法",
     "home": false,
-    "sources": [],
-    "date": "2026-11-21",
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/jogesuido/suidojigyo/3/2772.html",
+        "label": "御前崎市の開栓・閉栓案内"
+      }
+    ],
+    "date": "2026-11-24",
     "end": null
   },
   {
@@ -175,12 +241,17 @@
   },
   {
     "title": "2027年度の保育園入園は随時申込みを確認",
-    "summary": "一斉受付は終了しています。随時申込みの締切と空き状況を窓口へ確認してください。",
+    "summary": "一斉受付は終了。随時申込みは入園希望月ごとに締切が異なり、定員に達している場合があります。市の申込案内を確認してください。",
     "href": "/life/family-grow/nursery-school/",
     "status": "入園申込み",
     "home": false,
-    "sources": [],
-    "date": "2026-11-21",
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kosodate_kyoiku/hoikuen_yochien/hoikuen/nyusho.html",
+        "label": "御前崎市の保育園入所案内"
+      }
+    ],
+    "date": "2026-11-24",
     "end": null
   },
   {
@@ -199,9 +270,14 @@
     "href": "/life/living-soon/want-to-live/",
     "status": "申請期限",
     "home": false,
-    "sources": [],
-    "date": "2026-11-21",
-    "end": null
+    "sources": [
+      {
+        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/sumaitochi/sumai/ijushugyou.html",
+        "label": "御前崎市の補助金案内"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2027-01-29"
   },
   {
     "title": "2026年度の国民健康保険税",
@@ -232,5 +308,20 @@
     "sources": [],
     "date": "2026-11-21",
     "end": null
+  },
+  {
+    "title": "1月15日 ヤングケアラーを知る講演会",
+    "summary": "2027年1月15日14時30分〜16時、御前崎市役所本庁3階。後日配信も申込み制です。会場参加・配信視聴の申込方法は市社会福祉協議会の案内へ。",
+    "href": "https://www.omaezakishakyo.jp/youngcare_kouen_r8/",
+    "status": "講演会",
+    "home": false,
+    "sources": [
+      {
+        "url": "https://www.omaezakishakyo.jp/youngcare_kouen_r8/",
+        "label": "社会福祉協議会の開催・申込案内"
+      }
+    ],
+    "date": "2026-11-24",
+    "end": "2027-01-15"
   }
 ]

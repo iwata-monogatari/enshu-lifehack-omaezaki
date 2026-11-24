@@ -560,7 +560,7 @@
         "heading": "申込方法を確認する",
         "items": [
           "窓口、FAXの方法が案内されています。FAXの場合は届出書送信後、当日中にお客さまセンターへ電話して内容確認を受けます。",
-          "2026年11月21日に取得した開始・中止ページには、WEBシステムのメンテナンス中は電話で申込みをするよう案内があります。一方で旧FAQには電話・インターネット不可という記載が残るため、現在使える方法をセンターへ確認します。",
+          "市の開始・中止の案内では、WEB開閉栓システムはメンテナンス中です。現在の申込み先は水道料金お客さまセンター（0120-005-335）。開栓・閉栓したい日の3営業日前までに連絡してください。",
           "口座振替を希望する場合は、銀行印と通帳等の口座情報を用意します。"
         ]
       },
@@ -584,12 +584,10 @@
     ],
     "sources": [
       {
-        "label": "水道開始・中止",
-        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/jogesuido/jogesuido/suidojigyo/tetsuduki/kaishi.html",
+        "label": "水道使用開始・中止の最新案内",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kurashi/kurashi_tetsuduki/jogesuido/suidojigyo/3/2772.html",
         "publisher": "御前崎市公式",
-        "verified_date": "2026-11-21",
-        "retrieval": "先行作業の同日取得資料を引継ぎ",
-        "evidence_title": "水道使用開始・中止（開栓・閉栓）について／御前崎市公式ホームページ"
+        "verified_date": "2026-11-24"
       },
       {
         "label": "開閉栓FAQ（申込方法に旧記載あり）",
@@ -621,7 +619,8 @@
       "WEB受付",
       "電話申込",
       "引越し"
-    ]
+    ],
+    "checked": "2026-11-24"
   },
   {
     "slug": "vacant-home-support",
@@ -1579,20 +1578,20 @@
       {
         "heading": "展示を見るなら浜岡原子力館",
         "paragraphs": [
-          "浜岡原子力館は発電・エネルギーの展示や映像を見る施設です。9時〜17時、入館と映像観覧は無料。第3月曜（祝日等の場合翌日）と年末年始は休館し、8月は休館日がありません。臨時休館や上映予定は運営者公式で確認してください。"
+          "浜岡原子力館は発電・エネルギーの展示や映像を見る施設です。9時〜17時、入館と映像観覧は無料。第3月曜（祝日等の場合翌日）と年末年始（12月29日〜1月3日）は休館し、8月は休館日がありません。臨時休館や上映予定は運営者公式で確認してください。"
         ],
         "bullets": [],
         "links": [
           {
-            "label": "浜岡原子力館公式",
-            "url": "https://www.chuden.co.jp/hamaoka-pr/"
+            "url": "https://www.chuden.co.jp/hamaoka-pr/userguide/",
+            "label": "浜岡原子力館の利用案内"
           }
         ]
       },
       {
         "heading": "体を動かすならぷるる",
         "paragraphs": [
-          "すいすいパークぷるるは温水プールなどを使う候補です。通常は9〜6月が10時〜21時、7〜8月が9時30分〜21時。月曜、年末年始、点検休館があります。水着・水泳帽や子どもの付き添い等の条件を利用前に施設へ確認しましょう。"
+          "すいすいパークぷるるは温水プールなどを使う候補です。通常は9〜6月が10時〜21時、7〜8月が9時30分〜21時。月曜、年末年始（12月28日〜1月4日）、点検休館があります。水着・水泳帽や子どもの付き添い等の条件を利用前に施設へ確認しましょう。"
         ],
         "bullets": [],
         "links": [
@@ -1605,7 +1604,7 @@
       {
         "heading": "休館中・一部閉鎖も確認する",
         "paragraphs": [
-          "清川泰次芸術館は2022年4月1日から休館中です。なぶら館の4階展望室も閉鎖中のため、展望を目的に予定へ入れないようにしてください。観光案内、買い物、食事は施設ごとの開館日と店の営業時間を確認して組み合わせます。"
+          "清川泰次芸術館は2022年4月1日から休館中です。なぶら館の4階展望室も閉鎖中のため、展望を目的に予定へ入れないようにしてください。観光案内、買い物、食事は施設ごとの開館日と店の営業時間を確認して組み合わせます。 なぶら館の年末年始休館は12月29日〜1月3日です。"
         ],
         "bullets": [],
         "links": [
@@ -1614,8 +1613,8 @@
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/kiyokawa.html"
           },
           {
-            "label": "なぶら館",
-            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/naburakan.html"
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/watch_goaround/nabura.html",
+            "label": "なぶら館の開館時間・休館日"
           }
         ]
       }
@@ -1637,9 +1636,9 @@
         "checked": "2026-11-21"
       },
       {
-        "label": "御前崎市観光物産会館「なぶら館」／御前崎市公式ホームページ",
-        "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/kankospot/naburakan.html",
-        "checked": "2026-11-21"
+        "label": "観光物産会館なぶら館の開館・休館案内",
+        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/watch_goaround/nabura.html",
+        "checked": "2026-11-24"
       }
     ],
     "tags": [
@@ -1647,7 +1646,7 @@
       "雨の日",
       "子ども"
     ],
-    "checked": "2026-11-21",
+    "checked": "2026-11-24",
     "href": "/discover/rainy-day/",
     "lead": "屋内施設の開館日を比較し、海辺の予定を組み替えます。",
     "category": "御前崎を知る",
@@ -1794,32 +1793,61 @@
     "title": "御前崎の季節とイベントを確認する",
     "sections": [
       {
-        "heading": "直近の日付が確認できた案内",
+        "heading": "年末年始のごみ・休館・交通",
         "paragraphs": [
-          "2026年11月21〜22日は御前崎市大産業まつり。会場は市役所周辺で、21日は9時30分〜15時30分、22日は9時30分〜15時。11月23日にはなぶら館でSOLAのスポーツリズム体験が案内されています。開催日と予約締切は別の情報なので、参加受付が残っているかは主催者へ確認してください。"
+          "家庭ごみの収集日は地区別のカレンダーを確認してください。環境保全センターへの直接搬入は12月29日〜1月3日が休業です。"
         ],
-        "bullets": [],
+        "bullets": [
+          "図書館アスパル・すいすいパークぷるるは12月28日〜1月4日休館。",
+          "浜岡原子力館・観光物産会館なぶら館は12月29日〜1月3日休館。なぶら館と海鮮なぶら市場は別施設です。",
+          "オンモビは12月29日〜1月3日も土日祝の運行時間（7〜20時）。表示時刻は車両の営業所等の発着時刻です。希望の乗車時刻は予約時に確認してください。"
+        ],
         "links": [
           {
-            "label": "市産業まつり",
-            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/10208.html"
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/9598.html",
+            "label": "地区別ごみ収集カレンダー"
           },
           {
-            "label": "11月23日のリズム体験",
-            "url": "https://www.omaezaki.gr.jp/news/detail.html?t=172"
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shimin/gomi/bunbetsu/chokusetsu.html",
+            "label": "ごみ直接搬入の受付日"
+          },
+          {
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shakaikyoiku/bunka/bunkashisetsu/tosyokan.html",
+            "label": "図書館アスパル"
+          },
+          {
+            "url": "https://www.pururu.org/",
+            "label": "すいすいパークぷるる"
+          },
+          {
+            "url": "https://www.chuden.co.jp/hamaoka-pr/userguide/",
+            "label": "浜岡原子力館"
+          },
+          {
+            "url": "https://www.city.omaezaki.shizuoka.jp/kanko/watch_goaround/nabura.html",
+            "label": "観光物産会館なぶら館"
+          },
+          {
+            "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/kikakuseisaku/koutsu/koukyoukoutuu/10619.html",
+            "label": "オンモビの運行・予約案内"
           }
         ]
       },
       {
         "heading": "11月末・12月にも利用できる案内",
         "paragraphs": [
-          "浜岡原子力館は11月30日までクイズラリーとどんぐりコマづくりを案内。ユウユウシアターは12月28日まで秋・冬の作品を上映予定で、月ごとに上映時刻が替わります。無料ですが先着150名で入場整理券が必要です。広域のスタンプラリーは2027年1月31日まで。御前崎市内では道の駅、あらさわふる里公園、なぶら市場が対象です。"
+          "浜岡原子力館の11月ミニイベントは11月30日までの案内です。ユウユウシアターは12月28日まで。12月はキャンドルマンが10時30分と15時、しまじろうが13時30分です。上映は休館日を除き、各回先着150名。入場整理券が必要です。",
+          "広域スタンプラリーは2027年1月31日まで。市内の対象は道の駅、あらさわふる里公園、海鮮なぶら市場です。"
         ],
         "bullets": [
-          "上映は休館日を除く。",
-          "スタンプ取得の期間と景品応募条件はアプリの案内で確認。"
+          "イベントや上映は出発前に施設公式の最新情報を確認してください。",
+          "スタンプの取得方法と景品応募条件は公式案内で確認してください。"
         ],
         "links": [
+          {
+            "url": "https://www.chuden.co.jp/hamaoka-pr/event/",
+            "label": "浜岡原子力館のイベント情報"
+          },
           {
             "label": "上映作品・月別時刻",
             "url": "https://www.chuden.co.jp/hamaoka-pr/theater/"
@@ -1827,6 +1855,18 @@
           {
             "label": "広域スタンプラリー",
             "url": "https://www.city.omaezaki.shizuoka.jp/soshiki/shokokanko/event/11537.html"
+          }
+        ]
+      },
+      {
+        "heading": "2027年1月の講演会",
+        "paragraphs": [
+          "御前崎市社会福祉協議会は、1月15日14時30分〜16時にヤングケアラーに関する講演会を開催すると案内しています。会場は市役所本庁3階302会議室。後日配信の視聴も申し込めます。"
+        ],
+        "links": [
+          {
+            "url": "https://www.omaezakishakyo.jp/youngcare_kouen_r8/",
+            "label": "講演会の案内と申込み"
           }
         ]
       },
@@ -1870,16 +1910,6 @@
       }
     ],
     "sources": [
-      {
-        "label": "11月21日、22日　第20回御前崎市大産業まつり／御前崎市公式ホームページ",
-        "url": "https://www.city.omaezaki.shizuoka.jp/kanko/event_topics/10208.html",
-        "checked": "2026-11-21"
-      },
-      {
-        "label": "スポーツリズムトレーニング体験会実施｜お知らせ｜いいね！御前崎「御前崎観光ガイド」御前崎市観光協会",
-        "url": "https://www.omaezaki.gr.jp/news/detail.html?t=172",
-        "checked": "2026-11-21"
-      },
       {
         "label": "幻の魚「御前崎クエ」提供中！｜お知らせ｜いいね！御前崎「御前崎観光ガイド」御前崎市観光協会",
         "url": "https://www.omaezaki.gr.jp/news/detail.html?t=36",
@@ -1935,7 +1965,7 @@
       "季節",
       "イベント"
     ],
-    "checked": "2026-11-21",
+    "checked": "2026-11-24",
     "href": "/discover/seasons-and-events/",
     "lead": "今季の日付が出た案内と、例年の見どころを分けて探します。",
     "category": "御前崎を知る",
