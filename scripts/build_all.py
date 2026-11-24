@@ -8,6 +8,7 @@ for args in [
  [sys.executable,'-X','utf8','scripts/sync_readability.py'],
  [sys.executable,'-X','utf8','scripts/build_enrichment.py'],
  [sys.executable,'-X','utf8','scripts/inject_parts.py'],
+ [sys.executable,'-X','utf8','scripts/inject_photo_archive.py'],
  ['node','scripts/build-search-index.mjs'],
  [sys.executable,'-X','utf8','scripts/build_sitemap.py'],
 ]:

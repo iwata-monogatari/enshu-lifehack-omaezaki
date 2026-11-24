@@ -8,8 +8,15 @@ async function initializeSearch(root) {
   try { const response=await fetch(root.dataset.source); if(!response.ok)throw Error(response.status);data=await response.json(); }
   catch {count.textContent='検索データを読み込めませんでした。下の分野別リンクからお探しください。';more.hidden=true;return;}
   const kind=root.dataset.browser;
+  const archivePhotos = document.getElementById('place-photo-archive');
+  const placePhotos = archivePhotos ? JSON.parse(archivePhotos.textContent) : {};
+  const archiveTemplate = item => {
+    const links = placePhotos[item.id];
+    if (!links?.length) return '';
+    return `<details class="place-archive"><summary>この場所の資料写真（${links.length}件）</summary><ul class="link-list">${links.map(link => `<li><a href="${escapeHtml(link.href)}" data-track-click="photo_album_context">${escapeHtml(link.label)}</a></li>`).join('')}</ul></details>`;
+  };
   const questionTemplate = item => `<details><summary>${escapeHtml(item.question)}</summary><div class="result-context">${escapeHtml(item.category)} ／ ${escapeHtml(item.topic)}</div><div class="answer">${item.answer}</div><p class="mini">${escapeHtml(item.dateLabel || '')}</p><a href="${escapeHtml(item.href)}">手続きの流れ・公式の確認先を見る</a></details>`;
-  const placeTemplate = item => `<article class="place-card"><span class="pill">${escapeHtml(item.category)}</span><h2>${escapeHtml(item.name)}</h2><p class="place-meta">${escapeHtml(item.area || '')}</p><p>${escapeHtml(item.summary)}</p>${item.notice?`<p class="place-notice">${escapeHtml(item.notice)}</p>`:''}<dl>${[['所在地',item.address],['連絡先',item.tel],['利用案内',item.hours],['料金等',item.fee]].filter(x=>x[1]).map(([k,v])=>`<dt>${k}</dt><dd>${escapeHtml(v)}</dd>`).join('')}</dl>${(item.sources || []).map(s=>`<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.label || '公式の施設案内')}（別タブ）</a>`).join('<br>')}<p class="mini">${escapeHtml(item.verificationLabel || "")} 確認：${escapeHtml(item.checked || '2026-11-21')}。休業・開催状況は出発前に公式案内でご確認ください。</p></article>`;
+  const placeTemplate = item => `<article class="place-card"><span class="pill">${escapeHtml(item.category)}</span><h2>${escapeHtml(item.name)}</h2><p class="place-meta">${escapeHtml(item.area || '')}</p><p>${escapeHtml(item.summary)}</p>${item.notice?`<p class="place-notice">${escapeHtml(item.notice)}</p>`:''}<dl>${[['所在地',item.address],['連絡先',item.tel],['利用案内',item.hours],['料金等',item.fee]].filter(x=>x[1]).map(([k,v])=>`<dt>${k}</dt><dd>${escapeHtml(v)}</dd>`).join('')}</dl>${(item.sources || []).map(s=>`<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.label || '公式の施設案内')}（別タブ）</a>`).join('<br>')}<p class="mini">${escapeHtml(item.verificationLabel || "")} 確認：${escapeHtml(item.checked || '2026-11-21')}。休業・開催状況は出発前に公式案内でご確認ください。</p>${archiveTemplate(item)}</article>`;
   function render(reset=true) {
     if(reset)limit=20;
     const words=normalize(input.value).split(' ').filter(Boolean),selected=category.value;
