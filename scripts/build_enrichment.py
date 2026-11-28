@@ -191,7 +191,7 @@ def main():
  guidecards='<div class="section-heading"><h2>詳しく知ってから動きたい</h2><a href="/guide/">暮らしガイド一覧</a></div><div class="browse-grid">'+''.join(card(g['href'],g['title'],g['lead'],g.get('icon','📖')) for g in GUIDES if g.get('home'))+'</div>'
  utilities='<div class="section-heading"><h2>答えと次の行動を探す</h2></div>'+tools
  closing='<section class="sources-panel"><h2>情報の見方</h2><p>各案内に出典と確認範囲を記載しています。新しい条件や空き状況は、掲載した公式窓口でご確認ください。</p><p><a href="/about/">運営者・編集方針・写真の出典</a> ／ <a href="https://www.city.omaezaki.shizuoka.jp/">御前崎市公式サイト</a></p></section>'
- homebody=hero+urgent+search+feature+album_note()+latest+guidecards+utilities+categories.group(0)+closing+community
+ homebody=hero+urgent+search+feature+album_note()+'<section id="weekend-events" class="guide-section" data-weekend-events="omaezaki" aria-labelledby="weekend-events-title"><h2 id="weekend-events-title">今週末のイベント</h2><p data-weekend-status role="status">公式情報を確認しています。</p><noscript><p>最新の開催情報は下の一覧で確認できます。</p></noscript><ul data-weekend-list></ul><p><a href="https://enshu-lifehack.com/weekend-events/#omaezaki">御前崎の今週末のイベント一覧</a></p></section><script defer src="https://enshu-lifehack.com/weekend-events.js"></script>'+latest+guidecards+utilities+categories.group(0)+closing+community
  write('/',page('/','御前崎の暮らし・手続き・お出かけガイド','御前崎の手続き、子育て、介護、防災から海辺・食・観光まで。公式情報を整理し、検索とチェックリストで次の行動を案内します。',homebody,home=True))
  (ROOT/'data/enrichment-pages.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps({'extra_pages':len(manifest),'guides':len(GUIDES),'questions':len(questions),'places':len(places),'checklists':len(CHECKLISTS)},ensure_ascii=False))
